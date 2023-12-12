@@ -1,0 +1,676 @@
+"n","id","artist_name","name","duration_ms","album_name","track_number","release_date","total_tracks","danceability","energy","key","loudness","mode","speechiness","acousticness","instrumentalness","liveness","valence","tempo","time_signature"
+0,"6x1AniEcucbuK0eapGtTkS","Creedence Clearwater Revival","Suzie Q",517159,"Creedence Clearwater Revival (40th Anniversary Edition)",3,"1968-07-05",12,0.438,0.597,9,-11.309,0,0.0325,0.0553,0.00248,0.162,0.718,131.855,4
+1,"58qEQujDJy5ma0cWRnB6dh","Bob Marley & The Wailers","Is This Love",231546,"Kaya - Deluxe Edition",3,"1978-03-23",24,0.766,0.529,6,-10.306,0,0.121,0.00884,0,0.0552,0.865,122.456,4
+2,"5J2CHimS7dWYMImCHkEFaJ","The Beatles","A Hard Day's Night - Remastered 2009",154200,"A Hard Day's Night (Remastered)",1,"1964-07-10",13,0.59,0.805,0,-6.481,1,0.0371,0.137,0,0.0996,0.797,138.514,4
+3,"3aoDEt6zSuYQ47gzarlaVo","Pink Floyd","Money - 2011 Remastered Version",382834,"The Dark Side Of The Moon (2011 Remastered Version)",6,"1973-03-16",20,0.469,0.537,9,-10.421,1,0.152,0.0241,0.00201,0.269,0.783,124.193,1
+4,"0wJoRiX5K5BxlqZTolB2LD","Jimi Hendrix","Purple Haze",170813,"Are You Experienced",1,"1967-05-12",17,0.533,0.905,2,-5.27,1,0.0754,0.00876,0.578,0.0698,0.486,108.9,4
+5,"5lQKRR3MdJLtAwNBiT8Cq0","Eagles","Lyin' Eyes - 2013 Remaster",381998,"One of These Nights (2013 Remaster)",5,"1975",9,0.669,0.673,7,-9.754,1,0.0248,0.203,0.0271,0.164,0.867,132.68,4
+6,"5MMnwYs0hIxkENRsbkWJ2G","Deep Purple","Smoke On The Water - Remastered 2012",340742,"Machine Head (Remastered)",5,"1972-03-25",8,0.598,0.676,0,-9.211,1,0.0279,0.13,0.225,0.112,0.805,114.169,4
+7,"24NwBd5vZ2CK8VOQVnqdxr","Aerosmith","Sweet Emotion",274133,"Toys In The Attic",6,"1975-04-08",9,0.38,0.76,9,-10.961,1,0.0378,0.00298,0.0294,0.104,0.491,99.437,4
+8,"5oI1A8G8jH5rxt35dPiHIB","Blue Öyster Cult","(Don't Fear) The Reaper",308440,"Agents Of Fortune",3,"1976",14,0.368,0.928,9,-8.369,0,0.0593,0.00125,0.00111,0.301,0.532,141.175,4
+9,"3LTMnFa0hhwisyq6ILahyj","Dire Straits","Sultans Of Swing",348624,"Dire Straits (Remastered)",6,"1978-10-07",9,0.731,0.797,5,-9.992,1,0.0309,0.0771,0.0248,0.334,0.933,148.192,4
+10,"51LY0VVo4mu1Q8HpkAldQZ","Fleetwood Mac","Dreams",257800,"Rumours (Super Deluxe)",2,"1977-02-04",58,0.829,0.487,0,-9.751,1,0.0278,0.0671,0.00263,0.127,0.776,120.173,4
+11,"2zYzyRzz6pRmhPzyfMEC8s","AC/DC","Highway to Hell",208400,"Highway to Hell",1,"1979-07-27",10,0.574,0.913,6,-4.793,0,0.133,0.061,0.00158,0.156,0.423,115.728,4
+12,"70YvYr2hGlS01bKRIho1HM","ZZ Top","La Grange - 2005 Remaster",230480,"Tres Hombres (Expanded 2006 Remaster)",8,"1973-07-26",13,0.545,0.64,4,-9.937,0,0.224,0.00249,0.0304,0.196,0.606,80.544,4
+13,"5ERnPWGQc5QK7M7HW3rjC6","Black Sabbath","Paranoid",168440,"Paranoid (Remastered)",2,"1970-09-18",8,0.425,0.622,4,-11.503,0,0.0744,8.89e-05,0.00164,0.17,0.376,162.474,4
+14,"6Gi8vIT6In8RrT2eTKxoVR","The Rolling Stones","Brown Sugar",228666,"Sticky Fingers (Remastered)",1,"1971-04-23",10,0.633,0.934,0,-3.594,1,0.0344,0.219,0.00021,0.0592,0.963,128.606,4
+15,"3TfJFglXfKlh0UIh813ilq","Simon & Garfunkel","Mrs. Robinson",242600,"Bookends",10,"1968-04-03",14,0.61,0.466,6,-13.331,0,0.0426,0.772,1.33e-05,0.0932,0.836,91.965,4
+16,"4TFnAk8ZI9j6eJk5ahSyR5","Madness","One Step Beyond",138640,"One Step Beyond (35th Anniversary)",1,"1979-10-19",29,0.49,0.884,0,-7.223,0,0.0449,0.00225,0.0152,0.282,0.817,154.883,4
+17,"35fC3Wq3slX4OBfyvBVmHm","Santana","Samba Pa Ti",284800,"Abraxas",7,"1970-09-23",9,0.407,0.358,9,-12.908,0,0.0343,0.829,0.424,0.0827,0.267,92.292,4
+18,"2WbfcArcwBvsbnikIQdBN9","Led Zeppelin","Dazed and Confused - Remaster",388667,"Led Zeppelin (Deluxe Edition)",4,"1969-01-12",17,0.24,0.546,2,-10.026,1,0.0548,0.0898,0.00648,0.0898,0.429,181.373,4
+19,"2OluDx9K9BUT7I38AtYjND","The Doors","Break on Through (To the Other Side) - 2017 Remaster",149400,"The Doors (50th Anniversary Deluxe Edition)",1,"2017-03-31",30,0.302,0.688,2,-12.537,1,0.0503,0.149,0,0.101,0.81,183.763,4
+20,"0Nn3zTnQW0vpWedAMlImui","Bee Gees","You Should Be Dancing - 2007 Remastered Version Saturday Night Fever",257480,"Saturday Night Fever [The Original Movie Soundtrack]",13,"1978-01-05",17,0.703,0.857,0,-6.433,1,0.03,0.0248,0.491,0.645,0.963,122.928,4
+21,"6ULwhgWVBtR6wcv4zaXkHv","Thin Lizzy","Jailbreak",240600,"Jailbreak (Deluxe Edition)",1,"1976",20,0.613,0.769,3,-9.133,1,0.119,0.184,0.000614,0.473,0.707,145.108,4
+22,"26mDHU83VNkobcI4BadliK","Hot Chocolate","You Sexy Thing - Single Version",242906,"Their Greatest Hits",1,"1993",19,0.788,0.728,5,-5.912,1,0.0571,0.533,0.00165,0.218,0.963,105.881,4
+23,"6pyex9B1kBoRIuabBAc4m8","Elvis Presley","Jailhouse Rock",155333,"Elvis 30 #1 Hits",8,"2002-09-24",31,0.635,0.672,10,-6.788,0,0.0637,0.314,5.03e-06,0.0688,0.895,166.903,4
+24,"4sUlsy0tPv9n5nqrqeA0lE","Heart","Magic Man",328360,"Dreamboat Annie",1,"1975",10,0.435,0.444,7,-12.816,0,0.0336,0.159,0.000705,0.457,0.734,103.818,4
+25,"2ACjOtICHXrAlP3ijVMSvb","The Righteous Brothers","Unchained Melody",215853,"Rock N' Roll Legends",2,"2008-01-01",20,0.349,0.326,0,-10.749,1,0.0286,0.512,0.00144,0.665,0.297,98.888,3
+26,"6vJOIceKD99L4Z2jyOE1m7","Neil Sedaka","Oh! Carol",136040,"The Very Best Of Neil Sedaka",3,"2001-08-06",14,0.588,0.736,8,-7.76,0,0.0461,0.764,0,0.351,0.83,132.732,4
+27,"40fD7ct05FvQHLdQTgJelG","Bobby Darin","Splish Splash",131719,"Bobby Darin",1,"1958",12,0.645,0.943,0,-1.526,1,0.0393,0.385,0,0.37,0.965,147.768,4
+28,"4alHo6RGd0D3OUbTPExTHN","The Cars","Just What I Needed",225626,"The Cars",3,"1978-06-06",9,0.619,0.579,4,-9.307,1,0.0473,0.0152,6.4e-05,0.0858,0.69,127.224,4
+29,"7s25THrKz86DM225dOYwnr","Aretha Franklin","Respect",147600,"I Never Loved a Man the Way I Love You",1,"1967-03-10",14,0.805,0.558,0,-5.226,1,0.041,0.164,2.2e-05,0.0546,0.965,114.95,4
+30,"3AhXZa8sUQht0UEdBJgpGc","Bob Dylan","Like a Rolling Stone",369600,"Highway 61 Revisited",1,"1965-08-30",9,0.482,0.721,0,-6.839,1,0.0321,0.731,0,0.189,0.557,95.263,4
+31,"2q2XL8HxichNMAk1fBwTHI","The Chordettes","Lollipop",132306,"Mr Sandman",1,"2011-02-28",16,0.661,0.498,7,-10.297,0,0.157,0.722,0.00229,0.138,0.85,143.126,4
+32,"28gb7qJxTfaBktQKwqZ5Fw","Dick Dale","Let's Go Trippin'",131080,"Surfer's Choice",12,"1962",12,0.651,0.877,4,-4.307,1,0.0354,0.485,0.848,0.321,0.984,147.916,4
+33,"5j7T9ThNlDKXxTMX2pGcns","ABBA","Chiquitita",328000,"Voulez-Vous",8,"1979",13,0.51,0.558,9,-8.121,1,0.0351,0.73,3.93e-06,0.29,0.342,84.238,4
+34,"38xVeIx8v0YZAvCX2r57yT","KISS","Detroit Rock City",318200,"Destroyer (Remastered Version)",1,"1976-03-15",10,0.466,0.922,0,-7.847,0,0.157,0.0871,0.000838,0.69,0.201,91.122,4
+35,"5t9KYe0Fhd5cW6UYT4qP8f","The Beach Boys","Good Vibrations - Remastered 2001",219026,"Smiley Smile (Remastered)",6,"1967-09-18",11,0.396,0.473,10,-7.67,0,0.0345,0.326,0.000124,0.109,0.385,133.449,4
+36,"5pEdaQSuxgifkk9syZvA6k","Rainbow","Man On The Silver Mountain",277226,"Ritchie Blackmore's Rainbow (Remastered)",1,"1975-01-01",9,0.594,0.77,7,-8.267,0,0.032,0.276,0.0176,0.0575,0.827,107.484,4
+37,"3VbGCXWRiouAq8VyMYN2MI","The Beatles","Love Me Do - Remastered 2009",141693,"Please Please Me (Remastered)",8,"1963-03-22",14,0.52,0.829,0,-6.228,1,0.0806,0.386,6.2e-05,0.227,0.744,147.997,4
+38,"46eu3SBuFCXWsPT39Yg3tJ","Michael Jackson","Don't Stop 'Til You Get Enough",365466,"Off the Wall",1,"1979-08-10",10,0.878,0.821,11,-9.875,1,0.089,0.126,0.0461,0.183,0.947,118.881,4
+39,"6cuKJ1bFFy4OjfkCI9YBqc","10cc","I'm Not In Love",366640,"The Original Soundtrack",2,"1975",10,0.404,0.523,4,-15.7,1,0.0575,0.685,0.000498,0.282,0.164,133.738,4
+40,"7x02qmf2UVRUfqhlB12yOr","Gary Glitter","Rock & Roll Part 2",193253,"Glitter",12,"1973-01-01",17,0.71,0.314,11,-10.666,0,0.082,0.000292,0.785,0.0857,0.401,129.124,4
+41,"4vpeKl0vMGdAXpZiQB2Dtd","Jefferson Airplane","White Rabbit",150640,"Surrealistic Pillow",10,"1967",17,0.551,0.293,2,-12.503,1,0.0272,0.486,0.000273,0.0864,0.322,106.798,4
+42,"0iA3xXSkSCiJywKyo1UKjQ","The Kingsmen","Louie Louie",165381,"The Best of The Kingsmen",1,"2006-01-31",26,0.623,0.709,1,-9.818,0,0.0636,0.102,0,0.0967,0.948,122.394,4
+43,"4z7maGZkAonDlXlwo8q69f","Rod Stewart","Da Ya Think I'm Sexy?",331333,"Blondes Have More Fun",1,"1978-11-24",10,0.715,0.689,2,-8.065,0,0.029,0.0143,0.000192,0.111,0.852,111.504,4
+44,"3DHWxeWr4uh19MklWjLpR0","Foreigner","Feels like the First Time",192520,"Foreigner (Expanded)",1,"1977-03-08",14,0.544,0.812,5,-6.716,0,0.0811,0.0599,0,0.456,0.471,109.593,4
+45,"6hTcuIQa0sxrrByu9wTD7s","Bruce Springsteen","Born to Run",269920,"Born To Run",5,"1975-08-25",8,0.27,0.944,4,-4.199,1,0.0975,0.00501,2.05e-05,0.116,0.606,146.347,4
+46,"7Dj8lFTfYuB3CkfNpRuWjb","The Who","My Generation - Shel Talmy Stereo Version",201800,"My Generation (Deluxe Edition)",6,"1965-12-03",30,0.444,0.896,0,-5.704,0,0.0523,0.00875,4.55e-05,0.294,0.804,94.991,4
+47,"7av4raprzW2bWdjyAaH3hz","Marvin Gaye","What's Going On",232600,"What's Going On - 40th Anniversary (Super Deluxe)",1,"1971-05-21",46,0.245,0.833,1,-5.555,0,0.116,0.105,0,0.359,0.805,205.375,4
+48,"11cPCZ0BYWJmAm7N8eDxtu","Chuck Berry","Johnny B. Goode - Single Version",161560,"Berry Is On Top (Reissue)",6,"1959-01-01",12,0.529,0.806,10,-9.027,1,0.0806,0.747,0.00011,0.305,0.971,167.43,4
+49,"4ndDbJMhpCC5DxFOzMmf4t","Nazareth","Love Hurts",232120,"Hair Of The Dog",8,"2010-02-15",16,0.442,0.491,7,-6.598,1,0.0246,0.00693,0.00491,0.114,0.125,79.954,4
+50,"52VIdyKqp1pJRSyUQaxKUA","Bread","Everything I Own",187000,"Baby I'm-a Want You",4,"1972",12,0.365,0.338,2,-13.406,1,0.0322,0.735,0,0.104,0.446,79.241,4
+51,"6vvmYYUvGXtZLU8msxKvzF","Ramones","I Wanna Be Sedated - 2002 Remaster",149466,"Road to Ruin (Expanded 2005 Remaster)",7,"1978-09-22",17,0.597,0.96,11,-3.989,1,0.042,0.169,2.89e-05,0.105,0.937,163.017,4
+52,"5N8Uh49f1evBiBEzwHcmRW","Creedence Clearwater Revival","Up Around The Bend",161466,"Cosmo's Factory (40th Anniversary Edition)",7,"1970-07-25",14,0.583,0.85,2,-6.043,1,0.0344,0.065,0.63,0.305,0.842,130.271,4
+53,"65uzzraBcb1BE3BiYEztd7","Peter Frampton","Show Me The Way - Live",272466,"Frampton Comes Alive! (Deluxe Edition)",4,"1976",19,0.558,0.944,2,-4.257,1,0.045,0.0327,0,0.947,0.483,132.442,4
+54,"4gY07XF01nlzHuPNlMFnBe","ZZ Top","It's Only Love",263626,"Tejas",1,"1976-11-29",10,0.7,0.592,11,-10.434,1,0.0681,0.108,0.0184,0.118,0.906,109.847,4
+55,"5kmbjtL6Q6zkATdc02JJHv","Derek & The Dominos","Layla - 40th Anniversary Version / 2010 Remastered",423840,"Layla And Other Assorted Love Songs (Super Deluxe Edition)",13,"1970-11-01",40,0.404,0.903,1,-3.88,1,0.0668,0.577,0.297,0.287,0.498,115.672,4
+56,"5JerXJKy0kdMt61ioD2tp9","AC/DC","Whole Lotta Rosie",333786,"Let There Be Rock",8,"1977-03-21",8,0.299,0.83,9,-4.439,1,0.0707,0.00138,0.478,0.0998,0.457,158.802,4
+57,"1fDsrQ23eTAVFElUMaf38X","Don McLean","American Pie",516893,"American Pie",1,"1971",10,0.531,0.481,4,-11.709,0,0.06,0.699,0,0.0842,0.491,138.45,4
+58,"7fSGbZLhWlAiCC3HDPAULu","The Rolling Stones","(I Can't Get No) Satisfaction - Mono Version / Remastered 2002",222813,"Out Of Our Heads (Remastered)",7,"1965-07-30",12,0.725,0.853,2,-7.842,1,0.0353,0.0348,0.127,0.196,0.904,136.282,4
+59,"6DXgHLHzB1mFIaoP2KK1hC","Canned Heat","On The Road Again",296026,"Boogie With Canned Heat",3,"1968-01-01",10,0.545,0.392,9,-12.892,1,0.0342,0.817,0.0157,0.294,0.236,129.297,4
+60,"1kryOQS9FQDsbYY4db5zS5","Stevie Wonder","Superstition",266160,"Talking Book (Reissue)",6,"1972-10-28",10,0.609,0.657,1,-11.496,1,0.0695,0.0308,0.00221,0.071,0.872,100.607,4
+61,"03Z8RmEoNzAbmxTM59m336","Cream","Sunshine Of Your Love",250400,"Disraeli Gears (Deluxe Edition)",2,"1967-11-02",40,0.683,0.594,2,-8.289,1,0.0347,0.385,8.61e-05,0.121,0.734,115.099,4
+62,"726FgclkT72fRnkuz6bmD2","Led Zeppelin","Living Loving Maid (She's Just a Woman) - Remaster",159300,"Led Zeppelin II (Deluxe Edition)",6,"1969-10-22",17,0.475,0.808,9,-8.859,1,0.037,0.000942,7.97e-06,0.146,0.896,152.098,4
+63,"5qBqBdfTEIWJwAS0Jm2F5R","The Byrds","Turn! Turn! Turn! (To Everything There Is a Season)",229360,"Turn! Turn! Turn!",1,"1965-12-06",18,0.451,0.818,2,-8.124,1,0.0439,0.135,2.92e-05,0.052,0.755,124.532,4
+64,"7DD7eSuYSC5xk2ArU62esN","The Beatles","Help! - Remastered 2009",139560,"Help! (Remastered)",1,"1965-08-06",14,0.534,0.725,6,-7.576,0,0.0332,0.188,0,0.0994,0.763,95.003,4
+65,"6fybp4N6eW3bsFAvARxyVe","Van Halen","Ain't Talkin' 'Bout Love - 2015 Remaster",227800,"Van Halen (Remastered)",4,"1978-02-10",11,0.518,0.938,8,-5.964,0,0.0416,0.021,0.000305,0.288,0.71,139.138,4
+66,"168aH14F9ef3ymWlk9vWHp","Grand Funk Railroad","Closer To Home (I'm Your Captain) - Remastered",608933,"Closer To Home (Remastered)",8,"1970",12,0.299,0.6,7,-9.795,1,0.0329,0.31,0.014,0.104,0.483,94.356,4
+67,"1mXXf7ztqQei9qUXliL19H","Cheap Trick","I Want You to Want Me",191226,"In Color",4,"1977-09",15,0.806,0.462,2,-12.778,1,0.0298,0.78,0.0134,0.15,0.736,92.726,4
+68,"3yOdfq8eIpBrotqjL5gfdh","Queen","Bohemian Rhapsody - Remastered 2011",354320,"A Night At The Opera (Deluxe Edition 2011 Remaster)",11,"1975-11-21",18,0.411,0.404,0,-9.928,0,0.0511,0.271,0,0.3,0.226,71.068,4
+69,"4Y4Gd3ty8uut6Qw43c7yJc","Otis Redding","(Sittin' On) the Dock of the Bay",166826,"The Dock of the Bay",1,"1968-02-23",11,0.484,0.312,2,-13.522,1,0.0535,0.724,1.65e-06,0.0601,0.598,205.981,4
+70,"6RrXd9Hph4hYR4bf3dbM6H","The Temptations","My Girl",165000,"The Temptations Sing Smokey",3,"1965-01-01",12,0.572,0.418,0,-10.738,1,0.0349,0.635,0,0.0961,0.694,104.566,4
+71,"5iuXctBInQxlV3cXDtj7cL","Bill Haley & His Comets","(We're Gonna) Rock Around the Clock",133015,"Rock Around the Clock (Original Album Plus Bonus Tracks 1957)",1,"2013-05-02",14,0.804,0.714,1,-10.69,0,0.115,0.39,8.7e-06,0.307,0.83,89.737,4
+72,"27m1soUndRthrAA1ediOXn","Marvin Gaye","I Heard It Through The Grapevine",195266,"I Heard It Through The Grapevine / In The Groove (Stereo)",4,"1969-08-26",12,0.729,0.324,8,-13.017,0,0.0393,0.195,0,0.101,0.679,116.855,4
+73,"63OFKbMaZSDZ4wtesuuq6f","Steppenwolf","Born To Be Wild",210373,"Steppenwolf",5,"1968",11,0.438,0.71,2,-12.412,1,0.0919,0.262,0.537,0.221,0.53,145.928,4
+74,"5yQ9iMZXGcr5rlO4hoLsP4","Ray Charles","What'd I Say, Pt. 1 & 2",307053,"What'd I Say",1,"1959",10,0.54,0.681,4,-5.44,1,0.0508,0.808,0,0.162,0.794,88.385,4
+75,"4M1tFaupigR42VpMwG0nZq","Donna Summer","Last Dance - Single Version",199800,"Walk Away - Collector's Edition The Best Of 1977-1980",6,"1980-01-01",9,0.53,0.717,3,-10.304,1,0.0598,0.13,0.000266,0.218,0.231,126.281,4
+76,"5EWPGh7jbTNO2wakv8LjUI","Lynyrd Skynyrd","Free Bird",547106,"Pronounced' Leh-'Nerd 'Skin-'Nerd",8,"1973-01-01",8,0.249,0.834,0,-8.21,1,0.0577,0.0738,9.48e-05,0.0924,0.338,118.223,4
+77,"0vm4lRSUPqy0goQZYVwGlj","The Crickets","That'll Be The Day",135453,"The Chriping Crickets",7,"2004-01-01",16,0.636,0.597,9,-7.271,1,0.035,0.334,0,0.296,0.914,126.751,4
+78,"2tbdjsdJ9xtyunKnZBkGxF","Yusuf / Cat Stevens","Father And Son",221000,"Tea For The Tillerman (Remastered)",10,"1970-11-23",11,0.497,0.343,7,-11.482,1,0.0369,0.615,3.13e-05,0.099,0.407,136.118,4
+79,"63rva3TBizr6x1Yp5uwKfD","The Mamas & The Papas","California Dreamin'",157960,"If You Can Believe Your Eyes And Ears",7,"1966-03",12,0.554,0.667,1,-10.226,0,0.0342,0.628,0,0.0486,0.597,112.749,4
+80,"6USIr8hss3pdBvqC2AI0BK","Van Morrison","Brown Eyed Girl",183306,"Blowin' Your Mind!",1,"1967-09",13,0.491,0.583,7,-10.964,1,0.0376,0.182,0,0.407,0.907,150.572,4
+81,"7jGzYUZ2Bgg8BDfYlQRfn8","The Troggs","Wild Thing",155333,"From Nowhere",1,"1966-07-25",16,0.453,0.658,9,-13.472,1,0.0539,0.741,0.0288,0.135,0.761,203.871,4
+82,"37i6z8YqVrsvlx9jAaF6Rf","Crosby, Stills & Nash","Suite: Judy Blue Eyes - 2005 Remaster",444053,"Crosby, Stills & Nash",1,"1969-05-29",10,0.451,0.364,9,-13.126,1,0.0436,0.469,0,0.197,0.298,154.206,4
+83,"4mn2kNTqiGLwaUR8JdhJ1l","The Animals","House of the Rising Sun",269906,"The Singles Plus",3,"1987-10-19",20,0.316,0.484,9,-9.11,0,0.0308,0.000334,0.00445,0.0912,0.299,117.363,3
+84,"1qRA5BS78u3gME0loMl9AA","Buffalo Springfield","For What It's Worth",153693,"Buffalo Springfield",1,"1966-12-05",12,0.653,0.519,2,-10.164,1,0.0497,0.406,0.0209,0.101,0.822,98.883,4
+85,"7cDxjUnMitNKQC5c8RQUko","Santana","Black Magic Woman / Gypsy Queen",319773,"Abraxas",2,"1970-09-23",9,0.464,0.462,2,-14.093,0,0.0406,0.657,0.527,0.124,0.557,124.033,4
+86,"5jzma6gCzYtKB1DbEwFZKH","The Clash","London Calling - Remastered",200480,"London Calling (Remastered)",1,"1979",19,0.651,0.801,0,-7.34,1,0.0514,0.123,0,0.0825,0.776,133.769,4
+87,"2bzgKuK3pVez40qUvo8sYr","Eagles","Heartache Tonight - 2013 Remaster",265678,"The Long Run (2013 Remaster)",6,"1979",10,0.81,0.511,0,-6.454,1,0.0409,0.0778,0.000226,0.0714,0.858,113.153,4
+88,"2G2YzndIA6jeWFPBXhUjh5","The Ronettes","Be My Baby",160906,"Be My Baby: The Very Best of The Ronettes",2,"2011-02-22",18,0.511,0.769,4,-7.032,1,0.042,0.181,0,0.0921,0.818,129.657,4
+89,"70C4NyhjD5OZUMzvWZ3njJ","Billy Joel","Piano Man",339000,"Piano Man (Legacy Edition)",2,"1973-11-07",33,0.331,0.55,0,-6.483,1,0.0272,0.605,3.96e-06,0.192,0.429,177.734,3
+90,"42fKW5Jhj97tj0TwE1pK8u","Patsy Cline","Crazy - Single Version",164573,"Showcase",7,"1963-01-01",12,0.471,0.021,10,-24.385,1,0.0366,0.931,1.19e-06,0.103,0.356,107.765,3
+91,"2EqlS6tkEnglzr7tkKAAYD","The Beatles","Come Together - Remastered 2009",259946,"Abbey Road (Remastered)",1,"1969-09-26",17,0.533,0.376,9,-11.913,0,0.0393,0.0302,0.248,0.0926,0.187,165.007,4
+92,"6jNi0f1BiBHi1lK1Wwy9Oi","Grateful Dead","Truckin' - 2001 Remaster",302200,"American Beauty",10,"1970-06-01",10,0.639,0.608,9,-13.547,1,0.0541,0.102,0.000578,0.305,0.819,127.055,4
+93,"7kWhdmRYv8CqbWNqfojqVd","Al Green","Let's Stay Together",199400,"Let's Stay Together",1,"1972-01-31",9,0.746,0.273,5,-16.63,1,0.0573,0.606,0.0168,0.0526,0.502,101.952,4
+94,"4hEk1CHls2JEDbKIKy8JxV","Supertramp","Breakfast In America - Remastered",159346,"Breakfast In America (Deluxe Edition)",4,"1979-03-29",22,0.532,0.663,0,-5.886,0,0.0292,0.425,1.07e-06,0.0734,0.756,75.14,4
+95,"5h0b1G7VLOqTiiVgVKywFG","Roy Orbison","In Dreams",169160,"In Dreams",1,"1963-07",16,0.495,0.435,0,-9.99,1,0.0286,0.67,0.00038,0.13,0.71,108.189,4
+96,"6bJuuCtXYiwOcKT9s8uRh8","The Beach Boys","California Girls - Remix/Remastered 2001",160360,"Summer Days (And Summer Nights) [Remastered]",7,"1965-07-05",12,0.503,0.62,11,-6.069,1,0.0296,0.471,0,0.159,0.713,116.599,4
+97,"38zsOOcu31XbbYj9BIPUF1","Elton John","Your Song",241786,"Elton John",1,"1970-04-10",30,0.554,0.315,3,-11.028,1,0.0298,0.828,5.53e-06,0.101,0.325,128.157,4
+98,"7I2lPuuiOkpKtZlhr4zUpT","Creedence Clearwater Revival","Fortunate Son",140773,"Willy And The Poor Boys (40th Anniversary Edition)",6,"1969-11-02",13,0.648,0.678,0,-7.461,1,0.0392,0.221,0.00456,0.143,0.667,132.729,4
+99,"6L5BZEcZmD6RBJnimzlyKr","The Moody Blues","Nights In White Satin - Single Version / Mono",269106,"Days Of Future Passed (Deluxe Version)",16,"1967-11-10",33,0.195,0.483,4,-4.991,0,0.03,0.465,0.497,0.0686,0.173,84.71,4
+100,"4eZDMbQm12jmaTFT6fOBwo","Black Sabbath","War Pigs",474400,"Paranoid (Remastered)",1,"1970-09-18",8,0.445,0.612,9,-12.025,1,0.0589,0.118,0.00661,0.175,0.497,91.732,4
+101,"0HJ5CpISRpyan4Kuqw3WAh","The Rolling Stones","Jumpin' Jack Flash",221573,"Through The Past Darkly (Big Hits Vol.2) [Remastered]",4,"1969-09-12",11,0.574,0.918,3,-7.987,1,0.0572,0.045,0.204,0.0843,0.689,137.28,4
+102,"3Dx58pXsjAtFNsOWM5yJq4","Chubby Checker","The Twist",154320,"Twist with Chubby Checker / Twist-a-Long with Chubby Checker",7,"2013-07-14",24,0.472,0.606,4,-8.034,1,0.0346,0.238,1.03e-05,0.0905,0.831,158.376,4
+103,"2AQr7ceUjWmZbm7iWfC0zU","Little Richard","Good Golly Miss Molly",127733,"The Essential Little Richard (Remastered)",5,"1985-01-01",20,0.553,0.894,7,-8.022,1,0.0501,0.6,0.00118,0.46,0.963,166.587,4
+104,"5xquYn2sr3uEcyuKU9BmCJ","AC/DC","Walk All Over You",310000,"Highway to Hell",3,"1979-07-27",10,0.233,0.87,9,-4.653,1,0.0643,0.00791,0.0198,0.251,0.409,162.003,4
+105,"3bN4tg6rnNPy9GCkGhym4T","The Police","Message In A Bottle - Remastered 2003",290280,"Reggatta De Blanc (Remastered)",1,"1979-10-02",11,0.577,0.808,1,-7.04,0,0.039,0.0338,1.33e-05,0.221,0.869,151.008,4
+106,"60FpWNr0Fk72U0cYV76Lys","Eddie Cochran","Summertime Blues",119293,"Memorial Album",8,"2012-11-16",16,0.76,0.754,4,-11.064,1,0.044,0.506,0.000119,0.129,0.967,156.508,4
+107,"2mXbqtqKuOX9pyyUga7UZ1","Carl Douglas","Kung Fu Fighting",197693,"The Soul of the Kung Fu Fighter",1,"1972-02-13",22,0.598,0.673,2,-10.431,1,0.0693,0.0422,6.84e-05,0.289,0.59,102.035,4
+108,"2kBAG8J7THPwTlXEm7GHG2","Bonnie Tyler","It's A Heartache",208613,"It's A Heartache",1,"2006",32,0.505,0.659,0,-6.895,1,0.0315,0.0518,0,0.268,0.596,118.873,4
+109,"1H4idkmruFoJBg1DvUv2tY","Wings","Band On The Run - Remastered 2010",313026,"Band On The Run (Standard)",1,"1973-12-05",9,0.479,0.601,7,-8.806,1,0.0318,0.0832,0.00142,0.11,0.669,124.966,4
+110,"1JO1xLtVc8mWhIoE3YaCL0","The Turtles","Happy Together",176293,"Happy Together",6,"1967",14,0.584,0.367,6,-9.638,0,0.0328,0.55,1.38e-05,0.0818,0.588,120.175,4
+111,"7bglJCaprPQTfDfovdJS2h","Carl Perkins","Blue Suede Shoes",134445,"The Dance Album",1,"1957",12,0.548,0.675,4,-7.318,0,0.0364,0.448,8.53e-05,0.297,0.965,168.891,4
+112,"2B4Y9u4ERAFiMo13XPJyGP","The Beatles","Here, There And Everywhere - Remastered 2009",144880,"Revolver (Remastered)",5,"1966-08-05",14,0.29,0.247,7,-12.125,1,0.0383,0.921,0.00565,0.0917,0.36,165.361,4
+113,"6z4VNjyxLfRXRx23gzl51x","Gary Moore","Parisienne Walkways",200640,"Back On The Streets (Expanded Edition)",8,"1978",12,0.149,0.243,9,-13.188,0,0.0305,0.3,0.00506,0.12,0.215,174.451,3
+114,"3LcYYV9ozePfgYYmXv0P3r","James Taylor","Fire and Rain",200579,"Sweet Baby James",7,"1970",11,0.611,0.35,5,-14.48,1,0.0356,0.499,7.84e-06,0.0844,0.36,76.064,4
+115,"3WH4DRVwIanz3wg2kjMwnh","Them","Gloria",159266,"At The Movies - Soundtrack Hits",1,"2007-02-12",19,0.648,0.743,9,-8.969,1,0.0495,0.401,0.00224,0.169,0.73,129.143,4
+116,"3dix9ONSeCaR05vk8K2kEQ","Judas Priest","Breaking the Law",155520,"British Steel - 30th Anniversary",3,"2010-05-10",26,0.362,0.959,2,-5.653,1,0.0882,0.0249,7.88e-06,0.0694,0.506,164.013,4
+117,"4PRGxHpCpF2yoOHYKQIEwD","Led Zeppelin","Rock and Roll - Remaster",220560,"Led Zeppelin IV (Deluxe Edition)",2,"1971-11-08",16,0.317,0.887,9,-7.292,1,0.0375,0.000582,0.00258,0.0891,0.871,169.613,4
+118,"32kgOw8wejH7zUhtXCM8DH","Boston","More Than a Feeling",285133,"Boston",1,"1976",8,0.377,0.682,7,-8.039,1,0.0299,0.000894,0.00217,0.0504,0.288,108.736,4
+119,"30jsPpxLvSCYTTTtdjRzBp","ZZ Top","Cheap Sunglasses",288400,"Deguello",9,"1979-11-08",10,0.617,0.461,5,-14.485,0,0.0434,0.148,0.0151,0.12,0.828,93.853,4
+120,"0MaaRqER3Ez9qcHbiQuOr2","Jefferson Airplane","Somebody to Love",174840,"Surrealistic Pillow",2,"1967",17,0.504,0.578,4,-9.302,1,0.031,0.408,0,0.321,0.654,132.411,4
+121,"3SdTKo2uVsxFblQjpScoHy","Ben E. King","Stand by Me",180055,"Don't Play That Song (Mono)",7,"1962-08-20",12,0.65,0.306,9,-9.443,1,0.0393,0.57,7.07e-06,0.0707,0.605,118.068,4
+122,"573Z2Dty5epeNgKsgoDOlr","Deep Purple","Child in Time - 1995 Remaster",613440,"Deep Purple in Rock (Anniversary Edition)",3,"1970-06-03",20,0.344,0.497,9,-9.295,0,0.0366,0.0167,0.453,0.108,0.356,127.707,4
+123,"78T8DfPIK3RG4CI5ozToqD","Norman Greenbaum","Spirit In The Sky",230533,"Apollo 13 (Soundtrack)",11,"1995-01-01",23,0.598,0.271,2,-20.536,1,0.0376,0.131,0.00446,0.1,0.585,128.687,4
+124,"0bfvHnWWOeU1U5XeKyVLbW","Frankie Valli","Can't Take My Eyes off You",203680,"Solo",5,"1967",10,0.581,0.78,4,-7.053,1,0.0567,0.508,1.07e-05,0.0799,0.561,123.711,4
+125,"23YIPZT1kyaLF55tKyBdx3","Jerry Lee Lewis","Whole Lotta Shakin' Goin' On",174080,"Whole Lotta Shakin' Goin' On (Singles 1957 - 1958)",3,"2012-05-18",19,0.355,0.605,0,-9.161,1,0.0323,0.735,2.11e-05,0.119,0.553,161.708,4
+126,"7Fv6Mz1wq1gB8G3sqj0jxa","B.B. King","The Thrill Is Gone",324733,"Completely Well",9,"1969-01-01",9,0.553,0.459,11,-8.624,0,0.0244,0.323,0.512,0.0994,0.585,90.809,4
+127,"6gjOXtpuILSt4KB5vptcVY","Iron Butterfly","In-A-Gadda-Da-Vida - Single Version",173439,"Rhino Hi-Five: Iron Butterfly",5,"2006-05-16",5,0.472,0.497,2,-10.438,0,0.0309,0.00298,0.000287,0.195,0.794,119.503,4
+128,"3his1UkcI0rwrniPDR9kTj","Bread","Aubrey",219493,"Guitar Man",4,"1972",12,0.326,0.0902,7,-20.588,1,0.0344,0.647,0.00091,0.198,0.218,137.611,4
+129,"1V6NsADmSSEsb8zpGZMdup","Thunderclap Newman","Something In The Air",234360,"Hollywood Dream",1,"1990-01-01",18,0.506,0.402,8,-11.743,0,0.0256,0.307,1.25e-05,0.0814,0.54,94.221,4
+130,"3hNcrk8Ypht0x5CuT7pJnS","Chuck Berry","School Day (Ring Ring Goes The Bell)",160693,"After School Session",1,"1957",15,0.773,0.872,7,-5.157,1,0.0438,0.821,1.64e-05,0.109,0.947,130.948,4
+131,"54eZmuggBFJbV7k248bTTt","America","A Horse with No Name",252239,"America",5,"1972",12,0.654,0.506,11,-17.18,0,0.0535,0.686,0.0155,0.155,0.831,123.179,4
+132,"4NRQwaks9r58tTDvr4iEyv","Wilson Pickett","In the Midnight Hour",157160,"In the Midnight Hour",1,"1965",12,0.75,0.444,4,-8.63,1,0.0403,0.12,3.69e-06,0.118,0.849,111.919,4
+133,"2kyVQg00pphEufGT59M2XH","Carpenters","(They Long To Be) Close To You",273933,"Close To You",6,"1970-01-01",12,0.528,0.233,8,-15.362,1,0.0346,0.726,0.000108,0.122,0.208,89.044,4
+134,"47qD4mGcc6cS4PbkvoIcy9","The Beatles","Get Back - 2021 Mix",188266,"Let It Be (Super Deluxe)",12,"2021-10-15",57,0.734,0.656,2,-10.443,1,0.0789,0.176,0.0029,0.665,0.366,123.091,4
+135,"1RG0HipdMCcaW9xJjyKiUb","Barry White","Can't Get Enough Of Your Love, Babe",274000,"Can't Get Enough",4,"1974-01-01",7,0.731,0.777,5,-7.563,1,0.0684,0.132,0.0611,0.0793,0.772,111.842,4
+136,"6zeE5tKyr8Nu882DQhhSQI","Kansas","Dust in the Wind",206266,"Point Of Know Return (Expanded Edition)",7,"1977",12,0.475,0.322,7,-10.687,1,0.0283,0.367,0.00056,0.11,0.387,93.503,4
+137,"2aEeghgUcnu75tzcolFMfs","Ritchie Valens","La Bamba - Single Version",126960,"Ritchie Valens",7,"1959",12,0.516,0.809,0,-6.419,1,0.0545,0.787,0.000331,0.303,0.939,75.099,4
+138,"4vt7c5shzKy74HhP1q4UDV","The Temptations","Papa Was A Rollin' Stone - Single Version",412840,"Motown 50",2,"2008-12-01",61,0.744,0.577,5,-8.78,0,0.0803,0.655,0.0108,0.0798,0.819,120.502,4
+139,"0DQtwZLpvln583U1WWv6To","The Rolling Stones","Sympathy For The Devil",377760,"Beggars Banquet",1,"1968-12-06",10,0.658,0.675,9,-10.967,1,0.242,0.604,0,0.0428,0.587,115.574,4
+140,"13v3cG4u6dgiXfgihQh53D","KISS","Calling Dr. Love",227466,"Rock And Roll Over (Remastered Version)",3,"1976-11-11",10,0.542,0.877,8,-8.201,1,0.138,0.666,5.32e-06,0.323,0.523,127.183,4
+141,"5jYYumalS1qELrcChOCZrK","Al Stewart","Year of the Cat - 2001 Remaster",401400,"Year of the Cat",9,"1991-04-02",12,0.531,0.607,4,-9.602,0,0.0328,0.0114,0.00511,0.121,0.534,116.652,4
+142,"66wpCqkkM6MrxXSbfgmsrh","Bee Gees","Night Fever - 2007 Remastered Version Saturday Night Fever",213400,"Saturday Night Fever [The Original Movie Soundtrack]",3,"1978-01-05",17,0.729,0.794,1,-7.208,0,0.0249,0.0245,0.00125,0.0897,0.896,109.123,4
+143,"23MrkN7g6Q5U7GLIxNHN1B","Jimi Hendrix","Foxey Lady",198773,"Are You Experienced",10,"1967-05-12",17,0.507,0.847,1,-5.987,0,0.0411,0.0751,0.237,0.372,0.566,98.096,4
+144,"18GiV1BaXzPVYpp9rmOg0E","Bob Dylan","Blowin' in the Wind",165426,"The Freewheelin' Bob Dylan",1,"1963-05-27",13,0.38,0.0993,2,-20.567,1,0.0509,0.914,2.32e-05,0.0605,0.44,174.874,4
+145,"7iLGljK0LNpGamQQEOuCRC","The Who","Won't Get Fooled Again - Original Album Version",511400,"Who's Next (Deluxe Edition)",9,"1971-08-14",29,0.686,0.92,2,-6.231,1,0.0566,0.301,0.27,0.0807,0.225,135.027,4
+146,"5Z8EDau8uNcP1E8JvmfkZe","Alice Cooper","School's Out",210106,"School's Out",1,"1972",9,0.294,0.745,5,-9.138,1,0.0461,0.05,0.125,0.676,0.347,134.364,4
+147,"2xpvmhp8j0UL9mCEqB1U0L","Foreigner","Dirty White Boy",218866,"Head Games",1,"1979-09-10",11,0.617,0.768,0,-8.911,1,0.0628,0.0168,1.65e-06,0.576,0.67,138.861,4
+148,"2zyB2N2T1qLKqKwl6WKeZp","B.J. Thomas","Raindrops Keep Fallin' On My Head - From ""Butch Cassidy And The Sundance Kid"" Soundtrack",177800,"Butch Cassidy & The Sundance Kid",2,"1999-03-17",9,0.706,0.206,5,-22.008,1,0.043,0.804,0.00939,0.0963,0.62,108.817,4
+149,"2rPnCnQepsovEY5miG8J5a","Them","Baby Please Don't Go",163426,"At The Movies - Soundtrack Hits",2,"2007-02-12",19,0.722,0.774,5,-4.981,1,0.0375,0.451,1.95e-06,0.141,0.795,106.355,4
+150,"5K09WxKdlkroDyEVyOSySy","Aretha Franklin","(You Make Me Feel Like) A Natural Woman",165333,"Lady Soul (With Bonus Selections)",5,"1968-01-22",14,0.603,0.271,5,-10.083,1,0.0284,0.679,0,0.141,0.405,110.89,3
+151,"7K05XIE1yclQHVj9u2mXEy","Bachman-Turner Overdrive","Takin' Care Of Business",289893,"Bachman-Turner Overdrive II",8,"1973-01-01",8,0.724,0.704,10,-13.903,1,0.0546,0.0568,4.26e-06,0.154,0.965,129.942,4
+152,"2Z8cY4QpZTFUZxCQCpvNe1","The Beatles","All You Need Is Love - Remastered 2009",231213,"Yellow Submarine (Remastered)",6,"1969-01-17",13,0.4,0.463,7,-8.455,1,0.0288,0.345,4.59e-05,0.286,0.627,103.103,4
+153,"3MkhfGI1air9O4XJ5FWrlo","Tom Jones","She's A Lady",172466,"The Best Of Tom Jones 20th Century Masters The Millennium Collection",11,"2000-01-01",12,0.449,0.912,11,-8.162,0,0.306,0.153,0.000354,0.495,0.614,119.332,4
+154,"4GAI8BxeMgrvhZNEU59UfR","The Archies","Sugar, Sugar",169626,"Sugar, Sugar",1,"2007-01-01",2,0.757,0.647,2,-10.264,1,0.0299,0.757,3.08e-06,0.0972,0.97,122.771,4
+155,"0YsAhBfEmT9NdLHPkqilvv","Argent","God Gave Rock and Roll to You",403320,"In Deep",1,"1973-10-05",8,0.438,0.329,7,-13.277,1,0.0479,0.521,3.12e-06,0.15,0.171,69.642,4
+156,"3T99MhhnbWTqo0Bj5lyuP8","Elvis Presley","Heartbreak Hotel",128039,"Elvis 75",1,"2009-12-25",75,0.688,0.223,4,-11.476,1,0.0619,0.849,2.1e-06,0.0974,0.701,93.551,4
+157,"7dblNGnRXEBrVJunazs2U5","The Everly Brothers","All I Have to Do Is Dream",143333,"The Very Best of The Everly Brothers",8,"1964-08-01",12,0.534,0.462,4,-8.172,1,0.0266,0.839,0,0.129,0.534,96.195,4
+158,"3HKthdb7Ejnydb74BvmQW0","Bad Company","Feel Like Makin' Love (Remastered Album Version)",314093,"Straight Shooter",2,"1975",8,0.56,0.543,7,-8.433,1,0.0288,0.233,0.000179,0.335,0.661,85.119,4
+159,"0s7KuDVVhYSyeUloapNxxU","Creedence Clearwater Revival","Run Through The Jungle",184746,"Cosmo's Factory (40th Anniversary Edition)",6,"1970-07-25",14,0.638,0.62,2,-8.25,1,0.0374,0.0488,0.163,0.107,0.9,136.513,4
+160,"6uhp361GE7J4pZZhPgLyEy","AC/DC","T.N.T.",214773,"High Voltage",5,"1976-05-14",9,0.747,0.77,9,-5.174,1,0.307,0.161,0.00032,0.137,0.43,126.361,4
+161,"1oEAgyttglJYkh909Byp4B","Bill Withers","Lean on Me - Single Version",257240,"Still Bill",5,"1972-05-01",12,0.617,0.239,0,-11.219,1,0.0591,0.824,1.72e-05,0.147,0.426,75.114,4
+162,"4KGMuqdT1XEzzOJDJFXu7T","The Doors","The End - 2017 Remaster",710826,"The Doors (50th Anniversary Deluxe Edition)",11,"2017-03-31",30,0.351,0.228,0,-17.271,1,0.0307,0.285,0.00116,0.123,0.0329,104.551,4
+163,"2pkPeaj86ZEVHhgAEncfp0","Rod Stewart","You're in My Heart (The Final Acclaim)",270960,"Foot Loose & Fancy Free",3,"1977",8,0.553,0.328,9,-10.797,1,0.0341,0.643,0,0.109,0.345,103.472,4
+164,"0bX8xYxBvQyiDD0TsVzbdA","The Wailers","Get Up, Stand Up",197666,"Burnin' (Deluxe Edition)",1,"1973-10-19",27,0.765,0.555,10,-7.579,0,0.374,0.409,2.04e-06,0.073,0.828,77.848,4
+165,"4RNuVl4k6WcXGv5vyX1Q6K","Santana","Europa (Earth's Cry Heaven's Smile)",304106,"Amigos",6,"1976",7,0.307,0.544,0,-9.679,0,0.0501,0.0327,0.906,0.167,0.735,74.945,4
+166,"40riOy7x9W7GXjyGp4pjAv","Eagles","Hotel California - 2013 Remaster",391376,"Hotel California (2013 Remaster)",1,"1976-12-08",9,0.579,0.508,2,-9.484,1,0.027,0.00574,0.000494,0.0575,0.609,147.125,4
+167,"4cQJ27R11K634x5qCOwKW5","Blondie","One Way Or Another - Remastered",215106,"Parallel Lines (Remastered)",2,"1978-09-01",16,0.45,0.914,2,-5.4,1,0.0607,0.0305,1.42e-05,0.152,0.904,162.487,4
+168,"0aTL3puFDxsfUu10mhgPCO","The Platters","The Great Pretender",161173,"Only You (And You Alone) [Mercury Singles 1955 - 1957]",3,"2012-10-03",18,0.655,0.319,7,-8.196,1,0.0293,0.843,0,0.199,0.652,115.849,3
+169,"4GMukAkbYBkxXzEhqG8gDK","Donna Summer","Bad Girls",295125,"Bad Girls [Deluxe Edition (International Version)]",2,"1979-04-25",25,0.868,0.878,2,-6.879,0,0.0366,0.00951,0.0106,0.319,0.971,120.403,4
+170,"6vCsbxIQ75R7LN4Eqs8H1C","Heart","Straight On",305293,"Dog & Butterfly",4,"1978-10-07",11,0.767,0.579,9,-8.509,1,0.056,0.00915,0.00407,0.0796,0.892,116.964,4
+171,"3V4IuFiE3GnWuRnuV8dkFO","Bobby Darin","You Must Have Been a Beautiful Baby",131720,"Twist with Bobby Darin",9,"2004-11-23",12,0.714,0.544,7,-15.721,1,0.036,0.753,7.64e-05,0.0551,0.973,134.523,4
+172,"7CWpx5SqmXPuo15t7HMoQ8","Sonny & Cher","I Got You Babe - Single Version Mono",191355,"Look At Us (Mono)",1,"1965",12,0.536,0.692,1,-8.899,1,0.0298,0.15,4e-06,0.15,0.614,111.402,3
+173,"7cdnq45E9aP2XDStHg5vd7","The Runaways","Cherry Bomb",138706,"The Runaways",1,"1976",10,0.501,0.813,11,-8.192,1,0.0639,0.0455,4.75e-05,0.131,0.495,136.59,4
+174,"3G7tRC24Uh09Hmp1KZ7LQ2","The Monkees","I'm a Believer - 2006 Remaster",167373,"More of The Monkees (Deluxe Edition)",12,"1967-01-09",30,0.526,0.775,0,-6.05,1,0.0352,0.707,2.05e-05,0.217,0.962,80.106,4
+175,"49Y7HyMsxQegZqry19Ev9N","Led Zeppelin","Whole Lotta Love - Remaster",334555,"Led Zeppelin II (Deluxe Edition)",1,"1969-10-22",17,0.401,0.893,9,-11.171,1,0.437,0.0617,0.0391,0.164,0.406,87.979,4
+176,"66lOpKgTyFjOrac4S1s94g","David Bowie","Rebel Rebel - 1999 Remaster",269360,"Diamond Dogs (30th Anniversary)",6,"1974-04-24",19,0.676,0.92,9,-7.96,1,0.0435,0.00101,8.65e-06,0.248,0.624,126.341,4
+177,"4vO9dmzNRqDhFY3jD1a3P7","Mountain","Mississippi Queen",151293,"Climbing!",1,"1970",10,0.581,0.624,9,-8.346,1,0.0777,0.0987,0,0.0411,0.637,139.714,4
+178,"1rJmY2oBm9rVpchIihaE92","The Supremes","You Can't Hurry Love",174573,"50th Anniversary: The Singles Collection 1961-1969",18,"2011-01-01",82,0.494,0.937,10,-1.061,1,0.126,0.713,0,0.0979,0.825,193.416,4
+179,"48IweEL7NqHvCe81qoXu2E","Dion","The Wanderer",170133,"Runaround Sue (Original Album Plus Bonus Tracks)",5,"1961-01-02",15,0.621,0.587,7,-8.942,1,0.0447,0.446,0,0.123,0.778,114.247,4
+180,"2J9GLqNATExevUPvpLU1Sl","The Velvet Underground","I'm Waiting For The Man - Album Version (Stereo)",279520,"The Velvet Underground & Nico 45th Anniversary (Super Deluxe Edition)",2,"1967-03-12",65,0.682,0.621,7,-9.653,1,0.0451,0.025,0.852,0.153,0.861,125.91,4
+181,"4MlXFjRO6N7NXvMqPlH35o","The Edgar Winter Group","Free Ride",187173,"They Only Come Out At Night",4,"1972-05-09",10,0.674,0.686,2,-11.927,1,0.0597,0.29,0.00322,0.189,0.814,124.204,4
+182,"5X76oXHcR5uCXali0gOyX5","Cream","White Room",303200,"Wheels Of Fire (Remastered)",1,"1968-07-01",13,0.55,0.576,0,-13.475,1,0.0306,0.178,0.00935,0.0555,0.486,109.837,4
+183,"3SdingSsFcZDZAyvcJbgAw","The Beatles","Can't Buy Me Love - Remastered 2009",131866,"A Hard Day's Night (Remastered)",7,"1964-07-10",13,0.483,0.677,0,-5.91,1,0.0593,0.283,0,0.321,0.842,170.72,4
+184,"11FcfHd3SOmmrWJPGe7Y30","Elton John","Don't Let The Sun Go Down On Me",336733,"Caribou",9,"1974-06-28",14,0.424,0.446,0,-8.526,1,0.0261,0.121,1.89e-06,0.0921,0.354,139.701,4
+185,"4MYb7NWLwXNDB7bYs3HeX8","Foghat","Slow Ride",232533,"Slow Ride / Save Your Loving (For Me)",1,"1975",2,0.493,0.586,2,-13.916,1,0.046,0.0202,0.00106,0.102,0.656,113.618,4
+186,"2DnJjbjNTV9Nd5NOa1KGba","Carly Simon","You're so Vain",258411,"No Secrets",3,"1972",10,0.659,0.678,0,-8.18,1,0.0313,0.157,6.69e-06,0.0784,0.647,106.186,4
+187,"081LlyOehe3STUddapwMFB","Dick Dale","Surfing Drums",290986,"Surfer's Choice",8,"1962",12,0.464,0.893,5,-7.074,1,0.104,0.587,0.618,0.0799,0.584,108.607,4
+188,"7khEhULdJDLBgp1UbwxNBX","Queen","We Are The Champions - Remastered 2011",179200,"News Of The World (Deluxe Edition 2011 Remaster)",2,"1977-10-28",16,0.268,0.459,10,-6.94,1,0.0346,0.378,0,0.118,0.175,64.177,4
+189,"7IhkWF9zpiYKlU7CxHxYT9","Free","All Right Now",332906,"Fire And Water (Deluxe Edition)",7,"2008-01-01",30,0.766,0.446,2,-13.079,1,0.0867,0.25,0.000704,0.318,0.743,119.774,4
+190,"3LQPTJEqOfljGBxmpgUnoC","The Guess Who","American Woman",307493,"American Woman",1,"1970-01-01",10,0.55,0.726,2,-8.51,1,0.0516,0.146,0.00608,0.428,0.37,92.697,4
+191,"6lcRN7rSuvI291ykyaqONu","James Brown & The Famous Flames","Papa's Got A Brand New Bag - Pt. 1",125933,"Papa's Got A Brand New Bag",1,"1966-01-01",12,0.685,0.487,4,-10.944,1,0.0765,0.527,5.05e-05,0.364,0.884,128.938,4
+192,"315sIdOIekClPo45hZBWi6","Electric Light Orchestra","Livin' Thing",210640,"Boogie Nights / Music From The Original Motion Picture",11,"1997-01-01",13,0.553,0.599,0,-8.146,1,0.0297,0.285,0,0.191,0.447,123.26,4
+193,"4PvsXGdLOFyUu3LrJM9mmk","Elmore James","Dust My Blues",191973,"Blues After Hours",1,"2009-01-05",18,0.711,0.785,7,-4.081,1,0.0298,0.276,0.138,0.17,0.51,108.008,4
+194,"4ZoBC5MhSEzuknIgAkBaoT","Billy Joel","My Life",284000,"52nd Street",3,"1978-10-13",9,0.741,0.647,2,-12.878,1,0.0427,0.108,0.00139,0.0555,0.804,131.097,4
+195,"6Ykx7fVey6eAcC7bJEd9zK","Gerry & The Pacemakers","How Do You Do It?",115266,"The EP Collection",1,"1987",22,0.604,0.533,9,-12.847,1,0.0305,0.53,0,0.144,0.965,141.865,4
+196,"3uMmllZo1AfoEnVT4ENCD3","Deep Purple","Highway Star - Remastered 2012",366136,"Machine Head (Remastered)",1,"1972-03-25",8,0.307,0.909,9,-7.08,0,0.0574,0.135,0.0336,0.125,0.443,173.674,4
+197,"3K8sML4tdby0t66z7P0CxH","Chuck Berry","Sweet Little Sixteen",180746,"One Dozen Berry's",1,"1957-01-01",12,0.507,0.635,1,-7.84,1,0.0337,0.545,0,0.207,0.962,175.338,4
+198,"5AICUm2wDa8bSu2HFRyMyU","Jeff Beck","Cause We've Ended as Lovers",342333,"Blow By Blow",6,"1975-03-29",9,0.536,0.208,0,-18.841,0,0.0361,0.153,0.742,0.111,0.174,115.137,4
+199,"3UQQ7g6J8fiMB7oldQzBoq","AC/DC","Sin City",285040,"Powerage",5,"1978-05-05",9,0.543,0.757,9,-4.986,1,0.0497,0.00197,0.626,0.103,0.22,127.648,4
+200,"6NxsCnLeLd8Ai1TrgGxzIx","Creedence Clearwater Revival","Bad Moon Rising",141600,"Green River (40th Anniversary Edition)",5,"1969-08-03",14,0.647,0.762,2,-5.856,1,0.0287,0.0599,3.35e-06,0.0705,0.93,89.837,4
+201,"4HzdhXWJqczW6gOIXT6QRH","Black Sabbath","Iron Man",354773,"Paranoid (Remastered)",4,"1970-09-18",8,0.338,0.767,9,-11.51,1,0.0742,0.00344,0.00318,0.0384,0.516,154.97,4
+202,"2ymeOsYijJz09LfKw3yM2x","Three Dog Night","Joy To The World",220573,"Naturally",10,"1970-01-01",10,0.649,0.679,2,-12.515,1,0.0316,0.464,0.00121,0.339,0.971,126.867,4
+203,"4hc4ghAawUPHdb6blvOP20","KC & The Sunshine Band","That's The Way (I Like It)",308186,"KC & The Sunshine Band",2,"1975",9,0.663,0.862,5,-10.512,0,0.0345,0.235,0.000121,0.385,0.88,108.257,4
+204,"6kooDsorCpWVMGc994XjWN","Ram Jam","Black Betty",238973,"Ram Jam",1,"1977-06-20",10,0.465,0.907,11,-6.404,0,0.113,0.0241,0.00118,0.13,0.681,117.293,4
+205,"0hPK2lRe0XJLsu27QF3oTN","Duane Eddy","Rebel Rouser",143626,"Have 'Twangy' Guitar Will Travel",3,"1958",15,0.532,0.629,6,-7.879,0,0.0338,0.0529,0.9,0.109,0.634,105.557,4
+206,"0qsS2A3hwicJCLtcaR6JRQ","The Beatles","She Loves You - Mono Version / Remastered 2009",142653,"The Beatles 1962 - 1966 (Remastered)",4,"1973-04-01",26,0.308,0.895,7,-5.157,1,0.0463,0.389,0,0.177,0.902,150.109,4
+207,"1Jp0vQZhLa7YCOBdb5frOM","The Beach Boys","I Get Around (Stereo) - Remastered",134266,"All Summer Long (Mono & Stereo)",13,"1964-07-13",24,0.398,0.513,9,-9.652,0,0.0371,0.29,0,0.0639,0.902,146.099,4
+208,"3XcjIvaZVUFAIdIYZqY9bd","Grand Funk Railroad","We're An American Band - Remastered 2002",207093,"We're An American Band (Remastered / Bonus Track)",1,"1973",12,0.637,0.89,7,-4.872,1,0.0677,0.119,6.72e-05,0.103,0.923,127.689,4
+209,"0KMGxYKeUzK9wc5DZCt3HT","Chicago","If You Leave Me Now",235373,"Chicago X",4,"1976-06-14",13,0.434,0.563,11,-6.784,1,0.0268,0.0197,0.000824,0.128,0.275,104.183,4
+210,"5uM9zdUz8PpYJME9wZCM4W","The Supremes","Baby Love - Juke Box Single Version",156333,"Where Did Our Love Go: 40th Anniversary Edition",15,"1964-08-31",51,0.594,0.698,2,-6.524,0,0.0365,0.776,0,0.237,0.649,135.821,4
+211,"2ZSCy3P1QzpJySCWA6NRIU","KISS","I Was Made For Lovin' You",271240,"Dynasty (Remastered Version)",1,"1979-03-23",9,0.768,0.852,4,-6.215,1,0.038,0.213,7.45e-05,0.0723,0.867,128.374,4
+212,"500h8jAdr7LvzzXlm1qxtK","Pilot","Magic",186333,"From The Album Of The Same Name",2,"1974-01-01",15,0.393,0.588,9,-6.68,0,0.0613,0.345,0,0.134,0.728,203.145,4
+213,"5IMtdHjJ1OtkxbGe4zfUxQ","Rupert Holmes","Escape (The Pina Colada Song)",276493,"Partners In Crime",1,"1979-01-01",10,0.836,0.509,0,-13.668,1,0.0548,0.467,4.1e-06,0.0436,0.949,138.714,4
+214,"3JjfmPScZiNitjyLSefKMB","? & The Mysterians","96 Tears",176866,"96 Tears",12,"1966",12,0.656,0.556,7,-5.86,1,0.0363,0.0687,1.88e-05,0.0891,0.833,123.627,4
+215,"7wWw7hBmErNg9u5w6Xx0vy","Bread","Make It with You",192200,"On the Waters",2,"1970",12,0.629,0.356,4,-11.135,1,0.0246,0.66,0.000617,0.173,0.472,83.886,4
+216,"1dzfGr4PZ5npvdv6DWvycB","ZZ Top","Francine",213600,"Rio Grande Mud",1,"1972-04-04",10,0.502,0.765,0,-9.805,1,0.0336,0.331,0.00543,0.177,0.408,127.293,4
+217,"5tmrnhMxx39jnu3kjopMdP","Santana","Evil Ways",238266,"Santana (Legacy Edition)",2,"1969",25,0.704,0.528,5,-13.382,1,0.0358,0.22,0.35,0.14,0.73,117.472,4
+218,"2ptL75zGAexrWgBe0e3hBq","Bob Marley & The Wailers","No Woman, No Cry - Live At The Lyceum, London/1975",429200,"Legend (Deluxe Edition)",2,"2001-02-22",29,0.652,0.659,1,-9.343,1,0.0526,0.248,0.033,0.732,0.614,78.528,4
+219,"6Vjk8MNXpQpi0F4BefdTyq","Led Zeppelin","Kashmir - Remaster",517125,"Physical Graffiti (Deluxe Edition)",6,"1975-02-24",22,0.483,0.615,2,-8.538,1,0.0497,0.452,0.000414,0.0512,0.594,80.576,3
+220,"3fQqLAWWcc9SZHP2NVgrOC","Simon & Garfunkel","The Sound of Silence - Overdubbed Version",185133,"Sounds Of Silence",1,"1966-01-17",15,0.432,0.398,6,-12.419,1,0.0287,0.201,3.94e-05,0.138,0.526,106.777,4
+221,"1NwPdyjfYh2Fn8rp39H9kS","Bobby Vinton","Blue Velvet",167493,"Bobby Vinton's Greatest Hits",1,"1964",12,0.319,0.177,10,-13.972,1,0.0305,0.885,0,0.127,0.29,78.91,1
+222,"3gsCAGsWr6pUm1Vy7CPPob","Roberta Flack","Killing Me Softly With His Song",286920,"Killing Me Softly",1,"1973-01-01",8,0.476,0.381,5,-10.238,0,0.0342,0.727,0,0.0614,0.33,121.948,4
+223,"06ypiqmILMdVeaiErMFA91","The Beatles","Drive My Car - Remastered 2009",148893,"Rubber Soul (Remastered)",1,"1965-12-03",14,0.754,0.571,2,-8.547,1,0.0421,0.0173,0,0.3,0.82,122.463,4
+224,"2F4FNcz68howQWD4zaGJSi","The Tokens","The Lion Sleeps Tonight (Wimoweh)",162093,"Wimoweh!!! - The Best Of The Tokens",1,"1994-08-29",20,0.321,0.474,5,-9.383,1,0.0348,0.743,0,0.204,0.804,121.199,4
+225,"0JOw67rq2X6NDz5AJP9uIG","Elvis Presley","Hound Dog",133293,"Elvis 30 #1 Hits",3,"2002-09-24",31,0.343,0.884,5,-4.123,0,0.129,0.62,0.000673,0.497,0.94,177.751,4
+226,"5LI7PoHEolR8plrf3I16sq","Jimi Hendrix","Fire",163800,"Are You Experienced",8,"1967-05-12",17,0.479,0.944,9,-5.167,1,0.115,0.00206,0.0283,0.356,0.572,153.45,4
+227,"53g0wWZkXPiQPjqVuZ5TFS","Savoy Brown","Tell Mama",323733,"Street Corner Talking",1,"1971-01-01",8,0.527,0.687,2,-9.764,1,0.0541,0.0341,0.000633,0.07,0.672,133.465,4
+228,"4cRfSR0QxDlXRHTKyEOu93","Ritchie Valens","Come On, Let's Go",124586,"Ritchie Valens",3,"1959",12,0.616,0.724,9,-8.101,1,0.042,0.788,3.16e-06,0.128,0.809,81.402,3
+229,"4aVuWgvD0X63hcOCnZtNFA","TOTO","Hold the Line",235546,"Toto",9,"1978-10-10",10,0.473,0.898,6,-4.797,0,0.0561,0.00783,0.0618,0.173,0.808,96.556,4
+230,"1cnA8Zf6McVyoWTr8xf0Ml","Rainbow","Stargazer",506160,"Rising (Remastered)",5,"1976-01-01",6,0.166,0.948,11,-8.503,0,0.0631,0.00374,0.0131,0.769,0.476,177.495,4
+231,"4RS9PmtHQe7I0o5fEeweOY","Van Halen","Dance the Night Away - 2015 Remaster",188083,"Van Halen II (Remastered)",2,"1979-03-23",10,0.548,0.843,8,-7.32,1,0.0597,0.0373,1.26e-06,0.0536,0.719,129.661,4
+232,"436yrzQWA32vb1sTZKXg9r","Eagles","Witchy Woman - 2013 Remaster",250888,"Eagles (2013 Remaster)",2,"1972",10,0.555,0.568,2,-12.205,0,0.0341,0.364,0.00167,0.116,0.583,98.507,4
+233,"7suBouCmYPRdJjPWY6wZ70","Neil Diamond","Cracklin' Rosie - Single Version",179600,"Play Me: The Complete Uni Studio Recordings...Plus!",9,"2002-01-01",74,0.574,0.649,1,-9.965,1,0.0332,0.21,0,0.105,0.837,128.079,4
+234,"0Fau19QCs19VC7OWohMdzu","Little Richard","Tutti Frutti",143426,"The Georgia Peach",1,"1991-01-01",25,0.534,0.433,10,-10.135,1,0.0635,0.566,0,0.0514,0.963,184.899,4
+235,"3WRCKESTqynktaKOsYnjaC","Various Artists","Natural Born Bugie",253546,"Rock The Boat",18,"2009-04-13",20,0.656,0.563,2,-13.803,1,0.0307,0.0146,0.194,0.107,0.814,121.92,4
+236,"2oUeXNq3vYqB60LB1D219g","Status Quo","Rockin' All Over The World",217453,"Rockin' All Over The World",7,"1977",13,0.617,0.962,0,-5.314,1,0.0449,0.129,0.00171,0.511,0.968,131.434,4
+237,"18Aos30HP2cnt28mjrA1IB","Girlschool","Race With the Devil",171960,"Demolition",3,"1980",19,0.21,0.882,0,-6.942,0,0.111,0.000238,0.671,0.318,0.329,169.758,4
+238,"33iQW2OneB0oNh2NfrAzqW","Ramones","Blitzkrieg Bop - 2001 Remastered Version",133440,"Ramones (Expanded)",1,"1976-04-23",22,0.547,0.733,9,-6.558,1,0.0433,0.0103,0.131,0.117,0.962,176.198,4
+239,"05B7Kc8fvBlX0OWbE6piPZ","Steppenwolf","Magic Carpet Ride",271573,"The Second",7,"1968-10-01",12,0.64,0.651,4,-14.981,0,0.0517,0.142,0.28,0.0341,0.801,111.676,4
+240,"6pxWv6GV35VGmcPf5dh6CH","Creedence Clearwater Revival","Proud Mary",187213,"Bayou Country (Expanded Edition)",6,"1969-01-05",11,0.699,0.641,2,-7.564,1,0.0289,0.13,0.000218,0.0601,0.728,120.745,4
+241,"4bykJp7dORR4GoLCZiQbU0","ABBA","Take A Chance On Me",243933,"The Album",2,"1977",10,0.687,0.68,11,-7.976,1,0.0256,0.182,0,0.274,0.924,107.041,4
+242,"0fmNiN85g1XF1NemAGY7G2","Herb Alpert & The Tijuana Brass","Spanish Flea",126893,"!!!Going Places!!!",4,"1965-10-01",12,0.832,0.53,8,-11.55,1,0.0788,0.404,0.956,0.0669,0.867,81.673,4
+243,"0fsj3HxzBHev6EJ7OLFE3r","Foreigner","Double Vision",224533,"Double Vision (Expanded)",6,"1978",12,0.682,0.711,9,-7.637,0,0.0325,0.179,9.53e-05,0.126,0.766,129.546,4
+244,"7ndKzlNlcXK7ffM0Hrp6e5","Styx","Babe",268733,"Cornerstone",3,"1979-01-01",9,0.275,0.215,2,-13.697,1,0.031,0.563,0,0.0945,0.0776,166.568,4
+245,"0MrnTC66NtPZ6a5G9WzXla","Bachman-Turner Overdrive","Free Wheelin",227733,"Not Fragile",5,"1974",9,0.3,0.492,5,-15.14,1,0.0365,0.0156,0.86,0.121,0.852,170.951,3
+246,"3Am0IbOxmvlSXro7N5iSfZ","The Beatles","Strawberry Fields Forever - Remastered 2009",247320,"Magical Mystery Tour (Remastered)",8,"1967-11-27",11,0.39,0.502,10,-12.277,1,0.178,0.336,0.000138,0.0713,0.289,97.871,4
+247,"1p05oPK949iMluRXGakmER","Chris Norman","Stumblin' In",237266,"The Original Smokie Gold",1,"1975",32,0.757,0.61,7,-12.596,1,0.0405,0.0135,2.35e-05,0.351,0.867,129.285,4
+248,"69eihm0ByPDKtOnZ2B9mA7","Nick Gilder","Hot Child In The City - (Pre-Order Exclusive)",214960,"Hot Child In The City",1,"2001-01-01",12,0.799,0.71,4,-5.099,1,0.0397,0.0367,0.000372,0.12,0.767,110.732,4
+249,"5cP52DlDN9yryuZVQDg3iq","Bee Gees","Stayin' Alive - 2007 Remastered Version Saturday Night Fever",285373,"Saturday Night Fever [The Original Movie Soundtrack]",1,"1978-01-05",17,0.704,0.834,10,-7.131,0,0.0358,0.0291,0.00492,0.147,0.923,103.555,4
+250,"6WpLICh9bBL5C4DPjdK4XF","Sweet","The Ballroom Blitz",242200,"Sweet Fanny Adams",14,"1974-04",15,0.562,0.911,11,-5.968,0,0.0787,0.000721,0.000906,0.0387,0.797,108.82,4
+251,"36xZr5VTIBoFSblxHEE4TJ","Cream","Crossroads - Live At Winterland, San Francisco / 1968",258466,"Wheels Of Fire (Remastered)",1,"1968-07-01",13,0.393,0.697,7,-12.808,1,0.0558,0.389,0.0195,0.865,0.851,131.625,4
+252,"0rT9KyAEDNr0kbBL5Qfo8k","Boney M.","Brown Girl in the Ring",242093,"Nightflight to Venus",8,"1978",12,0.732,0.743,8,-7.083,1,0.0486,0.22,0.00154,0.0173,0.893,105.64,4
+253,"76ICmoJ4PcoMWoooaTxnQs","Wilson Pickett","Land of 1000 Dances",146973,"The Exciting Wilson Pickett",1,"1966",12,0.618,0.588,2,-11.624,1,0.0735,0.0128,0.0266,0.351,0.768,86.903,4
+254,"22ff60cZy4APp7bzESHLR8","The Trammps","Disco Inferno - Single Edit",191533,"Rhino Hi-Five: The Trammps",2,"2005-09-20",5,0.763,0.819,10,-4.78,1,0.036,0.0641,0.123,0.235,0.911,129.288,4
+255,"5Kv6uauw7rFFcqHjdkYjgG","Matt Monro","From Russia With Love",153626,"James Bond 007 13 Original Themes",2,"1983",13,0.283,0.23,2,-16.864,0,0.0299,0.798,0,0.393,0.277,87.529,4
+256,"2xar08Fq5xra2KKZs5Bw9j","Ray Charles","I've Got a Woman",171466,"Ray Charles (aka: Hallelujah, I Love Her So)",14,"1957-01-01",14,0.556,0.61,9,-4.729,1,0.213,0.833,2.22e-06,0.258,0.665,199.373,4
+257,"7mzXUAs3ElLqZr7CcDiUTJ","Wilbert Harrison","Let's Work Together",193986,"Big Fish (Music from the Motion Picture)",7,"2003-12-23",23,0.746,0.809,0,-8.752,1,0.0346,0.141,0,0.0612,0.877,118.946,4
+258,"0SvfyHYDp2uIsHt53LDlI9","Ted Nugent","Cat Scratch Fever",219400,"Cat Scratch Fever",1,"1977-04-12",12,0.549,0.916,4,-4.185,0,0.034,0.0049,0.123,0.104,0.632,127.131,4
+259,"4Kir60nu0v2dcBVSxVhCQc","Brian Hyland","Sealed with a Kiss",162666,"Sealed with a Kiss and All the Great Hits, 1960 - 1962",26,"2014-02-09",40,0.456,0.297,5,-12.186,0,0.0285,0.895,0,0.131,0.571,90.462,4
+260,"5OU4PqYhwypDsiviprGhSy","The Spinners","Medley: Working My Way Back to You / Forgive Me, Girl",243200,"Dancin' and Lovin'",4,"1979",6,0.84,0.777,9,-6.399,0,0.0451,0.469,3.58e-06,0.216,0.92,121.633,4
+261,"0DZwrC4QQOYqpcxCeZzwDg","AC/DC","Riff Raff",311880,"Powerage",4,"1978-05-05",9,0.179,0.978,9,-3.787,1,0.0945,0.00032,0.85,0.264,0.251,185.188,4
+262,"7MuESknZc28tXA8jrfvHfp","Heart","Barracuda",262853,"Little Queen",1,"1977-05-14",12,0.51,0.926,4,-4.073,0,0.0613,0.00368,0.0365,0.137,0.6,137.374,4
+263,"25yQPHgC35WNnnOUqFhgVR","The Beatles","Lucy In The Sky With Diamonds - Remastered 2009",208466,"Sgt. Pepper's Lonely Hearts Club Band (Remastered)",3,"1967-06-01",13,0.311,0.325,2,-9.042,1,0.0283,0.0469,0,0.139,0.668,65.09,1
+264,"3uiMBldZ07pW0ySHDX5gzE","Wings","Silly Love Songs - Remastered 2014",354240,"Wings At The Speed Of Sound (Archive Collection)",6,"1976-03-25",18,0.742,0.471,0,-10.767,1,0.0326,0.134,0.0903,0.284,0.815,124.95,4
+265,"3qT4bUD1MaWpGrTwcvguhb","Led Zeppelin","Black Dog - Remaster",295386,"Led Zeppelin IV (Deluxe Edition)",1,"1971-11-08",16,0.437,0.864,4,-7.842,0,0.0904,0.396,0.0314,0.242,0.749,81.394,4
+266,"2ew2oTQRXqEw4SPUq1r4qV","Chris Montez","Let's Dance",133712,"Let's Dance (1962 Original Vintage Record)",1,"2013-08-07",2,0.615,0.91,7,-7.68,1,0.135,0.668,0.00019,0.106,0.895,156.51,4
+267,"5MxNLUsfh7uzROypsoO5qe","Aerosmith","Dream On",266960,"Aerosmith",3,"1973-01-05",8,0.307,0.433,1,-10.057,1,0.029,0.388,9.08e-05,0.332,0.224,160.9,4
+268,"6l8BhUGXyQWFGWJY5tohDC","The Doors","Light My Fire - 2017 Remaster",430453,"The Doors (50th Anniversary Deluxe Edition)",6,"2017-03-31",30,0.407,0.565,3,-11.487,0,0.0322,0.361,0.000142,0.105,0.502,125.096,4
+269,"2YEL7oERMj7nAJGjoAV9Hs","Chuck Berry","You Never Can Tell",161500,"St. Louis to Liverpool",6,"1964",15,0.526,0.852,7,-9.519,1,0.222,0.731,5.11e-05,0.241,0.884,157.403,4
+270,"5UuikgHTxSRFRnC0zXx10i","Jethro Tull","Aqualung",396186,"Aqualung (Special Edition)",1,"1971-03-19",14,0.477,0.479,7,-11.887,0,0.0483,0.0649,0.029,0.0906,0.662,122.531,4
+271,"5K8gqK84cFZV1dFJAMC0jU","UFO","Doctor Doctor",252453,"Phenomenon",3,"1974",16,0.298,0.799,2,-6.962,0,0.0464,0.000168,9.42e-05,0.496,0.561,143.072,4
+272,"7uxSSO9jpC5rsWCP5whwg0","Thin Lizzy","The Rocker",315306,"Vagabonds Of The Western World",4,"1973",12,0.26,0.828,2,-12.406,1,0.127,0.0709,0.000133,0.291,0.574,144.678,4
+273,"10LRRKPmx8uHcSxLVWK0ct","Rod Stewart","Tonight's the Night (Gonna Be Alright) - 2009 Remaster",237120,"A Night on the Town (Deluxe Edition)",1,"1976",22,0.551,0.514,11,-12.617,1,0.0524,0.336,0.125,0.382,0.721,136.547,3
+274,"4uTTd2SlalZoG0zVgI63kH","America","Tin Man",209866,"Holiday",2,"1974",12,0.646,0.531,7,-10.785,1,0.0671,0.528,0.0133,0.0836,0.655,172.02,4
+275,"2fmMPJb5EzZCx8BcNJvVk4","War","Low Rider",191560,"Why Can't We Be Friends?",7,"1975-01-01",9,0.811,0.647,0,-10.989,1,0.0498,0.0823,0.681,0.0572,0.99,139.787,4
+276,"1kCdX5Bd9NKKIytGl5uboz","Donna Summer","Hot Stuff",315744,"Bad Girls [Deluxe Edition (International Version)]",1,"1979-04-25",25,0.84,0.898,0,-6.92,1,0.0325,0.0143,0.036,0.0699,0.965,120.331,4
+277,"5LFHzClCZ3ys5srNgceg6H","B.B. King","You Upset Me Baby",184200,"Singin' the Blues",2,"1956",20,0.679,0.6,0,-4.16,1,0.122,0.937,0.0023,0.262,0.726,116.352,4
+278,"48i055G1OT5KxGGftwFxWy","Roy Orbison","Oh, Pretty Woman",178933,"Oh, Pretty Woman",1,"1962",12,0.619,0.603,9,-9.481,1,0.0342,0.712,0,0.0721,0.958,127.433,4
+279,"5uUit0306tZmk2mdljYscl","The Surfaris","Wipe Out",138400,"Wipe Out (Original Album Plus Bonus Tracks)",1,"2013-09-21",14,0.338,0.777,0,-6.916,1,0.0365,0.237,0.879,0.379,0.433,154.174,4
+280,"7pKfPomDEeI4TPT6EOYjn9","John Lennon","Imagine - Remastered 2010",187866,"Imagine",1,"1971-09-09",10,0.547,0.257,0,-12.358,1,0.0252,0.907,0.183,0.0935,0.169,75.752,4
+281,"5jtKi7F4fweK8wgeK646Qp","Uriah Heep","Easy Livin'",154973,"Demons and Wizards (Expanded Deluxe Edition)",3,"1972",14,0.263,0.807,9,-8.617,0,0.0843,8.21e-06,0.296,0.13,0.461,160.479,4
+282,"6JGGbX4EJ39tQO8eupxdAL","Baccara","Yes Sir, I Can Boogie",273933,"The Original Hits",11,"1990-03-02",11,0.453,0.676,2,-10.503,1,0.0702,0.143,1.8e-06,0.145,0.518,122.483,4
+283,"2P7eWenWNWJShoJzPawt9Y","The Rolling Stones","Honky Tonk Women - Mono Version",179426,"Through The Past Darkly (Big Hits Vol.2) [Remastered]",7,"1969-09-12",11,0.567,0.767,7,-6.59,1,0.0641,0.387,0.0427,0.0905,0.965,120.205,4
+284,"6n4ZzVvzIrCGlrFJzPMdsZ","James Brown & The Famous Flames","I Got You (I Feel Good)",165800,"I Got You (I Feel Good)",1,"1966-01-01",12,0.654,0.475,0,-8.617,1,0.0943,0.366,2.96e-06,0.302,0.684,71.826,3
+285,"0pRBe5fl0ZuoWhdEcAIbXS","Black Sabbath","Sabbath Bloody Sabbath",346637,"Sabbath Bloody Sabbath (Remastered)",1,"1973-12-01",8,0.359,0.623,1,-9.653,0,0.0352,0.368,6.73e-05,0.0675,0.521,137.775,4
+286,"5uuJruktM9fMdN9Va0DUMl","Wild Cherry","Play That Funky Music",300000,"Wild Cherry",1,"1976",9,0.814,0.672,9,-12.068,1,0.0619,0.0435,0,0.061,0.933,109.394,4
+287,"3m7V717IKZqZLW5qUIOxdD","The Beatles","Hey Jude - Remastered 2009",431333,"The Beatles 1967 - 1970 (Remastered)",13,"1973-04-02",28,0.402,0.552,10,-10.158,1,0.0258,0.028,1.36e-05,0.0929,0.668,145.164,4
+288,"34E0Higz6fFVXlbVsn6TIW","Billy Joel","Honesty",233506,"52nd Street",2,"1978-10-13",9,0.552,0.265,10,-15.482,1,0.0332,0.415,0,0.107,0.212,135.476,4
+289,"0SCmnrMDiBO9Z5tF1qzNgp","The Kinks","You Really Got Me - Mono LP With Reverb",134533,"Kinks (Deluxe Edition)",7,"1964-10-02",56,0.541,0.987,1,-2.453,1,0.0977,0.156,0.000174,0.141,0.933,137.678,4
+290,"6Vcwr9tb3ZLO63F8DL8cqu","Bob Dylan","Tangled up in Blue",341626,"Blood On The Tracks",1,"1975-01-17",10,0.421,0.661,9,-13.126,1,0.0433,0.414,1.16e-06,0.0962,0.554,100.965,4
+291,"3k1cJRNuOZ5Z2SM7RxlTtR","Creedence Clearwater Revival","Who'll Stop The Rain",147493,"Cosmo's Factory (40th Anniversary Edition)",9,"1970-07-25",14,0.601,0.803,7,-6.79,1,0.0324,0.0451,0.000449,0.0726,0.664,123.567,4
+292,"0g6UcrVsACnRJyTGX6uSHu","The Spencer Davis Group","Gimme Some Lovin' - Single Mix",173973,"Keep On Running",2,"1991-01-01",17,0.493,0.688,7,-8.143,1,0.0321,0.0126,0.256,0.38,0.533,147.403,4
+293,"7nXZCcFAy1oCKQG2SqLszv","Carpenters","We've Only Just Begun",184426,"Close To You",1,"1970-01-01",12,0.373,0.287,9,-13.461,1,0.0306,0.749,9.41e-06,0.102,0.317,86.467,4
+294,"4yugZvBYaoREkJKtbG08Qr","Eagles","Take It Easy - 2013 Remaster",211577,"Eagles (2013 Remaster)",1,"1972",10,0.575,0.67,7,-10.39,1,0.0318,0.343,4.95e-06,0.129,0.74,139.191,4
+295,"0JjT1aIca4wbwP05qw5Qyf","The Mamas & The Papas","Dream A Little Dream Of Me - Album Version With Introduction",194840,"Universal Masters Collection",7,"1999-01-01",16,0.461,0.362,7,-11.452,1,0.0521,0.826,3.28e-06,0.0793,0.308,134.783,3
+296,"5KqldkCunQ2rWxruMEtGh0","Kenny Rogers","The Gambler",214880,"The Gambler",1,"1978-11-20",11,0.671,0.501,4,-13.119,1,0.0594,0.342,0,0.194,0.86,87.04,4
+297,"7990Xs9HQx7FXVIDVPEwj9","KISS","Rock And Roll All Nite",168733,"Dressed To Kill (Remastered Version)",10,"1975-03-19",10,0.656,0.931,1,-5.827,1,0.0976,0.046,0,0.0543,0.909,144.747,4
+298,"7mtPUGrZxOFKV9BRZDTqL1","The Platters","Only You (And You Alone)",162053,"Only You (And You Alone) [Mercury Singles 1955 - 1957]",1,"2012-10-03",18,0.432,0.255,3,-11.511,1,0.0314,0.933,0,0.0952,0.332,79.312,3
+299,"2YwiE0KVhqwIiT4OfT0SFk","Leo Sayer","When I Need You",255040,"Endless Flight",4,"1976",10,0.617,0.335,1,-8.114,1,0.0303,0.385,2.37e-05,0.126,0.115,109.577,3
+300,"5NR2RuQ5rQplGLaKS7ZwAu","ZZ Top","Arrested for Driving While Blind",186586,"Tejas",2,"1976-11-29",10,0.553,0.672,2,-10.917,0,0.0438,0.215,0.0127,0.103,0.582,137.414,4
+301,"5tU9JM1v72X7oM808Am6Fq","Golden Earring","Radar Love",386706,"Moontan",4,"1973",6,0.504,0.719,1,-9.155,0,0.0431,0.00878,0.00149,0.075,0.177,102.144,4
+302,"7D92tMKEuyV4Vh0dGTkMI5","The Wailers","I Shot The Sheriff",279720,"Burnin' (Deluxe Edition)",3,"1973-10-19",27,0.801,0.641,8,-9.349,1,0.173,0.34,4.5e-05,0.0693,0.741,96.96,4
+303,"5u6y4u5EgDv0peILf60H5t","Santana","Oye Como Va",256933,"Abraxas",3,"1970-09-23",9,0.736,0.379,7,-13.208,1,0.0539,0.301,0.345,0.104,0.948,128.399,4
+304,"6qpTh8eRZ4wPycoRZvbWnd","The Rivieras","California Sun",146133,"California Sun - the Best of the Rivieras",1,"1963",24,0.411,0.874,3,-8.72,1,0.0427,0.4,0.0887,0.113,0.965,169.464,4
+305,"1XGAxBPuIMGSoCcV71V36R","UFO","Rock Bottom - 2007 Remastered Version",389333,"Phenomenon",5,"1974",16,0.256,0.863,5,-6.582,1,0.106,3.48e-05,0.00405,0.364,0.521,158.947,4
+306,"0LQh4vTjaXiWIlr6pWiHqV","Fats Domino","Blueberry Hill",142026,"This Is Fats Domino",1,"2012-08-31",14,0.534,0.408,11,-10.307,1,0.0269,0.681,0,0.176,0.724,136.814,3
+307,"1Vr6JSWTpl5MIxUHOJ3nny","Johnny Cash","I Walk the Line",163045,"With His Hot and Blue Guitar",9,"1957-10-11",12,0.862,0.484,10,-11.183,1,0.0421,0.798,0.000996,0.105,0.787,105.834,4
+308,"2BstRQGodshjGpeDGQiNgo","Steely Dan","Do It Again",356733,"Can't Buy A Thrill",1,"1972-01-01",10,0.682,0.537,2,-10.254,0,0.0323,0.218,3.07e-05,0.0556,0.963,124.574,4
+309,"2YIqO6IoUn29XrpaTBaHsd","The Del-Vikings","Come Go with Me",156038,"Heavenly Hits and More",1,"2013-03-05",26,0.544,0.672,5,-6.289,0,0.0391,0.788,0,0.114,0.448,131.881,4
+310,"73HSIWZlSCfs4tqVkrGv7H","Hawkwind","Silver Machine - Live at the Roundhouse London; 1996 Remaster",279973,"In Search of Space",8,"1971",9,0.31,0.874,1,-11.889,1,0.152,0.000416,0.712,0.0695,0.096,131.717,4
+311,"2tEJVW248CzivpnFrfSLFn","AC/DC","Let There Be Rock",366360,"Let There Be Rock",3,"1977-03-21",8,0.494,0.741,11,-5.81,0,0.0914,0.000177,0.525,0.0519,0.396,91.044,4
+312,"0uwA8J5co4NbhcMQuCKVYz","Santo & Johnny","Sleepwalk",145171,"Sleepwalk - The First Two Albums",6,"2011-09-28",24,0.625,0.239,10,-14.346,0,0.0255,0.833,0.875,0.11,0.49,95.166,3
+313,"7CZiDzGVjUssMSOXrDNYHL","The Beatles","Ticket To Ride - Remastered 2009",189680,"Help! (Remastered)",7,"1965-08-06",14,0.519,0.85,9,-6.777,1,0.0678,0.0457,0,0.233,0.749,123.419,4
+314,"0wz1LjDb9ZNEYwOmDJ3Q4b","The Beach Boys","Surfin' U.S.A. - Remastered 2001",149373,"Surfin' USA (Remastered)",1,"1963-03-25",12,0.55,0.854,3,-5.968,1,0.036,0.661,0,0.112,0.965,159.231,4
+315,"2c1ccPqUnFYD8W7LY65bKG","Deep Purple","Black Night - 1995 Remaster",209400,"Deep Purple in Rock (Anniversary Edition)",8,"1970-06-03",20,0.507,0.886,9,-8.889,1,0.0873,0.0546,0.363,0.0919,0.826,134.719,4
+316,"3FmAUR4SPWa3P1KyDf21Fu","The Police","Roxanne - Remastered 2003",191500,"Outlandos D'Amour (Remastered)",3,"1978-11-02",10,0.618,0.748,0,-8.905,1,0.361,0.0384,4.1e-06,0.0477,0.662,134.001,4
+317,"2c6BNK8IQjsFdUznUBDe4N","ABBA","S.O.S.",205466,"Abba",4,"1975",13,0.417,0.723,5,-5.568,1,0.0286,0.245,0.000942,0.249,0.473,125.102,4
+318,"4zzXm1QJQXWLyUfFhWZBRg","Elvis Presley","Don't Be Cruel",122866,"Elvis 30 #1 Hits",2,"2002-09-24",31,0.68,0.675,2,-7.998,1,0.191,0.772,0,0.069,0.805,84.967,4
+319,"1qLkTAzxVkneRbIcIAvgEA","Ian Whitcomb","You Turn Me On",163666,"You Turn Me On! Ian Whitcomb's Mod, Mod Music Hall",1,"2005-11-18",27,0.738,0.804,10,-8.55,1,0.0395,0.254,0.00755,0.0608,0.924,94.015,4
+320,"7EjyzZcbLxW7PaaLua9Ksb","The Trashmen","Surfin' Bird",137133,"Full Metal Jacket (Original Motion Picture Soundtrack)",7,"1987-08-04",15,0.564,0.959,11,-13.125,0,0.0691,0.0146,0.638,0.208,0.834,101.239,4
+321,"2pbWkjtGtjkzBdZ95GFINm","Rose Royce","Car Wash - Long Version",307573,"Car Wash",1,"1976-01-01",19,0.667,0.521,9,-13.212,0,0.115,0.202,6.55e-05,0.0723,0.856,117.917,4
+322,"6sMGNw1E4q79DoAFGDCYuD","Led Zeppelin","Good Times Bad Times - Remaster",166106,"Led Zeppelin (Deluxe Edition)",1,"1969-01-12",17,0.445,0.703,9,-9.783,1,0.0859,0.0828,2.73e-06,0.0782,0.633,93.199,4
+323,"5nbNdS5SKdpiDZjCBh8W7b","T. Rex","Get It On",262613,"Electric Warrior (Deluxe Edition)",6,"1971-09-24",37,0.728,0.878,11,-6.926,0,0.0564,0.176,0.856,0.61,0.911,126.59,4
+324,"5gfn8jYgQlSbSHwDkVeHkP","Paper Lace","The Night Chicago Died",192146,"One Hit Wonders",3,"2003-07-01",18,0.774,0.585,0,-9.679,1,0.036,0.0829,0,0.155,0.662,109.731,4
+325,"6vcNJUWtUPB0hKC6VbZriY","Scott McKenzie","San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",178506,"San Francisco",1,"1967-07-16",11,0.525,0.52,7,-11.725,1,0.0271,0.538,0.00569,0.111,0.523,112.554,4
+326,"7a3g7jILDCvADVN9NQIyYj","Herb Alpert & The Tijuana Brass","This Guy's In Love With You",239733,"The Beat Of The Brass",11,"1968-05-01",11,0.635,0.167,1,-12.998,1,0.0403,0.858,0.000999,0.213,0.246,83.768,4
+327,"5UwbnHhjnbinJH8TefuQfN","The Hollies","Long Cool Woman (In a Black Dress) - 1999 Remaster",199200,"Distant Light (1999 Remaster)",7,"1971-10-08",11,0.757,0.868,9,-9.326,1,0.062,0.411,0.00221,0.355,0.815,138.923,4
+328,"6qfIne1xNg5GDcmg73x0N8","Buddy Holly","Everyday - Single Version",129120,"Buddy Holly",7,"1958-02-01",17,0.747,0.219,3,-12.562,1,0.0371,0.584,2.57e-05,0.107,0.498,135.562,4
+329,"65vdMBskhx3akkG9vQlSH1","The Beatles","And I Love Her - Remastered 2009",149693,"A Hard Day's Night (Remastered)",5,"1964-07-10",13,0.767,0.331,1,-10.777,0,0.0337,0.64,0,0.0681,0.636,113.312,4
+330,"37jorMjJhyf20GU3blbbPh","Fleetwood Mac","Rhiannon - 2017 Remaster",250360,"Fleetwood Mac (Deluxe Edition)",4,"1975-07-11",46,0.728,0.598,9,-10.251,0,0.0284,0.224,0.142,0.0988,0.797,129.516,4
+331,"3T6R0ppqCnUW6iJhtUYhO3","Supertramp","The Logical Song - Remastered 2010",251253,"Breakfast In America (Deluxe Edition)",2,"1979-03-29",22,0.625,0.758,5,-6.213,0,0.0463,0.512,0.00022,0.153,0.695,119.719,4
+332,"2OUd03ZVU4iNMhuMUIXiny","Nazareth","Hair of the Dog",251133,"Hair Of The Dog",1,"2010-02-15",16,0.633,0.807,4,-5.535,1,0.0493,0.0073,0.345,0.0802,0.562,127.979,4
+333,"2KmEgiY8fQs0G6WNxtzQKr","The Who","Baba O'Riley",300400,"Who's Next (Deluxe Edition)",1,"1971-08-14",29,0.489,0.724,5,-8.367,1,0.0352,0.313,0.185,0.287,0.15,117.292,4
+334,"0VDUNaQP6tcM5ZzfcgNLmL","Chuck Berry","Rock And Roll Music",151773,"One Dozen Berry's",9,"1957-01-01",12,0.524,0.785,8,-6.118,1,0.0467,0.44,0.00125,0.0565,0.914,165.799,4
+335,"5NrV5IwDOFcXHHUFTB8BUy","Johnny Nash","I Can See Clearly Now",166786,"I Can See Clearly Now (Expanded Edition)",7,"1972-09-23",14,0.591,0.53,7,-8.905,1,0.0371,0.318,0.00558,0.0938,0.556,123.899,4
+336,"4J0DbyODwZJcmIAiTSJfMF","John Denver","Annie's Song",180693,"Back Home Again",7,"1974-06-15",14,0.304,0.305,2,-10.879,1,0.0298,0.871,0.00368,0.367,0.464,146.066,3
+337,"4cIPLtg1avt2Jm3ne9S1zy","Queen","Killer Queen - Remastered 2011",179600,"Sheer Heart Attack (Deluxe Edition 2011 Remaster)",2,"1974-11-08",18,0.535,0.651,10,-6.326,1,0.0544,0.391,0,0.133,0.612,117.218,4
+338,"2M2WJ7gBlcKNxdhyfPp9zY","The Emotions","Best of My Love",220560,"Rejoice",1,"1977-06-10",9,0.784,0.713,0,-6.865,1,0.0339,0.447,0.14,0.0904,0.97,115.443,4
+339,"6MdsjEyOvAcuq6FbsVflBW","Creedence Clearwater Revival","I Put A Spell On You",271786,"Creedence Clearwater Revival (40th Anniversary Edition)",1,"1968-07-05",12,0.395,0.743,9,-8.153,0,0.0301,0.00428,0.176,0.0975,0.653,103.729,4
+340,"18KP8njxEYDcigx52VfB7P","Black Sabbath","Snow Blind",326328,"Black Sabbath Vol. 4 (Remastered)",6,"1972-09-25",10,0.44,0.751,6,-12.133,1,0.0379,0.000192,0.0102,0.0865,0.6,116.875,4
+341,"10pcZvQ4QTKeHRvTUAeHVD","Captain & Tennille","Love Will Keep Us Together",203600,"Scrapbook",8,"1999-01-01",14,0.681,0.554,4,-10.333,1,0.0343,0.476,0,0.167,0.933,129.587,4
+342,"1bYItjcPRtxZs6Ir71O5RB","Tony Bennett","(I Left My Heart) In San Francisco",170960,"I Left My Heart In San Francisco",1,"1962-06-18",12,0.313,0.078,0,-17.583,1,0.0332,0.955,4.48e-06,0.169,0.125,128.065,4
+343,"4DMKwE2E2iYDKY01C335Uw","Kansas","Carry on Wayward Son",323000,"Leftoverture (Expanded Edition)",1,"1976",10,0.482,0.786,7,-5.735,1,0.032,0.00321,8.88e-05,0.446,0.793,126.755,4
+344,"08NLAJTO0CBHd2XLHgLxvX","Stealers Wheel","Stuck In The Middle With You",203333,"Reservoir Dogs (Soundtrack)",11,"1992-01-01",16,0.786,0.549,7,-10.485,1,0.0395,0.0851,0.000295,0.106,0.965,124.139,4
+345,"22PF8SAFCbxD0yFbIhbXyD","Jerry Lee Lewis","Great Balls of Fire",113449,"Whole Lotta Shakin' Goin' On (Singles 1957 - 1958)",5,"2012-05-18",19,0.579,0.652,7,-9.941,0,0.0687,0.566,0,0.165,0.901,79.577,4
+346,"5eQCkMjULSswZ5rI2jGpk0","Millie Small","My Boy Lollipop",119066,"My Boy Lollipop",1,"2011-11-01",30,0.635,0.651,2,-7.921,1,0.0397,0.0494,0,0.217,0.962,132.154,4
+347,"5x57OIMU76rlcmymp70KPr","Terry Jacks","Seasons in the Sun",205706,"The Best Year Of My Life: 1974",2,"2010-04-30",20,0.598,0.562,6,-8.464,1,0.0362,0.199,0,0.0724,0.942,100.051,4
+348,"3oEo8Pqm5IAi8wQfCI5BpR","The Beatles","Yellow Submarine - Remastered 2009",159720,"Yellow Submarine (Remastered)",1,"1969-01-17",13,0.605,0.536,1,-10.069,1,0.0421,0.518,0,0.528,0.688,110.849,4
+349,"3E5ndyOfO6vFDEIE42HA8o","Bobby Darin","Mack the Knife",184333,"That's All",1,"1959",12,0.549,0.529,3,-12.291,0,0.108,0.76,0,0.206,0.464,82.755,4
+350,"0CmIALzGn4vHIHJG4n3Q4z","Etta James","At Last - Single Version",182400,"At Last!",7,"1960",14,0.168,0.326,5,-9.981,1,0.0324,0.721,0.0006,0.316,0.322,174.794,3
+351,"7pVCDLSCUjVUYHp3ssV3uM","Manfred Mann","Do Wah Diddy Diddy - 2007 Remastered Version",143786,"Manfred Mann - Down The Road Apiece (Their EMI Recordings 1963-1966)",25,"2007-08-13",97,0.66,0.581,4,-7.626,1,0.0475,0.274,0,0.0603,0.952,125.482,4
+352,"3tXzOcxvj5XAjwiTiRWUGP","Bad Company","Can't Get Enough (Remastered Album Version)",254400,"Bad Company",1,"1974",8,0.662,0.763,0,-7.475,1,0.0397,0.132,0.0013,0.067,0.699,126.333,4
+353,"22CIOfLZB9z8He7WgHYAgH","Eddie Money","Two Tickets to Paradise",237093,"Eddie Money",1,"1977",10,0.623,0.68,2,-13.255,1,0.0282,0.0056,0.000425,0.148,0.737,129.713,4
+354,"5SI6jYhKUWm1qnaheTm4Zw","10cc","Dreadlock Holiday",267946,"Bloody Tourists",1,"1978",13,0.837,0.38,7,-13.341,0,0.064,0.541,0.00789,0.198,0.892,104.995,4
+355,"5pTWpY8l7B1XcQnijEFGFj","The Rolling Stones","Miss You - Remastered",288666,"Some Girls (Deluxe Version)",1,"1978-06-09",22,0.795,0.71,9,-4.746,0,0.0392,0.443,0.0215,0.344,0.845,109.689,4
+356,"57qlkytk7LUfbQcSG1n4c5","Rick Derringer","Rock and Roll, Hoochie Koo",222426,"All American Boy",1,"1973",12,0.474,0.857,2,-10.74,1,0.0835,0.211,0.0371,0.0565,0.495,199.503,4
+357,"1TrLfr2D5kA6Pm2e40A1Ak","AC/DC","It's A Long Way To The Top (If You Wanna Rock 'N' Roll)",301266,"High Voltage",1,"1976-05-14",9,0.449,0.87,3,-3.537,1,0.0853,0.124,0.0893,0.0553,0.532,135.796,4
+358,"6yLIqXX9edg1x0HZS7cZEv","The Hollies","The Air That I Breathe - 2008 Remaster",257106,"Hollies",11,"1974-03-01",16,0.279,0.473,4,-8.375,0,0.0309,0.242,0.00164,0.158,0.246,167.792,4
+359,"5D2eCwqbHcqOnfHOCM6TnV","Alice Cooper","No More Mr. Nice Guy",187893,"Billion Dollar Babies (Deluxe Reissue)",6,"1973",24,0.498,0.515,11,-11.985,0,0.0395,0.0936,0,0.1,0.616,127.761,4
+360,"1LpZAbTRcP46SqdJXCPIl9","The Cure","Killing An Arab",141800,"Staring At The Sea - The Singles",1,"1986-01-01",17,0.694,0.472,11,-15.764,0,0.562,0.00471,0.000127,0.178,0.488,167.534,4
+361,"0B3hFXFOlbIPt942VGdNfb","Bachman-Turner Overdrive","You Ain't Seen Nothing Yet",237506,"Not Fragile",4,"1974",9,0.474,0.442,11,-15.049,0,0.0423,0.000146,0.000212,0.213,0.773,118.362,4
+362,"1gJOqXpRjz9GeEEwQpcujK","Joe Cocker","You Are So Beautiful",159640,"I Can Stand A Little Rain",7,"1974-01-01",10,0.297,0.182,1,-10.944,1,0.0298,0.846,0.00267,0.134,0.092,83.391,3
+363,"2G7woUgHMt6QBU7esQ5rsL","Led Zeppelin","Immigrant Song - Remaster",146250,"Led Zeppelin III (Deluxe Edition)",1,"1970-10-05",19,0.564,0.932,11,-10.068,1,0.0554,0.013,0.169,0.349,0.619,112.937,4
+364,"0sDqo9UPzPUtu9wEkI3zRB","The Band","The Weight - Remastered",278626,"Music From Big Pink (Expanded Edition)",5,"1968-07-01",20,0.63,0.519,9,-10.997,1,0.0528,0.225,4.3e-06,0.0974,0.502,143.942,4
+365,"0GvAi1lFRDLXkPr9Y7WFkD","Yusuf / Cat Stevens","Morning Has Broken",200000,"Teaser and the Firecat (Deluxe Edition)",7,"1971",20,0.424,0.321,7,-13.162,1,0.0312,0.622,0.0196,0.0903,0.405,133.126,3
+366,"5p3JunprHCxClJjOmcLV8G","Lou Reed","Walk On the Wild Side",254173,"Transformer",5,"1972-12-01",11,0.575,0.318,0,-16.729,1,0.109,0.683,0.000202,0.0934,0.385,104.522,4
+367,"3Ozw9lFrJlUUt1e8cGwpaz","Allman Brothers Band","Ramblin' Man",288160,"Brothers And Sisters (Super Deluxe)",2,"1973-09",33,0.305,0.827,1,-8.303,1,0.0361,0.491,0.0019,0.281,0.925,178.938,4
+368,"02gV5Zc9ctbZxD1uTNIok5","Harry Nilsson","Without You - Remastered",203000,"Nilsson Schmilsson",6,"1971",16,0.453,0.213,4,-13.656,1,0.0279,0.554,3.68e-06,0.0506,0.0955,64.177,4
+369,"4UbAM9UxV1CQqRaV7xsvDq","Ramones","We're a Happy Family - 2002 Remaster",160160,"Rocket to Russia (Expanded 2005 Remaster)",7,"1977-11-04",19,0.435,0.931,4,-6.696,1,0.03,0.001,0.478,0.672,0.905,184.572,4
+370,"5Fwif6oyL2EjXAFTGL909U","Tom Jones","It's Not Unusual",119266,"The Best Of Tom Jones 20th Century Masters The Millennium Collection",1,"2000-01-01",12,0.506,0.701,0,-8.434,1,0.0483,0.606,0,0.196,0.901,91.664,4
+371,"3sb66av9ZpdI1JmPDHVa18","David Bowie","Space Oddity - 2009 Remastered Version",317026,"Space Oddity [Space Oddity 40th Anniversary Edition]",1,"1969-11-04",24,0.337,0.365,0,-15.091,1,0.0318,0.0788,3.84e-05,0.202,0.497,136.264,4
+372,"0T2gGDu1fAUMblR6WtjqB1","Cream","Strange Brew",166280,"Disraeli Gears (Deluxe Edition)",1,"1967-11-02",40,0.603,0.563,2,-9.932,1,0.0283,0.47,1.04e-05,0.29,0.642,106.431,4
+373,"3CPeWqqaHR0hmyfsWhMJQs","Fleetwood Mac","Don't Stop - 2004 Remaster",193346,"Rumours (Super Deluxe)",4,"1977-02-04",58,0.672,0.72,9,-7.781,1,0.035,0.0373,9.38e-06,0.0371,0.828,118.731,4
+374,"0i7O5MtSTXvR4BEY7stpjF","The McCoys","Hang On Sloopy",231800,"Hang On Sloopy: The Best Of The McCoys",2,"1995-06-06",22,0.765,0.516,7,-12.099,1,0.0334,0.167,0,0.0723,0.936,115.248,4
+375,"7bx4zW72qdZKBb8p6g80jb","Plastic Bertrand","Ça Plane Pour Moi",179506,"Ça Plane Pour Moi",2,"2008-05-27",16,0.489,0.788,10,-11.654,1,0.0452,0.176,7.98e-05,0.196,0.88,165.877,4
+376,"1pViOt8zA2rl2NfHeDGnyD","John Travolta","You're The One That I Want",169840,"Grease",4,"1978-09-14",24,0.758,0.612,0,-11.403,1,0.0598,0.281,0.00288,0.0954,0.822,106.945,4
+377,"44JITu0xanJn3TLMQZJw0G","Santana","She's Not There",249026,"Moonflower",1,"1977-10-01",16,0.477,0.697,0,-7.878,1,0.0387,0.403,0.262,0.311,0.832,130.365,4
+378,"6uOnSrDg5Rfgil2zUGdyV0","KISS","Strutter",192333,"Kiss (Remastered Version)",1,"1974-02-18",10,0.511,0.914,1,-5.634,1,0.0598,0.0224,0.0462,0.0995,0.814,131.314,4
+379,"7J8A3XOuGFnGheoSsHUXC8","Blue Cheer","Summertime Blues",227040,"Vincebus Eruptum",1,"1968-01-01",6,0.458,0.472,7,-11.87,0,0.0455,0.667,7.29e-05,0.203,0.597,138.652,4
+380,"1ZYb5jmfbCMdkGZrajawqX","Creedence Clearwater Revival","Travelin Band",127493,"Cosmo's Factory (40th Anniversary Edition)",3,"1970-07-25",14,0.52,0.923,6,-6.529,1,0.0523,0.0217,0.0602,0.156,0.952,166.264,4
+381,"1HOMkjp0nHMaTnfAkslCQj","The Knack","My Sharona",295400,"Get The Knack",7,"1979-01-01",12,0.586,0.7,0,-9.558,1,0.0363,0.0589,0.00125,0.0318,0.897,147.245,4
+382,"5mXz9WHwtBeLhv0zhkinMV","Los Indios Tabajaras","Maria Elena",190160,"Los Indios Tabajaras",1,"2000-11-25",24,0.676,0.174,11,-15.964,1,0.0452,0.965,0.858,0.126,0.596,84.066,4
+383,"0M3S5KQewKAaXZb19gGqnh","Elvis Presley","All Shook Up",118066,"Elvis 30 #1 Hits",6,"2002-09-24",31,0.665,0.668,10,-6.356,1,0.168,0.837,0,0.192,0.938,73.851,4
+384,"4r797jYkY09ilTg5SMCTnu","The Beatles","Let It Be - 2021 Mix",243173,"Let It Be (Super Deluxe)",6,"2021-10-15",57,0.407,0.413,0,-8.129,1,0.0302,0.332,4.49e-06,0.107,0.556,144.338,4
+385,"6l8EbYRtQMgKOyc1gcDHF9","Simon & Garfunkel","Bridge Over Troubled Water",293120,"Bridge Over Troubled Water",1,"1970-01-26",11,0.149,0.206,3,-13.888,1,0.0323,0.822,0.000649,0.115,0.264,79.764,4
+386,"1AjNo41wWxXVTlgPSpTTIt","Rainbow","Catch The Rainbow",396466,"Ritchie Blackmore's Rainbow (Remastered)",4,"1975-01-01",9,0.32,0.412,4,-12.75,0,0.0316,0.188,0.0339,0.0644,0.282,132.986,4
+387,"6xMHglHoafdDFGXS6qfwSH","Foreigner","Hot Blooded",268693,"Double Vision (Expanded)",1,"1978",12,0.705,0.806,0,-4.83,1,0.0814,0.229,0,0.0676,0.763,117.945,4
+388,"1xOXXYh6lTW8laxlW7JP2J","Billy Joel","Only the Good Die Young",235560,"The Stranger (Legacy Edition)",6,"1977",21,0.579,0.872,0,-6.126,1,0.159,0.159,0,0.0935,0.761,76.214,4
+389,"61NS6bXK93OwVlKb1ZTtBv","Nazareth","This Flight Tonight",203840,"Loud 'N' Proud",6,"1974",12,0.508,0.653,7,-6.645,1,0.0409,0.00552,0.225,0.128,0.625,134.071,4
+390,"6zGDIDjfDkPyNxrEERO3XG","ZZ Top","Tush - 2006 Remaster",137933,"Fandango! (Expanded 2006 Remaster)",9,"1975-04-18",12,0.58,0.885,0,-5.154,0,0.0715,0.1,0.00157,0.146,0.788,145.405,4
+391,"4nuPrKithHbRJXuA9spwu4","Frankie Valli & The Four Seasons","December, 1963 (Oh, What a Night)",201093,"December, 1963 (Oh, What a Night) / Slip Away",1,"1975",2,0.729,0.6,1,-9.527,1,0.0255,0.0663,7.86e-06,0.0382,0.964,104.414,4
+392,"2bKYRpXeCquRfWYjYqHU4k","Player","Baby Come Back",253204,"Player",2,"1977",10,0.579,0.654,5,-9.449,0,0.059,0.0161,3.98e-06,0.121,0.635,155.484,4
+393,"2nwCO1PqpvyoFIvq3Vrj8N","Nancy Sinatra","These Boots Are Made For Walkin'",166008,"Boots",5,"1966-03",15,0.74,0.392,9,-11.996,1,0.0824,0.483,1.11e-06,0.0965,0.387,82.742,4
+394,"4CJVkjo5WpmUAKp3R44LNb","Lynyrd Skynyrd","Sweet Home Alabama",281147,"Second Helping",1,"1974-04-15",11,0.597,0.605,7,-12.013,1,0.0255,0.181,0.000331,0.118,0.886,97.782,4
+395,"4T1gGKmEVvpsIzAiobeBov","The Contours","Do You Love Me",175438,"Do You Love Me",1,"2013-04-19",13,0.613,0.782,5,-7.173,1,0.0386,0.46,0,0.0751,0.772,150.75,4
+396,"4OsZ1vrenrtSbqLJxOceKl","Bob Marley & The Wailers","One Love / People Get Ready",172933,"Exodus (Deluxe Edition)",10,"1977-01-01",25,0.725,0.523,10,-9.593,1,0.324,0.0783,0,0.0665,0.95,76.292,4
+397,"19nYNmVEpiUTz1ZO6Tgct3","The Righteous Brothers","You've Lost That Lovin' Feelin'",225240,"Rock N' Roll Legends",1,"2008-01-01",20,0.366,0.373,1,-11.847,1,0.0265,0.543,0,0.0875,0.376,94.788,4
+398,"0Z3xhSOhrawLV81YdiDiiJ","Shocking Blue","Venus",187533,"At Home",6,"1969",15,0.691,0.762,11,-6.47,0,0.0367,0.462,0.0286,0.0804,0.957,128.111,4
+399,"2LpirOWiA4eslLRuPpQT7V","Rod Stewart","Maggie May",350266,"Every Picture Tells A Story",5,"1971-01-01",8,0.605,0.574,2,-10.536,1,0.0377,0.559,0.113,0.0684,0.543,129.449,4
+400,"6gJyJsLvGVCQane5HVV9rC","Herb Alpert & The Tijuana Brass","A Taste Of Honey",163746,"Whipped Cream & Other Delights",1,"1965-04-01",12,0.571,0.424,5,-11.109,0,0.0368,0.771,0.881,0.111,0.502,79.956,4
+401,"6HSXNV0b4M4cLJ7ljgVVeh","Bob Dylan","Knockin' On Heaven's Door",149880,"Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",7,"1973-07-13",10,0.513,0.396,7,-13.061,1,0.0299,0.251,0.177,0.11,0.229,140.208,4
+402,"3gdewACMIVMEWVbyb8O9sY","Elton John","Rocket Man (I Think It's Going To Be A Long, Long Time)",281613,"Honky Chateau",5,"1972-05-19",11,0.601,0.532,10,-9.119,1,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,4
+403,"4M5lj9Iaj1JD0a9XJYtWsn","Chuck Berry","Carol - Single Version",168600,"Berry Is On Top (Reissue)",2,"1959-01-01",12,0.64,0.852,0,-10.652,1,0.0387,0.864,0.000441,0.347,0.78,158.054,4
+404,"1wbTpWJHeCvcXapXtdRvxO","Joe Walsh","Rocky Mountain Way",315400,"The Smoker You Drink, The Player You Get",1,"1973-01-01",9,0.505,0.365,4,-14.993,1,0.0393,0.0353,0.66,0.109,0.417,86.996,4
+405,"4XyouSb8BHvszLtys5wEwC","John Lee Hooker","Boom Boom",147293,"Boom Boom",1,"2000-01-03",14,0.582,0.625,5,-8.884,1,0.0372,0.461,0.0135,0.138,0.89,81.267,4
+406,"5zH710lFSLtkHbMkslLDjR","Heart","Crazy On You",293440,"Dreamboat Annie",3,"1975",10,0.427,0.459,9,-12.442,0,0.0332,0.116,0.000103,0.132,0.383,129.878,4
+407,"6jUNT6FUZPxg03QRlmiwvt","The Tornados","Telstar",198800,"The EP Collection",4,"1996-07-11",29,0.296,0.674,9,-10.389,1,0.0412,0.0585,0.906,0.363,0.748,145.52,4
+408,"6Y3W91T2FxP0WJWTTK1fII","Peter Frampton","Do You Feel Like We Do",826400,"Frampton Comes Alive! - 25th Anniversary Deluxe Edition (Remastered)",3,"1976",18,0.318,0.66,0,-8.526,1,0.0331,0.0386,0.00349,0.882,0.319,104.408,4
+409,"4vtraETxj6q2K58am1KLrT","Cheap Trick","Surrender",253733,"Heaven Tonight",1,"1978-04",13,0.524,0.955,0,-7.081,1,0.0411,0.00717,8.77e-06,0.659,0.869,133.849,4
+410,"4fQMGlCawbTkH9yPPZ49kP","Booker T. & the M.G.'s","Green Onions",176333,"Green Onions",1,"1962",12,0.816,0.514,10,-8.741,1,0.0339,0.767,0.949,0.0899,0.912,136.837,4
+411,"7oVX8X4pvz8PlSIpTqnWpm","The Box Tops","The Letter",114825,"One Hit Only! (Original Recordings)",13,"2012-02-21",14,0.613,0.544,9,-6.901,0,0.0707,0.267,0,0.0805,0.9,139.062,4
+412,"3ebYtLVuV4HzEZUDcpZB9p","Minnie Riperton","Lovin' You",223143,"Perfect Angel",8,"1974",9,0.387,0.164,9,-14.617,1,0.085,0.962,0,0.0817,0.409,72.029,4
+413,"1D4cqpBqMQDYzwj5kxpMXy","Carpenters","There's A Kind Of Hush",177493,"A Kind Of Hush",1,"1976-01-01",10,0.733,0.394,2,-13.829,1,0.0373,0.427,0.000105,0.158,0.923,126.352,4
+414,"5CQ30WqJwcep0pYcV4AMNc","Led Zeppelin","Stairway to Heaven - Remaster",482830,"Led Zeppelin IV (Deluxe Edition)",4,"1971-11-08",16,0.338,0.34,9,-12.049,0,0.0339,0.58,0.0032,0.116,0.197,82.433,4
+415,"7B2pUwzvlbNG9D855r9ugf","The Ventures","Walk, Don't Run - Stereo",122933,"Walk Don't Run",6,"1960-01-01",12,0.488,0.648,5,-13.252,1,0.0305,0.852,0.914,0.13,0.949,156.35,4
+416,"2iAq1y8jEVOQM6OA8L0XtO","Thin Lizzy","The Boys Are Back In Town",266720,"Jailbreak (Deluxe Edition)",6,"1976",20,0.319,0.712,8,-9.742,1,0.0535,0.242,0.000414,0.294,0.773,78.114,4
+417,"6Zyz8lsnMFpIrCTuvGurCB","Eagles","New Kid in Town - 2013 Remaster",304925,"Hotel California (2013 Remaster)",2,"1976-12-08",9,0.649,0.425,4,-9.811,1,0.0267,0.378,0.0013,0.108,0.651,107.383,4
+418,"7fW1OwQPexk5OWCj7CSpqU","The Beach Boys","Fun, Fun, Fun - Remastered 2001",125400,"Shut Down, Vol. 2 (Remastered)",1,"1964-03-02",12,0.505,0.858,3,-6.927,1,0.0352,0.293,0,0.11,0.973,156.044,4
+419,"1gIKd24bixkgYzuxse32oR","Bee Gees","How Deep Is Your Love (2007 Remastered Saturday Night Fever LP Version)",245200,"Saturday Night Fever [The Original Movie Soundtrack]",2,"1978-01-05",17,0.63,0.357,5,-9.392,0,0.026,0.0999,0,0.128,0.683,104.965,4
+420,"2heCRpFwSJhi9MRBqs3yep","Rare Earth","Get Ready",1286000,"Get Ready",6,"1969-09-30",6,0.412,0.869,0,-5.842,1,0.0458,0.0028,0.529,0.285,0.647,127.75,4
+421,"5By7Pzgl6TMuVJG168VWzS","The Beatles","Michelle - Remastered 2009",162373,"Rubber Soul (Remastered)",7,"1965-12-03",14,0.578,0.29,5,-12.501,0,0.0341,0.652,0,0.105,0.666,117.403,4
+422,"0PuXtpKvea4P5BI2KC32bP","The Platters","Twilight Time",172480,"Smoke Gets in Your Eyes (Mercury Singles 1958 - 1960)",1,"2012-10-03",18,0.526,0.394,9,-8.725,1,0.0372,0.701,0,0.311,0.377,115.096,3
+423,"1tOLO1EGO9DGbbj3BHf63q","B.B. King","Sweet Sixteen Pts 1 & 2",373986,"The Great B.B. King",1,"1960",18,0.524,0.557,1,-6.272,1,0.126,0.677,2.17e-06,0.0439,0.746,101.069,3
+424,"2jjV8zsZrl7THee2YozLUF","Johnny Tillotson","Poetry In Motion",151746,"Dreamboat",1,"2011-03-11",14,0.511,0.485,8,-10.069,1,0.0323,0.703,2.09e-05,0.211,0.862,138.55,4
+425,"01iyCAUm8EvOFqVWYJ3dVX","ABBA","Dancing Queen",230400,"Arrival",2,"1976-10-11",12,0.543,0.87,9,-6.514,1,0.0428,0.358,0.000939,0.792,0.754,100.804,4
+426,"66KgSwQE4UmJttgfYiaR5I","Carole King","It's Too Late",233173,"Tapestry (Legacy Edition)",3,"1971",23,0.45,0.441,9,-12.718,0,0.0352,0.498,0.00562,0.133,0.811,208.282,4
+427,"4ppxp8rJB8eOhM9TFm6dK2","Ike & Tina Turner","Proud Mary",297613,"Workin' Together",9,"1970-04-19",11,0.599,0.46,2,-10.729,1,0.152,0.686,3.65e-05,0.15,0.715,96.429,4
+428,"5Ju2ZF0o78C89oFrAhvDIC","Wilson Pickett","634-5789",178586,"The Exciting Wilson Pickett",3,"1966",12,0.647,0.388,2,-11.92,1,0.0407,0.31,0.000701,0.792,0.765,103.246,4
+429,"40W8Mm9t3ZO1iNQlls35lL","Bread","If",155773,"Manna",4,"1971",12,0.388,0.176,9,-16.952,1,0.0299,0.912,0.000336,0.0977,0.342,97.628,4
+430,"5RFFxF1qvmVVbUzI2eeBRv","The Doors","Roadhouse Blues - 2020 Remaster",242413,"Morrison Hotel (50th Anniversary Deluxe Edition)",1,"2020-10-09",30,0.617,0.513,4,-11.508,1,0.0355,0.274,1.84e-05,0.15,0.686,122.326,4
+431,"2LawezPeJhN4AWuSB0GtAU","Creedence Clearwater Revival","Have You Ever Seen The Rain",160133,"Pendulum (40th Anniversary Edition)",4,"1970-12-07",13,0.741,0.697,0,-7.028,1,0.0277,0.0664,2.28e-05,0.133,0.774,116.109,4
+432,"5Fz0sSWX063k1Qz4wh2k6J","Roy Orbison","Only the Lonely",145533,"Sings Lonely And Blue",1,"1961",16,0.57,0.529,5,-10.769,1,0.028,0.377,0.00509,0.203,0.934,123.273,4
+433,"5IO4uhChdZIbbZXis3YbgQ","Black Sabbath","Fairies Wear Boots",373192,"Paranoid (Remastered)",8,"1970-09-18",8,0.435,0.619,0,-11.379,0,0.0405,0.00113,0.0503,0.258,0.743,136.13,4
+434,"2aoo2jlRnM3A0NyLQqMN2f","Jimi Hendrix","All Along the Watchtower",240800,"Electric Ladyland",15,"1968-10-25",16,0.438,0.805,8,-6.237,1,0.0624,0.00255,5.69e-05,0.0842,0.564,113.253,4
+435,"3fuXKiEzDCs1IBnLHQ5CL0","Pink Floyd","Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",238746,"The Wall [2011 - Remaster] (2011 Remastered Version)",5,"1979-11-30",53,0.694,0.394,0,-15.881,1,0.0428,0.0781,0.000677,0.247,0.719,104.126,4
+436,"4e0GkgtMPZFt41Ua8PlHQL","Santana","Soul Sacrifice",397333,"Santana (Legacy Edition)",9,"1969",25,0.494,0.706,7,-14.34,1,0.0485,0.522,0.894,0.154,0.486,135.752,4
+437,"61BywQA7q8KjpGjp3rHuRv","Molly Hatchet","Flirtin' with Disaster",299200,"Flirtin' With Disaster",6,"1979",14,0.273,0.821,9,-6.262,1,0.0433,0.00153,0.0157,0.18,0.739,179.882,4
+438,"6mewRLQV2EIk9J7upNRMan","Deep Purple","Lazy",442840,"Machine Head (Remastered)",6,"1972-03-25",8,0.32,0.732,5,-9.957,0,0.0666,0.371,0.622,0.2,0.458,188.02,4
+439,"5RRCU0kcL0EecW39iDFwna","The Rolling Stones","Tumbling Dice",226333,"Exile On Main Street (Deluxe Version)",5,"1972-05-12",28,0.615,0.91,11,-4.248,1,0.0347,0.5,0.511,0.281,0.77,111.013,4
+440,"2ty0Lr8kFfAWd322SJi6vY","Suicide","Ghost Rider",154400,"Suicide",1,"1977",17,0.258,0.548,10,-9.927,0,0.0721,0.0696,0.685,0.159,0.486,191.516,4
+441,"2UnY8ApZT4roi66n1LDAil","Ramones","Sheena Is a Punk Rocker - 2001 Remaster",169893,"Rocket to Russia (Expanded 2005 Remaster)",6,"1977-11-04",19,0.481,0.93,0,-6.046,1,0.0342,0.106,0.000531,0.0878,0.877,176.167,4
+442,"3jOBL79jV8RAEBQMSBzBvV","Manfred Mann's Earth Band","Blinded By The Light - Single edit",228986,"The Roaring Silence",9,"1976",9,0.593,0.56,5,-11.749,1,0.0653,0.572,0.00369,0.0719,0.577,140.511,4
+443,"3okPiJwW5nCLpug12sCL4p","The Kinks","All Day and All of the Night",142226,"Kinks (Deluxe Edition)",23,"1964-10-02",56,0.563,0.915,7,-5.062,1,0.08,0.247,8.46e-05,0.0613,0.71,136.345,4
+444,"2mmTm9zcfU5JGhdd5W79Jv","Link Wray & His Ray Men","Rumble",145106,"Pulp Fiction",18,"2002-01-01",21,0.542,0.705,9,-7.624,1,0.037,0.255,0.000125,0.344,0.64,84.92,4
+445,"4F1AgKpuFRMLEgtPETVwZk","The Beatles","You've Got To Hide Your Love Away - Remastered 2009",129120,"Help! (Remastered)",3,"1965-08-06",14,0.398,0.392,7,-9.05,1,0.0282,0.207,0,0.102,0.378,184.267,3
+446,"5AJrhrwz4oSZX2PwwV4qrN","The Zombies","Time of the Season - Mono Version",214026,"Odessey and Oracle",12,"1968-04-19",12,0.537,0.7,4,-6.852,0,0.0366,0.142,1.58e-06,0.383,0.695,117.111,4
+447,"55Dg4JYgrNSiNg68vawaaI","Patsy Cline","I Fall To Pieces - Single Version",171333,"Showcase",1,"1963-01-01",12,0.481,0.0568,10,-20.508,1,0.0357,0.917,0,0.12,0.505,111.799,4
+448,"4oS7NkUOUIyxtVAiGj1Xfo","Free","Wishing Well",221066,"Heartbreaker (Remastered with 6 Bonus Tracks)",1,"2002-01-01",14,0.485,0.769,9,-7.997,0,0.0664,0.0488,4.28e-05,0.385,0.599,121.868,4
+449,"2whQxHDxButA5STZ32FYme","Led Zeppelin","Communication Breakdown - Remaster",150200,"Led Zeppelin (Deluxe Edition)",7,"1969-01-12",17,0.375,0.956,2,-7.078,1,0.175,0.144,7.6e-06,0.417,0.381,175.04,4
+450,"07JAwmTGx5t3wU6iGbZqnG","Badfinger","Baby Blue",216453,"The Departed (Music from the Motion Picture)",6,"2006-10-16",12,0.606,0.913,11,-6.822,1,0.069,0.0151,0.12,0.164,0.518,124.678,4
+451,"0qwzC38XHdo8nmulMRLbQn","The Chordettes","Mr Sandman",147400,"Mr Sandman",4,"2011-02-28",16,0.618,0.294,9,-13.03,1,0.0537,0.837,0,0.0706,0.63,108.527,4
+452,"0NptWvZDRUp1OQrZ9gtHOg","Lou Reed","Satellite of Love",219906,"Transformer",7,"1972-12-01",13,0.478,0.448,5,-13.088,1,0.0306,0.442,2.34e-05,0.317,0.61,121.932,4
+453,"0A884O7Es9L8rVWaKquvbh","Ten Years After","I'd Love To Change The World - 2004 Remastered Version",224133,"A Space in Time",3,"2004-10-27",20,0.384,0.516,9,-12.032,0,0.0345,0.202,0.18,0.114,0.371,118.129,4
+454,"49E8SDVZ7BUyNAZZYfZdRx","Little Richard","Lucille",142400,"The Essential Little Richard (Remastered)",11,"1985-01-01",20,0.682,0.839,6,-9.186,1,0.0466,0.336,0.000571,0.17,0.953,145.051,4
+455,"5VSAonaAPhhGn0G7hMYwWK","America","Sister Golden Hair",199573,"Hearts",10,"1975",12,0.441,0.547,4,-12.222,1,0.0337,0.13,0.000143,0.109,0.716,134.753,4
+456,"0YveezON7jpiaHA8fnUHxN","Yes","Roundabout - 2003 Remaster",510573,"Fragile (Deluxe Edition)",1,"1971-11-26",11,0.41,0.761,4,-9.453,0,0.0687,0.0685,0.00772,0.0758,0.392,132.923,4
+457,"3bDmwEgagANjmKllPzPC2c","Styx","Renegade",257226,"Pieces Of Eight",8,"1978-01-01",10,0.492,0.552,7,-12.321,0,0.0341,0.0151,3.74e-05,0.0723,0.655,105.623,4
+458,"4RGxUjaCmVtD30pIhtEi7w","Donovan","Sunshine Superman",195000,"Sunshine Superman",1,"1966-09",10,0.629,0.677,1,-7.239,1,0.0299,0.122,9.72e-06,0.0962,0.627,132.783,4
+459,"5Qe7NHxeLAn8KoLTNLSdwe","The Beatles","I Want To Hold Your Hand - Remastered 2009",146720,"The Beatles 1962 - 1966 (Remastered)",5,"1973-04-01",26,0.496,0.703,7,-6.905,1,0.0376,0.525,2.08e-06,0.305,0.936,130.915,4
+460,"3UCmuRdeTriWgOZMEJsfqZ","Ben E. King","Spanish Harlem",174293,"Spanish Harlem",12,"1961",12,0.608,0.594,2,-11.86,1,0.0435,0.32,4.75e-05,0.129,0.789,125.166,4
+461,"63tznJW5FCf5jM7hgYvEMe","Gene Vincent & His Blue Caps","Be-Bop-A-Lula - 2002 - Remastered",156266,"Blue Jean Bop",14,"2002-09-17",18,0.592,0.562,4,-9.689,1,0.046,0.511,0,0.196,0.792,127.465,4
+462,"1Rdf1DO8NvgdkTAxBYKPSM","Led Zeppelin","Heartbreaker - Remaster",254067,"Led Zeppelin II (Deluxe Edition)",5,"1969-10-22",17,0.381,0.734,2,-8.917,1,0.0933,0.0797,0.0469,0.173,0.565,96.614,4
+463,"65jrjEhWfAvysKfnojk1i0","The Drifters","Under the Boardwalk",161960,"Under the Boardwalk",2,"1964-06-01",13,0.747,0.226,7,-13.635,1,0.0414,0.908,0.000168,0.107,0.778,123.792,4
+464,"4rearfuh4ovHA3XABnoKpj","Skeeter Davis","The End of the World",158106,"Skeeter Davis: RCA Country Legend",11,"2001-09-24",16,0.331,0.342,10,-7.658,1,0.0284,0.881,0,0.159,0.341,69.607,4
+465,"4OHREJGmMdy20dyj55ojj5","The Searchers","Love Potion No.9",123520,"Needles & Pins",9,"2006",30,0.667,0.789,2,-6.959,1,0.0665,0.479,0,0.119,0.89,124.746,4
+466,"39PjzyUSw3e16MD14y3wM7","Dick Dale","Misirlou",137639,"Misirlou",1,"2012-09-19",14,0.284,0.907,4,-8.329,1,0.0554,0.0262,0.777,0.348,0.642,173.797,4
+467,"1sqewpEwR9Oam51KAPHWuP","Ramones","Pinhead - Remastered Version",165933,"Leave Home: Expanded And Remastered",7,"1977-01-10",31,0.513,0.851,9,-4.989,1,0.037,0.000545,0.00161,0.302,0.991,178.08,4
+468,"7a7m7S8Tq8wNBZn691BeuL","The Everly Brothers","Wake Up Little Susie",116862,"The Everly Brothers",12,"2013-10-04",12,0.736,0.668,2,-6.462,1,0.0326,0.146,0,0.0694,0.867,93.634,4
+469,"1ZqIGtOBYa6cA6ztv2GEro","Creedence Clearwater Revival","Green River",154120,"Green River (40th Anniversary Edition)",1,"1969-08-03",14,0.702,0.742,4,-9.621,1,0.0286,0.035,0.0064,0.0972,0.972,141.664,4
+470,"1OsdbnuNCyIovULy0rVnOC","Duane Eddy","Peter Gunn",150866,"Especially for You",1,"2000-01-01",17,0.539,0.74,10,-7.315,1,0.0401,0.0829,0.893,0.399,0.726,123.83,4
+471,"3EdqjSDHNVOEgo6XYqxwPh","Chuck Berry","No Particular Place To Go",162750,"St. Louis to Liverpool",3,"1964",15,0.596,0.791,7,-8.88,1,0.0446,0.425,0.000295,0.0916,0.98,129.237,4
+472,"4yQUu82EFI8MG6SpI8MAbs","Electric Light Orchestra","Don't Bring Me Down",243373,"Discovery",9,"1979",12,0.638,0.867,2,-6.469,1,0.0331,0.144,0.000733,0.0846,0.805,115.692,4
+473,"1tsWNtWxi7SVydMm2G1W6Z","Yvonne Elliman","If I Can't Have You - 2007 Remastered Version Saturday Night Fever",180586,"Saturday Night Fever [The Original Movie Soundtrack]",5,"1978-01-05",17,0.606,0.848,11,-4.509,1,0.0386,0.236,0,0.43,0.831,109.252,4
+474,"34S5e4KcvhJX6vjHhStjj9","Lynyrd Skynyrd","What's Your Name",211360,"Street Survivors (Deluxe Edition)",1,"1977-10-17",23,0.625,0.582,7,-9.072,1,0.0281,0.422,8.91e-05,0.267,0.898,135.285,4
+475,"1iW2ktyrQHNKZwFTvgP0Ta","Deep Purple","Burn - Remastered 2004",364933,"Burn (30th Anniversary Edition)",1,"1974-02-15",13,0.387,0.94,7,-6.192,1,0.0376,0.0155,0.023,0.327,0.582,98.533,4
+476,"6LnjelBSl5xYpdfhfFTJbX","Grand Funk Railroad","Some Kind Of Wonderful",203253,"Greatest Hits: Grand Funk Railroad (Remastered)",4,"2006-01-01",14,0.846,0.721,2,-5.248,1,0.0494,0.163,0,0.194,0.638,121.417,4
+477,"3yP0cohcr97BUNJcgvmSVg","Iggy Pop","The Passenger",284066,"Lust For Life",4,"1977-09-09",9,0.5,0.846,0,-8.098,1,0.0457,0.0797,0,0.241,0.738,134.937,4
+478,"4ZmeD4yW8Ph8aJFpMZXrXA","The Velvet Underground","Sweet Jane",249133,"Loaded: The Fully Loaded Edition",2,"1970-09",33,0.625,0.564,2,-8.894,1,0.0273,0.0205,0,0.331,0.94,105.22,4
+479,"16Mx4T5A6dUNqujPySQknh","Three Dog Night","Mama Told Me (Not To Come) - Single Version",198933,"It Ain't Easy",7,"1970-01-01",9,0.664,0.666,1,-13.873,1,0.0501,0.363,0.017,0.195,0.8,119.973,4
+480,"0vDeTWoAooavG2zcCKHmI4","Bee Gees","More Than A Woman (2007 Remastered Saturday Night Fever LP Version)",197573,"Saturday Night Fever [The Original Movie Soundtrack]",4,"1978-01-05",17,0.6,0.708,7,-6.249,1,0.038,0.16,0.000139,0.446,0.693,106.167,4
+481,"7JH6N7qstfxRhaB7PjiE9q","Herb Alpert & The Tijuana Brass","Tijuana Taxi",125920,"!!!Going Places!!!",1,"1965-10-01",12,0.776,0.572,5,-9.831,1,0.0462,0.615,0.528,0.041,0.894,101.088,4
+482,"1amC7w78OwwC3EOyr7JDKE","Charles Wright & The Watts 103rd Street Rhythm Band","Do Your Thing - Remastered Mono Version",211053,"Together (Remastered & Expanded)",14,"2007-10-15",22,0.756,0.508,9,-15.955,1,0.126,0.076,0.000203,0.312,0.566,127.839,4
+483,"0fJFBbpUxTwjhh1ScBQjeX","Sniff 'n' The Tears","Driver's Seat",240746,"Fickle Heart (Plus Two Bonus Cuts)",1,"1978",13,0.754,0.804,11,-7.189,0,0.0368,0.0186,0.0604,0.207,0.972,132.967,4
+484,"1K183dBxdhpZmT1qDdJcB4","Blue Cheer","Rock Me Baby",262533,"Vincebus Eruptum",2,"1968-01-01",6,0.481,0.483,2,-11.318,1,0.0298,0.0312,0.206,0.114,0.434,98.149,1
+485,"6clhKRH03Y0FWMTW3R1pHq","The Stooges","I Wanna Be Your Dog - 2005 Remaster",190440,"The Stooges (Deluxe Edition)",2,"2005-11-08",18,0.541,0.913,4,-8.03,1,0.0359,0.0681,0.0523,0.414,0.113,120.634,4
+486,"0eEncOnmSHqnm1sgXsjUSA","Earth, Wind & Fire","September",215093,"The Best Of Earth, Wind & Fire Vol. 1",7,"1978-11-23",10,0.697,0.832,9,-7.264,1,0.0298,0.168,0.00131,0.269,0.979,125.926,4
+487,"4IU1RL4BKvFyXtbTwaHAvW","America","Ventura Highway",211386,"Homecoming",1,"1972-01-01",10,0.673,0.581,2,-10.205,1,0.029,0.223,0.000206,0.063,0.818,130.771,4
+488,"4qWvbYbs0sBphGRCWXSmBi","Elton John","Bennie And The Jets - Remastered 2014",322548,"Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",3,"1973-10-05",52,0.665,0.673,0,-7.95,1,0.0493,0.259,7.62e-06,0.497,0.779,132.642,4
+489,"5XJ1J9QPxaOzdpkGxKU4lA","Blondie","Heart Of Glass [24-Bit Digitally Remastered 01]",350240,"Parallel Lines (Remastered)",10,"1978-09-01",16,0.662,0.633,9,-7.793,1,0.0433,0.0078,0.0233,0.0689,0.657,115.007,4
+490,"0dqfvkVuQ8r5set92a42Yf","KISS","Sure Know Something",241506,"Dynasty (Remastered Version)",3,"1979-03-23",9,0.707,0.732,4,-6.292,0,0.0303,0.275,0,0.13,0.928,115.337,4
+491,"7qVOasZcHa4faF1TqvPEKF","David Bowie","Fame - 2007 Remaster",260946,"Young Americans (2007 Remaster)",8,"1975-03-07",11,0.628,0.568,10,-10.695,1,0.14,0.228,0.0183,0.0906,0.61,191.404,4
+492,"6JJ8fxjfYYnxn8KzgOFOpH","The Rolling Stones","Time Is On My Side - Mono Version 1 / Organ Intro",172693,"12 X 5 (Remastered)",4,"1964-10-17",12,0.23,0.844,4,-7.577,1,0.18,0.344,0,0.0715,0.404,217.578,3
+493,"5ZBeML7Lf3FMEVviTyvi8l","The Beatles","Twist And Shout - Remastered 2009",155226,"Please Please Me (Remastered)",14,"1963-03-22",14,0.482,0.849,2,-9.198,1,0.0452,0.641,7.74e-06,0.0414,0.937,124.631,4
+494,"2SI4a1GvmwnmbP0pXTr1GK","Donna Summer","On The Radio",245120,"The Journey: The Very Best Of Donna Summer",14,"2004-01-01",27,0.725,0.678,4,-7.935,0,0.0335,0.336,0,0.0842,0.701,127.539,4
+495,"7aUAjYYt8KKuyQ1jbOLe9z","Foreigner","Women",204560,"Head Games",3,"1979-09-10",11,0.595,0.829,11,-7.407,0,0.0369,0.236,8.26e-06,0.376,0.737,154.101,4
+496,"4Jp5pt7xrG2DLkUtUtqhzl","Grateful Dead","Sugar Magnolia - 2001 Remaster",197360,"American Beauty",3,"1970-06-01",10,0.598,0.563,1,-10.659,0,0.0458,0.175,2.63e-06,0.117,0.6,154.626,4
+497,"6nrQ1mnW9kwQiqtJ0omcUR","Peter Frampton","Baby, I Love Your Way",281066,"Frampton Comes Alive! - 25th Anniversary Deluxe Edition (Remastered)",10,"1976",18,0.472,0.792,7,-5.732,1,0.0316,0.469,2.83e-05,0.735,0.437,146.02,4
+498,"2xd6cDxeZw8Bww12TQtcku","The Who","Behind Blue Eyes",221426,"Who's Next (Deluxe Edition)",8,"1971-08-14",29,0.394,0.622,4,-8.258,0,0.0336,0.213,4.45e-05,0.0892,0.342,126.844,4
+499,"2TEW9YkQDKRHUxCHbEn0Gk","Paul McCartney","Live And Let Die",194826,"Live And Let Die (Soundtrack)",1,"1973",14,0.356,0.479,7,-11.513,1,0.0632,0.093,0.000158,0.291,0.208,152.563,4
+500,"37neU3YM4yysrailQPlMl6","Boston","Smokin'",261386,"Boston",5,"1976",8,0.197,0.798,2,-7.334,1,0.0656,0.000545,0.414,0.187,0.525,175.068,4
+501,"5wIxMTfyrSEx4w1MxaM96c","Chris Kenner","I Like It Like That",117600,"Full Metal Jacket (Original Motion Picture Soundtrack)",5,"1987-08-04",15,0.59,0.568,5,-11.295,1,0.0805,0.832,0,0.272,0.777,144.572,4
+502,"3K68JyPFh5fV8bdWesIqdb","Dolly Parton","Islands in the Stream",249106,"Dolly Parton - Tour Edition",63,"1973",80,0.597,0.466,8,-9.818,1,0.035,0.675,0,0.0688,0.7,203.999,4
+503,"06gTVqkKtNoiylgTXGMxyq","Steam","Na Na Hey Hey Kiss Him Goodbye",247160,"Platinum Masters",32,"2012-09-04",106,0.673,0.71,10,-10.782,0,0.0361,0.00383,0.000193,0.214,0.363,115.512,4
+504,"5l3LNFgIk7haCBq43tvQh5","Little Anthony","Shimmy Shimmy, Ko-Ko-Bop",127294,"Shimmy Shimmy, Ko-Ko-Bop",1,"2013-05-16",1,0.711,0.387,7,-15.053,0,0.037,0.543,0,0.552,0.847,115.863,4
+505,"49MHCPzvMLXhRjDantBMVH","Billy Joel","Just the Way You Are",290573,"The Stranger (Legacy Edition)",3,"1977",21,0.589,0.453,7,-8.912,1,0.0397,0.703,2.54e-05,0.134,0.513,139.148,4
+506,"36dglrAWrxRGLzoqTQ8zfR","Cream","Badge",167840,"Goodbye (Remastered)",4,"1969-03-01",6,0.592,0.586,7,-14.311,1,0.0399,0.47,0.000127,0.0831,0.722,105.989,4
+507,"4RpSnz7bmzI8fFNnLSiNB7","Queen","Somebody To Love - Remastered 2011",296480,"A Day At The Races (Deluxe Edition 2011 Remaster)",6,"1976-12-10",15,0.461,0.69,8,-6.958,1,0.0611,0.169,1.01e-06,0.113,0.353,110.915,3
+508,"3KhF2YiNpJvGpfiCW45R6D","Van Halen","Runnin' with the Devil - 2015 Remaster",214960,"Van Halen (Remastered)",1,"1978-02-10",11,0.472,0.9,8,-6.406,0,0.0582,0.148,0.000297,0.34,0.42,95.826,4
+509,"4iIU7YoqElLJa6gNx9mDx2","ZZ Top","I Thank You",204133,"Deguello",1,"1979-11-08",10,0.799,0.524,7,-12.439,1,0.0489,0.395,1.42e-06,0.124,0.791,110.441,4
+510,"3Bde6EhH6Mq5XuwEFqVOHU","Creedence Clearwater Revival","Down On The Corner",166280,"Willy And The Poor Boys (40th Anniversary Edition)",1,"1969-11-02",13,0.853,0.536,0,-9.165,1,0.0873,0.599,0.00176,0.0701,0.874,108.161,4
+511,"5SZ6zX4rOrEQferfFC2MfP","Aerosmith","Walk This Way",220400,"Toys In The Attic",4,"1975-04-08",9,0.653,0.73,5,-10.613,1,0.043,0.0114,1.03e-05,0.0754,0.894,108.705,4
+512,"5usNPz6U1acDrkUYekGYDY","The Crystals","Then He Kissed Me",158853,"Wall of Sound: The Very Best of Phil Spector 1961-1966",4,"2011-02-22",19,0.44,0.682,4,-7.416,1,0.0373,0.681,3.33e-05,0.207,0.626,135.917,4
+513,"74lwRyZECS8PQOCYyHKje4","Santana","No One to Depend On",331333,"Santana III - Legacy Edition",2,"1971",24,0.576,0.69,0,-10.955,1,0.039,0.0538,0.0179,0.127,0.716,111.03,4
+514,"3BQHpFgAp4l80e1XslIjNI","The Beatles","Yesterday - Remastered 2009",125666,"Help! (Remastered)",13,"1965-08-06",14,0.332,0.179,5,-11.83,1,0.0326,0.879,0,0.0886,0.315,96.529,4
+515,"4wkMbcxl87x6p8Bhrv1wKC","Black Sabbath","Wheels of Confusion/The Straightener",467929,"Black Sabbath Vol. 4 (Remastered)",1,"1972-09-25",10,0.268,0.665,11,-11.24,0,0.0416,0.000412,1.25e-05,0.0744,0.532,117.73,4
+516,"3dzW0SoVNyJTWWJimX8stj","The Zombies","She's Not There",145293,"Begin Here",7,"1965-03-01",14,0.523,0.803,4,-5.189,0,0.045,0.579,0,0.0948,0.898,132.316,4
+517,"1Llas2wNRYI0mvxbyOwTaz","Neil Diamond","Soliltary Man",154066,"The Bang Years 1966-1968 (The 23 Original Mono Recordings)",1,"1968",23,0.529,0.641,4,-5.3,0,0.03,0.209,7.12e-05,0.192,0.86,78.69,4
+518,"2R3E4xKmy7lyieBKONkIMT","TOTO","99",316053,"Hydra",3,"1979-10-01",8,0.482,0.471,10,-13.873,0,0.0334,0.181,0.00167,0.112,0.342,88.557,4
+519,"6Ac4NVYYl2U73QiTt11ZKd","Blue Swede","Hooked On A Feeling",172866,"Hooked On A Feeling",1,"1973-04-01",1,0.547,0.82,8,-6.728,1,0.0805,0.261,0,0.3,0.933,118.208,4
+520,"4KsakXCO9XXOYKLn15rt7y","The Runaways","You Drive Me Wild",201680,"The Runaways",2,"1976",10,0.507,0.782,4,-9.156,1,0.0856,0.00804,0.000198,0.613,0.537,134.218,4
+521,"1XDgeeNIbwXobo7EkcLa2u","Supertramp","Give A Little Bit",248173,"Even In The Quietest Moments (Remastered)",1,"1977-01-01",7,0.533,0.822,2,-5.419,1,0.0474,0.0637,0.00795,0.259,0.463,91.353,4
+522,"08uLCO6hhCKm9lFOuxog8W","Bachman-Turner Overdrive","Roll On Down The Highway",239800,"Not Fragile",3,"1974",9,0.466,0.828,7,-11.991,1,0.0284,0.00315,0.0106,0.301,0.87,138.935,4
+523,"4KpVB1AzRjvhxeinygrVD6","Linda Scott","I've Told Every Little Star",138040,"Starlight Starbright",6,"2014-10-01",12,0.677,0.621,3,-5.663,1,0.0277,0.734,6.19e-05,0.191,0.942,118.349,4
+524,"1AIGp3gpj1NXJvh3engmUQ","Brownsville Station","Smokin' in the Boy's Room",176453,"Yeah! (US Internet Release)",10,"1973",10,0.575,0.756,2,-9.414,1,0.0544,0.735,0.0401,0.0755,0.844,127.434,4
+525,"4S0Y4cMxevgAPhy7CwAFYT","Rod Stewart","I Don't Want to Talk About It - 2009 Remaster",292266,"Atlantic Crossing (Deluxe Edition)",6,"1975",25,0.479,0.282,3,-18.292,1,0.0288,0.766,0.00992,0.288,0.399,134.993,4
+526,"5QtyIiOKyiXBxjxFUOALXh","Kool & The Gang","Ladies Night",385506,"Ladies' Night",1,"1979-01-01",6,0.657,0.447,9,-15.75,1,0.143,0.151,2.15e-05,0.0432,0.917,111.815,4
+527,"53ZTsgVvvKAJvZQVtnxfgK","Barry White","Just The Way You Are",431040,"The Man",6,"1978-09-22",7,0.489,0.327,9,-14.833,1,0.0449,0.171,0.000348,0.102,0.303,74.013,4
+528,"5UGKTGGLbByq5LHqXdpAAX","Chris Barber","Petite Fleur",164200,"Trad Mad! - The Pye Trad-Jazz Anthology 1956-1963",16,"2002-01-01",77,0.711,0.213,8,-10.25,0,0.0362,0.945,0.76,0.141,0.461,112.27,4
+529,"2lCxWWFt9fgj8wdBYQNkyq","Jim Croce","Time In A Bottle",148586,"You Don't Mess Around With Jim",8,"1972",12,0.536,0.157,2,-16.838,1,0.0374,0.888,0,0.108,0.587,133.745,3
+530,"51FpzuGkRYXFgsE2zXt9av","Percy Sledge","When a Man Loves a Woman",173866,"When a Man Loves a Woman",1,"1966",11,0.516,0.15,1,-20.41,1,0.0272,0.13,0.0755,0.122,0.205,97.398,3
+531,"0pDxbvUwGPxPukxA08DfvP","The Police","Can't Stand Losing You - Remastered 2003",178760,"Outlandos D'Amour (Remastered)",6,"1978-11-02",10,0.737,0.789,2,-5.299,0,0.3,0.0701,0.000933,0.0518,0.891,141.969,4
+532,"7CdBVIbqGBw8MRok7Yeb9r","Canned Heat","Goin' Up The Country",169560,"Living The Blues",4,"1969-01-01",10,0.628,0.356,10,-12.471,1,0.0386,0.932,0.000615,0.116,0.605,80.211,4
+533,"7FwBmvb8mmyRbwyXNeRqcH","Ike Turner","Rocket 88",169639,"Rhythm Rockin' Blues",1,"2015-07-01",21,0.542,0.342,10,-15.933,1,0.0543,0.793,0.00905,0.061,0.875,78.309,4
+534,"5GjPQ0eI7AgmOnADn1EO6Q","The Beatles","Eleanor Rigby - Remastered 2009",126533,"Revolver (Remastered)",2,"1966-08-05",14,0.581,0.28,4,-9.091,0,0.0381,0.936,1.56e-05,0.305,0.813,137.831,4
+535,"7zq8QgoQuRkBxFM6goTF91","Wilbert Harrison","Kansas City",163746,"Let's Work Together",3,"1969",14,0.536,0.873,1,-5.527,1,0.0464,0.574,0,0.182,0.872,118.643,4
+536,"3KzgdYUlqV6TOG7JCmx2Wg","Bobby Darin","Beyond the Sea",172480,"That's All",2,"1959",12,0.521,0.516,2,-7.456,0,0.0369,0.723,0,0.257,0.569,136.483,4
+537,"5JASqWjSp88ldQGEwoG2DJ","Them","Mystic Eyes",167546,"The Angry Young Them",1,"1965",14,0.401,0.791,9,-9.826,1,0.0493,2.87e-05,0.0288,0.132,0.541,120.936,4
+538,"7IX2e7pEShera9T1QIMvi7","Bread","Baby I'm-a Want You",150706,"Baby I'm-a Want You",2,"1972",12,0.613,0.289,8,-16.529,1,0.0305,0.743,1.57e-06,0.0617,0.553,144.188,4
+539,"39DSvayPtd1mLyc1Sdxgxw","Neil Sedaka","Breaking Up Is Hard to Do - Remastered",137440,"The Very Best Of Neil Sedaka",10,"2001-08-06",14,0.743,0.648,8,-8.773,0,0.0381,0.609,0,0.0611,0.97,116.37,4
+540,"6ztstiyZL6FXzh4aG46ZPD","Earth, Wind & Fire","Boogie Wonderland",288293,"I Am",5,"1979-06",9,0.802,0.756,2,-10.791,0,0.0349,0.0843,0.00765,0.0521,0.963,131.715,4
+541,"2M3OVvigcmanSnRq1sdlVE","Roy Orbison","Crying",166466,"Crying",1,"1962",16,0.35,0.293,2,-9.502,1,0.0258,0.758,8.21e-06,0.104,0.162,96.685,4
+542,"6JZSm9hFMXqXZPqzu0wrvw","Girlschool","Nothing to Lose",270533,"Demolition",5,"1980",19,0.276,0.944,7,-7.296,1,0.15,0.000668,0.034,0.428,0.259,154.473,4
+543,"5UCcfmuRD2N2G0fhJVk2KQ","Three Dog Night","One - Single Version",183493,"The Collection",8,"2003-01-01",17,0.567,0.433,5,-12.917,0,0.0337,0.134,3.74e-05,0.11,0.43,124.032,4
+544,"3WLEVNohakzZmMpN5W7mHK","Herb Alpert & The Tijuana Brass","Zorba The Greek",264853,"!!!Going Places!!!",12,"1965-10-01",12,0.531,0.642,5,-12.702,1,0.323,0.154,0.279,0.0584,0.192,82.107,4
+545,"1DLRkp0qE8cui1o94OcOCx","Creedence Clearwater Revival","Lookin' Out My Back Door",152453,"Cosmo's Factory (40th Anniversary Edition)",5,"1970-07-25",14,0.752,0.654,10,-6.347,1,0.0411,0.179,0.00322,0.097,0.842,105.311,4
+546,"4cEBxoFzTOLjdzBXBwsRJ7","The Everly Brothers","Bye-Bye Love",135825,"The Everly Brothers",1,"2013-10-04",12,0.545,0.564,9,-6.924,1,0.0505,0.596,0,0.0994,0.919,171.509,4
+547,"6cYSSiMroBAZj6dFxSlwVY","Chuck Berry","Maybellene - Single Version",139933,"After School Session",15,"1957",15,0.768,0.851,10,-6.935,0,0.0959,0.829,0,0.131,0.775,117.523,4
+548,"20wbR4HxNaR4gWjMLQvUp2","The Monkees","Last Train to Clarksville - Original Stereo Version; 2006 Remaster",164093,"The Monkees (Deluxe Edition)",7,"1966-10-10",29,0.239,0.618,0,-8.464,1,0.033,0.0305,0,0.721,0.683,197.499,4
+549,"6mXG9gssLzhnVWtq6UNu5J","Aretha Franklin","Chain of Fools",262333,"Lady Soul (With Bonus Selections)",11,"1968-01-22",14,0.688,0.546,1,-8.421,1,0.0622,0.63,5.93e-06,0.201,0.555,117.852,4
+550,"2AxCeJ6PSsBYiTckM0HLY7","Jimi Hendrix","Voodoo Child (Slight Return)",313373,"Electric Ladyland",16,"1968-10-25",16,0.214,0.91,8,-6.662,1,0.389,0.477,0.00833,0.0517,0.448,175.549,4
+551,"1XunTmhOcj3xwh4b8P3isX","Elvis Presley","It's Now or Never",194600,"Elvis 30 #1 Hits",15,"2002-09-24",31,0.643,0.491,4,-9.312,1,0.0344,0.642,0.00972,0.286,0.753,126.399,4
+552,"5slaZgcjvLUXmL2f8UZfnv","Little Richard","Rip It Up",144360,"Here's Little Richard [Remastered & Expanded]",10,"1957-03",15,0.897,0.602,5,-5.858,1,0.0586,0.647,2.47e-06,0.026,0.969,96.051,4
+553,"6gQZKkphKIMxZgca5r7ImA","Charles Wright & The Watts 103rd Street Rhythm Band","Express Yourself - Remastered Version",229653,"Express Yourself (Remastered & Expanded)",4,"2007-10-22",17,0.461,0.818,8,-8.482,1,0.125,0.305,0,0.266,0.721,92.305,4
+554,"5tLl8ax2Ogu99ZjsUsh4cg","Marvin Gaye","Let's Get It On",291360,"Let's Get It On (Reissue)",1,"1973-08-28",8,0.541,0.647,3,-9.715,1,0.0599,0.0948,4.3e-06,0.0576,0.642,168.809,4
+555,"2HCaIYjkvWSZzaSKUoOh3d","The Byrds","Mr. Tambourine Man",149466,"Mr. Tambourine Man",1,"1965-06-21",18,0.456,0.47,2,-9.564,1,0.0294,0.513,3.76e-05,0.444,0.639,120.336,4
+556,"4cBLhCvT2B2txxSiz8bng5","James Brown","Out Of Sight - Single Version",142200,"Out Of Sight",1,"1968-01-01",12,0.735,0.438,3,-11.513,1,0.0399,0.669,0.000446,0.11,0.876,128.399,4
+557,"1fQxtJ2yrBn6l20VVuGuJF","Bob Marley & The Wailers","Exodus",460226,"Exodus (Deluxe Edition)",5,"1977-01-01",25,0.869,0.75,7,-8.6,1,0.048,0.0311,0.0049,0.163,0.961,132.844,4
+558,"6YffUZJ2R06kyxyK6onezL","Johnny Cash","Ring of Fire",158426,"Ring Of Fire: The Best Of Johnny Cash",1,"1963-08-06",12,0.659,0.585,7,-8.189,1,0.0288,0.623,0.000213,0.348,0.784,104.111,4
+559,"4g8ZUOxhPMXN5wVSP7gCau","The Edgar Winter Group","Frankenstein",284293,"They Only Come Out At Night",10,"1972-05-09",10,0.628,0.669,2,-14.636,0,0.0932,0.0901,0.898,0.237,0.5,96.152,4
+560,"0VE4ayVlGs5DBoqOdgJ0Zv","Ritchie Valens","Donna - Single Version",150973,"Ritchie Valens",4,"1959",12,0.472,0.225,5,-12.581,1,0.0263,0.864,0,0.111,0.29,100.299,3
+561,"1k1Bqnv2R0uJXQN4u6LKYt","Bill Withers","Ain't No Sunshine",125093,"Just As I Am",2,"1971-05-01",12,0.527,0.415,4,-11.451,0,0.122,0.457,1.72e-05,0.117,0.515,78.169,4
+562,"1TJyjAa6rHkEZZpRS41rUp","The Rolling Stones","Angie - 2020",272173,"Goats Head Soup (Deluxe)",5,"2020-09-04",37,0.441,0.488,0,-6.404,1,0.0307,0.171,2.24e-05,0.112,0.397,136.956,4
+563,"78His8pbKjbDQF7aX5asgv","Boney M.","Rivers of Babylon",261266,"Nightflight to Venus",6,"1978",12,0.729,0.851,7,-7.033,1,0.0362,0.13,0.000912,0.443,0.741,115.118,4
+564,"7oOOI85fVQvVnK5ynNMdW7","Michael Jackson","Rock with You - Single Version",220626,"Off the Wall",2,"1979-08-10",10,0.808,0.535,1,-12.521,1,0.0353,0.179,9.91e-05,0.158,0.848,114.031,4
+565,"1H8LatUNRe9frL7zYMmXNQ","Scorpions","Is There Anybody There?",237973,"Lovedrive",6,"1979-02-25",8,0.62,0.597,4,-11.11,0,0.0391,0.0197,0.000125,0.0431,0.961,135.916,4
+566,"6zeWfgymg7GMKRaKbpi0PX","ABBA","Fernando",252960,"Arrival",11,"1976-10-11",12,0.354,0.535,9,-8.876,1,0.0303,0.627,2.9e-06,0.0808,0.434,110.821,4
+567,"46PzYzseHf3mSdkTMd8sgC","The Mamas & The Papas","Monday, Monday - Single Version",205266,"If You Can Believe Your Eyes And Ears",1,"1966-03",12,0.493,0.467,1,-11.183,1,0.0289,0.757,0,0.388,0.731,110.553,4
+568,"2mWC65WOZSBZnaacXaYoBR","Thin Lizzy","Cowboy Song",314440,"Jailbreak (Deluxe Edition)",8,"1976",20,0.543,0.672,8,-9.469,1,0.121,0.238,0.00418,0.309,0.493,134.302,4
+569,"3KiexfmhxHvG5IgAElmTkd","The Beatles","I Saw Her Standing There - Remastered 2009",173946,"Please Please Me (Remastered)",1,"1963-03-22",14,0.491,0.801,4,-9.835,1,0.0361,0.27,0,0.0665,0.971,160.109,4
+570,"7I8jLeFRAZKvRyPBeVTpf0","Carpenters","Sing",198760,"Now & Then",1,"1973-01-01",15,0.506,0.28,3,-16.651,1,0.0397,0.909,0.000311,0.164,0.316,139.846,4
+571,"5Qkixf9OjJp5a4XphaONKO","Elvis Presley","Surrender",112226,"Elvis 30 #1 Hits",18,"2002-09-24",31,0.454,0.666,3,-8.193,1,0.0379,0.758,2.89e-05,0.275,0.894,82.61,4
+572,"1lqMLr9Wj7SM2F9AikGcxN","Bob Dylan","Hurricane",512732,"Desire",1,"1976-01-16",9,0.509,0.827,0,-7.715,1,0.0782,0.0409,0,0.12,0.743,135.601,4
+573,"3DZ11M7LSpVQzYHnFx3i95","Leo Sayer","You Make Me Feel Like Dancing",221306,"Endless Flight",2,"1976",10,0.734,0.731,8,-5.24,0,0.0473,0.0784,0,0.108,0.705,96.071,4
+574,"1bxhyiGlRMaMqtf25qxnvG","Frankie Valli & The Four Seasons","Sherry",153106,"The Classic Albums Box",12,"2014-06-27",199,0.695,0.383,0,-11.879,1,0.0442,0.567,0,0.0577,0.731,117.413,4
+575,"6HAan34oqoS4KF1UmHj770","Creedence Clearwater Revival","Long As I Can See The Light",210866,"Cosmo's Factory (40th Anniversary Edition)",11,"1970-07-25",14,0.685,0.403,11,-6.921,1,0.0409,0.371,0.00025,0.0687,0.542,63.87,4
+576,"1KlGMvdrwAks29kzrqMZd3","The Runaways","Is It Day Or Night?",165240,"The Runaways",3,"1976",10,0.593,0.659,0,-11.388,1,0.0371,0.0329,0.00753,0.084,0.567,143.3,4
+577,"5aPj4JAtKbDl8vRtvQ9fHu","Santana","Jingo",261066,"Santana (Legacy Edition)",5,"1969",25,0.491,0.482,7,-14.478,1,0.0641,0.406,0.661,0.172,0.593,126.797,4
+578,"4Kj7BJGxHXqNiAGXVD2xAH","Wilson Pickett","Funky Broadway",156893,"The Sound of Wilson Pickett",2,"1967",11,0.705,0.349,9,-16.017,1,0.0411,0.0702,0.00181,0.0786,0.95,121.064,4
+579,"4OJFkrRQqol4FsPesF8eu4","Chicago","Saturday in the Park - 2002 Remaster",235666,"Chicago V (Expanded & Remastered)",7,"1972-07-10",13,0.67,0.763,7,-6.864,1,0.0341,0.155,0,0.0799,0.61,114.398,4
+580,"7tWtVpm7W03b1fpyH5umdv","The Platters","Smoke Gets in Your Eyes",162680,"Smoke Gets in Your Eyes (Mercury Singles 1958 - 1960)",5,"2012-10-03",18,0.293,0.286,3,-11.086,1,0.0293,0.919,1.72e-06,0.0928,0.316,113.75,4
+581,"4U2b99X9hSSDjPbHCpIeJj","Fats Domino","Ain't That A Shame? - Remastered 2002",150600,"The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",4,"2002-01-01",20,0.54,0.389,4,-7.212,1,0.0345,0.757,1.22e-05,0.0836,0.954,121.288,4
+582,"5ga6O7iJ6pV6bKuTwwKwbl","B.B. King","Please Love Me",171733,"Singin' the Blues",1,"1956",20,0.484,0.864,10,-3.626,0,0.0349,0.546,0,0.0546,0.692,104.286,4
+583,"3Sg5yX5o5bU0HXanffFops","Bruce Channel","Hey Baby",143240,"Dirty Dancing (Legacy Edition)",6,"2007-04-27",27,0.637,0.582,9,-7.119,1,0.0382,0.433,0,0.345,0.665,130.098,4
+584,"3B0ms7Xlxl16tRztKHpcu9","Seals and Crofts","Summer Breeze",205480,"Summer Breeze",4,"1972",10,0.49,0.581,5,-6.566,1,0.0388,0.553,0.0177,0.0764,0.318,88.718,4
+585,"1mgeyxFejjnPiWMzJgOWUB","Bo Diddley","I'm A Man",163268,"Bo Diddley",1,"2013-10-05",12,0.491,0.736,0,-8.796,1,0.0914,0.376,0,0.209,0.75,84.71,4
+586,"3eajzrohXKD4WW393kRmDp","Lawrence Welk","Calcutta",136000,"The Best Of Lawrence Welk",3,"1995-01-01",20,0.479,0.52,7,-12.423,1,0.0257,0.833,0.911,0.208,0.96,82.024,4
+587,"2f0P7iELCvAlV8j6Z3rGDE","Ted Nugent","Stranglehold",503066,"Ted Nugent",1,"1975",13,0.484,0.711,2,-7.784,1,0.0331,0.0183,0.173,0.0941,0.49,148.189,4
+588,"0SxFyA4FqmEQqZVuAlg8lf","Roberta Flack","The First Time Ever I Saw Your Face",260666,"First Take",6,"1969",8,0.311,0.0264,0,-21.644,1,0.037,0.731,0.00205,0.156,0.139,120.653,4
+589,"0pNeVovbiZHkulpGeOx1Gj","The Beatles","Something - Remastered 2009",182293,"Abbey Road (Remastered)",2,"1969-09-26",17,0.396,0.338,0,-10.872,1,0.0304,0.198,2.62e-06,0.138,0.377,133.522,4
+590,"4xqkFPYtOLQW9YeCltYsTU","Brian Hyland","Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",142893,"The Bashful Blond",1,"1960",12,0.819,0.337,2,-14.625,1,0.195,0.462,0,0.0234,0.961,123.32,4
+591,"1hVXZoSAkZ3P5Lp6fKOcgx","The Dave Brubeck Quartet","Take Five",324680,"Time Out",3,"1959",15,0.447,0.189,10,-17.987,0,0.0396,0.5,0.000742,0.0524,0.653,173.591,5
+592,"2d4e45fmUnguxh6yqC7gNT","AC/DC","Dirty Deeds Done Dirt Cheap",231933,"Dirty Deeds Done Dirt Cheap",1,"1976-09-20",9,0.668,0.906,11,-4.881,0,0.17,0.214,0.00245,0.135,0.507,135.653,4
+593,"4RahLZhxnmyMkJHaDG8kSl","Tom Jones","Delilah",206600,"Delilah",1,"1968-01-01",12,0.521,0.487,9,-10.928,0,0.026,0.598,1.29e-06,0.548,0.797,95.758,1
+594,"3R1hxHu0gG2NhHNb75yTyL","Dinah Washington","What A Diff'rence A Day Makes",147733,"What A Diff'rence A Day Makes (Classics International Version)",7,"1959",16,0.338,0.11,0,-17.845,1,0.032,0.93,0.00011,0.115,0.163,95.438,4
+595,"5iWxmbOfOFdCvwt6vPw4e5","Chris Montez","The More I See You",159000,"Call Me - The A&M Years",2,"2006-01-01",22,0.67,0.566,3,-7.674,1,0.0301,0.804,0,0.132,0.641,124.165,4
+596,"4m9yCjMCg0JbACCo7rAJ7N","The Five Blobs","The Blob",160733,"Halloween Classics: The Evil, The Demented, And The Just Plain Weird",14,"2007-10-09",14,0.604,0.658,10,-7.323,1,0.0648,0.305,0.2,0.0849,0.91,78.257,4
+597,"3ZFBeIyP41HhnALjxWy1pR","The Beatles","A Day In The Life - Remastered",337413,"Sgt. Pepper's Lonely Hearts Club Band (Remastered)",13,"1967-06-01",13,0.364,0.457,4,-14.162,0,0.0675,0.29,0.000106,0.922,0.175,163.219,4
+598,"24Qo0pcx4gjBNQNp1cTOVw","Carpenters","Yesterday Once More",233533,"Now & Then",6,"1973-01-01",15,0.253,0.391,4,-13.662,1,0.037,0.7,0,0.36,0.362,168.96,4
+599,"5gsVdCTBKYHzzGcYNg1TXT","Bill Justis","Raunchy",144826,"Sun King Collection - Bill Justis",1,"2012-05-15",12,0.506,0.742,2,-5.796,1,0.03,0.764,0.767,0.0854,0.731,76.353,4
+600,"1bp2IO61zbQrbWNmKKxg3f","Steve Miller Band","The Joker",264503,"The Joker",5,"1973-01-01",9,0.596,0.448,5,-9.616,1,0.0396,0.365,5.3e-06,0.206,0.796,83.293,4
+601,"2MUdjSxmaTDBNEl4678EU8","Billy Vaughn","Tracy's Theme",189204,"Theme from a Summer Place",3,"2012-04-20",14,0.599,0.318,6,-11.029,1,0.0249,0.453,0.0137,0.143,0.443,101.504,4
+602,"6gOirCUz62z0mFhCJ6P5KC","Bob Marley & The Wailers","Jamming",211000,"Exodus (Deluxe Edition)",6,"1977-01-01",25,0.934,0.467,11,-10.99,0,0.307,0.102,3.98e-05,0.109,0.73,123.583,4
+603,"5EOoMWIB9iK4ZpcSex9Ec7","Bob Seger","Old Time Rock & Roll",194146,"Stranger In Town",3,"1978-05-05",9,0.714,0.937,6,-2.947,1,0.0399,0.206,0,0.0731,0.964,124.13,4
+604,"5PklEat9V4riVvqfQmXrGs","The Rolling Stones","Paint It Black - Stereo Version",202293,"Aftermath",1,"1966-04-15",11,0.469,0.79,1,-9.262,1,0.0925,0.0579,0.00257,0.41,0.6,158.925,4
+605,"6XzhIERBvv28eomH7C5bRL","Ray Charles","Hit the Road Jack - Remastered",116816,"The Genius, Vol. 3 (Remastered)",3,"2017-08-29",12,0.469,0.79,1,-9.262,1,0.0925,0.0579,0.00257,0.41,0.6,158.925,4
+606,"1I7zHEdDx8Ny5RxzYPqsU2","Steely Dan","Reelin' In The Years",275466,"Can't Buy A Thrill",6,"1972-01-01",10,0.523,0.758,2,-9.81,1,0.0403,0.133,0,0.0952,0.766,135.437,4
+607,"5rlSIiIp5zmRKml0UY1Tnl","Fleetwood Mac","Landslide - 2017 Remaster",199213,"Fleetwood Mac (Deluxe Edition)",8,"1975-07-11",46,0.431,0.297,7,-14.933,0,0.0307,0.847,0.000589,0.115,0.467,160.168,4
+608,"6vZZtivPrtpggT5SSXsYTy","Peter Gabriel","Solsbury Hill",261560,"Peter Gabriel 1: Car (Remastered)",2,"1977",9,0.678,0.631,11,-8.624,1,0.0301,0.355,0.000268,0.376,0.463,102.378,1
+609,"7znZstuIvZjldNIO1E11U4","Herb Alpert","Rise",457400,"Rise",2,"1979-09-01",8,0.814,0.454,10,-10.802,1,0.0413,0.133,0.839,0.0863,0.903,99.265,4
+610,"3IghKz2iJFVLUdcC6zr8lE","Creedence Clearwater Revival","Lodi",193293,"Green River (40th Anniversary Edition)",6,"1969-08-03",14,0.77,0.635,5,-8.617,1,0.0288,0.344,3.86e-05,0.0823,0.895,126.891,4
+611,"1VKsbTJ78G5bnfyoPz46LA","Nina Simone","Feeling Good",174000,"I Put A Spell On You",7,"1965-06",12,0.318,0.334,7,-9.267,0,0.0487,0.854,0,0.188,0.541,78.508,4
+612,"0SMRck5oZi9hc16L6FuRF6","The Dixie Cups","Chapel Of Love",167773,"Full Metal Jacket (Original Motion Picture Soundtrack)",3,"1987-08-04",15,0.54,0.365,6,-13.56,0,0.0342,0.395,0,0.131,0.588,123.051,4
+613,"165n9dxHacuguzneup0HXQ","Perry Como","Magic Moments (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",160866,"The Essential Perry Como",13,"2010-10-26",51,0.499,0.273,0,-14.577,0,0.0544,0.865,2.11e-06,0.319,0.717,156.081,3
+614,"23hrvdvkIi1X1voQG2bJH9","Redbone","Come and Get Your Love",300666,"Wovoka",5,"1973-11-01",8,0.648,0.741,2,-8.568,1,0.0658,0.118,0.000802,0.0645,0.829,105.794,4
+615,"5ljGmNLjvQZm2hw8cDJXNJ","Gino Vannelli","I Just Wanna Stop",218306,"Brother To Brother",3,"1978-01-01",9,0.581,0.548,9,-13.448,1,0.0325,0.184,0.00165,0.163,0.672,139.149,4
+616,"4VnzKUBMB6cvog8Jvv1few","Christie","Yellow River",165960,"Christie",1,"1970",13,0.627,0.544,4,-11.436,1,0.029,0.0859,0,0.152,0.877,129.851,4
+617,"0rHiGIRASJq8snJGFJMpnI","The Manhattans","Kiss and Say Goodbye",266733,"The Manhattans (Expanded Version)",10,"1976",13,0.645,0.42,10,-10.09,1,0.0624,0.555,0,0.125,0.583,129.084,4
+618,"1bMDOUNbIGcrrm5UUfln4v","Bee Gees","To Love Somebody",181640,"Bee Gees 1st (Deluxe Version)",10,"1967-07-14",42,0.385,0.546,9,-6.67,1,0.0408,0.457,0,0.145,0.41,88.785,4
+619,"1YYhDizHx7PnDhAhko6cDS","John Denver","Take Me Home, Country Roads",190160,"Poems, Prayers and Promises",7,"1971",12,0.462,0.395,9,-9.376,1,0.0264,0.758,0,0.121,0.625,82.259,4
+620,"14ldz51B9dRHcRKT5vZU62","Jackson Browne","Stay - Live",203840,"Running on Empty",10,"1977-12-06",10,0.611,0.798,7,-7.518,1,0.0264,0.109,0.0652,0.0691,0.781,107.678,4
+621,"5gOd6zDC8vhlYjqbQdJVWP","Gerry Rafferty","Baker Street",365626,"City to City",2,"1978",10,0.497,0.349,7,-14.0,1,0.0297,0.0929,0.028,0.259,0.421,113.762,4
+622,"6Ig9hD8WhdP6sSUjk26fHX","Sergio Mendes & Brasil '66","Tristeza (Goodbye Sadness)",177626,"Look Around",5,"1966-01-01",10,0.589,0.707,2,-14.824,1,0.0447,0.68,0.0128,0.428,0.856,115.272,4
+623,"5QgFvAiE7oGCBLt20wYYb4","Olivia Newton-John","Hopelessly Devoted To You",185360,"Grease",3,"1978-09-14",24,0.59,0.338,11,-13.101,0,0.03,0.292,0.0131,0.121,0.322,110.581,3
+624,"1nvWbwYHXGocLrI5cfOSit","Gloria Gaynor","Never Can Say Goodbye",378786,"Never Can Say Goodbye",2,"1975-01-23",8,0.61,0.893,2,-3.357,0,0.0299,0.00788,0.541,0.923,0.782,126.741,4
+625,"3c4OULLWwgRqBfA2dJtRuY","John Paul Young","Love Is In The Air",210293,"I Hate the Music",12,"2009-09-18",18,0.557,0.791,0,-7.201,1,0.0389,0.0254,0.000269,0.0603,0.89,122.337,4
+626,"4lHQCzdK3VdYQvQZnnRouG","Gilbert O'Sullivan","Alone Again (Naturally)",217728,"Back to Front (Deluxe Edition)",15,"1972-01-01",17,0.558,0.464,8,-8.488,0,0.0354,0.583,0.000133,0.159,0.558,171.762,4
+627,"6BM20UqcuURtChTqsohkWR","Procol Harum","A Whiter Shade of Pale - 50th Anniversary Stereo Mix",354783,"A Whiter Shade of Pale (50th Anniversary Stereo Mix)",1,"2017-04-22",1,0.286,0.444,0,-13.237,1,0.0307,0.00526,0.022,0.0939,0.16,148.192,4
+628,"4Dykq1tU6xnLnlaniVH4hv","Carole King","You've Got a Friend",308973,"Tapestry (Legacy Edition)",7,"1971",23,0.474,0.263,8,-10.684,1,0.0336,0.88,4.45e-05,0.123,0.458,168.683,4
+629,"1Eolhana7nKHYpcYpdVcT5","Jimi Hendrix","Little Wing",145746,"Axis: Bold As Love",6,"1967-12-01",13,0.515,0.534,6,-8.045,1,0.0768,0.181,0.00278,0.0547,0.426,70.776,4
+630,"5ZoDwIP1ntHwciLjydJ8X2","Stevie Wonder","My Cherie Amour",173306,"My Cherie Amour",1,"1969-08-01",12,0.574,0.507,6,-11.343,1,0.0258,0.228,4.57e-06,0.279,0.514,101.085,4
+631,"5ZgypEwT8Mayum8GKG1KlG","The Beatles","I Will - 2018 Mix",105786,"The Beatles",16,"2018-11-09",107,0.621,0.348,5,-12.808,1,0.0251,0.661,0.000294,0.0899,0.9,103.123,4
+632,"0qdQUeKVyevrbKhAo0ibxS","George Harrison","My Sweet Lord - Remastered 2014",281226,"All Things Must Pass (Remastered 2014)",2,"1970-11-27",28,0.537,0.701,1,-8.913,0,0.0335,0.0972,0,0.0832,0.583,120.919,4
+633,"6A9mKXlFRPMPem6ygQSt7z","Bob Marley & The Wailers","Three Little Birds",180266,"Exodus (Deluxe Edition)",9,"1977-01-03",25,0.814,0.482,9,-10.493,1,0.0588,0.0111,1.57e-06,0.0476,0.615,148.404,4
+634,"4At54ImSBL41yWMaudry08","Barry White","Never, Never Gonna Give Ya Up",476066,"Stone Gon'",5,"1973-01-01",5,0.509,0.814,7,-10.11,0,0.0611,0.0408,2.73e-05,0.0668,0.921,86.786,4
+635,"6V9VCm1zOY2lGR80RehJ9i","Glen Campbell","Wichita Lineman - Remastered 2001",186200,"Wichita Lineman (Remastered)",1,"1968",11,0.192,0.392,5,-11.667,1,0.0328,0.326,0.000199,0.248,0.391,172.312,4
+636,"1HBDWCrQVjrALiOA5rILnE","KISS","Sure Know Something",241506,"Dynasty",3,"1979-03-23",9,0.707,0.732,4,-6.292,0,0.0303,0.277,0,0.13,0.928,115.338,4
+637,"4Xgr8IWwGSGyqLjwiwOxqk","The Police","Walking On The Moon - Remastered 2003",300826,"Reggatta De Blanc (Remastered)",6,"1979-10-02",11,0.514,0.34,0,-12.779,1,0.0537,0.00142,0.0173,0.213,0.269,145.992,4
+638,"2TVxnKdb3tqe1nhQWwwZCO","Elton John","Tiny Dancer",377093,"Madman Across The Water",1,"1971-11-05",9,0.414,0.428,0,-11.097,1,0.0278,0.382,0.000243,0.148,0.282,145.075,4
+639,"3hNUYt4dMM9RhcWmty8oKF","The Beatles","Day Tripper - Remastered 2009",169613,"The Beatles 1962 - 1966 (Remastered)",4,"1973-04-01",26,0.641,0.722,6,-10.553,0,0.0297,0.117,0,0.19,0.698,137.732,4
+640,"6mFkJmJqdDVQ1REhVfGgd1","Pink Floyd","Wish You Were Here",334743,"Wish You Were Here",4,"1975-09-12",5,0.481,0.262,7,-15.73,1,0.0414,0.735,0.0114,0.832,0.375,122.861,4
+641,"34D6mvDTAPypm92EPs8Rxa","Little River Band","Reminiscing - Remastered",253080,"Sleeper Catcher (Remastered)",2,"1978",9,0.54,0.465,7,-11.259,1,0.0302,0.652,0.00544,0.132,0.341,94.731,4
+642,"0jNTJSaktLVy8iAi7KY2zB","Kool & The Gang","Too Hot",295160,"Ladies' Night",6,"1979-05-13",6,0.717,0.253,7,-22.231,0,0.161,0.56,2.85e-05,0.0556,0.737,105.289,4
+643,"3DIe90xqHuUDtyuapTwCAR","The S.O.S Band","Take Your Time (Do It Right)",460800,"S.O.S.",5,"1980",8,0.863,0.538,4,-13.924,0,0.0545,0.0129,0.0188,0.0877,0.877,118.931,4
+644,"5ggOAMsJCAYDHnyoqJ0xAD","Kenny Rogers","She Believes In Me",258720,"The Gambler",6,"1978-11-20",11,0.32,0.413,10,-12.472,1,0.0314,0.484,4.97e-06,0.346,0.313,142.765,4
+645,"79nJj5dMyTsUzKvN5jUXsJ","Ray Charles","I Can't Stop Loving You",256120,"Modern Sounds in Country and Western Music, Vols 1 & 2",11,"2009-06-02",24,0.31,0.279,5,-13.552,1,0.0308,0.815,0,0.318,0.377,79.397,3
+646,"7bNFkCSO1ofu3uzr6voY7T","ZZ Top","Just Got Paid",267480,"Rio Grande Mud",2,"1972-04-04",10,0.567,0.687,9,-10.536,1,0.0435,0.29,0.426,0.121,0.625,99.93,4
+647,"1jcPcDu2YawPfLhwjYnqK2","Harry Nilsson","Everybody's Talkin' - From ""Midnight Cowboy""",163586,"Aerial Ballet",7,"1968-07-01",13,0.438,0.349,4,-15.569,1,0.038,0.338,5.7e-05,0.417,0.683,124.984,4
+648,"6GYqOflskcZxPj8rkTZkOy","Dean Martin","That's Amore",185466,"That's Amore",1,"2009-01-01",2,0.481,0.219,10,-10.07,1,0.0275,0.816,0,0.103,0.528,79.381,4
+649,"0ZpYPDCua4oMyj9GwSvbWB","Domenico Modugno","Volare (Nel blu dipinto di blu) - Digitally Remastered",214209,"Sei fantástico!, Vol. 1",1,"2017-11-18",10,0.532,0.153,10,-11.707,1,0.0405,0.966,3.94e-05,0.333,0.435,64.52,4
+650,"68CxNY9Fi4rG5eT9f5kZis","Bobby Troup","Route 66",145426,"Route 66 - The Best Of",1,"2012-03-15",38,0.627,0.183,1,-19.149,1,0.0519,0.746,8.38e-05,0.193,0.69,98.436,4
+651,"00sydAz6PeOxYzwG1dRIPi","The Stooges","Search and Destroy - Iggy Pop Mix",208133,"Raw Power",1,"1973-02-07",8,0.235,0.977,6,0.878,1,0.107,0.00353,0.00604,0.172,0.241,152.952,4
+652,"7vgbuSjcyXsQPCyorNcG1X","Rush","Closer To The Heart",176173,"A Farewell To Kings (40th Anniversary Deluxe Edition)",3,"2017-09-01",26,0.378,0.588,2,-16.937,1,0.0618,0.142,4.46e-06,0.552,0.499,144.599,4
+653,"7wLRmjiDYI6flIVzboUqSV","The Miracles","You've Really Got A Hold On Me",177706,"The Fabulous Miracles",1,"1963-01-01",10,0.68,0.448,0,-8.398,1,0.0302,0.698,0,0.227,0.567,118.461,3
+654,"7f6AAixCrVar1ZY7RPHDfM","Julie London","Cry Me A River",178573,"Julie Is Her Name",1,"1955-12-01",13,0.496,0.0688,4,-14.927,0,0.0545,0.964,0.00229,0.112,0.161,119.898,4
+655,"7vMRj40Rw8PPgZiDcbyUdj","Amii Stewart","Knock on Wood - 7"" Edit",227733,"Knock On Wood: The Anthology",16,"2016-11-18",27,0.691,0.873,2,-6.349,1,0.184,0.000457,0.000582,0.118,0.667,139.384,4
+656,"5x5sfW1qDgExa1tiXFQnnA","The Shadows","Apache - 2004 Remaster",175693,"The Shadows' Greatest Hits (2004 Remaster)",1,"1989-06-12",32,0.537,0.692,9,-6.328,0,0.031,0.0033,0.878,0.076,0.775,133.311,4
+657,"2Mpfryz2B3VjFLZ1gzwIp2","Herman's Hermits","There's a Kind of Hush (All Over the World)",155186,"There's a Kind of Hush All Over the World",1,"1967-09-15",11,0.567,0.595,0,-7.827,1,0.0325,0.168,3.84e-05,0.152,0.849,128.273,4
+658,"1dnTzkUEdwm9jrmdpKSfWU","Marvin Gaye","Mercy Mercy Me (The Ecology)",196466,"What's Going On",6,"1971-05-21",35,0.499,0.633,6,-12.145,0,0.0445,0.373,0.716,0.0876,0.474,93.238,4
+659,"2RDLtc9vdVqNDu82QJn58v","Earl Grant","House of Bamboo - Remastered",156487,"Plays Only His Best (Remastered)",4,"2020-03-20",39,0.677,0.502,1,-9.556,1,0.507,0.516,0,0.137,0.837,153.822,4
+660,"0iUPROjzFKvhfI285w81ti","Andrea True","More More More",183451,"More More More",1,"2016-02-24",6,0.698,0.529,2,-10.197,0,0.0271,0.123,3.73e-05,0.323,0.681,102.895,4
+661,"73V1mhbDb7K0lqlHB82iN5","Bee Gees","Love You Inside Out",251333,"Spirits Having Flown",3,"1979-02-05",10,0.706,0.516,11,-11.037,0,0.0474,0.354,4.19e-06,0.205,0.833,94.716,4
+662,"62qbAC4pbgrr3kkEDQrhbA","The Doors","People Are Strange - 2017 Remaster",132706,"Strange Days (50th Anniversary Expanded Edition) [2017 Remaster]",7,"2017-11-17",20,0.667,0.324,7,-14.24,1,0.0467,0.674,0,0.293,0.75,120.168,4
+663,"4QkvD53COA5qLA7rQ1Pa7D","The Human Beinz","Nobody But Me",140440,"Nobody But Me",1,"1968-01-01",11,0.568,0.75,2,-8.913,1,0.0466,0.0731,0,0.121,0.407,75.82,4
+664,"10VbGCpgC4FtmYSwBLvIDX","Diana Ross","Theme From Mahogany (Do You Know Where You're Going To) - Single Version",204493,"Diana Ross (Expanded Edition)",1,"1976-02-10",33,0.323,0.42,0,-10.658,0,0.0291,0.553,0.002,0.096,0.286,139.842,4
+665,"4GzjPsieNA1WCjImEYJvhf","Lee Oskar","Before the Rain",495466,"Before the Rain",1,"1978-01-01",7,0.524,0.658,1,-7.652,1,0.0755,0.189,0.847,0.765,0.519,103.868,4
+666,"3dFR132gzO8jxD57R2gid3","Debby Boone","You Light Up My Life",216286,"You Light Up My Life",1,"1977-07-01",12,0.333,0.367,2,-10.06,1,0.0291,0.831,1.19e-05,0.262,0.0685,77.986,3
+667,"7xJHtECUDzwl7m54YJWEFi","Tavares","Heaven Must Be Missing an Angel - Radio Edit",233880,"Heaven Must be Missing an Angel / More Than a Woman",3,"1994-01-01",4,0.68,0.576,7,-13.531,1,0.0343,0.00145,0.0765,0.0551,0.893,119.591,4
+668,"44BmNSqH9uZV5OfIjGcER3","Ike & Tina Turner","River Deep - Mountain High",214880,"River Deep-Mountain High",1,"1966-01-01",12,0.389,0.745,3,-6.998,1,0.0384,0.777,0.00159,0.143,0.271,83.037,4
+669,"0KOE1hat4SIer491XKk4Pa","Sam Cooke","A Change Is Gonna Come",191160,"Ain't That Good News",7,"1964-03-01",12,0.212,0.383,10,-10.071,1,0.0347,0.723,0,0.299,0.452,173.79,3
+670,"6OylYIXrIH2E3hgg7Dqz5M","Lou Rawls","You'll Never Find Another Love Like Mine",266200,"All Things In Time",2,"1976",9,0.691,0.718,2,-8.457,1,0.0317,0.148,4.81e-05,0.108,0.934,110.623,4
+671,"77oU2rjC5XbjQfNe3bD6so","The Rolling Stones","Beast Of Burden - Remastered 1994",265173,"Some Girls",9,"1978-06-09",10,0.783,0.878,1,-3.864,0,0.0308,0.39,0.000778,0.0426,0.885,100.626,4
+672,"5gOd6zDC8vhlYjqbQdJVWP","Gerry Rafferty","Baker Street",365626,"City to City",2,"1978",10,0.497,0.349,7,-14.0,1,0.0297,0.0929,0.028,0.259,0.421,113.762,4
+673,"1Tqp0NfsdBkXtcy45z6kYu","Elton John","Goodbye Yellow Brick Road - Remastered 2014",192826,"Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",4,"1973-10-05",52,0.559,0.473,5,-7.712,1,0.0279,0.446,0.00141,0.154,0.397,121.227,4
+674,"3UUwbJd2j4RORlalTUhaDk","The Ventures","Hawaii Five-O",113893,"Hawaii Five-O",1,"1969",11,0.518,0.782,9,-9.753,1,0.0631,0.265,0.654,0.0769,0.861,163.647,4

@@ -1,0 +1,836 @@
+"n","id","artist_name","name","duration_ms","album_name","track_number","release_date","total_tracks","danceability","energy","key","loudness","mode","speechiness","acousticness","instrumentalness","liveness","valence","tempo","time_signature"
+0,"66IULVOTImQG2u0cJ3Ls04","Scotty McCreery","Five More Minutes",238954,"Five More Minutes",1,"2017-05-05",1,0.517,0.652,7,-6.153,1,0.0323,0.325,0,0.109,0.333,156.07,4
+1,"6Ymvlzom4TQeoKqAWsZRD8","Kip Moore","Somethin' 'Bout A Truck",213826,"Up All Night",3,"2012-01-01",11,0.554,0.794,11,-5.417,1,0.035,0.0697,0,0.63,0.79,176.01,4
+2,"2uZhNjlUQ9mnt0rS7hcAgF","Eric Church","Smoke A Little Smoke",191333,"Carolina",7,"2009-01-01",12,0.77,0.641,10,-6.077,0,0.035,0.0206,0.00023,0.106,0.639,96.98,4
+3,"2xYlyywNgefLCRDG8hlxZq","John Denver","Take Me Home, Country Roads - Rerecorded",197813,"The John Denver Collection, Vol. 1: Take Me Home Country Roads",1,"1997-06-17",11,0.255,0.43,9,-12.564,1,0.0322,0.546,1.87e-05,0.188,0.546,164.267,4
+4,"0WB48shl2wAH4KqyQkQ8nJ","Joe Nichols","Brokenheartsville",230360,"Man With A Memory",3,"2002-01-01",12,0.686,0.631,10,-5.182,1,0.0232,0.126,0.000183,0.107,0.509,103.953,4
+5,"5PxpphUBj6Dfqrii0irlMf","Montgomery Gentry","Where I Come From",201840,"Where I Come From - Single",1,"2011-07-26",1,0.62,0.837,1,-4.239,1,0.0303,0.012,9.38e-06,0.247,0.532,90.015,4
+6,"5QHElgktygMkgRdpPhXfn2","Brooks & Dunn","Red Dirt Road",260346,"#1s ... and then some",9,"2009-09-08",30,0.553,0.864,5,-4.038,1,0.0414,0.0736,0.000309,0.138,0.435,136.128,4
+7,"0Ox458KpvZQ1Kuj9mUNPLL","Kenny Chesney","I Go Back",240346,"Greatest Hits II",11,"2009-05-19",17,0.513,0.805,5,-6.918,1,0.0466,0.0421,0,0.208,0.69,89.963,4
+8,"4I5azUh7XiUcjFzAZUPfzX","Kenny Chesney","Setting the World On Fire",220266,"Setting the World On Fire",1,"2016",1,0.608,0.833,0,-4.458,1,0.036,0.0155,2.07e-06,0.086,0.395,93.977,4
+9,"39FwE8edwuyiaa4PrGBkP7","Blake Shelton","Boys 'Round Here (feat. Pistol Annies & Friends)",288760,"Based on a True Story... (Deluxe Edition)",1,"2013-03-26",14,0.611,0.688,2,-6.369,1,0.0529,0.251,2.35e-06,0.248,0.649,169.895,4
+10,"7B6m8tHAYZsOKOKMU5SR2n","Rodney Atkins","Take A Back Road",209426,"Take A Back Road",1,"2011-10-04",13,0.581,0.856,3,-4.0,1,0.0783,0.183,0,0.0871,0.918,169.902,4
+11,"1enjzQYx2hiQY75SBG1ZRA","Jake Owen","Barefoot Blue Jean Night",168533,"Barefoot Blue Jean Night",1,"2011-04-10",1,0.604,0.811,4,-4.117,1,0.0375,0.148,0,0.122,0.827,172.004,4
+12,"6y35xDJFzpy1FIa6qCMA59","Chris Janson","Buy Me a Boat",179077,"Buy Me a Boat",1,"2015-04-23",1,0.574,0.745,2,-6.663,1,0.0507,0.319,0,0.11,0.693,154.042,4
+13,"1yEwEiTpsaPhQi9lb5EVV4","Zac Brown Band","Knee Deep (feat. Jimmy Buffett)",203173,"You Get What You Give (Deluxe)",2,"2010-09-20",16,0.715,0.584,8,-8.231,1,0.0296,0.432,1.41e-06,0.095,0.61,90.987,4
+14,"05ZACkzW8YbRq3eFgIfSNB","Eric Church","Springsteen",263386,"Chief",9,"2011-01-01",11,0.692,0.809,2,-5.935,1,0.0255,0.1,9.77e-05,0.185,0.927,104.023,4
+15,"0sl8awl4hoj9cjU2AJqBjl","Toby Keith","Made In America",196053,"Made In America",1,"2011-01-01",1,0.482,0.753,9,-4.997,1,0.0367,0.0775,0,0.105,0.467,172.149,4
+16,"7E2DqvnVtbIrFrL5X6YH9Q","Toby Keith","Beer For My Horses",204000,"Unleashed",5,"2002-01-01",13,0.717,0.85,10,-5.329,1,0.0473,0.368,0,0.0495,0.805,119.005,4
+17,"1cktZnxiONH0hR6Q3DKy8h","Eric Church","Drink In My Hand",191306,"Chief",2,"2011-01-01",11,0.626,0.913,0,-4.452,1,0.0318,0.00635,0,0.293,0.946,113.044,4
+18,"1zWZvrk13cL8Sl3VLeG57F","Thomas Rhett","T-Shirt",227693,"Tangled Up",7,"2015-01-01",13,0.634,0.862,2,-5.337,1,0.0376,0.0287,0,0.0217,0.767,95.989,4
+19,"0M7mWKqwTIaVjYyxfZmtTa","Toby Keith","Courtesy Of The Red, White And Blue (The Angry American)",195533,"Unleashed",1,"2002-01-01",13,0.424,0.661,2,-5.547,1,0.0425,0.521,1.62e-06,0.0719,0.384,111.762,4
+20,"4dGJf1SER1T6ooX46vwzRB","Zac Brown Band","Chicken Fried",238146,"The Foundation",6,"2008-11-17",12,0.566,0.713,6,-4.25,1,0.0417,0.645,0,0.114,0.807,169.864,4
+21,"1vD4DN56ued7pQklJBDesw","Toby Keith","American Ride",165693,"American Ride",1,"2009-01-01",12,0.518,0.906,9,-2.845,1,0.0573,0.0889,0,0.309,0.751,174.099,4
+22,"7yOiGdQrf6ye6ZcCKAPYe3","Jerrod Niemann","Drink to That All Night",225786,"Drink to That All Night",1,"2013-09-30",1,0.64,0.844,9,-5.637,0,0.043,0.0384,0,0.105,0.502,115.997,4
+23,"0H04yVa3DJxoXbLBpAb7iV","Chris Young","I'm Comin' Over",197280,"I'm Comin' Over",2,"2015-11-13",11,0.575,0.845,10,-3.838,1,0.035,0.0282,0,0.0814,0.376,127.997,4
+24,"3qn7FzYkDLJBbOnRwSsDWV","Jason Aldean","Night Train",232306,"Night Train",9,"2012-10-16",15,0.493,0.708,5,-5.196,1,0.0291,0.0575,0,0.175,0.547,158.037,4
+25,"1R9FxlRkvKtt36dtTHs93X","Jon Pardi","Head Over Boots",205120,"Head Over Boots",1,"2015-09-04",1,0.637,0.669,7,-4.608,1,0.0237,0.0919,0,0.103,0.638,108.078,4
+26,"03fT3OHB9KyMtGMt2zwqCT","Luke Bryan","Play It Again",226866,"Crash My Party",9,"2013-01-01",13,0.506,0.886,11,-3.225,1,0.0655,0.0916,0,0.0734,0.595,143.935,4
+27,"5aj0xPGiEUN3aI2oOYu14S","Lee Brice","I Don't Dance",221173,"I Don't Dance (Deluxe Edition)",1,"2014-09-09",16,0.587,0.559,1,-7.742,1,0.0321,0.399,6.69e-06,0.0992,0.19,92.036,4
+28,"5fSPbm5lcwtqwXkeQQswW8","Eric Church","Record Year",179346,"Mr. Misunderstood",9,"2015-11-11",10,0.589,0.641,5,-8.12,1,0.0838,0.205,0,0.0864,0.57,160.031,4
+29,"045SnNDjOfOLKM5OxARH4g","Dustin Lynch","Small Town Boy",206573,"Small Town Boy",1,"2017-02-17",1,0.553,0.747,9,-5.905,1,0.0292,0.0244,0,0.363,0.711,73.033,4
+30,"5S5rw0WLVCAux5B5bWCehK","Rascal Flatts","I Like The Sound Of That",209280,"Rewind",8,"2014-01-01",13,0.611,0.8,0,-5.61,1,0.0377,0.257,0,0.194,0.527,89.974,4
+31,"1LZNdHSaGjV2S9q8BrZwnh","Granger Smith","If the Boot Fits",170093,"Remington",4,"2016-03-04",15,0.528,0.928,3,-5.743,1,0.0456,0.0252,2.88e-06,0.0467,0.885,162.069,4
+32,"5zGqTc1WQUe8XqqdnrpKTV","Rodney Atkins","Farmer's Daughter",207040,"It's America",12,"2010-06-29",12,0.612,0.791,6,-3.519,1,0.0291,0.224,0,0.112,0.786,133.977,4
+33,"1soxUgYIZb1qx1c7o1Lc7z","Dierks Bentley","Drunk On A Plane",254466,"RISER",6,"2014-01-01",12,0.423,0.73,9,-5.566,1,0.032,0.00495,1.13e-05,0.238,0.66,205.972,4
+34,"6aUhfNWYnMThF3TGtuYUUu","Randy Houser","How Country Feels",185906,"How Country Feels",9,"2013-01-22",15,0.678,0.839,7,-3.617,1,0.0394,0.0379,0,0.0742,0.772,104.952,4
+35,"1TKlBK9cSrM5u4CiL4SETS","Eric Church","Talladega",262280,"The Outsiders",5,"2014-01-01",12,0.586,0.677,1,-8.343,1,0.0294,0.043,0.0936,0.0884,0.562,144.001,4
+36,"0yD66650JxhqKbW76C2qCo","Luke Bryan","Country Girl (Shake It For Me)",225560,"Tailgates & Tanlines",1,"2011-08-09",13,0.645,0.904,2,-4.532,1,0.0462,0.0293,0,0.0834,0.671,105.97,4
+37,"5kjyiH6but1t2UDXq15aeS","Zac Brown Band","Toes",262773,"The Foundation",1,"2008-11-17",12,0.8,0.759,11,-5.398,1,0.0378,0.655,0,0.0897,0.821,129.979,4
+38,"1dgWTMoHwTUnQhOQ8SR5fV","Kenny Chesney","American Kids",182960,"The Big Revival",4,"2014-09-22",11,0.782,0.589,0,-7.37,1,0.0803,0.0476,5.84e-06,0.0366,0.849,85.022,4
+39,"6se4sK4ZbkNgOJUkmszbxX","The Osborne Brothers","Rocky Top",161226,"From Rocky Top to Muddy Bottom: The Songs of Boudleaux and Felice Bryant",1,"2008-05-30",20,0.551,0.557,4,-8.514,1,0.0298,0.14,0.000129,0.333,0.93,156.805,4
+40,"7f08qp3HROTkfrtNpiYGGo","Jon Pardi","Dirt On My Boots",201893,"California Sunrise",6,"2016-05-13",12,0.683,0.796,11,-4.179,1,0.0285,0.111,0,0.197,0.531,90.031,4
+41,"4D8uIY6Wzj7dJDaw0dW0UF","Montgomery Gentry","Something to Be Proud Of",256600,"You Do Your Thing",1,"2004-05-18",12,0.645,0.693,0,-6.481,1,0.0344,0.0811,1.22e-05,0.175,0.553,97.555,4
+42,"0dbzWSYpMcRtwjI1S7Pkql","Luke Bryan","Huntin', Fishin' And Lovin' Every Day",278613,"Kill The Lights (Deluxe)",12,"2015-08-07",16,0.543,0.81,0,-4.275,1,0.0368,0.14,1.23e-05,0.145,0.395,76.978,4
+43,"5kNe7PE09d6Kvw5pAsx23n","Thomas Rhett","Die A Happy Man",227426,"Tangled Up",4,"2015-01-01",13,0.595,0.389,2,-9.245,1,0.0349,0.418,1.39e-06,0.116,0.4,166.052,4
+44,"4QAXLB2Hkx3n7LbOFxD34h","Lee Brice","Drinking Class",207346,"I Don't Dance (Deluxe Edition)",6,"2014-09-09",16,0.663,0.53,1,-9.763,1,0.0301,0.0886,0,0.154,0.269,109.003,4
+45,"1qwnPVOIJjAFfCc40Etb1D","Zac Brown Band","Homegrown",205000,"JEKYLL + HYDE",4,"2015-04-28",16,0.711,0.801,6,-3.742,1,0.029,0.0244,0.000113,0.135,0.956,105.006,4
+46,"5HGibWoxnkYSkl6mHmAlOE","Luke Bryan","That's My Kind Of Night",190186,"Crash My Party",1,"2013-01-01",13,0.661,0.751,7,-2.909,1,0.0481,0.0571,0,0.105,0.875,109.995,4
+47,"2WKCH4ISejDV9ad7iPp5XU","Dierks Bentley","5-1-5-0",182893,"Home",10,"2012-01-01",12,0.554,0.849,1,-5.181,0,0.0357,0.0246,0.000233,0.31,0.683,116.992,4
+48,"5OusUgzHz6Ulb3GZT7WUo5","Rodney Atkins","Watching You",235426,"If You're Going Through Hell",3,"2006-07-18",10,0.625,0.848,2,-4.008,1,0.0314,0.105,0,0.23,0.716,137.993,4
+49,"1YhFtqwcN138S6ng3MT1nN","Luke Bryan","Rain Is A Good Thing",176160,"Doin' My Thing",1,"2009-01-01",11,0.622,0.932,11,-4.66,0,0.0498,0.105,2.37e-06,0.328,0.519,108.051,4
+50,"5s7m2xNZWgz5FqVSIvJcGA","Big & Rich","Save a Horse (Ride a Cowboy)",200306,"Horse of a Different Color",9,"2004-04-20",13,0.7,0.896,2,-2.276,1,0.191,0.108,0,0.453,0.817,102.065,4
+51,"5pyB5WEAEwqwl18UaBLeBl","Justin Moore","Small Town USA",218853,"Justin Moore",2,"2009-01-01",10,0.594,0.601,6,-5.996,1,0.029,0.122,5.69e-06,0.181,0.531,131.931,4
+52,"0Ta3jOf8m9yCSWMVwd8Qlf","Craig Morgan","International Harvester",228653,"Little Bit Of Life",2,"2006-10-31",11,0.699,0.837,2,-5.173,1,0.0428,0.103,0,0.231,0.348,95.493,4
+53,"3QV7NYkrmV0Q0IHdFJw9hO","Kenny Chesney","She Thinks My Tractor's Sexy",248066,"Everywhere We Go",7,"1999-02-26",11,0.689,0.886,10,-7.066,0,0.0382,0.0664,0,0.278,0.906,122.07,4
+54,"45vYrwyBrzq8y2RdEsgjgK","Blake Shelton","Hillbilly Bone (feat. Trace Adkins)",224026,"Loaded: The Best of Blake Shelton",12,"2010-11-08",15,0.603,0.944,7,-4.157,1,0.0481,0.0496,7.23e-05,0.152,0.911,144.026,4
+55,"2Fs18NaCDuluPG1DHGw1XG","Rascal Flatts","Life is a Highway",276320,"Me And My Gang",14,"2006-01-01",14,0.582,0.952,5,-3.848,1,0.0731,0.00324,0,0.223,0.655,103.027,4
+56,"1xcDKZqyEg1dIgsidluiFP","Lee Greenwood","God Bless The U.S.A.",190240,"Greatest Hits - Volume 2",11,"1988-01-01",11,0.439,0.308,5,-12.378,1,0.0363,0.617,0,0.181,0.198,138.703,4
+57,"6aPc6SSWgTsiXrrUpJCPlj","Lee Brice","I Drive Your Truck",234840,"Hard 2 Love",6,"2012-04-24",13,0.51,0.649,11,-6.215,1,0.0348,0.0978,0.00206,0.119,0.118,141.963,4
+58,"1nVLAEzhBXMJLR5zAl90Nl","Eli Young Band","Crazy Girl",200706,"Life At Best",2,"2011-01-01",14,0.366,0.651,4,-3.842,1,0.031,0.000415,0.00526,0.271,0.257,151.343,3
+59,"0dOg1ySSI7NkpAe89Zo0b9","Bruce Springsteen","Born in the U.S.A.",278680,"Born In The U.S.A.",1,"1984-06-04",12,0.398,0.952,4,-6.042,1,0.061,0.000373,7.75e-05,0.1,0.584,122.093,4
+60,"1co0puPTYvqAdUEjFOjne9","Florida Georgia Line","Simple",185200,"Florida Georgia Line",1,"2018-08-24",4,0.375,0.889,3,-3.704,1,0.0991,0.0848,0,0.136,0.881,199.669,4
+61,"0Jg602cHeMCnPez9baacIe","Rednex","Cotton Eye Joe",193826,"Sex & Violins",1,"1995-04-03",13,0.738,0.937,9,-7.788,0,0.0668,0.0124,0.00206,0.0338,0.614,131.994,4
+62,"0vFMQi8ZnOM2y8cuReZTZ2","Carrie Underwood","Blown Away",240133,"Blown Away",2,"2012-05-01",14,0.531,0.843,9,-2.569,0,0.0429,0.0909,0,0.0283,0.392,136.991,4
+63,"3lec3CzDPAxsZokPph5w87","Carrie Underwood","Jesus, Take the Wheel",226493,"Some Hearts",4,"2005-11-14",14,0.359,0.518,2,-3.537,1,0.0302,0.665,0,0.106,0.135,76.572,4
+64,"67citk3uzWs5qbaIVKTeg8","Carrie Underwood","Church Bells",193333,"Storyteller",3,"2015-10-23",13,0.575,0.844,3,-1.772,0,0.0633,0.226,0,0.0538,0.542,87.007,4
+65,"10RQKVSr4rS0coExTmi4dF","Carrie Underwood","Something in the Water",238173,"Greatest Hits: Decade #1",1,"2014-12-09",25,0.451,0.893,7,-2.721,1,0.0627,0.0243,0,0.0813,0.0971,139.763,4
+66,"5mFYtqhN4T2D9IPSaZnVDw","Carrie Underwood","Two Black Cadillacs",297946,"Blown Away",3,"2012-05-01",14,0.555,0.854,5,-4.468,0,0.0609,0.0223,3.95e-06,0.0672,0.448,119.991,4
+67,"4KAzYqfcijCSZa2P3etHoM","Jason Aldean","Big Green Tractor",204200,"Wide Open",9,"2009-04-07",11,0.623,0.59,4,-5.014,1,0.028,0.646,0,0.295,0.579,137.071,4
+68,"5g15o2Sm55Hn9ShK5yEXgp","Luke Bryan","Kick The Dust Up",190586,"Kill The Lights (Deluxe)",1,"2015-08-07",16,0.597,0.86,1,-2.315,1,0.0461,0.196,0,0.087,0.818,172.064,4
+69,"0cV4xwUA4ue2deqq4CZFko","Luke Bryan","I Don't Want This Night To End",219973,"Tailgates & Tanlines",5,"2011-08-09",13,0.616,0.728,9,-4.02,0,0.0278,0.0275,0,0.228,0.375,111.934,4
+70,"1PoGWZbJPGmViVi7CYbDUK","Luke Bryan","Drink A Beer",202626,"Crash My Party",6,"2013-01-01",13,0.483,0.431,8,-7.656,1,0.0343,0.836,5.19e-05,0.199,0.296,78.26,4
+71,"6qoH2pKeEibNUG1pnJIjmZ","Luke Bryan","Move",227413,"Kill The Lights (Deluxe)",7,"2015-08-07",16,0.57,0.939,5,-0.716,0,0.0789,0.00719,1.08e-06,0.0462,0.801,103.983,4
+72,"4i95IcFlxQLIVDlChgAHGU","Blake Shelton","Kiss My Country Ass",252920,"Loaded: The Best of Blake Shelton",13,"2010-11-08",15,0.517,0.846,7,-4.332,1,0.0346,0.0435,0,0.177,0.683,89.912,4
+73,"4WygRabom8WGpPb44r40sK","Toby Keith","American Soldier",263333,"Shock 'N Y'all",3,"2003-01-01",12,0.551,0.559,9,-8.238,1,0.0381,0.157,1.29e-05,0.0589,0.3,82.009,4
+74,"5jFid6SUnYqohvNvNuZvIz","Rodney Atkins","These Are My People",213653,"If You're Going Through Hell",1,"2006-07-18",10,0.558,0.896,0,-3.687,1,0.0545,0.0316,0,0.528,0.63,90.064,4
+75,"3duP6mBVDsHM8ioN7o7dAK","Little Big Town","Boondocks",272346,"The Road To Here",2,"2005-01-01",13,0.41,0.78,9,-5.391,1,0.0332,0.211,0,0.48,0.695,88.016,4
+76,"4etE2X6t7GmyiuYLIdI8H5","Craig Morgan","Redneck Yacht Club",230373,"My Kind Of Livin'",8,"2005-03-08",12,0.49,0.817,8,-5.405,1,0.0355,0.455,0,0.0885,0.808,168.115,4
+77,"3oW6SWwGqiZSPTiAp7ZQoH","Travis Tritt","It's A Great Day To Be Alive",241533,"Down The Road I Go",4,"2000-10-01",11,0.595,0.653,7,-4.935,1,0.0265,0.246,0,0.264,0.542,128.93,4
+78,"7B1QliUMZv7gSTUGAfMRRD","Tim McGraw","Live Like You Were Dying",300333,"Live Like You Were Dying",5,"2004-08-17",16,0.416,0.546,7,-7.728,1,0.0297,0.492,0,0.0845,0.418,159.929,4
+79,"0nDjzA4kns1QOWPXuOn6Xw","Tim McGraw","Where The Green Grass Grows",201600,"Everywhere",1,"1997-06-03",11,0.479,0.698,7,-7.914,1,0.0277,0.198,0,0.126,0.673,159.699,4
+80,"6EGAfJaLUFzhS4zRBIEQ2J","Jason Aldean","You Make It Easy",196800,"Rearview Town",4,"2018-04-13",15,0.375,0.574,7,-5.305,1,0.0315,0.143,0,0.11,0.406,132.025,3
+81,"7K0lR5Ngf5jkOWt1g6ut6l","Jason Aldean","Girl Like You",193066,"Rearview Town",3,"2018-04-13",15,0.543,0.88,3,-4.204,0,0.0365,0.035,0.000227,0.304,0.483,144.057,4
+82,"0adTN3vBO3pimO3yfxm9vg","Jason Aldean","Dirt Road Anthem",229413,"My Kinda Party",2,"2010-11-02",15,0.677,0.739,2,-5.068,1,0.0352,0.32,2.36e-06,0.12,0.658,127.04,4
+83,"4J37kFNUhbX5NV1VFdVLSH","Jason Aldean","Burnin' It Down",219277,"Old Boots, New Dirt",3,"2014-09-17",15,0.676,0.795,6,-6.648,1,0.0485,0.307,6.61e-06,0.0971,0.585,135.924,4
+84,"4iKllrl3J1GMiFocU57cN4","Jason Aldean","My Kinda Party",284973,"My Kinda Party",4,"2010-11-02",15,0.414,0.902,0,-4.256,0,0.0669,0.0174,7.52e-06,0.313,0.532,176.926,4
+85,"5aPGxR67OwJmu1eEsErW5e","Jason Aldean","Lights Come On",194506,"They Don't Know",1,"2016-10-07",15,0.567,0.839,6,-4.048,0,0.0698,0.0489,0,0.103,0.903,160.062,4
+86,"1rOoICPf1JpkRpX5PNuJt2","Jason Aldean","Take a Little Ride",187613,"Night Train",7,"2012-10-16",15,0.464,0.853,2,-3.767,1,0.0417,0.055,0,0.191,0.76,163.934,4
+87,"1VN6TvmHTIWvLzBAOmre6P","Eric Church","The Outsiders",252893,"The Outsiders",1,"2014-01-01",12,0.409,0.8,7,-5.216,1,0.0746,0.272,5.29e-05,0.092,0.321,159.943,4
+88,"3mSAhPW73pyeKoquI7E8B3","Justin Moore","Backwoods",155893,"Justin Moore",3,"2009-01-01",10,0.497,0.932,8,-5.029,1,0.0527,0.0678,2.5e-06,0.116,0.774,157.884,4
+89,"3DGKj5YCr3o9UD4djXUbvI","Brooks & Dunn","Play Something Country",194826,"The Collection",1,"1991",134,0.692,0.944,7,-2.846,1,0.0322,0.0817,0,0.574,0.774,115.148,4
+90,"539dFCMA8lfEElDPgGpcIB","Luke Bryan","All My Friends Say",242800,"I'll Stay Me",1,"2007-01-01",11,0.683,0.9,9,-4.422,1,0.0333,0.0439,0,0.177,0.962,117.036,4
+91,"48tAdjG4ng2JfECa7OQujk","Brantley Gilbert","The Weekend",187760,"The Devil Don't Sleep",3,"2017-01-27",16,0.511,0.812,6,-4.763,0,0.0464,0.0496,1.64e-06,0.0829,0.692,81.992,4
+92,"69ku805AjIcFQh0IfkGohf","Toby Keith","Should've Been A Cowboy",211306,"Toby Keith",1,"1993-01-01",10,0.619,0.672,7,-7.786,1,0.0356,0.471,3.15e-06,0.211,0.694,133.402,4
+93,"3JUT20Ycry03hgIbMSSBzV","Brantley Gilbert","Small Town Throwdown",201680,"Just As I Am",9,"2014-01-01",11,0.555,0.862,7,-3.866,1,0.0379,0.0252,0,0.0559,0.692,98.036,4
+94,"0HZUp8fm9fh1Mitqx4CIOr","Brantley Gilbert","Bottoms Up",220200,"Just As I Am",3,"2014-01-01",11,0.474,0.857,7,-5.734,1,0.0435,0.113,0,0.134,0.545,170.006,4
+95,"6naYpFIKihKbGg6lGxpveI","Granger Smith","Backroad Song",236786,"Remington",1,"2016-03-04",15,0.488,0.833,11,-6.571,1,0.0437,0.0352,0.0172,0.34,0.751,174.006,4
+96,"11fWR3u9wjDMW4oVDbUbyT","Granger Smith","Happens Like That",171493,"When The Good Guys Win",4,"2017-10-27",14,0.557,0.807,7,-5.428,1,0.0825,0.189,0,0.234,0.578,81.045,4
+97,"1kFBLqkTuNKlspkJ1EOGjN","Chris Janson","Drunk Girl",207266,"EVERYBODY",12,"2017-09-22",12,0.485,0.306,0,-8.431,1,0.0409,0.794,0,0.122,0.224,203.729,4
+98,"3N2AIfVOq6NiTcWHIP4Oco","Mitchell Tenpenny","Drunk Me",213023,"Mitchell Tenpenny - EP",2,"2018-02-23",5,0.386,0.799,2,-3.789,1,0.0555,0.201,0,0.103,0.391,86.333,4
+99,"4ly1QBXEwYoDmje9rmEgC4","Jon Pardi","Head Over Boots",202346,"California Sunrise",3,"2016-05-13",12,0.563,0.688,7,-4.474,1,0.0262,0.0763,0,0.0863,0.622,108.008,4
+100,"6GsAD8PgHxmEuIPTG8GP3M","Thomas Rhett","It Goes Like This",186080,"It Goes Like This",5,"2013-01-01",12,0.543,0.837,11,-6.448,1,0.0608,0.117,0,0.0872,0.506,168.056,4
+101,"0qup7d7G2WffwARHKrqT2x","Keith Urban","Somebody Like You",323466,"Greatest Hits",17,"2007-01-01",18,0.646,0.887,9,-4.452,1,0.0381,0.127,0.000259,0.0698,0.522,110.963,4
+102,"0Utg7sirTPqrs6Cx0FbriQ","Cole Swindell","Chillin' It",196746,"Cole Swindell",2,"2014-02-18",12,0.576,0.849,9,-3.057,1,0.0386,0.511,3.89e-05,0.109,0.666,137.982,4
+103,"1YYhDizHx7PnDhAhko6cDS","John Denver","Take Me Home, Country Roads",190160,"Poems, Prayers and Promises",7,"1971",12,0.462,0.395,9,-9.376,1,0.0264,0.758,0,0.121,0.625,82.259,4
+104,"6GBndDk0OEpDkmKoSBJyyK","Kane Brown","Lose It",178732,"Lose It",1,"2018-06-07",1,0.549,0.869,4,-4.905,0,0.0289,0.00261,1.77e-06,0.29,0.433,91.988,4
+105,"0OWZFobGSIW9GrSlQ9C5pc","Thomas Rhett","Marry Me",205453,"Life Changes",5,"2017-09-08",14,0.333,0.412,3,-8.633,1,0.029,0.0977,0,0.113,0.474,85.028,4
+106,"4Qx06Fzsepmdz2NGSWfZck","Luke Combs","Beautiful Crazy",193200,"Beautiful Crazy",1,"2018-05-04",1,0.552,0.402,11,-7.431,1,0.0262,0.676,0,0.0928,0.382,103.313,4
+107,"4a1oIihVt6xSnDRpgX387M","Dierks Bentley","Burning Man",238493,"The Mountain",1,"2018-06-08",13,0.609,0.807,5,-7.221,1,0.0972,0.00403,5.42e-06,0.0926,0.492,119.073,4
+108,"5HnXcJJbNXQQ7tRlQ9VN1v","Dustin Lynch","Good Girl",189533,"Good Girl",1,"2018-05-05",1,0.711,0.696,7,-5.05,1,0.0871,0.16,0,0.17,0.694,80.512,4
+109,"3K1FNPp9ADkE4ouWez9du2","Granger Smith","You're In It",196426,"When The Good Guys Win",2,"2017-10-27",14,0.582,0.885,11,-5.45,1,0.0385,0.0306,0,0.378,0.593,112.027,4
+110,"77a5Eu7lC3tG0Sukt2O91U","LANCO","Born to Love You",230013,"Hallelujah Nights",1,"2018-01-19",11,0.659,0.902,7,-6.192,1,0.0296,0.131,9.89e-05,0.0574,0.81,124.988,4
+111,"4BXkf6yww23Vdju7E1fUrn","Brad Paisley","Whiskey Lullaby (feat. Alison Krauss)",259453,"Hits Alive",12,"2010-11-02",25,0.587,0.35,2,-10.954,1,0.0318,0.74,0,0.156,0.17,74.479,4
+112,"22dv1oPQxDOkkikJIEp9s7","Chase Rice","Ready Set Roll",190240,"Ready Set Roll",1,"2013-10-15",6,0.556,0.822,0,-4.365,1,0.0582,0.00786,0,0.668,0.797,156.038,4
+113,"2dwoqUYTy6SOy1dFqcTndC","Jason Aldean","Drowns The Whiskey (feat. Miranda Lambert)",202066,"Rearview Town",7,"2018-04-13",15,0.552,0.698,8,-4.817,1,0.0306,0.294,0.000103,0.0905,0.6,90.006,4
+114,"53yTYusPQJ1AApL1hi0Dnc","Luke Bryan","Sunrise, Sunburn, Sunset",216093,"What Makes You Country",5,"2017-12-08",15,0.471,0.897,9,-2.27,1,0.0597,0.193,0,0.196,0.719,159.958,4
+115,"2oPCR02nduYVpj7CTfsA0d","Russell Dickerson","Blue Tacoma",212066,"Yours",3,"2017-10-13",12,0.455,0.897,9,-4.879,1,0.0403,0.0183,0,0.174,0.728,160.139,4
+116,"42fw0rxRO2xbesF6mJfd4Y","Dan + Shay","Tequila",196746,"Dan + Shay",2,"2018-06-22",11,0.489,0.581,11,-5.731,1,0.0281,0.0312,0,0.132,0.494,86.016,4
+117,"2QVzUws1l5mzZ4v46tGHrC","Canaan Smith","Love You Like That",203053,"Bronco",3,"2015-06-23",11,0.559,0.766,11,-5.056,1,0.0295,0.0107,6.98e-05,0.194,0.723,145.26,4
+118,"4iLPK8QnOvqm0Azbsk2GDn","Billy Currington","Don't It",189000,"Summer Forever",1,"2015-06-02",12,0.571,0.826,1,-4.475,1,0.0362,0.0446,0,0.343,0.713,90.966,4
+119,"6jRcSR1kOPWJYisvkFfjUV","Michael Ray","Kiss You in the Morning",181400,"Michael Ray",1,"2015-08-07",12,0.557,0.909,11,-3.405,1,0.0423,0.00769,0,0.317,0.857,152.13,4
+120,"2BgunkkepMPFpArQj1Dx5s","Rodney Atkins","Caught Up In The Country",160991,"Caught Up In The Country",1,"2018-03-23",1,0.603,0.807,7,-6.999,1,0.045,0.0123,0,0.539,0.685,124.099,4
+121,"7zVCrzzEJU7u24sbJPXA5W","Kane Brown","What Ifs (feat. Lauren Alaina)",188253,"Kane Brown",2,"2016-12-02",11,0.612,0.799,10,-4.603,1,0.0275,0.00898,0,0.172,0.687,125.976,4
+122,"5C6uh95eAL0RBTSGXKQwvk","Josh Turner","Hometown Girl",215080,"Deep South",3,"2017-03-10",11,0.502,0.792,3,-5.473,0,0.0335,0.304,0.0385,0.143,0.44,155.902,4
+123,"2NEBP8SXEqwZt2PRdPXXuy","David Lee Murphy","Everything's Gonna Be Alright",229573,"No Zip Code",3,"2018-04-06",11,0.764,0.587,5,-7.002,0,0.0298,0.0721,6.45e-06,0.094,0.494,89.98,4
+124,"5CG9Ps5ynNjpKJHmwc95pa","Dierks Bentley","Somewhere On A Beach",197120,"Black",5,"2016-06-10",13,0.569,0.638,7,-6.557,1,0.0291,0.000547,0,0.0848,0.438,144.042,4
+125,"5slddJ629YcePvqD6Uyk8r","Blake Shelton","I Lived It",219600,"Texoma Shore",11,"2017-11-03",11,0.557,0.571,10,-8.106,1,0.0281,0.476,0.00114,0.101,0.392,80.981,4
+126,"10M2Ex445zw585Ducldzkw","Brett Young","In Case You Didn't Know",224853,"Brett Young",4,"2017-02-10",12,0.607,0.536,10,-7.306,1,0.0305,0.386,0,0.102,0.434,147.986,4
+127,"0s6OWiWGuiCcm1Muzch5A8","Chris Janson","Fix a Drink",188933,"EVERYBODY",5,"2017-09-22",12,0.563,0.887,1,-5.013,1,0.0857,0.0297,0,0.352,0.794,158.05,4
+128,"0r8iDf65NHgFgZOGLwj5r8","Dierks Bentley","What Was I Thinkin'",260826,"Dierks Bentley",1,"2003-01-01",13,0.551,0.825,5,-6.24,0,0.044,0.152,6.2e-06,0.0999,0.933,164.857,4
+129,"7I5fYc4qKJddht8Ozhqqdx","Old Dominion","Snapback",206506,"Meat and Candy",1,"2015-11-06",11,0.687,0.793,5,-3.577,1,0.0333,0.302,3.46e-06,0.1,0.673,100.993,4
+130,"7pxhKtuTwofDIdgHx2DcVK","Dustin Lynch","Seein' Red",194893,"Current Mood",2,"2017-09-08",13,0.651,0.808,1,-4.731,0,0.0435,0.054,0,0.0482,0.858,100.993,4
+131,"7A8OfzqXBHYGk61FZTHoeo","Lee Brice","Boy",198973,"Lee Brice",4,"2017-11-03",15,0.498,0.408,6,-7.946,1,0.0331,0.644,0,0.0993,0.383,78.942,4
+132,"6E9V9TRlVOLjenGjHemzEH","Lee Brice","Hard To Love",224293,"Hard 2 Love",1,"2012-04-24",13,0.638,0.722,9,-6.177,1,0.0332,0.0119,0.00808,0.189,0.469,103.017,4
+133,"6XD3HMATLswheYevIfKkSi","Easton Corbin","All Over The Road",163066,"All Over The Road",1,"2012-01-01",11,0.491,0.841,5,-3.579,1,0.0421,0.0471,0,0.0886,0.721,199.851,4
+134,"6MoyiRPmFwVnkhaZhkyksG","Keith Anderson","Pickin' Wildflowers",185920,"Pickin' Wildflowers",1,"2005-01-03",1,0.561,0.716,8,-3.341,1,0.0291,0.0353,0,0.122,0.667,152.089,4
+135,"0twloQAnQbMRwCy9uDW8Q8","Trace Adkins","Still a Soldier",197106,"Something's Going On",10,"2017-03-31",12,0.542,0.709,6,-5.798,0,0.0392,0.00801,0,0.154,0.436,96.986,4
+136,"0WyFpxYlBCgH1gMXd26OOr","Cole Swindell","Flatliner (feat. Dierks Bentley)",177066,"You Should Be Here",1,"2016-05-06",12,0.555,0.896,0,-3.295,1,0.0388,0.00434,0,0.145,0.578,114.995,4
+137,"01ZepwW5W3Z4fwl4bzaHyY","Brantley Gilbert","Kick It In The Sticks",225746,"Halfway To Heaven (Deluxe Edition)",5,"2010",15,0.493,0.843,8,-5.924,0,0.0707,0.00507,0,0.13,0.523,158.028,4
+138,"46ZfPS5VpSQVU5gb82hg3K","Florida Georgia Line","Anything Goes",218866,"Anything Goes",1,"2014-10-14",12,0.458,0.976,0,-3.791,1,0.0459,0.00182,0,0.193,0.76,154.007,4
+139,"6aNwDe5YH5YUPlpHkku52w","Frankie Ballard","Sunshine & Whiskey",182400,"Sunshine & Whiskey",2,"2014-04-03",11,0.67,0.737,9,-6.794,1,0.0434,0.223,0,0.325,0.754,92.983,4
+140,"3I7krC8kr0gFR7P6vInR1I","Billy Currington","Do I Make You Wanna",234306,"Summer Forever",9,"2015-06-02",12,0.553,0.747,9,-5.432,1,0.0279,0.106,0,0.154,0.521,90.012,4
+141,"3DV49ruvI5Sl6iisPZAc2c","Dylan Scott","Hooked",149293,"Dylan Scott (Deluxe Edition)",5,"2017-08-04",16,0.597,0.721,9,-6.422,1,0.0356,0.0362,0,0.0832,0.437,132.054,4
+142,"498ZVInMGDkmmNVpSWqHiZ","Florida Georgia Line","May We All",226173,"Dig Your Roots",6,"2016-08-26",15,0.514,0.918,7,-4.306,1,0.0365,0.0409,0,0.342,0.64,150.033,4
+143,"0w3Q14i073jLoew1hgJkwD","Jon Pardi","Heartache On The Dance Floor",205200,"California Sunrise",9,"2016-05-13",12,0.596,0.834,9,-4.308,1,0.0474,0.0563,0,0.0866,0.618,116.0,4
+144,"454JIJlQ8GvrCoBvSfq3KA","Brantley Gilbert","Country Must Be Country Wide",214826,"Halfway To Heaven (Deluxe Edition)",8,"2010",15,0.409,0.765,11,-5.696,1,0.0412,0.0249,6.16e-06,0.104,0.5,83.093,4
+145,"4T5Z4mbTe7kuGqgLpaRtTh","Jason Aldean","Any Ol' Barstool",203293,"They Don't Know",12,"2016-09-09",15,0.536,0.722,4,-4.163,1,0.0284,0.312,0,0.117,0.499,143.78,4
+146,"6n6OQfBpCgzF9oEg8zhBN7","Kenny Chesney","Get Along",199625,"Songs for the Saints",3,"2018-07-27",11,0.632,0.804,7,-6.109,1,0.0503,0.101,0,0.17,0.35,92.456,4
+147,"0O1x2tRm8ZpfDbcpOWZp7z","Jake Owen","American Country Love Song",199746,"American Love",11,"2016-07-29",11,0.529,0.891,8,-4.36,1,0.043,0.0457,0,0.0942,0.329,104.031,4
+148,"53Dj5PCDhb22qWqmre3YQs","Chris Young","Aw Naw",188706,"A.M.",1,"2013-09-16",11,0.652,0.859,2,-3.746,1,0.0358,0.0639,0,0.0777,0.491,109.971,4
+149,"4gB7HrYHbJVJ5RFOjxmoq4","Luke Combs","One Number Away",221800,"This One's for You",6,"2017-06-02",12,0.544,0.781,6,-6.16,0,0.0311,0.00585,0,0.191,0.527,144.075,4
+150,"2yQZwi1P8AkkxxFhQ8rMEK","LANCO","Greatest Love Story",222573,"Hallelujah Nights",4,"2018-01-19",11,0.669,0.617,10,-8.72,1,0.057,0.401,0,0.119,0.621,147.992,4
+151,"5w3NgfV8v1nNZFLUBlGHIL","Luke Bryan","Light It Up",177305,"What Makes You Country",3,"2017-12-08",15,0.608,0.928,6,-2.724,0,0.0883,0.133,0,0.103,0.738,130.012,4
+152,"5AnSllIrgGsCZzZJkVnApx","Chase Rice","Eyes On You",182493,"Lambs & Lions",4,"2017-11-17",10,0.606,0.652,9,-6.982,1,0.0281,0.323,0,0.201,0.476,97.155,4
+153,"0XjXQDJpajDzCdpazp1562","Jake Owen","Eight Second Ride",187320,"Easy Does It",2,"2009-02-24",10,0.645,0.843,0,-4.072,1,0.0475,0.104,0,0.249,0.534,92.357,3
+154,"4HFNGbVmsMV5lHUvDuXLkl","Lee Brice","Parking Lot Party",207893,"Hard 2 Love",4,"2012-04-24",13,0.54,0.86,1,-5.763,1,0.081,0.00646,0,0.629,0.856,171.72,4
+155,"0h3DPHckCUqcWswjVMvdE9","Jason Aldean","The Only Way I Know (with Luke Bryan and Eric Church)",193186,"Night Train",6,"2012-10-16",15,0.511,0.798,7,-4.314,1,0.0498,0.227,6.51e-06,0.184,0.607,183.303,4
+156,"19DnL1HnJiijuEfaiS0Eus","Dierks Bentley","Sideways",184160,"Feel That Fire",2,"2009-01-01",12,0.624,0.915,5,-2.627,0,0.0364,0.141,0,0.386,0.815,108.046,3
+157,"4PyKicaf5RL5tlidl6ZMO5","Craig Morgan","Bonfire",179706,"That's Why",2,"2008",10,0.426,0.917,0,-2.968,1,0.103,0.119,0,0.153,0.506,175.716,4
+158,"4x7Di9FZJXJoxHjLxjImmp","Dustin Lynch","Hell Of A Night",190426,"Where It's At",1,"2014-09-09",15,0.499,0.797,2,-4.845,1,0.0402,0.00472,0,0.297,0.591,85.054,4
+159,"5jROdl6MhcmP3O7h2sVgtw","Chris Stapleton","Parachute",253200,"Traveller",4,"2015-05-04",14,0.642,0.762,6,-7.411,1,0.0296,0.00967,5.72e-05,0.182,0.605,113.038,4
+160,"6o1Z2MVv2byORiceryikjj","Eli Young Band","Drunk Last Night",218360,"Drunk Last Night",1,"2013-01-01",1,0.518,0.865,7,-4.238,1,0.0338,0.0352,0,0.102,0.545,87.019,4
+161,"5ksoJlQJtduEkwQTo7UN7X","Dustin Lynch","Cowboys and Angels",227720,"Dustin Lynch",3,"2012-08-21",13,0.355,0.55,10,-5.772,1,0.0285,0.245,3.2e-05,0.0979,0.26,73.842,4
+162,"77dcKrzRUI02XjHd2okARp","Hank Williams, Jr.","A Country Boy Can Survive",255000,"The Pressure Is On",1,"1981",10,0.688,0.459,7,-9.353,1,0.0365,0.144,0,0.0816,0.493,75.184,4
+163,"2VV9KHwOfrS7ZOEzPZJFLJ","Hank Williams, Jr.","If Heaven Ain't A Lot Like Dixie",164600,"High Notes",1,"1982",10,0.729,0.553,5,-8.983,1,0.085,0.266,0,0.0809,0.935,78.085,4
+164,"2Y48Q7HryWdPJZypJotjlJ","Kenny Chesney","The Boys of Fall",391853,"Hemingway's Whiskey",1,"2010-09-28",11,0.503,0.648,7,-6.243,1,0.027,0.227,0.00124,0.378,0.39,147.942,4
+165,"3uWtFB1m61OqYpgzD7CDcX","Colt Ford","Outshine Me",232289,"Thanks for Listening",10,"2014-07-01",12,0.754,0.778,9,-5.536,1,0.0603,0.00391,0,0.279,0.943,132.013,4
+166,"5gTWvPbdGBBijcIHueACbv","Kane Brown","American Bad Dream",198000,"Experiment",11,"2018-11-09",13,0.579,0.771,10,-5.497,0,0.038,0.03,1.63e-06,0.298,0.609,140.196,4
+167,"2Fk0WwAqTBesLtKg97nojy","Thomas Rhett","Crash and Burn",190733,"Tangled Up",2,"2015-01-01",13,0.69,0.781,5,-5.101,0,0.0305,0.0873,2.28e-06,0.164,0.841,130.02,4
+168,"5ZManJDV3CexO66nRCkdiV","Old Dominion","Break Up with Him",207733,"Meat and Candy",8,"2015-11-06",11,0.617,0.632,8,-5.381,1,0.0371,0.0675,0,0.108,0.564,151.988,4
+169,"4PJXT82AZtlDW4Q71b43oz","David Nail","Whatever She's Got",236800,"I'm A Fire",1,"2014-01-01",11,0.527,0.723,1,-6.134,1,0.0411,0.217,0,0.037,0.888,160.465,4
+170,"1N7qGCKRRnvjoy8MGyHgpS","Blake Shelton","Came Here to Forget",220413,"If I'm Honest",5,"2016-05-20",15,0.613,0.667,1,-6.874,0,0.029,0.356,1.29e-05,0.111,0.481,130.023,4
+171,"1V8Z5giZUe70UNPySLTD0N","Zac Brown","It Goes On",204750,"It Goes On",1,"2018-01-16",1,0.508,0.513,1,-7.988,0,0.0265,0.647,0.000131,0.0828,0.123,89.724,4
+172,"4a2uqVlpRChHj32EjJLu7G","Tyler Childers","Nose On The Grindstone (OurVinyl Sessions)",204000,"Tyler Childers | OurVinyl Sessions",1,"2017-05-30",3,0.488,0.284,10,-11.039,1,0.0551,0.735,0,0.319,0.398,149.952,3
+173,"1ruOd1K8fPwhz0AOgGc7yg","Granger Smith","They Were There",204853,"They Were There, A Hero's Documentary (Original Motion Picture Soundtrack)",1,"2018-11-30",11,0.45,0.907,11,-4.601,0,0.0665,0.0501,0,0.216,0.446,175.905,4
+174,"6s3dgEQgen7G85NtYUTEbD","Gary Allan","Every Storm (Runs Out Of Rain)",225640,"Set You Free",2,"2013",12,0.525,0.693,0,-6.972,1,0.0327,0.046,9.55e-06,0.247,0.363,107.012,4
+175,"63w0QA1wiV7QhF9jeiHETF","Love and Theft","Angel Eyes",186626,"Love and Theft",1,"2012-07-24",11,0.656,0.696,8,-5.917,1,0.0261,0.0134,0,0.0753,0.966,108.015,4
+176,"4Pn0JlCUusD2QHjADuOzuV","Tim McGraw","Humble And Kind",259266,"Damn Country Music",11,"2015-01-01",11,0.355,0.48,11,-7.31,1,0.0282,0.679,2.28e-06,0.12,0.137,100.956,3
+177,"2TAcwD5KcV9uY3O1tLGV15","Thompson Square","Are You Gonna Kiss Me Or Not",184920,"Thompson Square",2,"2011-02-08",12,0.485,0.701,8,-3.807,1,0.0288,0.039,0,0.0977,0.613,151.948,4
+178,"4U5DDEuYdoMm4Xv9yklrWu","Russell Dickerson","Yours",221280,"Yours",1,"2015-07-23",1,0.568,0.796,11,-5.308,1,0.0313,0.12,0,0.084,0.573,133.975,4
+179,"6zLdXcmvIxnAXpz9sXFnIE","Thomas Rhett","Craving You",227373,"Craving You",1,"2017-03-31",1,0.612,0.841,9,-3.795,0,0.0353,0.000907,0,0.37,0.499,104.986,4
+180,"0JCjhCdqvVQ8am5x689TL0","Chase Rice","Gonna Wanna Tonight",213735,"Ignite the Night",8,"2014-08-19",14,0.581,0.783,2,-6.667,1,0.0405,0.0707,0.00014,0.0875,0.604,125.948,4
+181,"3xdjjKMcMOFgo1eQrfbogM","Darius Rucker","Wagon Wheel",298373,"True Believers",3,"2013-01-01",12,0.537,0.66,9,-7.174,1,0.0296,0.455,0,0.135,0.574,148.096,4
+182,"30MM5jWpUmOxtTNd9Ey5LZ","Thomas Rhett","Unforgettable",157080,"Life Changes",2,"2017-09-08",14,0.661,0.75,7,-5.497,1,0.0314,0.0303,0.000132,0.0849,0.828,130.077,4
+183,"38gZVjeaeR3gcnCzziAxBm","Cole Swindell","Middle of a Memory",226306,"You Should Be Here",2,"2016-05-06",12,0.531,0.746,11,-4.228,1,0.0329,0.0972,0,0.102,0.304,139.788,4
+184,"0OlS52TmtK2gPaEtdmr7DN","Old Dominion","No Such Thing as a Broken Heart",176893,"Happy Endings",1,"2017-08-25",12,0.651,0.782,8,-4.295,1,0.0718,0.295,0,0.107,0.945,171.987,4
+185,"5y2pNuAvWcPKiORZ12e44S","David Nail","Night's On Fire",189733,"Fighter",2,"2016-07-15",11,0.54,0.776,4,-4.155,1,0.043,0.243,0,0.378,0.784,164.046,4
+186,"2SEsRxNSXidnMOZoTEzX1k","Jason Aldean","Tattoos on This Town",202466,"My Kinda Party",1,"2010-11-02",15,0.359,0.784,7,-4.404,1,0.0438,0.0181,2.72e-05,0.0989,0.444,78.494,4
+187,"4whYDpJ5XVQpmvecbEHP5Q","Dustin Lynch","Where It's At",204186,"Where It's At",5,"2014-09-09",15,0.557,0.737,3,-5.75,1,0.0476,0.0142,0,0.314,0.817,158.05,4
+188,"4LiMQ6G9n84rDUBs9wtwz6","Jordan Davis","Singles You Up",182666,"Home State",5,"2018-03-23",12,0.491,0.907,7,-3.594,1,0.0481,0.0491,0,0.242,0.631,199.943,4
+189,"6IFPfV8PNSYOmufzQ95hmm","Florida Georgia Line","Confession",190640,"Anything Goes",10,"2014-10-14",12,0.549,0.878,1,-5.066,1,0.0358,0.106,6.07e-05,0.176,0.44,104.98,4
+190,"7px4t7HGiuMUvFkEOpZEwp","Old Dominion","Song for Another Time",191826,"Meat and Candy",9,"2015-11-06",11,0.498,0.804,11,-3.995,1,0.0332,0.125,0,0.167,0.697,166.054,4
+191,"1nIyZKYmUsbEowiizbyr2Q","Thomas Rhett","Star Of The Show",182600,"Tangled Up (Deluxe / Big Machine Radio Release Special)",28,"2016-10-27",36,0.696,0.641,7,-5.807,1,0.0261,0.142,0,0.132,0.664,101.981,4
+192,"3y1t2sEahs8idFz2tiYNPO","Cole Swindell","Let Me See Ya Girl",187586,"Cole Swindell",5,"2014-02-18",12,0.523,0.834,6,-3.561,1,0.0281,0.254,0,0.393,0.445,92.99,4
+193,"23EkfwUdsRIz7jAZIcC8gb","Brothers Osborne","Stay A Little Longer",335480,"Pawn Shop",3,"2016-01-15",11,0.557,0.886,6,-5.356,1,0.0302,0.0377,0.108,0.163,0.545,96.989,4
+194,"2lFtnEmkIPm2ClN55e2chV","Dierks Bentley","Black",211160,"Black",1,"2016-06-10",13,0.652,0.654,1,-6.69,1,0.0377,0.252,0.000553,0.117,0.605,120.019,4
+195,"0iA1unTbTbDOWUSlbwJ1pS","Billy Currington","It Don't Hurt Like It Used To",184506,"Summer Forever",7,"2015-06-02",12,0.558,0.818,8,-4.07,1,0.0403,0.071,0,0.21,0.453,81.034,4
+196,"17X2tSzibD9n9QRjdExcWT","Jason Aldean","Fly Over States",218200,"My Kinda Party",6,"2010-11-02",15,0.487,0.736,7,-3.269,1,0.0326,0.069,0,0.114,0.184,81.587,4
+197,"6gXuwld0PRtinePSXV2Vn1","Chris Lane","Fix",190240,"Girl Problems",1,"2016-07-12",12,0.532,0.883,0,-2.743,0,0.0352,0.0951,0,0.304,0.7,99.995,4
+198,"3bzE57iNavJJxXL9GgBiOK","Jason Aldean","They Don't Know",195306,"They Don't Know",7,"2016-09-09",15,0.434,0.921,10,-2.248,0,0.0688,0.0207,0.00209,0.116,0.426,171.945,4
+199,"6W9W8dSswA8KNegvl3W97V","Chris Young","Think of You",218946,"I'm Comin' Over",3,"2015-11-13",11,0.616,0.893,11,-3.588,1,0.0375,0.000937,0,0.111,0.567,111.959,4
+200,"63u5QGp9dKXAoYTVKUKBYn","Gary Allan","Watching Airplanes",242946,"Living Hard",1,"2007-01-01",11,0.374,0.711,11,-3.587,1,0.0354,0.547,4.12e-05,0.147,0.468,160.001,4
+201,"4xVDPALIbZnB4bvfsbQphg","Trace Adkins","Proud To Be Here",225000,"Proud To Be Here (Deluxe Edition)",1,"2011-01-01",14,0.571,0.523,10,-6.05,1,0.0375,0.137,0.00415,0.27,0.512,80.055,4
+202,"2WQAknZHrJAEQOFXe0F44P","Blake Shelton","Austin",230333,"Blake Shelton",4,"2001-07-31",10,0.605,0.609,7,-7.063,1,0.0278,0.188,0,0.0982,0.275,119.914,4
+203,"28ZUoSyOdNswEdokyJs07B","Darryl Worley","If Something Should Happen",279560,"Darryl Worley",4,"2004-01-01",12,0.557,0.608,4,-8.702,1,0.0377,0.276,1.75e-06,0.0718,0.282,159.068,4
+204,"5vCgOg9VqRaAUbnflCO6P3","Keith Urban","Cop Car",256746,"Fuse (Deluxe Edition)",3,"2013-01-01",16,0.538,0.664,1,-6.318,1,0.0392,0.193,0,0.0918,0.366,154.033,4
+205,"3mHAyclWdtFASQuobdnDf8","Justin Moore","Til My Last Day",234026,"Outlaws Like Me",11,"2011-01-01",13,0.577,0.761,9,-5.34,1,0.0358,0.0377,0,0.116,0.599,104.991,4
+206,"3gVRILe7XCyNakb6sy5umX","Jason Aldean","When She Says Baby",171120,"Night Train",2,"2012-10-16",15,0.673,0.76,0,-5.126,1,0.0361,0.0682,0.000116,0.309,0.807,113.063,4
+207,"63thx7OANplv4I4BQsanHk","Cole Swindell","You Should Be Here",190173,"You Should Be Here",8,"2016-05-06",12,0.489,0.641,7,-4.455,1,0.0282,0.0592,0,0.0857,0.303,136.095,4
+208,"3esPcn43N0CytAtcY9V30C","Jason Aldean","A Little More Summertime",219546,"They Don't Know",2,"2016-09-09",15,0.482,0.823,9,-4.446,1,0.0661,0.0386,3.69e-05,0.0948,0.451,167.665,4
+209,"3T6MAweakkNrMYs8jZIWtg","Brett Young","Like I Loved You",207186,"Brett Young",3,"2017-02-10",12,0.582,0.568,1,-6.051,1,0.0297,0.196,0,0.0841,0.64,76.025,4
+210,"43lL05gZ1DqG4YJ74rCPmM","Joe Nichols","Yeah",231026,"Crickets",1,"2013-10-08",16,0.404,0.845,11,-4.647,1,0.049,0.00637,1.34e-05,0.357,0.591,165.703,4
+211,"08wJ1B9yu9sPeoRa5fbpr3","Brothers Osborne","It Ain't My Fault",216800,"Pawn Shop",11,"2016-01-15",11,0.735,0.831,9,-5.898,1,0.0332,0.00166,0.217,0.291,0.756,123.017,4
+212,"66rVt7PbwyKlu6CK6rxyAi","Eric Paslay","Friday Night",167213,"Eric Paslay",2,"2014-01-01",11,0.657,0.841,9,-4.188,1,0.0452,0.16,0,0.177,0.722,120.009,4
+213,"0N9uZRrJQ3lO5TmInEjLxc","Chris Lane","Take Back Home Girl (feat. Tori Kelly)",212106,"Laps Around The Sun",1,"2018-07-13",14,0.493,0.796,11,-3.971,1,0.0691,0.39,0,0.0957,0.644,159.988,4
+214,"69DR48pXzSabFUfQfDDJDb","Thomas Rhett","Make Me Wanna",225066,"It Goes Like This",6,"2013-01-01",12,0.545,0.818,9,-6.38,1,0.0541,0.0369,0,0.101,0.679,109.019,3
+215,"609qKv3KPAbdtp0LQH2buA","Blake Shelton","I'll Name the Dogs",183640,"Texoma Shore",1,"2017-11-03",11,0.348,0.87,4,-5.86,1,0.137,0.171,4.4e-06,0.202,0.763,83.392,4
+216,"6n8867qPhHITHka3ZJYjr8","Granger Smith","The Country Boy Song (feat. Earl Dibbles Jr.)",206600,"Dirt Road Driveway",12,"2013-04-16",12,0.629,0.834,0,-3.559,1,0.0597,0.0564,0,0.102,0.669,84.0,4
+217,"5sjIhQzNljMVrDklI91ezp","Blake Shelton","A Guy with a Girl",189466,"If I'm Honest",8,"2016-05-20",15,0.552,0.893,0,-4.593,1,0.0383,0.0158,0,0.105,0.777,163.948,4
+218,"1jNNHFZmRGXZFHlil5uhei","Brett Eldredge","Drunk on Your Love",173960,"Illinois",9,"2015-09-11",12,0.443,0.831,11,-5.606,1,0.0616,0.414,0,0.204,0.588,182.064,4
+219,"2A69wys3S9uiPSmn6UZWJn","Old Dominion","Written in the Sand",184080,"Happy Endings",6,"2017-08-25",12,0.725,0.438,6,-9.602,1,0.0575,0.593,0,0.0842,0.76,83.984,4
+220,"3U1ebcYLCZGhXUefbLM80m","Granger Smith","Merica (feat. Earl Dibbles Jr.)",270773,"Remington",15,"2016-03-04",15,0.516,0.896,0,-5.703,0,0.0583,0.00236,0.00106,0.13,0.742,148.019,4
+221,"7JnorPtXApoUw2AuJUGLY1","Randy Houser","We Went",179360,"Fired Up",2,"2016-03-11",17,0.646,0.882,4,-3.77,0,0.0371,0.097,0,0.311,0.544,101.997,4
+222,"6GBUsjHfZuweYf5lQEz6mP","Luke Bryan","Crash My Party",234760,"Crash My Party",3,"2013-01-01",13,0.526,0.816,7,-4.009,1,0.0421,0.0285,0,0.22,0.414,144.032,4
+223,"5dNGORzxFb5z3v7vSAFkTU","Jake Owen","Beachin'",191040,"Days of Gold",2,"2013-12-02",12,0.527,0.902,6,-5.352,1,0.0601,0.344,4.63e-05,0.0669,0.709,181.964,4
+224,"5yIiXdLRE85OBiQmCaUenq","Blake Shelton","Sure Be Cool If You Did",215720,"Based on a True Story... (Deluxe Edition)",2,"2013-03-26",14,0.576,0.726,11,-4.625,1,0.035,0.255,0,0.108,0.582,136.802,4
+225,"4n0xztUAbHPUV8G3NQvF30","Dan + Shay","How Not To",192000,"Obsessed",5,"2016-06-03",10,0.501,0.836,11,-3.587,0,0.0491,0.208,0,0.152,0.618,159.863,4
+226,"3C6WblKJq7rpsPsIafytEV","Jason Aldean","1994",242680,"Night Train",10,"2012-10-16",15,0.598,0.777,11,-6.676,0,0.0396,0.183,0,0.111,0.821,159.942,4
+227,"7rdK9NSJIRBZAiXC0vuBS9","Dustin Lynch","I'd Be Jealous Too",185706,"Current Mood",1,"2017-09-08",13,0.716,0.718,0,-5.355,1,0.0293,0.0896,0,0.473,0.537,100.934,4
+228,"3cE5ltZFHmBpiS77itKaOM","Kenny Chesney","Summertime",206586,"The Road And The Radio",5,"2005-11-07",11,0.48,0.928,4,-5.501,1,0.0899,0.169,0,0.0479,0.713,167.986,4
+229,"3gHVzj2Mqmt2DjGQhMvpne","Granger Smith","City Boy Stuck (feat. Earl Dibbles Jr.)",265613,"Remington",14,"2016-03-04",15,0.591,0.856,7,-4.928,1,0.0351,0.134,8.18e-05,0.293,0.615,166.221,4
+230,"7CZiLgkiVHhFcDkI2Y4lZ4","Jason Aldean","Don't You Wanna Stay (with Kelly Clarkson)",256440,"My Kinda Party",7,"2010-11-02",15,0.445,0.631,11,-4.798,1,0.0304,0.129,0,0.0911,0.152,143.846,4
+231,"3vsKVgsF2Ax03wXt3J5EqU","Tim McGraw","Truck Yeah",209013,"Two Lanes Of Freedom (Accelerated Deluxe)",5,"2013-01-01",15,0.615,0.92,7,-4.167,1,0.032,0.108,0,0.102,0.776,97.994,4
+232,"3bDXhWsPiFTHtrsMg5faL2","Luke Bryan","What Makes You Country",235266,"What Makes You Country",1,"2017-12-08",15,0.515,0.948,0,-1.721,1,0.0438,0.0106,0,0.134,0.752,159.983,4
+233,"73WWkaWkIRSP3MYGZ14aY4","Kip Moore","More Girls Like You",154706,"SLOWHEART",7,"2017-09-08",13,0.555,0.746,2,-5.522,1,0.033,0.00825,0,0.0796,0.712,75.01,4
+234,"7K4VxvIXXbDbaVn6ARbch1","Randy Houser","Boots On",170813,"Anything Goes",1,"2008-01-01",11,0.713,0.887,8,-4.564,1,0.0322,0.0387,1.79e-05,0.273,0.88,112.016,4
+235,"3OZVqx1YsqDDkxQ6TnmHtn","Cole Swindell","Ain't Worth the Whiskey",191906,"Cole Swindell",6,"2014-02-18",12,0.432,0.738,2,-3.91,1,0.0309,0.042,0,0.119,0.503,153.712,4
+236,"5kSPD3rOo2hGYVwheIxpv8","Colt Ford","Workin' on",224699,"Thanks for Listening",7,"2014-07-01",12,0.521,0.804,0,-4.395,1,0.0569,0.0658,0,0.0521,0.553,143.952,4
+237,"2NqHZYzBWUHbbpDDgdGWJL","Kane Brown","Hometown",204066,"Kane Brown",1,"2016-12-02",11,0.627,0.881,0,-4.575,0,0.0556,0.0636,0,0.103,0.593,120.007,4
+238,"3fqwjXwUGN6vbzIwvyFMhx","Chris Stapleton","Tennessee Whiskey",293293,"Traveller",3,"2015-05-04",14,0.392,0.37,9,-10.888,1,0.0298,0.205,0.0096,0.0821,0.512,48.718,4
+239,"20vIaD2DFOxGqDvN0dlMEH","Justin Moore","The Ones That Didn’t Make It Back Home",191018,"The Ones That Didn’t Make It Back Home",1,"2018-10-12",1,0.537,0.784,3,-4.869,1,0.034,0.0979,0,0.224,0.468,137.995,4
+240,"0aW7CSfoMBKBzLE7VerHyn","Justin Moore","If Heaven Wasn't So Far Away",223280,"Outlaws Like Me",3,"2011-01-01",13,0.374,0.657,11,-6.086,1,0.0325,0.0434,0,0.219,0.376,74.234,4
+241,"1TGJxtVHgPHKVt6K7sPn1T","Justin Moore","You Look Like I Need A Drink",187480,"Kinda Don't Care",6,"2016-01-01",12,0.608,0.841,11,-3.626,1,0.028,0.0028,0,0.0834,0.917,106.004,4
+242,"0rX4YStqUt1k1VEBe1U4HJ","Brantley Gilbert","Small Town Throwdown",201680,"Just As I Am (Platinum Edition)",9,"2015-01-01",19,0.555,0.863,7,-3.867,1,0.0379,0.0246,0,0.0563,0.699,98.006,4
+243,"0n96wSHG9FXAuLVoaG9Jjd","Brantley Gilbert","One Hell Of An Amen",221466,"Just As I Am",8,"2014-01-01",11,0.547,0.664,1,-5.622,1,0.028,0.0139,2.94e-06,0.0767,0.551,138.048,4
+244,"4JNdKmSZRsYDBwhIgZpa5M","Granger Smith","Don't Tread on Me (feat. Earl Dibbles Jr.)",214280,"When The Good Guys Win",13,"2017-10-27",14,0.712,0.899,4,-5.078,0,0.0648,0.0643,5.36e-06,0.117,0.58,123.987,4
+245,"0p1HtkrNYxv0iDfEKwXSTp","Blake Shelton","Sangria",233480,"BRINGING BACK THE SUNSHINE",6,"2014-09-30",12,0.646,0.724,9,-6.96,1,0.0265,0.017,1.39e-06,0.153,0.54,115.984,4
+246,"6waqLPcT6ruMhmd36OhmFO","Chris Young","Losing Sleep",178253,"Losing Sleep",1,"2017-10-20",10,0.584,0.621,1,-5.703,1,0.0443,0.0715,1.68e-06,0.389,0.634,92.003,4
+247,"6cAxSUPzHyywECgGSvoLyf","Justin Moore","Bait A Hook",208493,"Outlaws Like Me",6,"2011-01-01",13,0.668,0.781,1,-6.151,1,0.0267,0.0191,0,0.113,0.695,105.945,4
+248,"3EWMoDIm6lzuR0zQKtuCJX","Morgan Wallen","Up Down (feat. Florida Georgia Line)",197253,"If I Know Me",1,"2018-04-27",14,0.589,0.882,6,-3.039,1,0.035,0.0813,0,0.146,0.793,129.915,4
+249,"7Ad0OLsUn63FoD4gnguZz5","Brett Young","Sleep Without You",188466,"Brett Young (Big Machine Radio Release Special)",2,"2017-02-10",25,0.626,0.707,5,-5.755,0,0.0425,0.0169,0,0.0769,0.653,88.543,4
+250,"2MNapHbu7QASoukvVVIxyr","Dustin Lynch","Mind Reader",185413,"Where It's At",6,"2014-09-09",15,0.394,0.8,4,-4.17,0,0.0413,0.0266,0,0.184,0.525,162.053,4
+251,"18WhWzFnqEbE04y4H5Y13z","Brantley Gilbert","Hell On Wheels",253013,"Halfway To Heaven (Deluxe Edition)",1,"2010",15,0.46,0.826,1,-5.624,1,0.0525,0.0338,3.49e-05,0.115,0.747,160.222,4
+252,"1A8s182NfOT6dOXjPsWfTn","Kane Brown","Thunder in the Rain",164920,"Kane Brown",4,"2016-12-02",11,0.549,0.877,6,-5.008,1,0.0317,0.000555,0,0.0969,0.377,110.963,4
+253,"66pxmg3Jhjm09tHoWR1wVR","Kenny Chesney","All the Pretty Girls",212893,"Cosmic Hallelujah",2,"2017-04-28",12,0.612,0.848,6,-3.736,1,0.0368,0.00916,0,0.366,0.719,120.996,4
+254,"77A7dWpSxVoauUbJn83Oj3","Aaron Lewis","Country Boy (feat. George Jones & Charlie Daniels)",283346,"Town Line",3,"2011-03-01",7,0.595,0.667,6,-6.442,1,0.034,0.296,0,0.109,0.272,121.949,4
+255,"6qewYf1Su9xeaAp9iEQpUw","Jon Pardi","Up All Night",209640,"Write You A Song",2,"2014-01-01",11,0.549,0.713,9,-4.935,1,0.0306,0.185,0,0.112,0.463,162.989,4
+256,"3n2A6l4UayVe3GGKCvfQWV","Justin Moore","Somebody Else Will",165173,"Kinda Don't Care",7,"2016-01-01",12,0.488,0.744,2,-4.284,0,0.131,0.0353,0,0.0952,0.59,180.007,4
+257,"7IU50h8qKl40dXMjifLfH4","Granger Smith","Silverado Bench Seat",177226,"Dirt Road Driveway",8,"2013-04-16",12,0.664,0.82,3,-4.584,1,0.0279,0.0791,6.94e-06,0.332,0.932,126.016,4
+258,"05DejmhRYCktQogzOVX1H9","Luke Combs","Let the Moonshine",209266,"The Way She Rides",3,"2016-11-04",3,0.491,0.834,6,-5.101,1,0.0341,0.0735,6.42e-06,0.0953,0.561,161.788,4
+259,"7gKW8jf6tHehuGp7VhoP7d","Chris Cagle","Let There Be Cowgirls",273480,"Back In The Saddle",4,"2012",11,0.537,0.788,11,-5.557,1,0.0362,0.0892,1.27e-06,0.164,0.727,161.991,4
+260,"6wycnu8FWXsj68ig7BEot9","Keith Urban","Blue Ain't Your Color",230600,"Ripcord",7,"2016-05-06",13,0.69,0.416,7,-7.865,1,0.0335,0.617,1.37e-06,0.102,0.479,82.45,3
+261,"3un2KQUaQ2brEpd8dK93wI","Brett Eldredge","Beat of the Music",179293,"Bring You Back",7,"2013-08-06",13,0.629,0.808,9,-4.125,1,0.0269,0.00898,9.06e-06,0.0751,0.773,110.001,4
+262,"2JSnL1yIvXW2PMXuPLD4Vd","Florida Georgia Line","Like You Never Had It",178880,"Can't Say I Ain't Country",17,"2019-02-15",19,0.41,0.866,1,-3.332,0,0.0443,0.0303,0,0.115,0.425,77.02,4
+263,"0w9LJae3sVlZlH2CnxTInF","Blake Shelton","God Gave Me You",229533,"Red River Blue (Deluxe Edition)",3,"2011-07-11",13,0.483,0.844,2,-5.043,1,0.0314,0.00481,7.29e-05,0.405,0.543,151.977,4
+264,"72f7jNxopSGvbx3M35i3Zl","Keith Urban","John Cougar, John Deere, John 3:16",221600,"Ripcord",2,"2016-05-06",13,0.694,0.779,0,-6.984,1,0.071,0.0688,3.99e-06,0.0803,0.594,84.975,4
+265,"3vWDVDAoDSAV0PHy8rcQKh","Brad Paisley","Mud on the Tires",208266,"Mud On The Tires",1,"2003-06-11",17,0.566,0.743,2,-7.986,1,0.0351,0.363,2.55e-05,0.17,0.479,92.605,4
+266,"7KysI43rsjlhjTeWO6ePUq","Alan Jackson","It's Five O'Clock Somewhere",229800,"Greatest Hits Volume II",17,"2003-10-09",26,0.713,0.773,2,-6.713,1,0.0366,0.218,0,0.203,0.888,125.194,4
+267,"5RuCWf4bJC0rqA05b7nWfd","Alan Jackson","Country Boy",246080,"Good Time",4,"2008-11-05",17,0.73,0.684,9,-10.803,1,0.0351,0.259,1.53e-06,0.111,0.564,139.037,4
+268,"46wsj9yMktwifcIhXhqj1b","Alan Jackson","Remember When",270600,"Greatest Hits Volume II",18,"2003-10-09",26,0.561,0.313,2,-10.624,1,0.029,0.711,0.000306,0.248,0.276,125.522,4
+269,"1aogpOGXQhHiNZlOd791Uz","Jason Aldean","Laughed Until We Cried",202533,"Relentless",2,"2007",12,0.546,0.48,7,-5.325,1,0.0286,0.479,0,0.0739,0.243,145.034,4
+270,"20DfkHC5grnKNJCzZQB6KC","Carrie Underwood","Good Girl",205560,"Blown Away",1,"2012-05-01",14,0.617,0.839,0,-2.849,0,0.0655,0.0286,0,0.19,0.741,128.91,4
+271,"0Nu9WA8kEbBWEsay2s8Q0U","Eli Young Band","Even If It Breaks Your Heart",220520,"Life At Best",1,"2011-01-01",14,0.495,0.527,0,-4.742,1,0.0351,0.000159,0.0163,0.1,0.574,208.067,4
+272,"2p2cCrOaNrIOLk5ArtlHy6","High Valley","She's with Me",180301,"Dear Life",1,"2016-11-18",11,0.599,0.931,11,-3.662,1,0.0517,0.0285,0,0.102,0.788,111.012,4
+273,"1SVqPKwkGssw1ao0Jqmx2b","Zac Brown Band","Someone I Used To Know",209264,"Someone I Used To Know",1,"2018-11-09",1,0.621,0.746,6,-5.69,0,0.03,0.000927,0.00108,0.102,0.334,107.953,4
+274,"6IqUm14MgoKbwt6jdGBikH","Logan Mize","Better Off Gone",182084,"Come Back Road",5,"2017-07-28",12,0.672,0.622,5,-7.421,0,0.176,0.119,0,0.113,0.56,100.013,4
+275,"4O1CExxinEpKZi3861NlTK","Thomas Rhett","Get Me Some Of That",187400,"It Goes Like This",3,"2013-01-01",12,0.549,0.866,6,-5.306,1,0.0476,0.0733,0,0.25,0.767,87.964,4
+276,"5rX6C5QVvvZB7XckETNych","Kid Rock","All Summer Long",297586,"Rock n Roll Jesus",3,"2007-10-09",12,0.7,0.864,7,-3.629,1,0.0283,0.0212,0,0.0956,0.887,102.997,4
+277,"2I5ao7JannZZMlweLTz0hO","Kane Brown","Ain't No Stopping Us Now",182720,"Kane Brown",7,"2016-12-02",11,0.494,0.885,10,-5.725,1,0.0326,0.000171,0,0.114,0.471,75.992,4
+278,"4CcrLWFQY4dRGMbUR59cSp","Billy Currington","Hey Girl",200533,"We Are Tonight",1,"2013-01-01",10,0.548,0.673,1,-5.29,1,0.0268,0.0158,0,0.0794,0.652,81.947,4
+279,"61voPX1C71rhwynuLQyajo","Kip Moore","Beer Money",218146,"Up All Night",2,"2012-01-01",11,0.745,0.805,2,-5.549,1,0.0307,0.0223,1.06e-06,0.13,0.765,126.065,4
+280,"1pxXqJZBrCREdC0s4Xs6Xz","Little Big Town","Day Drinking",178840,"Pain Killer",2,"2014-10-21",13,0.591,0.959,9,-2.515,1,0.057,0.103,0,0.779,0.86,163.883,4
+281,"0SF38KDlXNLJAxbYyOMnCy","Cody Jinks","Loud and Heavy",229927,"Adobe Sessions",6,"2015-01-12",12,0.502,0.685,0,-5.847,0,0.0283,0.000531,1.61e-06,0.0923,0.574,81.978,4
+282,"4AumKAnMygP1baZGTZrRdp","Chase Bryant","Little Bit of You",186240,"Chase Bryant",2,"2014-09-23",5,0.612,0.865,1,-4.277,1,0.0424,0.0639,0,0.0801,0.643,121.972,4
+283,"3JrD5PQbOAgGTKhts9Te6d","Dierks Bentley","Free And Easy (Down The Road I Go)",199560,"Long Trip Alone",9,"2006-01-01",11,0.583,0.782,6,-5.328,1,0.027,0.00499,0.000131,0.145,0.682,120.024,4
+284,"0lZxd99ZIjA0zUdQAY3FXr","Keith Urban","You'll Think Of Me - Single Version",231293,"Greatest Hits",12,"2007-01-01",18,0.55,0.543,2,-8.395,1,0.0408,0.379,0,0.0927,0.562,82.761,4
+285,"5JlH51YDYsGj2dyEJKKjcN","Darius Rucker","Alright",231920,"Learn To Live",7,"2008-01-01",12,0.601,0.806,7,-4.579,1,0.0345,0.0527,0,0.185,0.711,89.87,4
+286,"2dRPQFwPqAmc42mDRnsDQu","Carrie Underwood","All-American Girl",212173,"Carnival Ride",2,"2007-10-23",13,0.624,0.805,9,-2.632,1,0.029,0.0466,0,0.328,0.77,123.991,4
+287,"208bYsadJ56km31IENM2qS","Kenny Chesney","No Shoes, No Shirt, No Problems",209666,"No Shoes, No Shirt, No Problems",9,"2002-04-02",12,0.719,0.546,7,-10.239,1,0.032,0.243,0.00844,0.181,0.669,117.925,4
+288,"34Vn9nKfztyLco9lJazy4j","Lonestar","I'm Already There",253373,"I'm Already There",7,"2001-03-27",12,0.377,0.395,3,-8.622,1,0.0332,0.61,0,0.295,0.221,133.296,4
+289,"0b9djfiuDIMw1zKH6gV74g","Keith Urban","Somebody Like You",323040,"Golden Road",1,"2002-01-01",12,0.624,0.84,4,-5.768,1,0.0337,0.108,0.000546,0.144,0.656,111.02,4
+290,"5hviCr3lgg6LY6noG6DPKs","The Chicks","Landslide",230549,"Home",2,"2002-08-27",12,0.571,0.438,2,-7.007,1,0.0279,0.534,1.56e-05,0.187,0.444,145.948,4
+291,"7kWeSMXLxUHHOkFxsS0vhP","Blake Shelton","Some Beach",204826,"Blake Shelton's Barn & Grill",1,"2004-10-26",11,0.787,0.765,0,-6.331,1,0.0265,0.231,1.79e-05,0.323,0.964,115.979,4
+292,"1at2b42OcAN90gQNXwxVKU","Jason Aldean","I Ain't Ready to Quit",213720,"My Kinda Party",12,"2010-11-02",15,0.52,0.68,6,-4.649,1,0.0291,0.181,3.12e-06,0.197,0.536,75.953,3
+293,"5YSW99IUAIiAj243jF7PBO","Rascal Flatts","Here Comes Goodbye",243786,"Unstoppable",2,"2009-01-01",11,0.431,0.584,2,-6.025,1,0.0336,0.42,0,0.142,0.181,146.176,4
+294,"68Q1r5zDnnYaHkh80yal4A","Trace Adkins","You're Gonna Miss This",224960,"American Man: Greatest Hits Volume II",3,"2007-01-01",13,0.5,0.665,8,-7.157,1,0.0355,0.0237,6.41e-05,0.0994,0.32,154.997,4
+295,"13Oda4GsHXzRAfquxWkrzA","Trace Adkins","Ladies Love Country Boys",221413,"Dangerous Man",2,"2006-01-01",13,0.661,0.959,7,-4.439,1,0.0408,0.0539,1.74e-05,0.381,0.96,116.284,4
+296,"3oTC5qoKq6nvz4Jj0DgCzF","Blake Shelton","Home",230453,"Reloaded: 20 #1 Hits",17,"2015-10-23",21,0.38,0.443,7,-6.972,1,0.0268,0.479,3.03e-06,0.11,0.281,63.122,4
+297,"6reuJxDtjebwc9FB6rNpp0","Kenny Chesney","Don't Blink",285280,"Just Who I Am: Poets & Pirates",2,"2007-09-11",11,0.604,0.605,4,-8.516,1,0.0352,0.115,1.22e-05,0.305,0.647,147.925,4
+298,"0ZUo4YjG4saFnEJhdWp9Bt","Carrie Underwood","Before He Cheats",199946,"Some Hearts",7,"2005-11-14",14,0.519,0.749,6,-3.318,0,0.0405,0.271,0,0.119,0.29,147.905,4
+299,"3dAgQFdruU8ufWc5GE05xC","Brad Paisley","She's Everything",266920,"Time Well Wasted",5,"2005-08-16",21,0.355,0.478,0,-8.323,1,0.0334,0.569,2.88e-06,0.194,0.271,102.967,4
+300,"4YjjNHtEsTX6Af4mCTupT5","Rascal Flatts","Bless The Broken Road",226680,"Feels Like Today",2,"2004-01-01",12,0.591,0.45,0,-6.369,1,0.0266,0.671,2.23e-05,0.159,0.344,135.893,4
+301,"4bVuIlGQBMWS7vIhcx8Ae4","Rascal Flatts","What Hurts The Most",214106,"Me And My Gang",2,"2006-01-01",14,0.537,0.674,5,-5.134,0,0.0277,0.0088,0,0.265,0.33,136.002,4
+302,"1nCSr7oGeUv7sUEoYuAJFF","Alan Jackson","Remember When",271280,"34 Number Ones",34,"2010-11-19",37,0.558,0.314,2,-10.623,1,0.0295,0.709,0.000319,0.193,0.267,125.59,4
+303,"11EX5yhxr9Ihl3IN1asrfK","Lady A","Need You Now",277573,"Need You Now",1,"2010-01-01",11,0.587,0.622,4,-5.535,1,0.0303,0.0927,0.000636,0.2,0.231,107.943,4
+304,"1WzAeadSKJhqykZFbJNmQv","Josh Turner","Your Man",211893,"Your Man",4,"2006",11,0.744,0.637,6,-4.483,1,0.0241,0.337,0.000222,0.0696,0.785,100.511,4
+305,"4YKAOXyqkKZ5gOZR0AmVMN","Toby Keith","Red Solo Cup",223386,"Clancy's Tavern",10,"2011-10-21",15,0.535,0.56,4,-6.586,1,0.0901,0.287,0,0.209,0.785,164.17,4
+306,"6IC6VhpV7D8T1t037Atqpu","Joe Nichols","Tequila Makes Her Clothes Fall Off",187053,"III",3,"2005-01-01",11,0.664,0.706,2,-7.045,1,0.027,0.129,1.06e-06,0.0857,0.681,93.968,4
+307,"2mfahQ0EaaZWq4cFNg6A1o","Devin Dawson","All On Me",224626,"Dark Horse",2,"2018-01-19",12,0.634,0.668,5,-5.488,1,0.0291,0.14,0,0.216,0.635,80.989,4
+308,"6qjcR3YhnmZ8qT7BGOXLR6","Brantley Gilbert","Take It Outside",256640,"Halfway To Heaven (Deluxe Edition)",9,"2010",15,0.427,0.743,6,-5.908,1,0.0343,0.000112,0.0275,0.148,0.486,156.784,4
+309,"0bPnT6i9H1p8Vd85GS6Z7I","Jon Pardi","Night Shift",172253,"California Sunrise",4,"2016-05-13",12,0.63,0.754,2,-3.564,1,0.0284,0.0963,0,0.268,0.73,95.999,4
+310,"7GQjJEwqlp6m5HNWVQd6OR","Billy Currington","Good Directions",215853,"Doin' Somethin' Right",2,"2005-01-01",11,0.716,0.72,5,-2.183,1,0.0319,0.307,0,0.135,0.464,122.512,4
+311,"4wFUdSCer8bdQsrp1M90sa","Tim McGraw","Highway Don't Care",276880,"Two Lanes Of Freedom",11,"2013-01-01",11,0.47,0.79,2,-5.352,1,0.039,0.0216,0,0.0863,0.495,158.061,4
+312,"6sbnf2jPcdxVm6vfZvMOS7","Rascal Flatts","Yours If You Want It",206826,"Back To Us (Deluxe Version / Big Machine Radio Release Special)",3,"2017-05-19",27,0.544,0.903,8,-3.151,1,0.0535,0.0102,0,0.108,0.408,113.012,4
+313,"2l1fWY1albInvAG9t8WP2p","Lee Brice","That Don't Sound Like You",210573,"I Don't Dance (Deluxe Edition)",7,"2014-09-09",16,0.543,0.589,4,-9.496,1,0.0421,0.0236,2.99e-05,0.0798,0.255,129.813,4
+314,"1RfPA6mxhOvc5dVK9MHReF","Kenny Chesney","Pirate Flag",225426,"Life on a Rock",1,"2013-04-30",10,0.559,0.795,7,-6.255,1,0.052,0.0787,4.83e-06,0.102,0.553,160.039,4
+315,"2eZgwtWMggiDqSCNe1fXyn","Brantley Gilbert","It's About To Get Dirty",269746,"The Devil Don't Sleep (Deluxe / Big Machine Radio Release Special)",15,"2017-01-27",50,0.391,0.925,11,-4.471,1,0.0924,0.003,0.00912,0.102,0.421,163.994,4
+316,"6ll39ALTlddWWQZLjSFlwM","Frankie Ballard","Young & Crazy",180346,"Sunshine & Whiskey",1,"2014-04-03",11,0.61,0.876,0,-4.244,1,0.0394,0.0247,0,0.31,0.783,115.05,4
+317,"43IIpTvTyEEiDWQknIhngR","Granger Smith","Country Boy Love (feat. Earl Dibbles Jr.)",212906,"Dirt Road Driveway",11,"2013-04-16",12,0.588,0.795,7,-5.267,1,0.0815,0.187,0,0.101,0.725,79.933,4
+318,"5jZF1nvKORdaHNjNNMRbFl","Walker Hayes","You Broke Up with Me",196666,"boom.",3,"2017-12-08",10,0.847,0.699,0,-8.286,1,0.0733,0.525,0,0.267,0.874,120.002,4
+319,"0lQJBl9YEsoMtE8D4yTE9g","Dan + Shay","From the Ground Up",253933,"Obsessed",3,"2016-06-03",10,0.281,0.58,9,-5.967,1,0.0323,0.333,0,0.122,0.282,151.568,3
+320,"4e4fqjx0Izh4svvTef1z7e","Bebe Rexha","Meant to Be (feat. Florida Georgia Line)",164205,"Expectations",14,"2018-06-22",14,0.642,0.772,10,-6.61,1,0.0848,0.0476,0,0.0646,0.589,153.995,4
+321,"7vVsDu0gTg6oZtrKy7pXcW","Luke Combs","Can I Get an Outlaw",238826,"Can I Get an Outlaw",2,"2016-11-04",2,0.537,0.804,11,-5.491,1,0.0362,0.0181,0.000106,0.0859,0.472,75.991,4
+322,"5HJId22hZ2IvFnvNSy6ZbE","Dierks Bentley","Different For Girls",180360,"Black",10,"2016-06-10",13,0.655,0.768,4,-5.616,1,0.0365,0.385,0.000257,0.0733,0.431,92.021,4
+323,"6foY66mWZN0pSRjZ408c00","Morgan Wallen","Whiskey Glasses",234346,"If I Know Me",4,"2018-04-27",14,0.614,0.68,6,-4.58,1,0.0289,0.369,1.84e-06,0.115,0.707,149.959,4
+324,"33LSgUa20mKNgeut1XwP2E","Justin Moore","Lettin' The Night Roll",203120,"Off The Beaten Path (Deluxe Edition)",3,"2013-01-01",16,0.542,0.859,2,-5.137,1,0.0424,0.0873,0,0.145,0.637,140.9,4
+325,"3PY88239tYBnAv5LQoU2oY","Keith Urban","Long Hot Summer",273586,"Get Closer (Deluxe Version)",4,"2010-01-01",15,0.657,0.785,3,-8.428,1,0.037,0.0301,4.62e-06,0.0927,0.769,127.987,4
+326,"2p07VcUwRZ5sru3mJ0JogS","Josh Turner","Why Don't We Just Dance",192800,"Haywire",1,"2010",11,0.677,0.776,5,-5.933,1,0.0386,0.42,0.000689,0.0954,0.642,121.834,4
+327,"06gD2ZtK3Dzc1BYqWExQJJ","Chris Stapleton","Broken Halos",180906,"From A Room: Volume 1",1,"2017-05-05",9,0.613,0.564,8,-7.085,1,0.0251,0.134,1.65e-06,0.0585,0.538,78.388,4
+328,"5AmPClBlU5sK45i6kMSngt","Johnny Cash","I Won't Back Down",128199,"American III: Solitary Man",1,"2000-01-01",14,0.626,0.539,9,-8.372,1,0.0288,0.58,0,0.309,0.539,113.702,4
+329,"0Avmi9t3sOcaGSs1DSbgDg","Johnny Cash","Folsom Prison Blues",168554,"With His Hot and Blue Guitar",11,"1957-10-11",12,0.754,0.54,5,-8.326,1,0.0266,0.691,7.51e-05,0.0868,0.79,101.738,4
+330,"4VNvzf9nHWAZBHAJxfzVcy","Johnny Cash","Rusty Cage",168400,"American II: Unchained",3,"1996-01-01",14,0.543,0.723,2,-5.889,1,0.0332,0.594,0.00316,0.314,0.496,112.061,4
+331,"1xKEI3TDR1NjJSgAlC384x","Johnny Cash","Get Rhythm",133120,"Johnny Cash at Sun",19,"2014-01-15",88,0.914,0.465,5,-11.406,1,0.0618,0.67,0,0.222,0.932,110.205,4
+332,"6YffUZJ2R06kyxyK6onezL","Johnny Cash","Ring of Fire",158426,"Ring Of Fire: The Best Of Johnny Cash",1,"1963-08-06",12,0.659,0.585,7,-8.189,1,0.0288,0.623,0.000213,0.348,0.784,104.111,4
+333,"7hxZF4jETnE5Q75rKQnMjE","Johnny Cash","I Walk the Line",176533,"I Walk the Line (Original Soundtrack Recording)",2,"1970-11-11",11,0.713,0.258,9,-14.59,1,0.0384,0.877,0.00606,0.0967,0.56,98.805,4
+334,"0vcfOQOvTCv8ckiRs8Xc1Z","Zac Brown Band","Beautiful Drug",191600,"JEKYLL + HYDE",1,"2015-04-28",16,0.619,0.852,8,-5.243,0,0.0808,0.0539,2.82e-06,0.124,0.339,125.943,4
+335,"1s3ADRSddQ3Ca1GR0rsI8W","Tim McGraw","Thought About You",225694,"Thought About You",1,"2019-01-28",1,0.563,0.745,2,-4.753,1,0.0288,0.24,4.96e-05,0.11,0.28,121.015,4
+336,"5HJqpDspKDKwQpLjvkcIsD","Jason Aldean","Burnin' It Down",219160,"Old Boots, New Dirt",3,"2014-10-07",15,0.681,0.795,6,-6.652,1,0.049,0.305,9.41e-06,0.109,0.64,135.939,4
+337,"1D07CwYBPqu8NbQTdu9C1g","Kane Brown","Good as You",192053,"Experiment",2,"2018-11-09",13,0.634,0.516,8,-6.05,1,0.0373,0.4,0,0.142,0.769,153.831,4
+338,"0uCem3X4V9xZGVzIWw3uKf","Florida Georgia Line","Music Is Healing",211626,"Dig Your Roots",12,"2016-08-26",15,0.497,0.785,4,-4.015,0,0.0399,0.292,0,0.19,0.419,139.899,4
+339,"6BCrbWBpb8d6KWmEqZ41tr","Kenny Chesney","Come Over",248426,"Welcome To The Fishbowl",1,"2012-06-19",12,0.466,0.704,1,-7.169,1,0.0353,0.1,2.71e-05,0.0744,0.481,176.043,4
+340,"1Q9ePyZ6uZEU6Mmiux9KiE","Florida Georgia Line","While He's Still Around",174226,"Dig Your Roots",13,"2016-08-26",15,0.628,0.519,8,-5.973,1,0.0329,0.817,0,0.141,0.736,146.207,4
+341,"0RE8WWlaCQM6M4XHUK3u7b","Luke Bryan","Home Alone Tonight",190773,"Kill The Lights (Deluxe)",4,"2015-08-07",16,0.501,0.966,8,-1.177,1,0.112,0.0796,0,0.0903,0.497,161.881,4
+342,"0xjyOcLKydIprmVkGjnVrm","Florida Georgia Line","God, Your Mama, And Me",184040,"Dig Your Roots (Big Machine Radio Release Special)",22,"2016-08-26",31,0.443,0.817,7,-3.729,1,0.0511,0.318,0,0.374,0.652,168.1,4
+343,"1M2l9ReoabUnvl6Y8jLUe7","Zac Brown Band","Colder Weather",273893,"You Get What You Give (Deluxe)",8,"2010-09-20",16,0.667,0.381,3,-7.494,1,0.0294,0.458,0,0.116,0.199,135.979,4
+344,"5OBtr92M0xsvOGqpnz3LzW","Dustin Lynch","Ridin' Roads",205426,"Ridin' Roads",1,"2019-03-08",3,0.547,0.817,9,-4.255,1,0.0448,0.0986,0,0.136,0.592,142.118,4
+345,"0g0d7TYam9svE9sZKDVyOg","Thomas Rhett","Beer Can’t Fix",209733,"Beer Can’t Fix",1,"2019-05-17",1,0.711,0.774,7,-4.068,1,0.0308,0.0317,0,0.124,0.939,111.016,4
+346,"1gKSpFpX3poa17WIAyFVsp","Waylon Jennings","Mammas, Don't Let Your Babies Grow Up to Be Cowboys",153200,"Nashville Rebel",12,"2006-09-26",92,0.592,0.422,9,-11.549,1,0.0332,0.614,0.0015,0.158,0.536,94.597,3
+347,"6vikZR6OvVmDSSgfiQVQgm","Kenny Chesney","Young",235706,"Greatest Hits II",3,"2009-05-19",17,0.673,0.818,9,-6.182,1,0.0354,0.0249,0,0.292,0.638,125.753,4
+348,"19PJf5HzeiVW0mdk82Swmn","Florida Georgia Line","H.O.L.Y.",196960,"H.O.L.Y.",1,"2016-04-29",1,0.526,0.661,7,-3.828,0,0.0333,0.361,0,0.087,0.556,78.132,4
+349,"4JjIIBNoho0V2gZjH4nEzR","Michael Ray","Think a Little Less",176986,"Michael Ray",7,"2015-08-07",12,0.521,0.805,9,-4.481,1,0.0289,0.124,0.000219,0.33,0.527,141.967,4
+350,"7Mvt0hOjXxzHSGXqVbZIJK","Jason Aldean","Water Tower",223866,"Night Train",15,"2012-10-16",15,0.594,0.387,7,-8.072,1,0.0275,0.279,3.52e-05,0.0874,0.347,128.853,4
+351,"6p5GuyEqQH5pv02ouEyogQ","Dylan Scott","My Girl",197640,"Dylan Scott",4,"2016-08-12",13,0.652,0.719,1,-7.251,1,0.033,0.0353,0,0.108,0.24,94.969,4
+352,"5cN2fmRWk4DRxCbEMawacl","John Anderson","Freedom Isn't Free",206120,"Goldmine",1,"2015-05-26",13,0.458,0.689,9,-6.386,1,0.0451,0.0336,0.000692,0.37,0.38,81.8,4
+353,"0YQcktqICwSWzlS4P4jzOz","Sam Hunt","Ex To See",197813,"Montevallo",6,"2014-10-27",10,0.615,0.824,10,-4.903,0,0.107,0.021,0,0.342,0.637,149.986,4
+354,"0c4ICGb0jvszKj3KPR59JU","Blake Shelton","Every Time I Hear That Song",214800,"If I'm Honest",4,"2016-05-20",15,0.523,0.725,2,-5.448,1,0.0339,0.0558,6.96e-06,0.0937,0.528,155.855,4
+355,"19yTqpHTUrw7mOcRDvXYzn","Chris Lane","For Her",211226,"Girl Problems",2,"2016-07-12",12,0.491,0.904,6,-4.324,1,0.0344,0.0985,0,0.183,0.588,150.007,4
+356,"1dyxS3YzBbL0t8rEVwVQ1K","Blake Shelton","God's Country",205106,"God's Country",1,"2019-03-29",1,0.538,0.752,10,-5.106,1,0.0396,0.0608,5.39e-06,0.118,0.217,139.984,4
+357,"56eGOeSsqdg3FLxdo83TwV","Lee Brice","Rumor",198440,"Lee Brice",8,"2017-11-03",15,0.655,0.56,9,-6.857,1,0.0486,0.749,0,0.115,0.599,140.975,4
+358,"3LLYOFp0hDXvyc3RX0wvgc","The Lacs","Willie Nelson",229773,"Dirt Rock",4,"2018-05-04",12,0.72,0.83,6,-4.356,1,0.0858,0.0568,0,0.224,0.648,125.988,4
+359,"3OjNkFFZavF89xvRqWCXmU","Cody Johnson","On My Way to You",213306,"Ain't Nothin' to It",11,"2019-01-18",15,0.443,0.538,1,-5.477,1,0.0309,0.327,4.61e-05,0.0866,0.245,157.97,4
+360,"5sC1qOC9QclptSIE2Zx7fz","Billy Currington","People Are Crazy",231506,"Best Of",7,"2011-01-01",11,0.657,0.702,5,-5.008,1,0.0268,0.242,0.000807,0.135,0.373,141.962,4
+361,"5dW1VZPcFqB4n0P08rGDgm","Blanco Brown","The Git Up",200593,"The Git Up",1,"2019-05-03",1,0.847,0.678,9,-8.635,1,0.109,0.0669,0,0.274,0.811,97.984,4
+362,"1pWteqawoaGuNc1UzScstI","Whiskey Myers","Bar, Guitar and a Honky Tonk Crowd",197493,"Firewater",1,"2011-04-26",12,0.605,0.651,0,-5.672,1,0.0234,0.0161,0.000294,0.188,0.61,89.991,4
+363,"0ZyATfTcQN9uXNbdJEDlAP","Cody Johnson","Welcome to the Show",160520,"Welcome to the Show",1,"2019-01-31",1,0.589,0.864,6,-3.834,1,0.0408,0.029,0,0.111,0.638,90.964,4
+364,"16mWMgcGZoxzm9KcHUTPOw","Cody Jinks","Ready for the Times to Get Better",176764,"Adobe Sessions",10,"2015-01-12",12,0.508,0.662,0,-7.349,0,0.0293,0.0219,0.018,0.125,0.581,86.031,4
+365,"6RZmbKPtcieEcQJMcOEXZU","Kane Brown","Like a Rodeo",201730,"Experiment",14,"2019-07-12",14,0.67,0.661,3,-6.798,0,0.0466,0.704,0,0.217,0.425,119.985,4
+366,"2tgQaL85WoRfgEa4hFQgrE","Tyler Childers","Feathered Indians",224946,"Purgatory",2,"2017-08-04",10,0.536,0.574,7,-6.705,1,0.0254,0.75,0.00277,0.105,0.877,87.194,4
+367,"6VChAU4QENeLwf3OaHBJxC","Cody Jinks","Must Be The Whiskey",205333,"Lifers",2,"2018-07-27",11,0.546,0.786,3,-5.06,0,0.0401,0.0915,8.67e-05,0.168,0.679,126.003,4
+368,"4o8STNAL91xc7EvuvqSKk1","Zac Brown Band","Whatever It Is",208213,"The Foundation",2,"2008-11-17",12,0.686,0.576,1,-6.632,1,0.0284,0.443,1.7e-05,0.212,0.72,83.971,4
+369,"79LAFAkR1ATb4iIQvZuCL0","Luke Bryan","Most People Are Good",221800,"What Makes You Country",4,"2017-12-08",15,0.586,0.732,8,-6.171,1,0.0279,0.176,0,0.148,0.582,150.109,4
+370,"7vSn3VNbzOtPebdj6ZSebj","Rodney Atkins","If You're Going Through Hell (Before The Devil Even Knows)",216773,"If You're Going Through Hell",10,"2006-07-18",10,0.566,0.898,9,-3.659,1,0.0634,0.0613,0,0.126,0.791,115.954,4
+371,"0YVdTI4w1BEqSjGNXcRjX1","HARDY","REDNECKER",201832,"THIS OLE BOY",2,"2018-10-19",4,0.537,0.751,7,-5.472,1,0.0344,0.0506,9.63e-05,0.1,0.51,143.962,4
+372,"6ERR6e7h6wCqGoz1TjiUJb","Luke Bryan","Knockin' Boots",199382,"Knockin' Boots",1,"2019-03-29",1,0.739,0.682,2,-3.728,1,0.205,0.129,0,0.328,0.634,131.983,4
+373,"5PUqB7n9e6Ebn5JZXfjEaU","Moe Bandy","Deep In The Heart Of Texas",121733,"A Taste Of Texas",4,"1997-04-22",13,0.757,0.476,5,-10.778,1,0.0293,0.138,2.83e-06,0.0604,0.967,114.586,4
+374,"6MBUUSIWCzaXW4q58Ktrv9","Jordan Davis","Slow Dance In A Parking Lot",193929,"Home State",4,"2018-03-23",12,0.523,0.837,7,-4.494,1,0.0335,0.301,0,0.172,0.523,82.006,4
+375,"4W38RXuQNuoTSwVsQA1OGC","Dan + Shay","Nothin' Like You",186253,"Where It All Began",7,"2014-04-01",15,0.589,0.704,4,-4.772,1,0.0303,0.151,0,0.067,0.437,84.956,4
+376,"4OlBux2r07KoOtfomcade6","Luke Combs","1, 2 Many",180906,"1, 2 Many",1,"2019-09-12",1,0.534,0.833,6,-3.616,1,0.0918,0.0349,0,0.523,0.675,148.804,4
+377,"3y8xKFhQWc8DARB3fuGMGA","Blake Shelton","Hell Right (feat. Trace Adkins)",207480,"Hell Right (feat. Trace Adkins)",1,"2019-08-16",1,0.551,0.821,7,-6.16,1,0.0453,0.0915,4.03e-06,0.155,0.519,75.979,4
+378,"3VR411Ef2vBgt70nzDpXnj","Trent Harmon","There’s A Girl",214360,"You Got 'Em All (Big Machine Radio Release Special)",5,"2018-05-18",23,0.526,0.793,7,-5.869,1,0.0376,0.196,0,0.0778,0.347,97.107,4
+379,"1qC0pi9ZH47XDjvaNbg8ch","Brett Eldredge","Lose My Mind",155440,"Illinois",3,"2015-09-11",12,0.68,0.755,6,-5.509,0,0.029,0.0206,0,0.21,0.824,101.048,4
+380,"5LhBdrpIoUzAYuuDBHte4w","Erik Dylan","Ashes",179122,"Ashes",1,"2015-12-28",1,0.589,0.0785,3,-12.951,0,0.0424,0.796,3.63e-06,0.131,0.327,93.594,4
+381,"46fHLVEQBcyC8VjnmdDF3q","Shane Smith & the Saints","All I See Is You",257413,"Geronimo",2,"2015-09-11",15,0.391,0.789,2,-6.166,1,0.0436,0.0224,9.95e-06,0.143,0.338,126.544,4
+382,"3Jtn0oLAGr0KFA5J8CaT4C","Ian Munsick","Horses Are Faster",247250,"Ian Munsick - EP",5,"2017-12-21",5,0.311,0.708,9,-6.29,1,0.0445,0.0598,1.1e-06,0.115,0.46,80.893,4
+383,"1N5k3HUb2FcwNjvZRSAFDK","Shane Smith & the Saints","Born & Raised",247853,"Geronimo",11,"2015-09-11",15,0.58,0.283,0,-9.868,1,0.0278,0.835,0,0.126,0.287,131.031,4
+384,"5vuMtXS5kQ7F0o9V9rG1dG","Brett Eldredge","The Long Way",208720,"Brett Eldredge",3,"2017-08-04",12,0.488,0.637,10,-7.63,1,0.0401,0.265,0,0.106,0.23,88.865,4
+385,"3Z3D2hnbZnveVhTuOifJyt","Luke Bryan","I See You",185986,"Crash My Party",7,"2013-01-01",13,0.657,0.821,6,-3.388,1,0.0352,0.0838,0,0.0457,0.714,130.002,4
+386,"7A5CReD6yWe0rrkJym34QI","Luke Bryan","Do I",239413,"Doin' My Thing",3,"2009-01-01",11,0.581,0.691,9,-5.33,1,0.0333,0.257,0,0.11,0.299,137.985,4
+387,"4KoecuyOpZaNFZ0UqVsllc","Uncle Kracker","Follow Me",218439,"Double Wide",4,"2000-06-13",11,0.817,0.585,5,-4.688,1,0.0301,0.439,0,0.147,0.916,105.014,4
+388,"4ruSkRHMQKBPtYAYpMf0oR","Chase Rice","Three Chords & The Truth",234186,"Lambs & Lions",8,"2017-11-17",10,0.44,0.889,8,-4.723,1,0.0462,0.0275,0,0.143,0.409,166.074,4
+389,"5X8DtenQ4PrAar2fSxu6gJ","Jason Aldean","We Back",197160,"From the album '9'",2,"2019-10-11",6,0.433,0.928,4,-5.117,0,0.0512,0.0135,2.01e-06,0.32,0.552,155.938,4
+390,"4EpLU30bi1KNWkBTfgZkoK","Russell Dickerson","Every Little Thing",190640,"Yours",1,"2017-10-13",12,0.638,0.854,1,-4.664,1,0.11,0.216,0,0.0357,0.859,93.869,4
+391,"3i5QyEUyXa9Y7lIklr5sWk","Nitty Gritty Dirt Band","Fishing In The Dark",201986,"Anthology",7,"2017-09-29",39,0.765,0.494,2,-7.348,1,0.0377,0.31,0,0.0836,0.91,77.724,4
+392,"69HICMmc6nNLucAx3aJX9M","John Denver","Thank God I'm a Country Boy",193093,"Back Home Again",5,"1974-06-15",14,0.762,0.537,9,-9.58,1,0.0478,0.785,0.000669,0.0551,0.958,105.603,4
+393,"47yypFbq6fu3yUvFoaf2UN","Morgan Wallen","Cover Me Up",292662,"Cover Me Up",1,"2019-04-05",1,0.525,0.437,2,-8.285,1,0.0272,0.236,7.03e-06,0.121,0.195,127.994,3
+394,"4rW9EUFaMSNVY8JhbqrB6z","Cody Johnson","Me and My Kind",156200,"Cowboy Like Me",2,"2014-01-14",13,0.588,0.807,2,-3.426,1,0.0283,0.0835,0,0.109,0.674,110.014,4
+395,"3d1qN7AHge6BXuVPutcpI5","Eric Church","Some Of It",195146,"Desperate Man",4,"2018-10-05",11,0.56,0.736,0,-7.306,1,0.0446,0.341,9.81e-06,0.155,0.824,79.843,4
+396,"53F1MVa1BWUkTBbVqgVAfN","Sam Hunt","Kinfolks",181933,"Kinfolks",1,"2019-10-10",1,0.565,0.805,0,-4.457,1,0.0489,0.0808,0,0.173,0.869,76.04,4
+397,"5aZQrb2TXWEh9uZR4HEY3r","Luke Combs","Even Though I'm Leaving",225253,"What You See Is What You Get",3,"2019-11-08",17,0.554,0.755,2,-6.04,1,0.0319,0.225,0,0.301,0.624,77.962,4
+398,"08dFHFTx6r67MTsYn5ilDR","Old Dominion","One Man Band",186240,"Old Dominion",3,"2019-10-25",12,0.706,0.358,6,-8.331,1,0.0348,0.677,0,0.107,0.478,75.991,4
+399,"20xK9pC1cCJKnjtJ37YNOQ","Blake Shelton","She Wouldn't Be Gone",215613,"Loaded: The Best of Blake Shelton",11,"2010-11-08",15,0.509,0.662,0,-4.873,1,0.0293,0.153,0,0.0773,0.231,160.129,4
+400,"3cFWIhrapYb2VoNOUbo9Re","Michael Ray","Her World or Mine",208506,"Amos",6,"2018-06-01",11,0.568,0.499,4,-6.597,1,0.0288,0.635,0,0.122,0.243,143.761,4
+401,"2XEl9DfBj88c8p2bdfx1qu","Brantley Gilbert","One Hell Of An Amen",221466,"Just As I Am (Platinum Edition)",8,"2015-01-01",19,0.548,0.665,1,-5.622,1,0.0281,0.0139,2.72e-06,0.0769,0.549,138.055,4
+402,"3JffB4CABj9lA0NC63kbCp","Blake Shelton","She's Got a Way with Words",190986,"If I'm Honest",2,"2016-05-20",15,0.616,0.697,3,-5.952,1,0.0295,0.326,2.18e-05,0.0827,0.68,148.93,4
+403,"1gewemPOUilb21s7CfMS55","Rehab","Bartender Song (Sittin' At A Bar) - Alt/Rock Mix",229040,"Graffiti The World",5,"2005",13,0.667,0.673,4,-6.006,1,0.0536,0.117,0,0.343,0.706,151.834,4
+404,"5zMy6fM0mZebBMBZQuAVEA","Brooks & Dunn","Red Dirt Road - with Cody Johnson",236973,"Reboot",9,"2019-04-05",12,0.595,0.44,4,-7.795,1,0.0309,0.629,4.71e-06,0.0914,0.336,128.334,4
+405,"1vunZKFkclZzC1ByeRt1oJ","Granger Smith","Damn Strait",172349,"Damn Strait",1,"2019-05-31",1,0.539,0.848,11,-4.321,1,0.0413,0.0344,0,0.113,0.546,148.084,4
+406,"5TWAIHYaOnYg4txfmCgon5","Dylan Scott","Nobody",160706,"Nothing To Do Town",3,"2019-04-26",6,0.573,0.747,0,-6.46,1,0.0319,0.519,1.13e-06,0.0867,0.645,79.952,4
+407,"6V6Fma9lttQBnIaeHdZ4eC","Midland","Mr. Lonely",180404,"Let It Roll",3,"2019-08-23",14,0.589,0.878,4,-4.493,1,0.0359,0.0247,1.07e-05,0.285,0.836,149.987,4
+408,"3AtVFkmdR1eS5TEHLJZxFm","Midland","Burn Out",189613,"On The Rocks (Big Machine Radio Release Special)",11,"2017-09-22",27,0.671,0.724,7,-5.61,1,0.0244,0.292,0,0.231,0.801,99.976,4
+409,"6ojicjDYUUoeE1tdSvfFo4","Luke Combs","Must've Never Met You",198880,"This One's for You Too (Deluxe Edition)",14,"2018-06-01",17,0.455,0.892,6,-3.218,1,0.0564,0.00951,0,0.143,0.641,75.218,4
+410,"6ej1QJ8eIYmhsyTlvgDajy","Alan Jackson","Where I Come From",239240,"34 Number Ones",30,"2010-11-19",37,0.726,0.631,11,-8.136,0,0.0334,0.22,0,0.193,0.746,124.711,4
+411,"1vBpwxsLVwaR4evBIaFmqD","Midland","Drinkin' Problem",220800,"On The Rocks",3,"2017-09-22",13,0.622,0.763,9,-6.4,1,0.0263,0.055,8.91e-06,0.313,0.621,102.0,4
+412,"6enPOmd3vSFpI4jjms8kXN","Randy Houser","Runnin' Outta Moonlight",193773,"How Country Feels",1,"2013-01-22",15,0.526,0.801,2,-3.717,1,0.0393,0.0354,3.17e-06,0.0637,0.769,172.024,4
+413,"6uVzeU47Qzg0rrMneP5BNg","Eli Young Band","Love Ain't",186118,"Love Ain't",1,"2018-05-25",1,0.6,0.851,11,-4.645,1,0.0388,0.00566,9.78e-06,0.0891,0.727,98.007,4
+414,"3MykNWa65IP2VN1Qa6B9yK","Eric Church","Give Me Back My Hometown",252493,"The Outsiders",11,"2014-01-01",12,0.621,0.676,1,-7.808,1,0.0303,0.506,0.0675,0.0825,0.482,104.008,4
+415,"2gYiCTytrSRtuaHP1Nac6u","Luke Bryan","Fast",206213,"Kill The Lights (Deluxe)",6,"2015-08-07",16,0.548,0.901,0,-2.637,0,0.0453,0.2,0,0.1,0.557,145.953,4
+416,"0PspNrE4MSjr1JeB4OW0jn","Jason Aldean","She's Country",220573,"Wide Open",6,"2009-04-07",11,0.553,0.872,1,-2.832,0,0.0782,0.198,0,0.0659,0.638,172.138,4
+417,"5S8TnsIYMVrUg1bKxiGf6e","Cody Johnson","Dear Rodeo",254653,"Ain't Nothin' to It",13,"2019-01-18",15,0.482,0.654,10,-5.268,1,0.0265,0.00881,0.000164,0.111,0.353,146.192,4
+418,"1VZNOKrYekJeCBKABz4swv","Granger Smith","That's Why I Love Dirt Roads",218542,"That's Why I Love Dirt Roads",1,"2019-10-25",1,0.553,0.773,5,-5.765,1,0.0287,0.0549,1.31e-06,0.125,0.499,120.014,4
+419,"7dzFz1IeET9tLaZYF9b3NO","Granger Smith","Holler",182488,"Holler",1,"2019-03-29",1,0.605,0.703,5,-6.185,0,0.0429,0.000908,0.0105,0.0979,0.414,120.071,4
+420,"0f73zOCdBx6ZPdiBjwN1AP","Little Big Town","Little White Church",186224,"The Reason Why",6,"2010-01-01",12,0.667,0.878,10,-4.797,1,0.0445,0.13,0,0.16,0.816,107.024,4
+421,"1XazlqB4YAtvouCmJPWXlM","Brett Eldredge","Wanna Be That Song",236226,"Illinois",4,"2015-09-11",12,0.518,0.686,9,-4.911,1,0.0313,0.114,0,0.114,0.334,144.065,4
+422,"3LbvNFkqDTrE1liGMmZBDL","Tim McGraw","Shotgun Rider",235386,"Sundown Heaven Town",3,"2014-01-01",13,0.468,0.904,7,-4.574,1,0.0494,0.126,3.89e-06,0.165,0.7,167.998,4
+423,"16PNN9wK1LbedzcTp7y8y0","Tyler Farr","A Guy Walks Into a Bar",196000,"Suffer in Peace",2,"2015-04-27",11,0.428,0.78,0,-3.472,1,0.0373,0.083,0,0.115,0.431,147.986,4
+424,"7oSq5fbsFkTS9zeJQwMihf","Morgan Wallen","This Bar",185733,"This Bar",1,"2019-12-31",1,0.545,0.884,2,-5.208,1,0.0817,0.115,0.000424,0.0496,0.272,110.015,4
+425,"6FniJZn4agmDtPx1pKZQsa","Morgan Wallen","More Than My Hometown",216573,"More Than My Hometown",1,"2020-04-17",1,0.621,0.882,6,-5.01,1,0.0459,0.601,0,0.132,0.574,126.014,4
+426,"3VHevS1BocAcrihLnl11DG","Toby Keith","I Wanna Talk About Me",183960,"Pull My Chain",2,"2001-08-10",13,0.765,0.87,5,-5.191,1,0.0499,0.168,0,0.125,0.684,106.06,4
+427,"4PgFiJS4gze2OFA0LNiajF","Granger Smith","When the Good Guys Win",193653,"When The Good Guys Win",6,"2017-10-27",14,0.619,0.853,4,-4.889,1,0.0365,0.193,0,0.161,0.864,142.044,4
+428,"6voi5xnLs9JKmWG2oLmgDU","Chris Young","Raised on Country",175594,"Raised on Country",1,"2019-01-04",1,0.572,0.794,2,-3.224,1,0.0455,0.395,0,0.23,0.79,148.095,4
+429,"5DrmJ25aHuPBImk1kLp5Of","Chris Young","Town Ain't Big Enough",171800,"Town Ain't Big Enough",1,"2019-07-12",1,0.441,0.826,6,-4.175,1,0.04,0.0638,0.00162,0.0944,0.577,75.982,4
+430,"49oBFP6ZHPtd6t33LFTD3E","Chris Janson","Good Vibes",165586,"Good Vibes",1,"2019-02-08",1,0.582,0.846,0,-2.771,1,0.0451,0.022,0,0.133,0.736,92.004,4
+431,"6JOeNbZ3X6dtXusG3hkHn8","Keith Urban","We Were",189104,"We Were",1,"2019-05-14",1,0.44,0.803,5,-6.162,1,0.0512,0.127,0,0.128,0.633,79.312,4
+432,"7grWGhX8SHNmyGOkMNVMCt","Riley Green","There Was This Girl",194426,"Different 'Round Here",1,"2019-09-20",14,0.616,0.877,1,-4.223,1,0.0347,0.00258,2.56e-06,0.114,0.94,127.981,4
+433,"1VdHooAMVaGXPSty8pifv9","Trace Adkins","Honky Tonk Badonkadonk",240093,"Dangerous Man",13,"2006-01-01",13,0.536,0.943,11,-5.317,0,0.108,0.399,2.27e-05,0.225,0.622,123.759,4
+434,"72DdM3q1npvvRUoa1YQEOd","Luke Combs","Honky Tonk Highway",212080,"This One's for You Too (Deluxe Edition)",12,"2018-06-01",17,0.602,0.699,8,-4.37,1,0.0347,0.0576,0,0.0932,0.416,131.977,4
+435,"4m8QO7mDC4kqWTKSLqsZS8","Tyler Childers","Honky Tonk Flame",297386,"Purgatory",8,"2017-08-04",10,0.334,0.692,4,-5.567,1,0.0352,0.252,0.00122,0.19,0.824,174.336,3
+436,"4xvMOj9QANlmQ7If03em5Q","Brooks & Dunn","Honky Tonk Stomp (feat. Billy Gibbons)",181226,"#1s ... and then some",1,"2009-09-08",30,0.632,0.927,9,-4.219,1,0.063,0.00413,2.84e-05,0.21,0.674,97.964,4
+437,"64Zm9wNGj6coqg4zsb0Soj","George Strait","Every Little Honky Tonk Bar",194840,"Every Little Honky Tonk Bar",1,"2019-02-11",1,0.66,0.83,5,-5.099,1,0.029,0.292,0,0.141,0.856,122.079,4
+438,"2AqbOAAgaNRygNIJYcM69I","Brantley Gilbert","Hard Days",178419,"Hard Days",1,"2020-06-05",1,0.308,0.616,8,-6.947,1,0.0363,0.0344,4.01e-06,0.102,0.41,72.273,4
+439,"2HR9wF4WR2sCJP4r6l9WVF","Luke Combs","Used to You",236506,"Used to You",1,"2017-04-28",1,0.58,0.587,6,-6.965,1,0.029,0.336,0,0.355,0.246,139.929,4
+440,"0H9Q7Vzu8nYRDBZYKbtU8d","Florida Georgia Line","Sippin’ On Fire",193640,"Anything Goes",6,"2014-10-14",12,0.476,0.92,10,-3.223,1,0.0329,0.00485,1.15e-05,0.355,0.694,142.952,4
+441,"24Nt4OalWDICkEKVy81X6k","Cody Johnson","Diamond In My Pocket",196906,"A Different Day",3,"2011-10-31",13,0.546,0.838,7,-3.51,1,0.0319,0.27,1.24e-05,0.0841,0.719,151.914,4
+442,"34SQ0QfLSR316d8KL2zkuZ","Cody Johnson","With You I Am",220893,"Gotta Be Me",3,"2016-08-05",14,0.558,0.66,7,-6.223,1,0.0273,0.416,0,0.139,0.388,75.009,4
+443,"4lcXNTm9JrQpJYXqsENmFI","Tyler Farr","Redneck Crazy",216040,"Redneck Crazy",3,"2013-09-27",11,0.487,0.667,7,-4.216,0,0.0309,0.153,0,0.161,0.463,145.854,4
+444,"5WA2SHuL5eesmPnYflNzlT","Jason Aldean","Rearview Town",184173,"Rearview Town",8,"2018-04-13",15,0.526,0.85,10,-4.47,0,0.0313,0.023,0,0.0948,0.338,141.973,4
+445,"0ZUnRmGiWEypcw14WjW109","A Thousand Horses","Smoke",219080,"Southernality",3,"2015-06-09",13,0.433,0.776,7,-5.53,1,0.029,0.0349,0.00023,0.387,0.424,149.641,4
+446,"2fvmEuEwISvAN0Rg10yjpe","J. Hartley","John Wayne",158685,"John Wayne",1,"2018-11-16",1,0.569,0.86,8,-4.701,0,0.0496,0.0246,0,0.351,0.581,158.039,4
+447,"2haYTWu73Zm5gu4BL97i4X","J. Hartley","Boy Meets Girl",186026,"Boy Meets Girl",1,"2019-07-26",1,0.486,0.412,10,-6.968,1,0.0376,0.372,0,0.109,0.254,169.644,4
+448,"5i8l686zVXPPtzi3DFTy2c","J. Hartley","Radio",174969,"Radio",1,"2017-04-07",1,0.558,0.582,11,-6.74,1,0.0393,0.584,0.000466,0.17,0.534,140.019,4
+449,"5lH14PEjAXYuMTz0Dd4L1D","Eric Church","Stick That In Your Country Song",228706,"Stick That In Your Country Song",1,"2020-06-25",1,0.536,0.863,0,-5.081,0,0.0362,0.0658,0.172,0.118,0.405,89.979,4
+450,"2uJcLlydqLdGiiABFa4KfN","Coffey Anderson","Mr Red White and Blue",207986,"Boots and Jeans",6,"2016-05-20",10,0.501,0.743,0,-5.789,1,0.037,0.14,6.56e-06,0.251,0.325,156.036,4
+451,"4OMj5QWwvYSUs9O0hsymts","Brooks Jefferson","Friends in Low Places",258507,"Strummin' On Garth",6,"2015-03-13",21,0.553,0.655,9,-5.837,1,0.0355,0.617,0,0.0825,0.624,107.739,4
+452,"7Fq9RwQxSn3kW85PrDUf0M","Brooks & Dunn","Boot Scootin' Boogie",198226,"#1s ... and then some",15,"2009-09-08",30,0.656,0.817,11,-4.296,0,0.0435,0.22,0,0.304,0.862,130.448,4
+453,"5TI10v8sy9VPp5YhVRVK1f","Chase Rice","Lonely If You Are",176728,"The Album, Pt. I",2,"2020-01-24",7,0.681,0.726,7,-5.1,1,0.0453,0.162,0,0.119,0.819,84.979,4
+454,"7uPReljrrTaqzDCcx4JHmi","Chris Cagle","What Kinda Gone",181613,"My Life's Been A Country Song",1,"2008-01-01",11,0.494,0.861,5,-5.236,1,0.0365,0.257,0,0.103,0.668,172.052,4
+455,"1avsnlN5IELXCHI6OnmYBv","Home Free","God Bless the U.S.A.",199960,"God Bless the U.S.A.",1,"2020-06-26",1,0.511,0.51,4,-7.415,1,0.0308,0.328,0,0.0919,0.325,139.849,4
+456,"6UbcthjdWBvqsOqW1n85VJ","Home Free","Elvira (feat. Oak Ridge Boys)",174893,"Country Evolution",4,"2015-09-18",14,0.828,0.584,9,-7.223,1,0.147,0.111,3.33e-06,0.324,0.587,140.093,4
+457,"1LM5zQv5pBKPyO7rm7Uz6U","Maren Morris","My Church",197930,"HERO (Deluxe Edition)",3,"2017-03-17",14,0.517,0.743,9,-4.336,1,0.0363,0.243,3.36e-06,0.107,0.664,76.979,4
+458,"21TO7Ez1OrcMORIlzjPExM","Tim Foust","Champagne Taste (On a Beer Budget)",155818,"The Best That I Could Do",11,"2012-06-18",12,0.695,0.744,0,-8.31,1,0.0533,0.497,0,0.102,0.926,111.973,4
+459,"5E4CJfa6yZNGSKVFSUgaBt","Tyler Farr","Whiskey in My Water",188146,"Redneck Crazy",4,"2013-09-27",11,0.526,0.872,7,-5.079,1,0.0428,0.245,0,0.243,0.583,153.929,4
+460,"1u7J5sEfgOVRt5bkfU2oGV","Uncle Lucius","Keep The Wolves Away",275520,"And You Are Me",5,"2012-08-28",11,0.682,0.351,1,-10.276,0,0.0318,0.52,0.00059,0.11,0.144,122.207,4
+461,"4eMxLQtSdgxdA1Hs6D2YuN","The Dead South","In Hell I'll Be in Good Company",245320,"Good Company",4,"2014-04-26",14,0.772,0.235,7,-9.075,0,0.0479,0.753,0.00125,0.111,0.703,154.802,4
+462,"5Kpg1A7BOHpBbaT3H3xqd3","Niko Moon","GOOD TIME",214720,"GOOD TIME - EP",1,"2020-02-14",5,0.802,0.59,5,-7.189,1,0.0493,0.0874,0,0.275,0.687,138.084,4
+463,"1udNc7oRKsxtPH5z1J0e3P","The Dead South","Banjo Odyssey",200346,"Good Company",14,"2014-04-26",14,0.532,0.628,2,-5.648,0,0.0403,0.205,0.00012,0.115,0.508,92.593,4
+464,"11OFYsUK9EVJsQ6nutH32M","George Strait","Here For A Good Time",180266,"Here For A Good Time",5,"2011-01-01",11,0.596,0.768,6,-6.753,1,0.0369,0.0858,6.23e-06,0.116,0.532,127.93,4
+465,"0EuW1WTOpISw5eubQwO0Gm","Niko Moon","PARADISE TO ME",216226,"GOOD TIME - EP",4,"2020-02-14",5,0.755,0.619,11,-6.829,0,0.0362,0.0246,0,0.0739,0.398,155.046,4
+466,"6MmCP3F50aAlcOhjGJk4r0","Wheeler Walker Jr.","Redneck Shit",144240,"Redneck Shit",1,"2016-02-12",11,0.56,0.964,7,-5.353,1,0.0642,0.0142,1.18e-06,0.145,0.781,135.638,4
+467,"0imfNymwLWKyhLBlBZYg53","Wheeler Walker Jr.","Drop 'Em Out",94293,"Redneck Shit",6,"2016-02-12",11,0.691,0.588,0,-7.96,1,0.101,0.178,0,0.0832,0.972,95.649,4
+468,"7uMBc5uxQRZNFowjhxH9WL","Wheeler Walker Jr.","Fuck You Bitch",202786,"Redneck Shit",5,"2016-02-12",11,0.549,0.576,9,-6.282,1,0.0263,0.0364,1.94e-06,0.147,0.452,118.709,3
+469,"3PutbYf6kjBkMN5KmWqjrc","Wheeler Walker Jr.","Family Tree",199586,"Redneck Shit",3,"2016-02-12",11,0.439,0.762,9,-6.385,1,0.0356,0.0853,0,0.0854,0.624,133.769,3
+470,"6RFkVsPmrM4pzlDkFswwJl","Johnny Cash","God's Gonna Cut You Down",158573,"American V: A Hundred Highways",2,"2006-01-01",12,0.617,0.485,5,-8.227,0,0.115,0.868,3.44e-05,0.115,0.845,82.228,4
+471,"383Xl5QTigwj3QiA3Qc6S7","The Charlie Daniels Band","The Devil Went Down to Georgia",214866,"A Decade Of Hits",1,"1973",10,0.523,0.626,0,-9.425,1,0.0523,0.155,0,0.0869,0.917,134.127,4
+472,"1akB0Fn6w8U0j2hrDcj1kZ","BRELAND","My Truck (feat. Sam Hunt) - Remix",159888,"BRELAND EP",7,"2020-05-22",7,0.753,0.503,2,-6.213,1,0.0406,0.049,0,0.15,0.648,136.892,4
+473,"10xuH52YSXHWFwCaF1fsDd","Sam Hunt","Hard To Forget",204760,"SOUTHSIDE",2,"2020-04-03",12,0.689,0.689,4,-5.517,1,0.045,0.23,0,0.57,0.664,130.069,4
+474,"5FmvaZGd6fulojSToozLRD","HARDY","ONE BEER (feat. Lauren Alaina & Devin Dawson)",173173,"HIXTAPE: Vol. 1",10,"2019-09-13",10,0.516,0.745,2,-8.352,1,0.0774,0.564,0,0.275,0.826,186.006,3
+475,"21jkhW2773dELgTMRJcMfI","LOCASH","I Love This Life",208863,"The Fighters",1,"2016-06-17",11,0.586,0.927,2,-3.014,1,0.0547,0.0164,7.24e-06,0.153,0.549,111.977,4
+476,"1nRVfS3M7vkRRjWp9rzIka","Mark O'Connor","The Devil Comes Back to Georgia",253226,"Heroes",2,"1993-09-10",14,0.559,0.582,4,-13.48,0,0.0415,0.331,0.00113,0.261,0.871,137.033,4
+477,"0kSUH6KBoUrHWL93j1Lx3h","Sean Stemaly","Come Back To Bed",183920,"Come Back To Bed",1,"2020-02-28",1,0.525,0.84,1,-4.21,0,0.037,0.42,1.67e-05,0.361,0.806,136.037,4
+478,"0Z0kNthq0sS4lvGz9SSlBF","Morgan Wallen","7 Summers",210122,"7 Summers",1,"2020-08-14",1,0.625,0.775,0,-5.199,1,0.0248,0.431,5.23e-05,0.12,0.588,101.961,4
+479,"6B4LAyly39cv8Cat9nHObl","Morgan Wallen","American Nights",202266,"American Nights",1,"2016-07-29",1,0.464,0.814,7,-5.012,1,0.0313,0.13,0.000278,0.13,0.3,102.986,4
+480,"59bx5emG4yTKWzAxwxgrKv","Colt Ford","Answer to No One (feat. JJ Lawhorn)",212924,"Declaration of Independence (Deluxe Edition)",1,"2012-08-07",15,0.468,0.874,7,-4.45,0,0.0992,0.187,0,0.0718,0.523,79.988,4
+481,"54eUv9Q3D9MZuOGS5PSflp","Jameson Rodgers","Some Girls",184893,"Jameson Rodgers",1,"2018-01-19",5,0.429,0.831,8,-5.108,1,0.0473,0.0781,0,0.312,0.348,167.984,4
+482,"2RnEMVSTAG2BQh3LHXS9te","Tyler Braden","Brother",236426,"Brother",1,"2020-05-01",1,0.407,0.492,9,-7.075,1,0.0324,0.479,0,0.263,0.0927,153.977,4
+483,"5gIBfOPixLKP3lefRCinua","Tyler Braden","Little Red Wine",211500,"Little Red Wine",1,"2017-06-16",1,0.494,0.872,0,-4.539,1,0.0725,0.0438,0,0.273,0.634,159.983,4
+484,"6OI4kx6HcKUAgZKGr9IlXg","Tyler Braden","Leave Me Alone",196591,"Leave Me Alone",1,"2018-07-20",1,0.403,0.617,0,-7.02,0,0.0337,0.00783,0,0.148,0.204,150.064,4
+485,"1XsTcnVnJqjjXXLBRqXWmD","Upchurch","Holler Boys",211498,"Parachute",5,"2019-09-24",10,0.674,0.425,1,-7.725,1,0.031,0.191,0,0.169,0.11,119.954,4
+486,"4FkgULes13bk2eHrsJg4q9","Hunter Hayes","I Want Crazy - Encore",236865,"Hunter Hayes (Encore)",14,"2011",17,0.562,0.878,8,-4.806,1,0.0387,0.0539,0,0.112,0.558,103.029,4
+487,"5eH1ktZDHgegpkYJOY7tme","Jason Aldean","Crazy Town",183440,"Wide Open",4,"2009-04-07",11,0.43,0.841,6,-2.99,1,0.037,0.13,0,0.0517,0.489,180.977,4
+488,"5MwynWK9s4hlyKHqhkNn4A","Morgan Wallen","Chasin' You",205453,"If I Know Me",9,"2018-04-27",14,0.631,0.591,7,-5.785,1,0.0277,0.657,0,0.11,0.489,97.074,4
+489,"5qdQPrWmZv8xYhMJCDrdHF","Jon Pardi","Heartache Medication",209109,"Heartache Medication",2,"2019-09-27",14,0.621,0.791,9,-3.343,1,0.0265,0.0361,0,0.143,0.734,95.075,4
+490,"0nYvjcSlCgjcwogQAwIwNp","Luke Combs","Lovin' On You",194866,"What You See Is What You Get",4,"2019-11-08",18,0.572,0.949,4,-4.865,1,0.06,0.00165,0.000195,0.163,0.53,118.974,4
+491,"14GwnOeC9qYEKEA6uOZepa","Lee Brice","One Of Them Girls",188893,"One Of Them Girls",1,"2020-04-10",1,0.643,0.79,4,-6.079,1,0.0462,0.294,0,0.107,0.8,95.987,4
+492,"1mMLMZYXkMueg65jRRWG1l","Luke Combs","When It Rains It Pours",240760,"This One's for You",8,"2017-06-02",12,0.551,0.801,6,-5.069,1,0.0303,0.013,6.03e-06,0.265,0.625,128.027,4
+493,"7aEtlGHoiPAfRB084NiDmx","Luke Combs","Beer Never Broke My Heart",186733,"What You See Is What You Get",1,"2019-11-08",18,0.538,0.863,1,-4.483,1,0.0481,0.0139,0,0.0874,0.637,77.001,4
+494,"2rxQMGVafnNaRaXlRMWPde","Luke Combs","Beautiful Crazy",193200,"This One's for You Too (Deluxe Edition)",15,"2018-06-01",17,0.551,0.402,11,-7.431,1,0.0262,0.676,0,0.0928,0.382,103.313,4
+495,"6xHI9KjUjYT0FPtGO8Mxa1","Luke Combs","Hurricane",222533,"This One's for You",5,"2017-06-02",12,0.464,0.813,10,-6.185,1,0.0416,0.0153,0,0.254,0.515,75.977,4
+496,"698eQRku24PIYPQPHItKlA","Luke Combs","She Got the Best of Me",183160,"This One's for You Too (Deluxe Edition)",17,"2018-06-01",17,0.533,0.907,11,-3.793,1,0.0406,0.0292,0,0.386,0.7,150.99,4
+497,"1XBGTp6OqwYaYhemH3aMKT","Matt Mason","E",228826,"The Writers Collection Volume One",5,"2017-04-21",12,0.657,0.736,9,-7.73,0,0.0768,0.0817,0,0.302,0.379,113.96,4
+498,"3xx0jE52PbtvwXgNaBUdch","Randy Travis","Deeper Than the Holler",219080,"Old 8 x 10",2,"1988-07-12",10,0.647,0.482,5,-8.591,1,0.0262,0.29,0,0.232,0.437,142.648,4
+499,"5hRyy1AIJMc5wyizJcSIEa","Jade Eagleson","Got Your Name On It",189573,"Jade Eagleson",9,"2020-07-24",11,0.591,0.808,1,-4.806,1,0.0284,0.0189,0,0.26,0.548,162.095,4
+500,"52pLbbvrm2RuUBhyxjRN03","Jason Aldean","Keep the Girl",269920,"Wide Open",8,"2009-04-07",11,0.619,0.701,10,-5.554,1,0.0314,0.0887,1.04e-06,0.092,0.395,104.53,4
+501,"64LP4oTxEweNfKTCTGLhtg","Tyler Braden","Love Is a Dead End Road",195560,"Love Is a Dead End Road",1,"2020-08-07",2,0.59,0.74,4,-6.293,1,0.0314,0.167,0,0.109,0.475,137.952,4
+502,"37JPdGgYcQAJSElj5boJx8","Sawyer Brown","Some Girls Do",194320,"The Dirt Road",2,"1992-01-06",11,0.64,0.852,2,-6.406,1,0.028,0.0907,0,0.151,0.903,139.949,4
+503,"4wLe9IeNMUovE9UWg9fiSB","Alan Jackson","Hard Hat And A Hammer",168813,"Freight Train",1,"2010-03-30",12,0.754,0.621,4,-7.489,1,0.0294,0.231,3.1e-05,0.218,0.666,124.944,4
+504,"4a1i77oT3AAvr2tstYl6Dm","Home Free","Some Girls Do",158005,"Some Girls Do",1,"2018-11-16",1,0.631,0.789,2,-5.181,1,0.0308,0.189,0,0.33,0.857,144.012,4
+505,"7G6l2FtQyRhQgYgut2I6i8","Toby Keith","As Good As I Once Was",227840,"Honkytonk University",2,"2005-01-01",12,0.68,0.87,5,-4.461,1,0.0393,0.266,0,0.109,0.646,119.075,4
+506,"59kHPbwyyCApYA8RQQEuXm","Alan Jackson","Chattahoochee",148160,"A Lot About Livin' (And A Little 'Bout Love)",1,"1992-10-09",10,0.606,0.706,0,-9.665,1,0.0379,0.362,0,0.16,0.819,174.533,4
+507,"41TDpmZqjVfCEFE8yMNhGc","Ronnie Dunn","Cost Of Livin'",250480,"Ronnie Dunn (Expanded Edition)",6,"2011-06-07",14,0.662,0.29,4,-7.896,1,0.0349,0.895,0,0.0959,0.283,148.393,4
+508,"1stGsIVPeCCNwZtCAhikj1","Dean Brody","Can't Help Myself",158320,"Can't Help Myself",1,"2020-02-14",1,0.696,0.869,2,-3.453,1,0.0358,0.00392,0,0.162,0.663,119.99,4
+509,"2iMcoxNfwUwTrKVNX1ZQya","Cody Jinks","Ain't a Train",185247,"After the Fire",2,"2019-10-11",10,0.358,0.897,10,-3.507,0,0.0761,0.0475,0.0146,0.282,0.334,120.546,4
+510,"0SErdEdRcVX1uJCf1eTGYH","Morgan Wallen","Somebody’s Problem",161773,"Somebody’s Problem",1,"2020-11-20",1,0.657,0.54,5,-7.675,1,0.0287,0.662,0,0.123,0.625,136.97,4
+511,"096YtKWNRXdmYKFLelSBto","Morgan Wallen","Still Goin Down",186293,"Still Goin Down",1,"2020-11-19",1,0.58,0.751,7,-5.078,1,0.0267,0.49,0,0.277,0.718,148.108,4
+512,"2L4YgbxxwmwafMqLIjSx8q","Morgan Wallen","Livin’ The Dream",239120,"Livin’ The Dream",1,"2020-11-19",1,0.621,0.754,7,-5.904,0,0.0269,0.575,0.00484,0.213,0.441,127.036,4
+513,"2bX3Cb6QE8OetYBwJKnd0o","Taylor Ray Holbrook","Southern Land",222093,"Southern Land",1,"2016-05-06",1,0.725,0.724,1,-6.195,1,0.126,0.176,0,0.136,0.741,130.045,4
+514,"2DhatFFtqSJD9xydNeU2J9","Ryan Upchurch","Stuck on 17",179200,"Stuck on 17 - Single",1,"2016-03-13",1,0.527,0.58,2,-7.188,1,0.0312,0.241,0,0.223,0.272,149.78,4
+515,"4bnLswoWX8C6celggge72w","Ryan Upchurch","American Made",163449,"Summer Love",1,"2017-05-05",6,0.518,0.838,4,-4.528,1,0.0554,0.0371,0,0.0819,0.613,91.776,4
+516,"6OEX8FPaHyUyftZJWsve3Y","Colt Ford","Slow Ride",174634,"We The People, Vol. 1",2,"2019-09-20",14,0.671,0.771,11,-4.732,0,0.0463,0.00284,0,0.187,0.639,142.01,4
+517,"0NCnQYoe5YdxFjJQgEM5rX","Koe Wetzel","Fuss & Fight",240265,"Noise Complaint",3,"2017-03-01",13,0.652,0.798,2,-5.592,0,0.0669,0.00486,0,0.131,0.292,141.014,4
+518,"2s5o6GOB4qtFEzNLddTekz","Hannah Ellis","Officer Down",217603,"Officer Down",1,"2016-05-13",1,0.411,0.591,0,-4.92,1,0.0337,0.6,0,0.0905,0.285,107.148,4
+519,"3VCWhe7AtBrkhour9t6dq6","Chris Young","You",164520,"Neon",7,"2011-07-11",10,0.708,0.708,6,-5.12,0,0.0266,0.316,0,0.361,0.667,95.031,4
+520,"1gQf9pbGGzVkph7BUfwi6X","Upchurch","Turn up the Night",191489,"Project X, Vol. 1",3,"2018-01-30",9,0.739,0.781,2,-4.584,1,0.0449,0.0482,0,0.156,0.164,93.981,4
+521,"2NkPawxG0L9hSrB1wU2D3z","Zach Bryan","God Speed",253359,"DeAnn",3,"2019-08-24",12,0.611,0.0811,0,-15.25,1,0.0396,0.874,0,0.105,0.171,79.569,4
+522,"2VwBhM5L7wGE4lLavyJy0L","Toby Keith","God Love Her",216626,"That Don't Make Me a Bad Guy",3,"2008-10-28",11,0.551,0.919,10,-3.895,1,0.0529,0.133,8.36e-05,0.0637,0.432,125.025,4
+523,"7fsPB1closugEnkKgSMw1W","Tyler Wood","Still Ridin Shotgun",197547,"Outlaw Soul",3,"2014-10-07",6,0.538,0.733,4,-5.641,1,0.0296,0.136,0,0.289,0.756,165.102,4
+524,"3Ozx6IrGdoQyAworJzvBDE","Colter Wall","Sleeping on the Blacktop",192480,"Imaginary Appalachia",1,"2015-06-02",7,0.567,0.311,2,-14.464,0,0.0455,0.822,0.23,0.11,0.478,83.11,4
+525,"7hlA8gMMz6jSp91Twsnuv3","Colter Wall","The Devil Wears a Suit and Tie",236026,"Imaginary Appalachia",7,"2015-06-02",7,0.625,0.319,6,-12.119,0,0.0805,0.79,0.104,0.0921,0.438,127.799,4
+526,"19MkwMrRjO7773zpuGss1o","Tyler Childers","Shake the Frost (Live)",175120,"Live on Red Barn Radio I & II",1,"2018-06-29",8,0.447,0.341,2,-9.769,1,0.0457,0.806,2.05e-06,0.686,0.371,138.969,4
+527,"1yhft6ZqYadd4GOrKrmK3a","Trey Lewis","Dicked Down in Dallas",201350,"Dicked Down in Dallas",1,"2020-12-01",1,0.51,0.929,6,-4.685,1,0.0456,0.0608,5.39e-06,0.101,0.438,122.036,4
+528,"1Exlab2o1NffPU8HBzFSnO","Kidd G","Teenage Dream",156134,"Teenage Dream",1,"2020-11-26",6,0.511,0.568,11,-4.991,1,0.0376,0.322,0,0.337,0.405,170.014,4
+529,"48nZLOpJOINkICPWpUuhaN","Tyler Childers","Universal Sound",221600,"Purgatory",9,"2017-08-04",10,0.672,0.437,5,-9.656,1,0.0368,0.85,0.261,0.107,0.636,101.588,4
+530,"1i1ARxccX24yYKQHPDTzpE","Home Free","Fishin' in the Dark/Down in the Boondocks",221666,"Country Evolution",10,"2015-09-18",14,0.58,0.538,8,-8.058,1,0.0599,0.204,0,0.27,0.78,175.914,4
+531,"4an8z6f6w15wlNofE9dSMV","Tyler Braden","Secret",234546,"Secret",1,"2020-10-30",3,0.522,0.669,7,-7.824,1,0.0269,0.0917,0.000258,0.124,0.479,148.015,4
+532,"6gdLyYNuhWBzqwlOFSsXC7","Luke Combs","Better Together",219573,"What You See Is What You Get",17,"2019-11-08",18,0.552,0.225,0,-11.501,1,0.0477,0.827,0,0.111,0.67,138.002,4
+533,"2LC1Bs6RrM04YaWsnvgnyd","Chase Rice","Down Home Runs Deep",194306,"The Album, Pt. II",3,"2020-05-15",4,0.44,0.91,11,-3.906,1,0.0694,0.0469,0,0.0824,0.497,141.931,4
+534,"0MyD9ogJwN6z4pq7RCyiFa","Cody Johnson","Dear Rodeo (with Reba McEntire)",254653,"Dear Rodeo (with Reba McEntire)",1,"2020-10-02",1,0.502,0.635,10,-5.055,1,0.0285,0.0108,2.67e-05,0.109,0.398,146.196,4
+535,"0iX7rpfQC9V0cW8SpFoXO7","Luke Kaufman","Rank Riders Anthem",200542,"Cowboy Baller",1,"2010-01-07",12,0.593,0.788,2,-5.695,1,0.0377,7.15e-05,0.000499,0.067,0.429,92.973,4
+536,"6IBcOGPsniK3Pso1wHIhew","Luke Combs","Forever After All",232533,"What You See Ain't Always What You Get (Deluxe Edition)",23,"2020-10-23",23,0.487,0.65,0,-5.195,1,0.0253,0.191,0,0.0933,0.456,151.964,4
+537,"24LyKCgvEia1eAPUbuISlk","Kidd G","Dirt Road",150889,"Dirt Road",1,"2020-10-02",1,0.796,0.516,8,-7.891,1,0.0744,0.519,0,0.126,0.181,140.012,4
+538,"36lunnakGreQybQKVQyBhb","Kidd G","Small Town Girl",152472,"Teenage Dream",3,"2020-11-26",6,0.695,0.851,7,-4.824,1,0.0367,0.0122,0,0.269,0.467,101.974,4
+539,"3t5OV1asJHmOlf23T08CLv","Tyler Childers","Lady May",183533,"Purgatory",10,"2017-08-04",10,0.539,0.16,3,-13.285,1,0.0329,0.881,0.000268,0.105,0.322,81.446,4
+540,"6vC90OOjZR165Hw8CpsqEm","Parker McCollum","Pretty Heart",244797,"Pretty Heart",1,"2019-08-30",1,0.562,0.683,7,-4.427,1,0.0296,0.00531,0,0.107,0.385,132.003,4
+541,"050Goi25ljECUnnL3VxKlW","Buddy Brown","I Am 911",182915,"Patriot",1,"2020-03-13",10,0.586,0.806,7,-4.191,1,0.0315,0.0251,0,0.457,0.532,92.066,4
+542,"1Y1XC3K3STWxGUBBesifEL","Thomas Mac","Santa Ain't Coming to Town (He's Drinking This Year)",188958,"Santa Ain't Coming to Town (He's Drinking This Year)",1,"2019-11-25",1,0.638,0.879,4,-6.243,1,0.0468,0.00837,0,0.345,0.774,119.955,4
+543,"2HWHheAWFO30KXIpH1iVOK","Thomas Mac","Beer vs Women",158772,"Beer vs Women",1,"2020-11-19",1,0.586,0.674,2,-7.65,1,0.0547,0.211,2.65e-06,0.0642,0.795,135.204,4
+544,"7yNJCsUH3tXlpQiHSsAc5l","Chris Lane","Big, Big Plans",187306,"Big, Big Plans",1,"2019-06-28",1,0.574,0.58,7,-6.091,1,0.0278,0.076,0,0.12,0.4,149.974,4
+545,"1lYBlgWcwRqZ6T5syEATJJ","HIXTAPE","Redneck Tendencies (HARDY feat. Trace Adkins, Joe Diffie)",172546,"HIXTAPE: Vol. 1",3,"2019-09-13",10,0.641,0.746,4,-5.196,1,0.0316,0.0237,0,0.103,0.816,122.005,4
+546,"17E5XweAlvnU7pkghMgvMs","HIXTAPE","My Kinda Livin’ (HARDY feat. Hunter Phelps, Jameson Rodgers)",199360,"HIXTAPE: Vol. 1",5,"2019-09-13",10,0.571,0.62,11,-5.879,1,0.0298,0.489,0,0.114,0.72,144.054,4
+547,"0gv4JVcgmb8HihoucEXVxh","Brothers Osborne","All Night",168400,"Skeletons",2,"2020-10-09",12,0.761,0.855,4,-4.838,0,0.0342,0.00416,0.00246,0.118,0.96,119.997,4
+548,"0NLBwQBYJhEM9t3KAMPFVR","John Michael Montgomery","Sold (The Grundy County Auction Incident)",152186,"John Michael Montgomery",2,"1995-03-17",10,0.771,0.848,2,-7.365,1,0.035,0.108,0,0.35,0.803,115.642,4
+549,"1OTX8FOeKJt1v9mIxuF8sc","Florida Georgia Line","Long Live",152372,"Long Live",1,"2020-09-10",1,0.612,0.842,7,-3.547,1,0.0372,0.185,0,0.151,0.596,129.973,4
+550,"1L9dG6HpSBu5g3kSHl3LA1","Aaron Watson","Long Live Cowboys",180098,"From The Album 'American Soul'",1,"2020-12-25",5,0.603,0.869,7,-6.158,1,0.0437,0.0262,0,0.218,0.825,130.0,4
+551,"0tZIR4O5WX47JBC1TCcxxY","Whiskey Myers","Frogman",218896,"Mud",8,"2016-09-09",10,0.362,0.826,0,-5.416,1,0.0449,0.0277,0,0.176,0.596,147.204,4
+552,"73ZTWCuwudUVvvWipRnQnQ","Hank Williams, Jr.","Family Tradition",242960,"Family Tradition",6,"1979",10,0.66,0.523,4,-12.068,1,0.0608,0.0238,0,0.142,0.794,126.342,4
+553,"0uRrG2jRR5tuifsYIJHEao","Morgan Wallen","Sand In My Boots",202133,"Dangerous: The Double Album",1,"2021-01-08",30,0.403,0.537,3,-6.628,1,0.031,0.59,0,0.112,0.414,69.877,4
+554,"0cE0J96KeivafL6goJwpmq","Kenny Chesney","Living in Fast Forward",211893,"The Road And The Radio",2,"2005-11-07",11,0.689,0.907,9,-5.587,1,0.037,0.0254,0.000732,0.138,0.912,116.968,4
+555,"6cqxDqWwB9o3j3eHMSV2mA","Riley Green","Different 'Round Here",183333,"Different 'Round Here",2,"2019-09-20",14,0.502,0.677,1,-6.466,1,0.0293,0.00416,7.21e-06,0.0796,0.403,142.039,4
+556,"7ptJYMKI7Y1iWdqEZtBMGE","Koe Wetzel","Something to Talk About",204352,"Noise Complaint",2,"2017-03-01",13,0.612,0.934,9,-5.124,0,0.0663,0.049,0,0.103,0.293,130.006,4
+557,"2btMA0oVvDOTK3PVYq70xZ","Chris LeDoux","This Cowboy's Hat",250320,"Classic Chris Ledoux",10,"2008-01-01",16,0.508,0.418,11,-8.356,0,0.0299,0.724,0,0.383,0.569,86.38,4
+558,"2pSAQZEuMD5QKrHaPqG4iV","Chase Rice","This Cowboy's Hat (feat. Ned LeDoux)",304760,"Lambs & Lions",10,"2017-11-17",10,0.483,0.675,6,-5.47,0,0.0449,0.131,0.000195,0.348,0.367,166.118,4
+559,"6wR4Kp6gby7SEsD7ezK78c","Morgan Wallen","Sand In My Boots (The Dangerous Sessions) - Bonus",196800,"Dangerous: The Double Album (Bonus)",18,"2021-01-29",33,0.411,0.273,3,-8.878,1,0.0312,0.93,0,0.118,0.474,140.137,4
+560,"7Cw3yXDA8Uui37SI5FFaA7","Thomas Rhett","What’s Your Country Song",170372,"What's Your Country Song",1,"2020-11-11",1,0.355,0.706,5,-6.164,1,0.0309,0.000532,0,0.264,0.523,174.005,4
+561,"3PKCDlvqRcVHEg5fys4l7g","Old Crow Medicine Show","Dixieland Delight (Alabama Cover)",294643,"Carry Me Back to Virginia",3,"2013-06-25",3,0.402,0.704,7,-5.638,1,0.0474,0.427,0.000222,0.241,0.639,147.744,4
+562,"0bM1z18RQpr61UuI1LemIK","Alabama","Dixieland Delight",322093,"The Closer You Get...",6,"1983",10,0.444,0.414,2,-15.04,1,0.0325,0.163,2.07e-05,0.053,0.573,95.73,4
+563,"6leiB1fEsTnVCuPiielde5","Tim McGraw","Something Like That",183733,"A Place In The Sun",9,"1999-05-04",14,0.507,0.85,5,-5.679,1,0.0472,0.378,0,0.0567,0.847,171.8,4
+564,"7eoYXgC7gir4LYY1KXGK97","Aaron Watson","Freight Train",175400,"The Underdog",3,"2015-02-17",14,0.67,0.803,4,-5.628,1,0.0324,0.0416,0,0.269,0.815,144.95,4
+565,"3l4cnZdtNbVZgV3ICYh1Ni","Turnpike Troubadours","Every Girl",225920,"Diamonds & Gasoline",1,"2010-08-31",12,0.482,0.844,7,-4.488,1,0.0336,0.00631,0,0.189,0.81,174.963,4
+566,"6P7kZB7hSJFyaYJcu3cYQJ","Whiskey Myers","Ballad Of A Southern Man",220186,"Firewater",3,"2011-04-26",12,0.605,0.53,7,-6.566,1,0.0261,0.432,0,0.095,0.38,73.986,1
+567,"0AQquaENerGps8BQmbPw14","Marty Robbins","Big Iron",235733,"Gunfighter Ballads And Trail Songs",1,"1959",15,0.726,0.474,1,-7.834,0,0.0491,0.803,0,0.258,0.57,116.027,4
+568,"2ZL60ZCuasf2zih8Nz7ISU","Colter Wall","Big Iron",264866,"Western Swing & Waltzes and Other Punchy Songs",3,"2020-08-28",10,0.694,0.566,0,-10.608,1,0.0329,0.393,2e-05,0.103,0.723,113.158,3
+569,"2sBbIyKK7f2Kkdt2RVBAlY","Koe Wetzel","Song I Can Drink Too",244580,"Out on Parole",7,"2015-01-05",9,0.333,0.779,7,-5.173,1,0.0641,0.225,0,0.0627,0.545,161.339,4
+570,"0VU5k3vCrpqDgUygMjiFYj","Steve Earle","Copperhead Road",269920,"Copperhead Road",1,"1988-01-01",10,0.372,0.588,7,-15.493,1,0.0411,0.0213,0.000103,0.0525,0.706,162.874,4
+571,"5XqHOqbjKb7YsQV6f3eGeD","Riley Green","Georgia Time",221200,"Georgia Time",1,"2018-06-01",1,0.594,0.621,6,-6.23,1,0.0274,0.0403,0,0.117,0.679,77.005,4
+572,"0vajqwr2BgHSgUIXi8o7Yt","Nate Kenyon","Crowd I Roll With",178547,"Songs About You",15,"2019-07-26",15,0.59,0.802,9,-6.72,0,0.0691,0.0467,0,0.3,0.721,155.981,4
+573,"6Ra5YZBdQRVRHX1GhRA4hH","Brooks Jefferson","The Thunder Rolls",222377,"Strummin' On Garth",9,"2015-03-13",21,0.562,0.646,2,-4.937,0,0.0372,0.408,4.39e-05,0.122,0.274,81.77,4
+574,"7D1iGhQakEW8oFCfWBlRek","Mitchell Tenpenny","Bucket List",205450,"Bucket List",1,"2021-01-01",1,0.565,0.743,2,-4.833,1,0.0329,0.0473,0,0.0781,0.423,85.012,4
+575,"0SuzUhWAgStNIMZR4jEGgk","Gretchen Wilson","Here for the Party",196760,"Here For The Party",1,"2004-05-11",10,0.656,0.717,0,-4.871,1,0.0279,0.0127,1.22e-05,0.904,0.809,123.988,4
+576,"13bXmY0acm51KkgEdhCm1n","Parker McCollum","Like A Cowboy",226437,"Like A Cowboy",1,"2020-04-10",1,0.486,0.443,4,-6.791,1,0.034,0.611,2.46e-06,0.0981,0.215,125.159,3
+577,"6WuVLG5DRHKKuJ6deCw28p","Zach Bryan","Condemned",174673,"DeAnn",11,"2019-08-24",12,0.616,0.15,5,-13.517,1,0.119,0.831,0,0.203,0.345,126.462,4
+578,"6frDW68Xjjg6WRVvo0zZFk","Koe Wetzel","February 28, 2016",233685,"Noise Complaint",9,"2017-03-01",13,0.507,0.564,7,-6.652,1,0.0291,0.0758,0,0.413,0.328,82.493,4
+579,"15EJEiqpaFgDISecfkyxH1","Kyle Park","Don't Forget Where You Come From",182946,"Don't Forget Where You Come From",4,"2018-06-01",10,0.63,0.666,2,-5.182,1,0.0289,0.756,0,0.196,0.542,103.007,4
+580,"565K7WHuUdsm3w1dg7EgHc","Upchurch","Said Fuck It",185666,"Said Fuck It",1,"2020-09-30",1,0.6,0.884,7,-4.771,1,0.0402,0.00481,0,0.385,0.482,90.035,4
+581,"0SKRbpkflYwhtS57yMksy4","Larry Cann","Ride Tough",206040,"Rodeo Road",12,"2015-11-13",12,0.606,0.714,4,-5.995,0,0.0368,0.00557,0.0667,0.404,0.458,120.009,4
+582,"0VW1dAC98JfVPLGd7oj2lM","Otis Taylor","Ten Million Slaves",247573,"Recapturing The Banjo",13,"2008-01-01",14,0.487,0.408,0,-9.266,1,0.0269,0.563,0.0128,0.3,0.552,132.347,4
+583,"36YL11gGDlMvhPvrIOYqQn","Justin Champagne","When I Pull Up",146666,"When I Pull Up",1,"2020-10-23",1,0.46,0.666,6,-7.57,1,0.0975,0.0294,0.0621,0.107,0.567,89.952,4
+584,"0CWFczodn19J8r9dftuMMH","Cody Johnson","Never Go Home Again",252146,"Cowboy Like Me",12,"2014-01-14",13,0.429,0.675,4,-5.296,0,0.0463,0.434,0,0.186,0.418,168.003,4
+585,"45nc69lqKe3kY9sit2UU6G","HARDY","UNAPOLOGETICALLY COUNTRY AS HELL",235360,"A ROCK",11,"2020-09-04",12,0.543,0.648,1,-4.961,1,0.0311,0.172,0,0.329,0.617,124.053,3
+586,"3ERb3f5nGNwRcNLNoN3KRg","Koe Wetzel","Drunk Driving",238211,"Sellout",12,"2020-11-20",14,0.326,0.621,0,-5.621,1,0.0347,0.0803,0,0.127,0.368,119.977,4
+587,"4VyZr1v1MNeZbl6eV8ZJGh","Austin Meade","Happier Alone (feat. Koe Wetzel)",224027,"Happier Alone (feat. Koe Wetzel)",1,"2021-02-12",1,0.316,0.809,5,-6.756,0,0.0686,0.00356,0,0.0717,0.389,199.784,4
+588,"7s9bJQK8sr8yDyOAHn8miR","Pecos & the Rooftops","This Damn Song",280000,"This Damn Song",1,"2019-04-20",1,0.646,0.472,0,-6.743,1,0.0323,0.193,0,0.269,0.166,120.187,4
+589,"2Dct3GykKZ58hpWRFfe2Qd","Zach Bryan","Heading South",171692,"Heading South",1,"2019-09-30",1,0.68,0.246,4,-14.112,1,0.058,0.783,0,0.106,0.388,110.23,4
+590,"1KhrAWvLIjRlQIJtSTgvsi","Josh Turner","Would You Go With Me",228186,"Your Man",1,"2006",11,0.605,0.864,6,-5.365,1,0.0292,0.13,0.000827,0.113,0.736,122.918,4
+591,"6Wxx1jXr6EyGdt8RuYFzvj","Zach Bryan","Letting Someone Go",239761,"DeAnn",6,"2019-08-24",12,0.543,0.117,0,-15.153,1,0.0389,0.811,0,0.147,0.395,83.607,4
+592,"0u9NVrPqUINrHIFCuPOnYm","Zach Bryan","November Air",243709,"Quiet, Heavy Dreams",3,"2020-11-27",6,0.429,0.197,3,-9.798,1,0.032,0.774,3.02e-06,0.146,0.197,128.49,4
+593,"1HMFdKHDiHY0qmqdVH710d","Zach Bryan","Let You Down",209089,"Quiet, Heavy Dreams",1,"2020-11-27",6,0.515,0.457,2,-4.786,1,0.0277,0.39,0,0.255,0.625,83.627,4
+594,"3Iv3Ac760HHTwMRoCvCaKl","Zach Bryan","Oklahoma City",279613,"Oklahoma City",1,"2020-08-21",1,0.609,0.38,5,-8.011,1,0.0636,0.615,3.6e-05,0.0726,0.48,129.691,4
+595,"1j0lC0auZK1xIPRwSEb4Rb","Zach Bryan","Doing Fine",184163,"DeAnn",5,"2019-08-24",12,0.653,0.175,5,-13.559,1,0.0366,0.829,0,0.197,0.393,84.418,4
+596,"4rJesaufMl2xD0f2G8Xgnd","Whiskey Myers","Stone",335622,"Mud",5,"2016-09-09",10,0.438,0.477,0,-7.649,1,0.031,0.243,7.8e-06,0.183,0.176,137.645,4
+597,"3TNSVsiFngfe68UJpMq1oS","Chris Stapleton","Starting Over",240413,"Starting Over",1,"2020-08-27",1,0.638,0.538,10,-8.445,1,0.0315,0.452,0.000415,0.0695,0.318,89.124,4
+598,"5Yhr9lHjyM5SXBPU3Ynthu","Wade Bowen","Saturday Night",208440,"The Given",1,"2012-05-28",10,0.624,0.86,4,-6.101,1,0.032,0.00556,0,0.223,0.631,114.049,4
+599,"6aLl1AjRbo4ddJZh7Hzazx","Ryan Bingham","Southside Of Heaven",379160,"Mescalito",1,"2007-01-01",14,0.387,0.499,7,-10.207,1,0.0259,0.0029,0.00373,0.0695,0.333,111.032,4
+600,"3MFV4DgrAOXz6KURPQxRj9","Keith Urban","Somewhere In My Car",195973,"Somewhere In My Car",1,"2014-07-08",1,0.588,0.861,10,-5.531,1,0.0395,0.00546,1.38e-05,0.0797,0.525,118.008,4
+601,"3Q9t1A12iUemHTAWnH7PjD","Tracy Byrd","Watermelon Crawl",181973,"No Ordinary Man",5,"1994-01-01",10,0.759,0.723,0,-9.315,1,0.028,0.173,0,0.179,0.962,136.746,4
+602,"2yySWxfeRN2QRZnFMnYMQl","Kelsea Ballerini","hole in the bottle",155668,"kelsea",8,"2020-03-20",13,0.478,0.873,4,-3.637,1,0.122,0.0486,0,0.374,0.739,104.365,4
+603,"2uX5f3x2cObov0iDAPln4o","Alabama","Song of the South",190800,"Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",12,"1980",51,0.486,0.633,9,-8.414,1,0.0365,0.176,0,0.312,0.669,162.158,4
+604,"7Dxes6VnfbZYV0S2QTnVuT","Riley Green","I Wish Grandpas Never Died",250413,"Different 'Round Here",6,"2019-09-20",14,0.445,0.492,6,-5.717,1,0.0294,0.036,0,0.122,0.24,148.013,4
+605,"4lDHpM8kYUjVScfD8nfQ7A","Alabama","If You're Gonna Play in Texas (You Gotta Have a Fiddle in the Band)",212666,"Alabama Live",8,"1980",13,0.449,0.645,9,-15.2,1,0.0385,0.263,2.9e-06,0.901,0.777,109.581,4
+606,"7Fhgor5m0lekhS0jw4jklT","Alabama","Roll On (Eighteen Wheeler)",264973,"Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",8,"1980",51,0.627,0.664,5,-9.035,1,0.0527,0.325,0,0.653,0.669,131.983,4
+607,"70PPOFwmuD4luTtLpnjesg","Hank Williams III","Country Heroes",208426,"Straight To Hell",4,"2006-02-28",15,0.745,0.415,4,-7.448,0,0.0267,0.628,2.52e-05,0.24,0.49,125.978,4
+608,"3pPirtTb893uRSatvGmy4v","Hank Williams III","Crazed Country Rebel",187880,"Straight To Hell",10,"2006-02-28",15,0.667,0.901,9,-4.244,1,0.0356,0.293,0.000159,0.328,0.965,144.006,4
+609,"6KX61UOnEdE3YHIPcYKgcI","Hank Williams III","Rebel Within",287760,"Rebel Within",2,"2010-05-25",11,0.557,0.906,1,-5.748,1,0.0328,0.00192,0,0.48,0.864,128.973,4
+610,"6a7wXoZOARI8IqEXObjhDz","Billy Currington","Pretty Good At Drinkin' Beer",179906,"Enjoy Yourself",3,"2010-01-01",10,0.769,0.678,5,-3.725,1,0.0315,0.427,8.04e-06,0.0939,0.581,106.951,4
+611,"2EvddT8rcO99bKH0rDHAYG","Billy Currington","We Are Tonight",232106,"We Are Tonight",5,"2013-01-01",10,0.559,0.812,11,-5.347,1,0.0371,0.0323,0,0.195,0.472,127.911,4
+612,"3ST1SVHTxxiGodhUeASN3h","The Highwaymen","(Ghost) Riders in the Sky - Live at Nassau Coliseum, Uniondale, NY - March 1990",198133,"Live - American Outlaws",9,"2016-05-20",46,0.553,0.797,2,-8.762,0,0.0392,0.536,0.0106,0.902,0.454,115.724,4
+613,"3z1PqYwMtct2Dm4R9lhWnT","Miranda Lambert","Gunpowder & Lead",191693,"Crazy Ex-Girlfriend",1,"2007-05-01",12,0.333,0.907,0,-3.191,1,0.0959,0.153,0,0.395,0.353,187.826,4
+614,"13rC4iKtfQocWIfzPOJxaT","Cody Johnson","'Til You Can't",224773,"'Til You Can’t / Longer Than She Did",1,"2021-06-11",2,0.505,0.814,1,-4.905,1,0.0439,0.0566,0,0.106,0.503,160.085,4
+615,"2SncBUzb3UsejCoo4NHhtk","Robert Counts","What Do I Know (feat. HARDY)",208418,"What Do I Know (feat. HARDY)",1,"2021-03-05",1,0.533,0.589,0,-6.14,1,0.0299,0.0405,0,0.111,0.351,140.049,4
+616,"06qrC9Rnx3J6uaZszuiBT8","Nu Breed","Welcome to My House",465998,"Welcome to My House",1,"2020-12-02",1,0.721,0.448,8,-10.065,0,0.0288,0.419,0,0.0855,0.263,128.093,4
+617,"1z6wl2rwKatfmza6usanWw","Travis Denning","After A Few",213493,"After A Few",1,"2019-01-18",1,0.617,0.849,10,-4.316,0,0.0355,0.0146,0,0.194,0.695,106.998,4
+618,"0kgRRHa5CMeCciIgYT67re","Cooper Alan","Colt 45 (Country Remix)",203804,"Colt 45 (Country Remix)",1,"2021-06-25",1,0.631,0.744,5,-3.299,0,0.203,0.293,0,0.142,0.845,184.021,4
+619,"3IvcWWehbBcBR4YZxlGM9R","Tim McGraw","I Like It, I Love It",205706,"All I Want",7,"1995-08-15",12,0.643,0.961,0,-5.298,1,0.0315,0.0196,0,0.948,0.96,124.027,4
+620,"29nNU80zu0vscbrvTi55mG","Alabama","I'm in a Hurry (And Don't Know Why)",168813,"Livin' Lovin' Rockin' Rollin': The 25th Anniversary Collection",7,"1980",51,0.748,0.72,9,-7.774,1,0.0286,0.237,0,0.069,0.86,128.69,4
+621,"2CBRlZtrYrhd8XXFFDSxAl","Alan Jackson","Little Bitty",158080,"34 Number Ones",24,"2010-11-19",37,0.563,0.796,4,-7.604,1,0.0409,0.15,0,0.355,0.741,162.88,4
+622,"7a2hcqpg08WNxtxULfPFui","Nu Breed","Stand Our Ground",258631,"Outlaw Nation, Vol. 1",1,"2021-03-05",18,0.762,0.762,0,-6.472,1,0.0719,0.291,0,0.288,0.362,78.023,4
+623,"4Q9iFBE53dM7bSA52ySDHb","Adam Calhoun","Die Tonight",175788,"AmerAcal",2,"2018-03-13",10,0.859,0.675,1,-6.683,1,0.142,0.038,0,0.105,0.183,99.941,4
+624,"3Yn1z4gHFWuhbNP7dopYCD","Aaron Watson","Boots",189045,"American Soul",2,"2021-01-08",10,0.547,0.581,0,-7.35,1,0.0336,0.013,0,0.127,0.629,165.828,4
+625,"33QqkzUWbk3G8pijsnK70L","Jaden Hamilton","Heaven's Jukebox",211075,"Heaven's Jukebox",1,"2021-04-30",1,0.558,0.782,6,-5.306,1,0.0383,0.0166,0.000175,0.349,0.594,116.049,5
+626,"063e0QRQ1rcVWDuxItD8F7","Randall King","Record High",185355,"Record High",1,"2021-07-02",1,0.531,0.894,2,-4.087,1,0.0661,0.0145,0.00612,0.0487,0.667,141.974,4
+627,"6xscb3IfPqwanr2IoG5c8d","Corey Kent","Ain't My Day",201480,"Ain't My Day",1,"2021-07-09",1,0.385,0.836,10,-3.766,1,0.0537,0.000292,0,0.456,0.475,201.744,4
+628,"2dXZhZ6OgUPAaiwJs8yR79","Kolby Cooper","Excuses",206646,"Excuses",1,"2021-06-25",1,0.502,0.773,7,-5.405,1,0.0425,0.0134,0,0.116,0.315,156.006,4
+629,"1GIcsaFqm5xn5mkl97v0lV","Mike Ryan","Can Down",188636,"Can Down",1,"2021-04-09",1,0.592,0.708,0,-5.197,1,0.0251,0.000221,0,0.174,0.219,103.061,4
+630,"4hOAwO7tCKnL5NCcvCWJWg","Slade Coulter","Coming Back Around",228112,"Coming Back Around",1,"2021-06-25",1,0.524,0.663,9,-6.793,1,0.0261,0.172,0,0.289,0.745,77.487,4
+631,"3E8HmzYitePc6aSbmdJTmP","Flatland Cavalry","Dancin’ Around A Fire",221612,"Welcome To Countryland",12,"2021-07-02",14,0.504,0.62,7,-6.854,1,0.0307,0.0256,0.00499,0.11,0.34,87.961,4
+632,"7zxsnW2mjKjpkgvfZqQNX4","Flatland Cavalry","Some Things Never Change",200672,"Welcome To Countryland",2,"2021-07-02",14,0.517,0.691,2,-6.266,1,0.0406,0.0732,1.4e-05,0.315,0.535,88.996,4
+633,"4t4Q1LVbFnKwwHhkF4FHMR","Parker McCollum","Drinkin'",195146,"Drinkin'",1,"2021-05-21",2,0.449,0.731,0,-3.536,1,0.0268,0.00442,2.13e-05,0.0916,0.415,142.499,4
+634,"3qkHDYDOu1LnDEFP7zII07","Aaron Lewis","Am I The Only One",269724,"Am I The Only One",2,"2021-07-02",2,0.617,0.627,1,-4.694,1,0.0269,0.789,1.72e-06,0.11,0.351,112.096,4
+635,"5fFiq7UuIorTMMVXruy6ym","Colton Venner","If It's a Good Thing",170013,"If It's a Good Thing",1,"2021-07-02",1,0.582,0.767,11,-4.482,1,0.0347,0.00609,0,0.332,0.56,133.049,4
+636,"2rK7rEmSllMs6iIJzle9oM","Mike and the Moonpies","Paycheck to Paycheck",156946,"Paycheck to Paycheck",1,"2021-06-28",1,0.413,0.932,9,-6.144,1,0.0939,0.00203,8.41e-06,0.268,0.72,196.142,4
+637,"5IStr2KNOZJ2mRCRPq18TF","Aaron Watson","Silverado Saturday Night",165097,"American Soul",1,"2021-01-08",10,0.538,0.853,4,-6.351,1,0.0504,0.0712,0,0.302,0.882,179.969,4
+638,"5BzDjeCZYxDd35rYSWY0yk","Colt Ford","Drivin’ Around Song (feat. Jason Aldean)",220125,"Declaration of Independence (Deluxe Edition)",2,"2012-08-07",15,0.613,0.709,7,-7.408,1,0.0387,0.0819,0,0.11,0.523,134.972,4
+639,"04Dc0mKBoPmK6DuutvxQjf","John Michael Montgomery","Life's a Dance - 2011 Remaster",189960,"Rhino Hi-Five: John Michael Montgomery",1,"2006-10-24",5,0.637,0.555,5,-8.775,1,0.0252,0.142,0,0.137,0.671,135.257,4
+640,"6TLcWhEFySe0lTNgUWVPc4","Adam Calhoun","Catch Hell",186987,"The Throne",2,"2018-11-02",11,0.772,0.594,8,-6.22,1,0.121,0.121,0,0.0598,0.498,152.952,4
+641,"5wiEZdvNNhPVIAN2Ddhvau","Adam Calhoun","Clean Money",169320,"War",6,"2019-07-18",9,0.563,0.502,2,-7.106,1,0.26,0.0557,0,0.0783,0.302,107.252,4
+642,"0AGm7wbw9e9OU3fwZ6sSu7","Adam Calhoun","The Patriot",160707,"The Patriot",1,"2020-08-07",1,0.448,0.498,1,-10.667,1,0.346,0.0013,0.00394,0.339,0.143,57.288,3
+643,"0nfLHUR6ATf2DS44NVshCu","Adam Calhoun","Country",206306,"The Throne",3,"2018-11-02",11,0.702,0.663,2,-7.014,1,0.089,0.0958,0,0.413,0.597,95.014,4
+644,"1QRR7wljdA2iKunyKllsmx","Adam Calhoun","Tombstone",189210,"War",7,"2019-07-18",9,0.554,0.733,7,-7.348,0,0.388,0.228,0,0.133,0.622,79.344,4
+645,"0hObLs55PnT8KwWwNDujmd","Adam Calhoun","Life Goes On",191240,"AmerAcal",3,"2018-03-13",10,0.698,0.587,11,-7.837,0,0.107,0.154,0,0.0962,0.215,145.985,4
+646,"5CuOZDqDBmMvdW7p10mQIC","Adam Calhoun","My Town",163215,"The Throne",8,"2018-11-02",11,0.857,0.65,0,-4.939,0,0.151,0.157,0,0.0653,0.185,114.992,4
+647,"47f6eZgviwSZciXGv2iWYg","Upchurch","Hey Boy, Hey Girl",200785,"Hey Boy, Hey Girl",1,"2019-12-03",1,0.661,0.516,8,-11.207,1,0.0425,0.0013,0,0.0998,0.333,140.077,4
+648,"1YIFoSQSFME6aagVgA92sO","Nu Breed","Kindness for Weakness",409626,"Trespass",1,"2019-05-09",14,0.669,0.655,9,-6.356,1,0.0695,0.023,0,0.195,0.177,150.067,4
+649,"5mLumHEUcQcE0w2TXGyJnf","Parker McCollum","Love You Like That",205173,"Hollywood Gold",6,"2020-10-16",6,0.534,0.774,7,-6.058,1,0.0284,0.0135,2.78e-06,0.103,0.435,149.961,4
+650,"4HCe2Bw3ApLwGQ28rb2yEi","Koe Wetzel","Good Die Young",165699,"Good Die Young",1,"2020-10-23",3,0.604,0.704,11,-5.627,1,0.0411,0.0382,0,0.0588,0.534,118.018,4
+651,"3hi6bsqTo1AObrpCl2lMJK","Jordan Robert Kirk","Pine Box",201359,"Pine Box",1,"2018-06-01",1,0.615,0.891,6,-6.664,1,0.0514,0.00561,0.0324,0.322,0.761,117.965,4
+652,"7CShabz6KGmSNiJ313OqXW","Jordan Robert Kirk","When It Comes My Time",134124,"When It Comes My Time",1,"2021-02-12",1,0.512,0.263,8,-10.029,0,0.0749,0.787,0,0.385,0.619,142.788,4
+653,"1CLDLzvJ24i32z14YIr2EB","Jordan Robert Kirk","Western Holler",196874,"Western Holler",1,"2021-04-22",1,0.362,0.442,9,-7.395,1,0.0648,0.848,0,0.277,0.632,203.465,4
+654,"6JGylHukRv9wsLB8mcVB0b","Jordan Robert Kirk","Dirty Hands",268111,"Dirty Hands",1,"2021-05-27",1,0.39,0.387,1,-8.237,0,0.0308,0.479,1.18e-05,0.123,0.251,142.865,3
+655,"0VgtynO37nhPlvNjfaqqCE","Jordan Robert Kirk","Hung the Moon",212113,"Hung the Moon",1,"2021-07-08",1,0.714,0.563,7,-8.118,1,0.0677,0.0831,0,0.311,0.748,118.11,4
+656,"53yKQ1ifS9RpLg2Nk9axCe","Mike and the Moonpies","The Gold Barstool",169280,"Touch of You: The Lost Songs of Gary Stewart",6,"2020-05-28",10,0.61,0.82,2,-6.413,1,0.0316,0.0246,1.24e-06,0.108,0.882,152.015,4
+657,"2nK71QdZGexHcv9tooumlS","Mike and the Moonpies","Mockingbird",215626,"Mockingbird",4,"2015-10-02",10,0.446,0.927,7,-6.804,1,0.0533,0.00992,0,0.118,0.891,176.073,4
+658,"1deRJz00Ey3FMbBbH1qEvS","Koe Wetzel","Kuntry & Wistern",241972,"Sellout",2,"2020-11-20",14,0.499,0.816,4,-5.033,1,0.0392,0.155,0,0.856,0.507,185.203,4
+659,"610z3fv4hqlH5eff9yBJTN","Kolby Cooper","It Ain't Me",268538,"Vol. 1- EP",4,"2018-02-15",5,0.395,0.737,6,-4.962,1,0.0304,0.00131,6.66e-05,0.364,0.239,150.056,3
+660,"7rJRYP73BI3LLFtteweC2F","Flatland Cavalry","A Life Where We Work Out (feat. Kaitlin Butts)",190266,"Humble Folks",9,"2016-04-01",11,0.596,0.501,3,-7.456,1,0.0263,0.14,0.000424,0.111,0.402,152.04,4
+661,"7Jv0DExnLwItv5yVTBWelP","Flatland Cavalry","Sleeping Alone",230826,"Homeland Insecurity",10,"2019-01-18",11,0.361,0.171,10,-13.096,1,0.0338,0.891,0,0.295,0.42,166.112,4
+662,"5Sx22WASoyuCUbK72Fs78y","Flatland Cavalry","Missing You",238133,"Come May",4,"2015-05-19",5,0.614,0.433,4,-10.564,1,0.0257,0.264,2.73e-05,0.216,0.344,131.884,4
+663,"6dV5ohVw7jYD7ZeMsSz15j","Flatland Cavalry","War With My Mind",244052,"War With My Mind",1,"2020-04-24",1,0.427,0.279,2,-10.91,1,0.0286,0.288,0.0217,0.124,0.171,136.149,3
+664,"6tEfDBcvFUpiLQPAToX3JP","Sam Riggs","Until My Heart Stops Beating",205053,"Love & Panic",1,"2019-06-07",7,0.631,0.792,6,-6.39,1,0.0513,0.0318,0,0.106,0.437,120.004,4
+665,"0K2R5ECfzYqSyBLHXywRo5","Josh Abbott Band","My Texas (feat. Pat Green)",191120,"Small Town Family Dream",8,"2012-04-24",13,0.516,0.765,2,-5.822,1,0.043,0.0923,2.1e-06,0.16,0.659,170.043,4
+666,"6w4O6XOlhY1acAxvWTMTg4","Ian Munsick","Me Against the Mountain",204254,"Me Against the Mountain",1,"2020-12-04",2,0.521,0.33,7,-7.611,1,0.0293,0.912,1.45e-06,0.186,0.902,189.932,4
+667,"6PXDfeOlL2y2FBQKpHKIcW","Randy Rogers","Hold My Beer",239045,"Hold My Beer",1,"2020-03-27",1,0.601,0.926,9,-5.204,1,0.0358,0.000879,0,0.038,0.95,128.053,4
+668,"7nERlpaH7QghaO7jC60Xtu","Ian Munsick","Long Haul",231265,"Coyote Cry",5,"2021-02-26",10,0.505,0.627,6,-7.851,1,0.0273,0.423,7.4e-05,0.0755,0.296,141.881,4
+669,"6ArYYQLIE72oFHGYcZ0fhW","Ian Munsick","Mountain Time",200463,"Coyote Cry",2,"2021-02-26",10,0.598,0.86,9,-3.533,1,0.0432,0.00055,0,0.284,0.664,104.031,4
+670,"22FmhVuD9a7pk77AegyJPZ","Ian Munsick","I See Country",244875,"Coyote Cry",3,"2021-02-26",10,0.674,0.748,10,-6.257,1,0.0281,0.0325,0,0.42,0.637,128.93,4
+671,"3mhov9HlVm2AL48B8XJskv","Chris Colston","Slow",184644,"Slow",1,"2020-11-13",1,0.514,0.873,5,-5.921,1,0.0324,0.000119,0,0.0864,0.535,136.067,4
+672,"1V8LJmUEAleAHmBUaD0ZFI","Chase Matthew","County Line",208208,"County Line",1,"2021-07-02",1,0.536,0.772,3,-6.027,0,0.0339,0.206,0,0.163,0.423,134.019,4
+673,"5Sf249ou2i5tZ5lREij5IG","Mark Wills","19 Somethin'",199434,"20 #1’s Contemporary Country",18,"2017-07-07",20,0.577,0.827,4,-4.702,1,0.0675,0.163,0,0.0744,0.815,90.117,4
+674,"0Iuw6WPws324i7G7sCejTX","Justin Moore","We Didn't Have Much",174837,"Straight Outta The Country",3,"2021-04-23",8,0.469,0.673,6,-8.015,1,0.0337,0.418,1.41e-05,0.119,0.578,175.954,4
+675,"5LMl4Cp6pIOp0HkQIuOJkb","Kody West","Buried Alive",210567,"Buried Alive",1,"2021-07-16",1,0.432,0.923,4,-3.664,1,0.061,0.00159,0,0.149,0.487,145.074,4
+676,"2akr5IEj1pJSAVeosnwH7q","Aaron Lewis","Lost And Lonely",297426,"Sinner",7,"2016-09-16",11,0.632,0.511,2,-5.263,1,0.0238,0.287,0,0.342,0.356,109.998,3
+677,"5opxZwZYGrLuWTOLW8HvMK","Tyler Childers","Purgatory",166053,"Purgatory",7,"2017-08-04",10,0.489,0.773,7,-6.356,1,0.0308,0.301,0.108,0.241,0.908,141.419,4
+678,"6y6lk4rc1xsuBYWJwB8QYv","Austin Burke","Wet Dream",190740,"Wet Dream",1,"2021-08-11",1,0.764,0.675,8,-5.585,1,0.0299,0.574,4.27e-05,0.114,0.799,120.05,4
+679,"4WCe8syCgpfxGb3KFCvBWk","The Steel Woods","Axe",196626,"Straw in the Wind",1,"2017-05-19",13,0.632,0.581,2,-6.661,0,0.026,0.108,0.00148,0.173,0.298,73.037,4
+680,"4TnUKixNWMfajncgdSwFoi","George Strait","Amarillo By Morning",173466,"Strait From The Heart",9,"1982-01-01",10,0.606,0.361,9,-16.031,1,0.0346,0.264,3.39e-05,0.38,0.621,121.059,4
+681,"3KOxj3ig0Xtc3qsh4Lg6Ou","Waylon Jennings","Luckenbach, Texas (Back to the Basics of Love)",200146,"The Essential Waylon Jennings",12,"2007-05-01",42,0.69,0.467,7,-9.866,1,0.0333,0.718,0.0035,0.263,0.664,102.913,4
+682,"6gcNSi6b9gvDBjYO059lrF","Craig Campbell","Outskirts of Heaven",244266,"See You Try",3,"2018-06-08",7,0.497,0.434,0,-5.73,1,0.0296,0.333,3.11e-06,0.108,0.266,115.749,3
+683,"05KtbFRNkTqJIMFe4YbdzD","Warren Zeiders","Drunk Driving",212125,"Acoustic Covers",1,"2021-08-06",9,0.587,0.215,7,-10.418,1,0.0316,0.705,0,0.0956,0.333,61.243,4
+684,"0MsnAhoTRrgVgj79VaDwQL","Warren Zeiders","Cover Me Up",298000,"Acoustic Covers",3,"2021-08-06",9,0.506,0.102,1,-17.175,1,0.0363,0.505,4.74e-06,0.151,0.106,123.749,3
+685,"02Mk97OL7EgpIDFRjgqFNc","Warren Zeiders","Nose on the Grindstone",186253,"Acoustic Covers",8,"2021-08-06",9,0.513,0.195,10,-12.483,1,0.0486,0.838,2.63e-06,0.0753,0.332,91.596,4
+686,"6oo0HD3mrcYtzApYeYsS4L","Alan Jackson","Freight Train",279066,"Freight Train",5,"2010-03-30",12,0.706,0.757,7,-7.543,0,0.0323,0.494,7.63e-05,0.116,0.69,120.967,4
+687,"5oq2TowNFmhzr94DhCU3wu","Parker McCollum","Dallas",210093,"Gold Chain Cowboy",2,"2021-07-30",10,0.486,0.659,7,-4.285,1,0.0288,0.0102,0,0.0773,0.315,139.946,4
+688,"4mwK3s8SpzlDH5eR7GacQc","Parker McCollum","Why Indiana",211666,"Gold Chain Cowboy",7,"2021-07-30",10,0.592,0.804,7,-4.977,1,0.0362,0.000873,0,0.132,0.531,116.112,4
+689,"7uVfPfLBEEGrR5e19jw7kP","Kolby Cooper","Her Favorite Songs",215056,"Boy From Anderson County - EP",6,"2021-08-06",6,0.578,0.905,0,-4.375,1,0.0499,0.00498,1.81e-06,0.369,0.407,115.043,4
+690,"4cF0gdtsYoxA7QTIdfwOcs","Kolby Cooper","Way To Go",235452,"Boy From Anderson County - EP",4,"2021-08-06",6,0.489,0.737,7,-6.079,1,0.0272,0.031,0,0.0758,0.422,135.024,4
+691,"50gaOVssCkxVCXdnnDO9oD","Cody Johnson","Let's Build a Fire",176666,"Let's Build a Fire / Driveway",1,"2021-08-06",2,0.417,0.968,8,-3.827,1,0.0452,0.00144,2.56e-05,0.0827,0.879,187.979,4
+692,"1wJikF0SGcDY7H8HnWBj3a","Kolby Cooper","Good For You",205516,"Boy From Anderson County - EP",2,"2021-08-06",6,0.468,0.835,8,-4.007,1,0.0354,0.0233,0,0.13,0.605,172.026,4
+693,"6j8jnyS01GaP19xaNERyNP","Flatland Cavalry","...Meantime",240682,"Welcome To Countryland",14,"2021-07-02",14,0.272,0.675,8,-7.092,1,0.103,0.319,6.82e-05,0.0837,0.308,178.57,4
+694,"2x4Qo86f7za4w04zrF3gz7","Jon Wolfe","A Cowgirl Like You",249892,"Dos Corazones Chapter Two",1,"2021-08-04",4,0.466,0.497,0,-7.852,1,0.0294,0.398,0.072,0.097,0.113,118.347,3
+695,"0ve68szQnWDaBxmXcW9JgY","Bo Armstrong","Get It Right",212453,"Get It Right",1,"2021-07-23",2,0.63,0.816,5,-5.36,1,0.0319,0.167,0,0.328,0.591,136.016,4
+696,"0THLnPrakqDdCaMiJQBXXy","Sean McConnell","What the Hell is Wrong with Me",216840,"What the Hell is Wrong with Me",1,"2021-07-16",1,0.512,0.928,11,-4.074,1,0.0517,0.276,0.000105,0.0679,0.516,90.425,4
+697,"4jSvM8GdyoRckSsUsId2Hz","Colton Venner","Sundance Square",218933,"Sundance Square",1,"2021-08-06",1,0.624,0.481,10,-6.525,1,0.0287,0.693,0,0.103,0.585,144.037,4
+698,"09XhG1jx1jq5yfcba1hgpN","Cody Johnson","Treasure",194133,"Treasure / Son of a Ramblin’ Man",1,"2021-09-03",2,0.57,0.761,6,-5.506,1,0.0271,0.182,0.000128,0.102,0.745,100.988,4
+699,"66nNy77mleXwdrurt1tETd","Cody Johnson","Son of a Ramblin' Man",192133,"Treasure / Son of a Ramblin’ Man",2,"2021-09-03",2,0.598,0.862,11,-4.225,1,0.0356,0.157,9.7e-06,0.144,0.688,92.989,4
+700,"7Hle5ryHW10GCpkE8pxlpx","Casey Donahew","What Cowboys Do",230280,"All Night Party",4,"2016-08-19",10,0.496,0.786,5,-3.971,1,0.0364,0.113,0,0.317,0.403,78.008,4
+701,"4NJjWHBLbon4OjbCfVMWkh","Cory Marks","Outlaws & Outsiders",197234,"Who I Am",2,"2020-08-07",13,0.5,0.866,9,-4.338,1,0.0443,0.0575,0,0.129,0.631,176.187,4
+702,"5vLonpxn4VN0A8GtQOBSG0","Kenny Chesney","When the Sun Goes Down",290560,"When The Sun Goes Down",3,"2004-01-22",11,0.798,0.741,9,-6.802,1,0.0284,0.0432,3e-06,0.252,0.708,104.945,4
+703,"3EUl8M6SzxZl03NPkB8mUd","Brooks & Dunn","Neon Moon",263760,"#1s ... and then some",13,"2009-09-08",30,0.698,0.632,9,-6.508,1,0.0247,0.554,0,0.118,0.458,102.408,4
+704,"1JTQG8J8jN8tjDTyUWnaRe","Warren Zeiders","Ride the Lightning - 717 Tapes",186458,"Ride the Lightning (717 Tapes)",1,"2021-06-25",1,0.576,0.474,1,-6.342,1,0.0331,0.75,8.74e-05,0.0944,0.4,77.834,4
+705,"08PjS6opdc0vLlaf0Z7YIl","Blues Saraceno","Dogs of War",176960,"Dark Country 3",4,"2014-05-06",10,0.474,0.439,5,-10.329,1,0.0282,0.79,0.463,0.133,0.327,94.2,4
+706,"1kmbMgdH81XirPnEuGQ2by","Blues Saraceno","The River",215699,"Dark Country 4",1,"2019-06-05",16,0.554,0.437,11,-8.187,0,0.0388,0.0526,0.00241,0.241,0.37,73.994,4
+707,"7IWV29mryrqtO0JVgnPtfv","Luke Combs","Cold As You",186106,"What You See Ain't Always What You Get (Deluxe Edition)",19,"2020-10-23",23,0.598,0.846,6,-4.956,1,0.0355,0.0527,0,0.113,0.328,144.04,4
+708,"1lJuY06cD1aBtPJ4Xh9LFK","Brantley Gilbert","Gone But Not Forgotten",173133,"Gone But Not Forgotten",1,"2021-09-17",1,0.457,0.807,1,-5.53,1,0.0328,0.014,7.33e-05,0.116,0.397,87.572,4
+709,"2EEfUuBRZA4Ax1vYcluFS0","Kenny Chesney","Knowing You",226266,"Here And Now",5,"2020-05-01",12,0.557,0.565,7,-6.12,1,0.026,0.229,3.9e-06,0.119,0.187,125.956,3
+710,"5KqldkCunQ2rWxruMEtGh0","Kenny Rogers","The Gambler",214880,"The Gambler",1,"1978-11-20",11,0.671,0.501,4,-13.119,1,0.0594,0.342,0,0.194,0.86,87.04,4
+711,"3ZozFqJJlDBNIm4xqxn2ZD","Walker Hayes","Fancy Like",161853,"Country Stuff",2,"2021-06-04",6,0.649,0.76,1,-6.487,1,0.0574,0.114,0,0.317,0.843,80.018,4
+712,"6h0FOQxhnq0iqVsf0I9WsZ","Casey Donahew","White Trash Story",220586,"Casey Donahew Band",11,"2006-01-01",11,0.669,0.716,4,-6.651,1,0.038,0.125,0,0.117,0.773,91.972,4
+713,"7m5sOfZ6VmMbKyrccgPEDN","Randy Rogers","Rhinestoned",224468,"Rhinestoned",1,"2020-04-17",1,0.582,0.6,4,-6.127,1,0.0238,0.112,2.32e-06,0.142,0.377,105.991,4
+714,"0b1Xx3vUapY6ZOqbPMcpDq","Aaron Watson","Outta Style",222213,"Vaquero",7,"2017-02-24",16,0.617,0.886,2,-4.352,1,0.0425,0.0883,1.35e-05,0.0856,0.873,124.979,4
+715,"7rDcULv8vV16vetBjPJhuE","Toby Keith","How Do You Like Me Now?!",209066,"How Do You Like Me Now?!",1,"1999-01-01",12,0.648,0.667,0,-8.986,1,0.0311,0.0534,6.94e-06,0.0908,0.669,109.609,4
+716,"0KefTgKt7yjGkKPyO7yryV","Ryan Bingham","Sunrise",285826,"Mescalito",13,"2007-01-01",14,0.391,0.681,4,-7.231,1,0.0328,0.244,0.000108,0.586,0.255,137.567,4
+717,"5VYW6PP3i2daNMPO4xtRps","Alex Key","The Fool That I Am",198869,"Barstools and Saddles",2,"2021-04-23",12,0.677,0.684,5,-5.711,0,0.0286,0.109,0.00019,0.353,0.777,115.05,4
+718,"6JdbV5DDltMVCyV0twmKwj","Randy Travis","Diggin' Up Bones",178973,"Storms of Life",4,"1986-06-02",10,0.708,0.577,0,-8.229,1,0.0261,0.377,0,0.0718,0.836,85.667,4
+719,"7fCPG5pYsv3lPNyGOjvtbE","Alan Jackson","Don't Rock the Jukebox",170866,"16 Biggest Hits",6,"1989",16,0.667,0.686,7,-8.595,1,0.027,0.0348,0.000124,0.348,0.74,147.531,4
+720,"4TCc369aRPRubv1m8R1TBG","Jason Aldean","Got What I Got",178146,"9",5,"2019-11-22",16,0.512,0.58,3,-6.658,0,0.029,0.621,1.72e-05,0.513,0.303,159.847,3
+721,"1pm6AoOYO81llP3gwkTAbI","Jason Aldean","Tonight Looks Good on You",231666,"Old Boots, New Dirt",7,"2014-10-07",15,0.481,0.75,6,-5.593,0,0.0537,0.219,1.2e-06,0.0958,0.523,169.958,4
+722,"0wovagMoJqtU8LUvDQnewu","Luke Combs","Blue Collar Boys",219920,"What You See Is What You Get",7,"2019-11-08",18,0.531,0.813,5,-5.517,1,0.0327,0.00807,0,0.359,0.79,154.134,4
+723,"7CNd7rjfVt74TFlcOcnZgN","Jamey Johnson","In Color",290680,"That Lonesome Song",8,"2008-01-01",14,0.544,0.404,3,-8.751,1,0.0354,0.391,3.98e-06,0.157,0.251,129.518,4
+724,"6l0j6PTbFsGqZWHv0CU53f","Jamey Johnson","Redneck Side of Me",245333,"The Dollar",6,"2006-01-31",11,0.479,0.718,2,-4.271,1,0.0368,0.0344,0,0.282,0.398,149.576,4
+725,"7uYNv6x9ImzJuamfEiGrK5","Chris LeDoux","Hooked On An 8 Second Ride",206333,"Chris LeDoux And The Saddle Boogie Band",2,"1988-01-01",12,0.439,0.557,2,-14.807,1,0.0411,0.00857,0.00451,0.769,0.428,131.416,4
+726,"2Ut5iHpzUHd0V37bpJqUlU","Chris LeDoux","Cadillac Ranch",173093,"Whatcha Gonna Do With A Cowboy",9,"1992-01-01",10,0.597,0.737,11,-9.332,0,0.0706,0.0253,0,0.106,0.8,158.586,4
+727,"6UBvhlms1M16oUYZkEfqpy","Chris LeDoux","Whatcha Gonna Do With A Cowboy",155000,"Whatcha Gonna Do With A Cowboy",5,"1992-01-01",10,0.735,0.709,2,-7.632,1,0.0988,0.349,0,0.0944,0.909,127.241,4
+728,"5TWhLgjy8cgb6CRPnnlnn2","Hank Williams, Jr.","Whiskey Bent And Hell Bound",188386,"Whiskey Bent And Hell Bound",1,"1979",10,0.726,0.711,7,-7.728,1,0.0414,0.213,1.41e-06,0.326,0.708,105.034,4
+729,"6i2WZO0Dqig8P2Qkmv9F9t","Cody Jinks","Whiskey Bent and Hell Bound",192871,"Less Wise (Modified 2017)",13,"2017-11-17",13,0.59,0.733,6,-5.084,1,0.0342,0.0244,9.82e-06,0.103,0.713,115.549,4
+730,"0ipcmHor30Y8p6hCd8QUVq","Eric Church","Kill A Word",199213,"Mr. Misunderstood",7,"2015-11-11",10,0.651,0.732,2,-8.037,1,0.0381,0.0164,1.58e-06,0.0925,0.638,85.023,4
+731,"29vxm6LKPquf3gWDnKdijO","Pecos & the Rooftops","Kill a Man",319591,"Red Eye E.P.",4,"2020-01-24",6,0.269,0.35,6,-13.251,1,0.0305,0.0267,3.19e-05,0.12,0.318,77.469,4
+732,"4GyD3o5hWoyCuYpdlzZlRL","Luke Combs","Doin' This",254181,"Doin' This",1,"2021-11-10",1,0.593,0.552,1,-5.838,1,0.028,0.18,1.71e-05,0.11,0.39,115.0,4
+733,"5f3MXmTmstozFg0BH1yPUk","Jason Aldean","If I Didn't Love You",212030,"If I Didn't Love You",1,"2021-07-23",1,0.456,0.679,1,-4.802,1,0.0324,0.176,0,0.103,0.483,184.075,4
+734,"0XxNamjHxu0ercIQmWNkRT","Morgan Wade","Wilder Days",251293,"Reckless",1,"2021-03-19",10,0.502,0.662,9,-4.041,1,0.0293,0.00322,0.00274,0.119,0.4,110.917,4
+735,"7sGULdccMGSggXDq7ZjT3w","Chase Matthew","Pull Up",152000,"County Line",2,"2021-07-30",6,0.733,0.813,0,-4.752,1,0.0608,0.506,0,0.303,0.487,90.002,4
+736,"4QhFrBkJ3Rqx66Xs8xwH8o","Riley Green","If It Wasn’t For Trucks",197333,"If It Wasn't For Trucks",4,"2020-09-11",5,0.435,0.811,2,-5.594,1,0.0357,0.00047,0,0.163,0.174,152.041,4
+737,"5AihIu9yF3flkw1jFMyfwW","Cody Johnson","Human",221520,"Human The Double Album",1,"2021-10-08",18,0.4,0.647,2,-7.279,1,0.0337,0.176,5.79e-05,0.11,0.274,84.08,4
+738,"633WOcoZ6guzsSOtqE2EAc","Parker McCollum","Blanco County Rain - Special Edition Track",218804,"Gold Chain Cowboy (Special Edition)",11,"2021-10-20",11,0.549,0.757,1,-4.126,1,0.0379,0.00184,6.38e-06,0.112,0.434,119.996,4
+739,"1DUaW1loQrhR7WIIRtxehF","Cody Jinks","All It Cost Me Was Everything",230344,"All It Cost Me Was Everything",1,"2021-08-30",1,0.579,0.632,9,-7.692,1,0.0263,0.00681,0.000188,0.144,0.613,131.307,4
+740,"5AWZrpxHQbfQHTmBhM6paM","Case Hardin","Alcohol Abuse",195546,"Alcohol Abuse",1,"2021-07-09",1,0.499,0.936,2,-4.623,1,0.0874,0.0521,0.00118,0.103,0.618,167.024,4
+741,"3fPGFGhEAYpvCnorm5N2cn","Case Hardin","Texas Rain",209973,"Over Fort Worth",2,"2016-01-29",7,0.549,0.786,4,-3.789,1,0.0406,0.116,0.000302,0.204,0.267,117.014,4
+742,"40oF62UXziCZaX3S3UtGuZ","Read Southall Band","Why",197997,"Borrowed Time",3,"2017-04-07",8,0.674,0.535,0,-8.025,1,0.0367,0.541,0,0.0838,0.127,124.951,4
+743,"1340qB1WFWVQT9gd6YrFxw","Case Hardin","Over Fort Worth",281093,"Over Fort Worth",4,"2016-01-29",7,0.669,0.661,2,-4.928,1,0.0269,0.271,0.017,0.477,0.493,120.069,4
+744,"3RG4K3PiYKKrZmHpMB3j0N","Case Hardin","Old Stomping Grounds",174333,"Over Fort Worth",5,"2016-01-29",7,0.67,0.956,4,-4.54,1,0.0392,0.177,0.00185,0.052,0.869,140.058,4
+745,"3pKPIuM2zxgl4oJRLwyg0G","Case Hardin","Deep Blue Me",185373,"Over Fort Worth",1,"2016-01-29",7,0.639,0.817,2,-4.746,1,0.0297,0.0927,0.0107,0.356,0.611,119.967,4
+746,"2v08cjj3Th8RpfJgluECcj","Kenny Chesney","Happy Does",168733,"Here And Now",8,"2020-05-01",12,0.715,0.665,6,-5.486,1,0.0383,0.3,0,0.123,0.597,109.018,4
+747,"04yO1WqGaIxTk3QJIVyncw","Jason Boland & The Stragglers","Pearl Snaps",204400,"Pearl Snaps",3,"2001",11,0.667,0.544,7,-10.168,1,0.0304,0.199,1.01e-06,0.234,0.843,127.746,4
+748,"5vhMwjTnrTYZQCPjepIhM9","Jon Wolfe","Let a Country Boy Love You",179120,"It All Happened in a Honky Tonk (Deluxe Edition)",2,"2013-01-15",15,0.714,0.728,7,-4.465,1,0.0347,0.22,0,0.25,0.821,119.028,4
+749,"77NnhCX3TgGNfGDgVfe80Z","Cody Jinks","All It Cost Me Was Everything",230344,"Mercy",1,"2021-11-12",12,0.579,0.631,9,-7.692,1,0.0264,0.00651,0.00015,0.137,0.605,131.306,4
+750,"1FJDhcC36CbA16lMIxgT1F","Colter Wall","Cowpoke",192626,"Western Swing & Waltzes and Other Punchy Songs",8,"2020-08-28",10,0.478,0.366,0,-12.045,1,0.0376,0.4,0.0066,0.0984,0.291,121.683,3
+751,"3DZ8dbKg4OTSSqGARvecYd","Lil Durk","Broadway Girls (feat. Morgan Wallen)",185600,"Broadway Girls (feat. Morgan Wallen)",1,"2021-12-17",1,0.659,0.745,10,-3.599,1,0.0347,0.0417,0,0.296,0.54,74.967,4
+752,"4fFIpQ8eswym0U7movpzQR","Josh Abbott Band","Settle Me Down",177083,"The Highway Kind",4,"2020-11-13",10,0.352,0.524,4,-6.738,1,0.0336,0.729,7.05e-06,0.107,0.478,73.104,3
+753,"4IZOdhEvXYWqh5XAXYzBk3","Cody Johnson","Wild as You",186066,"Gotta Be Me",9,"2016-08-05",14,0.461,0.65,11,-5.372,1,0.0293,0.187,0,0.111,0.488,149.873,4
+754,"7jWbXvrgdbkajU8L28ahn5","The Highwaymen","Highwayman",182653,"Highwayman",1,"1985-05-01",10,0.67,0.351,2,-16.842,1,0.0463,0.48,0.0176,0.115,0.45,101.384,4
+755,"6dGWq08LXuIw6T2oUeHECh","C.W. McCall","Convoy",230600,"C.W. McCall's Greatest Hits",1,"1990-01-01",12,0.68,0.543,5,-14.876,1,0.141,0.857,0.000116,0.0881,0.796,111.62,4
+756,"2jwaErbghhcia4JqUYWz3g","Keith Urban","Days Go By",224629,"Be Here",1,"2004-01-01",13,0.589,0.892,2,-3.197,1,0.0365,0.0633,0,0.149,0.76,131.951,4
+757,"0ouX7njJd9rdJ0xHS77pFs","Joey Greer","The Devil's Wife",198000,"Frontier",7,"2020-01-01",10,0.395,0.87,8,-4.059,1,0.0681,0.00369,0.000965,0.762,0.537,152.805,4
+758,"3QvOV1QYPPre7gjppKyeON","Joe Diffie","Pickup Man",216693,"Greatest Hits",5,"1998-06-09",12,0.709,0.757,7,-7.006,1,0.0408,0.434,0,0.336,0.852,140.664,4
+759,"3xtvbmRrXAb5m5ng0KPMSk","Trace Adkins","Swing",216706,"Dangerous Man",4,"2006-01-01",13,0.584,0.857,2,-5.103,1,0.033,0.00416,0.000896,0.276,0.742,108.027,4
+760,"69AIpwGNLxr4qS1X5ynx60","Jordan Davis","Buy Dirt",167480,"Buy Dirt",2,"2021-05-21",8,0.586,0.559,4,-6.725,1,0.05,0.639,0,0.0872,0.437,177.945,4
+761,"4vfN00PlILRXy5dcXHQE9M","Sean Stemaly","Z71",171294,"Z71",1,"2021-07-30",1,0.503,0.879,7,-4.82,1,0.03,0.00287,6.38e-06,0.0581,0.361,132.04,4
+762,"1tPAhtdVRtRexRdH9QXOSP","Mike Ryan","Damn Good Goodbye",212819,"Blink You'll Miss It",5,"2017-10-20",7,0.565,0.514,4,-6.379,1,0.0284,0.268,1.08e-05,0.104,0.289,141.974,4
+763,"6hiVYUsXeDk9i6icgbEHzm","Mike Ryan","Jacket On",156199,"Jacket On",1,"2021-10-08",1,0.559,0.912,1,-3.453,0,0.0504,0.00704,1.17e-06,0.326,0.433,98.009,4
+764,"0fCwTrRNfoNk962ati8n2K","Tyler Childers","All Your'n",218280,"Country Squire",8,"2019-08-02",9,0.585,0.55,11,-7.342,1,0.0255,0.408,3.97e-05,0.115,0.839,78.176,4
+765,"6QUs5z2uEbSGZJpPGMfgQA","Montgomery Gentry","Hell Yeah",289560,"My Town",7,"2002-08-19",13,0.372,0.872,0,-6.651,1,0.056,0.0185,0,0.368,0.65,173.525,4
+766,"3Fq4shhJdENQhwlLk9qoDx","Tyler Childers","Coal",201333,"Bottles and Bibles",4,"2011-10-11",13,0.565,0.308,3,-12.843,1,0.0299,0.907,7.76e-05,0.0975,0.339,91.996,4
+767,"3R6yNicsZrWF8ybl02imcB","Tyler Childers","Charleston Girl (Live)",179720,"Live on Red Barn Radio I & II",3,"2018-06-29",8,0.374,0.585,8,-9.436,1,0.054,0.748,0,0.821,0.654,176.859,4
+768,"1W3DDO8csBRUTdNITJgpag","Mike Ryan","The Rewrite",205186,"Blink You'll Miss It",7,"2017-10-20",7,0.416,0.825,7,-4.709,1,0.0403,0.0653,0,0.342,0.397,135.912,4
+769,"0hitv31awNadSFO7lltfQy","Bartel Union","Western Feel",195425,"Western Feel",1,"2021-08-19",1,0.692,0.758,5,-6.325,1,0.0431,0.73,2.35e-05,0.0919,0.595,89.971,4
+770,"7zPhvmRje35Tws2tYCch4U","Bartel Union","Drinkin' Song",220704,"Drinkin' Song",1,"2021-08-09",1,0.634,0.686,0,-9.0,1,0.168,0.526,1.32e-06,0.131,0.465,149.025,4
+771,"40Gwp1bzkies970gjg2Fr5","Bartel Union","Rocky Mountain Soul",162873,"Rocky Mountain Soul",1,"2021-08-19",1,0.533,0.588,0,-9.106,1,0.105,0.742,0.12,0.0746,0.248,97.214,4
+772,"055qy9CPBFPD4PhC23cULi","Randy Rogers Band","San Antone",209600,"Nothing Shines Like Neon",1,"2016-01-15",11,0.395,0.665,7,-6.254,1,0.028,0.0162,0.0118,0.116,0.287,162.871,4
+773,"5tN0LIuQDapSFedlYJuG0k","Colter Wall","Kate McCannon",274081,"Colter Wall",5,"2017-05-12",11,0.608,0.171,7,-16.822,1,0.0314,0.915,0.188,0.111,0.3,142.827,4
+774,"4hEA25qUMn3camHI87UhiI","Bailey Zimmerman","Never Comin' Home",194270,"Never Comin' Home",1,"2021-02-03",1,0.556,0.59,10,-6.846,1,0.029,0.25,0,0.109,0.573,143.972,4
+775,"03Urb1JlysmjtjNUNNOrsP","Kody West","Shine Out",233106,"Green",1,"2017-04-13",10,0.367,0.823,4,-3.77,0,0.035,0.0026,0,0.366,0.296,168.925,4
+776,"6FCQRQE8a8rK7vr3QooIny","Warren Zeiders","Never Look Back - 717 Tapes",171298,"717 Tapes",1,"2021-10-22",5,0.517,0.551,11,-6.493,1,0.034,0.712,2.76e-05,0.139,0.463,160.25,4
+777,"227ZRIfVY7zTeu60YQcVwh","Warren Zeiders","On the Run",225652,"On the Run",1,"2021-08-06",1,0.485,0.154,8,-16.972,1,0.046,0.561,2.49e-05,0.335,0.254,107.679,4
+778,"5AQBsu4oDjhKJui3jT1jbD","Bailey Zimmerman","Small Town Crazy",162352,"Small Town Crazy",1,"2021-04-30",1,0.502,0.877,7,-2.847,1,0.0746,0.0129,0,0.244,0.696,170.123,4
+779,"5lHIlugqLj6HyodeNpb8xk","Sean Stemaly","Product Of A Small Town",154764,"Product Of A Small Town",1,"2022-01-07",1,0.539,0.937,1,-4.015,0,0.0736,0.0392,0,0.145,0.539,109.042,4
+780,"07cM19sDKIdLg0ahW6B30V","Chandler Roberts","Burnin",168126,"Down in Dixie",5,"2018-05-09",8,0.376,0.856,4,-2.619,1,0.0508,0.0497,0,0.171,0.607,186.085,4
+781,"2CzsdGBxlKPDzKEKsYm3nA","Sean Stemaly","Last Night All Day",178634,"Last Night All Day",1,"2019-10-18",1,0.456,0.79,11,-4.792,0,0.0375,0.089,0,0.271,0.798,185.878,4
+782,"3XiobMINg37yTmBUzyeo0j","Chandler Roberts","Me & the Boys",269329,"Down in Dixie",4,"2018-05-09",8,0.477,0.924,11,-3.122,0,0.0781,0.235,0,0.0972,0.488,148.038,4
+783,"11XjmJB7S8IdLYV5UoOfNs","Cody Johnson","Down By The River",144474,"Black and White Label",1,"2011-05-03",13,0.659,0.538,7,-10.226,1,0.0409,0.359,0,0.0899,0.607,108.8,4
+784,"0eqCbIWPZgwDB9nDsRZfHh","Cody Johnson","Honky Tonk Hardwood Floors",199800,"Human The Double Album",2,"2021-10-08",18,0.567,0.933,8,-3.945,1,0.0837,0.0222,2.47e-06,0.0386,0.52,135.057,4
+785,"3hheOcd8O9orTRsdzFYY4e","Cody Johnson","Where Cowboys Are King",184173,"Ain't Nothin' to It",10,"2019-01-18",15,0.603,0.83,7,-4.013,1,0.0282,0.0272,3.95e-06,0.339,0.702,107.961,4
+786,"7iN0aONHwJW6jg0dRVUMVz","Aaron Watson","Run Wild Horses",331480,"Vaquero",8,"2017-02-24",16,0.509,0.757,8,-5.997,0,0.0275,0.0166,0.000858,0.133,0.729,92.023,4
+787,"6fb3AYRhhKx5bPEMUfhNuP","Aaron Watson","The Arrow",225053,"Vaquero",14,"2017-02-24",16,0.608,0.751,11,-7.297,1,0.0341,0.568,0,0.116,0.607,109.025,4
+788,"1RXg1z0FHnUKy8ZRHT5mM6","Aaron Watson","Rolling Stone",306306,"Vaquero",15,"2017-02-24",16,0.392,0.854,2,-5.129,1,0.0477,0.0463,0.000143,0.149,0.45,121.155,4
+789,"13RlgA14bJnFemxEYW2wZ1","Aaron Watson","Wildfire",201920,"The Underdog",2,"2015-02-17",14,0.801,0.693,2,-6.409,1,0.0338,0.0402,0,0.26,0.833,97.016,4
+790,"6T2OXLZAr22mO1CJQGsveV","Aaron Watson","Getaway Truck",219813,"The Underdog",5,"2015-02-17",14,0.753,0.738,9,-6.752,1,0.0392,0.0445,0,0.117,0.737,137.965,4
+791,"0ywqLd4abMYGOyz36Iw72Y","Aaron Watson","July In Cheyenne (Song For Lane's Momma)",262306,"Real Good Time",5,"2012-10-09",18,0.587,0.512,4,-7.523,1,0.0308,0.0439,1.84e-05,0.0452,0.334,141.852,4
+792,"2GyH5rvdnfkjzsTFaWrrov","Willie Nelson","On the Road Again",154360,"Willie Nelson The Collection",1,"2004-01-01",20,0.714,0.658,4,-11.342,1,0.0375,0.654,0.0914,0.778,0.85,110.97,4
+793,"2g5atBEX9Xjs6nQ1tq55SX","Bryan Martin","More Than The Shine",176274,"More Than The Shine",1,"2020-12-21",1,0.548,0.91,1,-4.252,1,0.119,0.0368,0.00732,0.0961,0.64,159.923,4
+794,"0swrjb8oDKXVpWnvkmFPT4","Colter Wall","Rocky Mountain Rangers",128346,"Western Swing & Waltzes and Other Punchy Songs",9,"2020-08-28",10,0.651,0.494,7,-12.537,1,0.0473,0.691,0.00138,0.117,0.97,122.142,4
+795,"1YWSAC0JPLKpf0PVCie4T7","Cody Jinks","Hippies and Cowboys",300680,"Less Wise",3,"2010-06-28",10,0.698,0.584,5,-5.067,1,0.0279,0.0511,0,0.295,0.618,115.08,4
+796,"6gLfcjghtYD3Fg20pdk9Sx","Chris LeDoux","Western Skies",211200,"Whatcha Gonna Do With A Cowboy",10,"1992-01-01",10,0.582,0.497,7,-11.639,1,0.0258,0.157,3.93e-05,0.406,0.601,94.094,4
+797,"2Qe16TZa86Mxia9cgSbZoz","Adam Calhoun","Racism",152036,"The Throne",4,"2018-11-02",11,0.749,0.707,2,-6.96,1,0.306,0.441,0,0.0555,0.273,84.925,4
+798,"6HSCKjyGjvpOdDdZ7vEtsl","James Barker Band","New Old Trucks (feat. Dierks Bentley)",191226,"New Old Trucks (feat. Dierks Bentley)",1,"2021-10-08",1,0.588,0.789,7,-3.737,1,0.0352,0.0947,0,0.073,0.544,147.926,4
+799,"7a0yxx0xqxSOvgiBH0n59p","Alex Key","Sleep Talking",220605,"Barstools and Saddles",5,"2021-04-23",12,0.661,0.661,6,-5.619,1,0.027,0.117,0.000576,0.106,0.784,114.025,4
+800,"28Sc21lrWcZD9Ov4rRkPJq","Chris Young","Gettin' You Home",212133,"The Man I Want To Be",4,"2009-09-01",10,0.639,0.678,7,-5.02,1,0.0278,0.44,1.45e-06,0.221,0.531,106.966,4
+801,"2QWEKEYag6vI7VfJehbd7v","Warren Zeiders","Burn It Down - 717 Tapes",169853,"Burn It Down (717 Tapes)",1,"2022-01-21",1,0.545,0.56,9,-7.353,0,0.0292,0.0367,0,0.104,0.365,79.058,4
+802,"25rV6ArwFMht49oONoqSLQ","Jason Aldean","The Truth",238413,"Wide Open",10,"2009-04-07",11,0.496,0.577,9,-5.305,1,0.0257,0.234,2.4e-06,0.109,0.381,143.014,4
+803,"2pUQX4d3Cjh3umGkVz0XyI","Parker McCollum","To Be Loved By You",199680,"Gold Chain Cowboy",3,"2021-07-30",10,0.475,0.805,10,-4.456,1,0.0377,0.000453,0,0.143,0.488,145.976,4
+804,"6ywiHcxaHBR39gRhud37XK","Parker McCollum","Young Man's Blues",206037,"Young Man's Blues",1,"2020-08-14",1,0.549,0.869,8,-4.817,1,0.0546,0.0139,0,0.334,0.502,114.0,4
+805,"6a2DSH1UNOj3wRAFTD2Ljd","Ian Munsick","Cowboy Killer",132506,"Cowboy Killer",1,"2022-02-25",1,0.784,0.723,11,-5.619,1,0.04,0.0163,0,0.16,0.739,115.047,4
+806,"3X0V4uEujns3TlpoDa2TvP","Zach Bryan","From Austin",207453,"From Austin",1,"2022-02-25",1,0.5,0.485,0,-7.94,1,0.0422,0.633,1.26e-06,0.107,0.379,109.755,4
+807,"0SW6NfA6MTCC6OWNt6SAkV","Hank Williams, Jr.","Dinosaur",199666,"Habits Old And New",2,"1980",10,0.614,0.381,4,-14.628,1,0.0441,0.244,4.12e-05,0.0917,0.504,145.056,4
+808,"4qkshp4FWe0msInDWTbBlR","Little Texas","God Blessed Texas",208733,"Rhino Hi-Five: Little Texas",1,"2007-06-26",5,0.648,0.766,9,-8.514,1,0.0326,0.232,1.54e-05,0.121,0.971,128.798,4
+809,"7ETfVO4Njvmf3oNPJy33zF","Randy Houser","Note To Self",195217,"Note to Self",1,"2022-03-11",1,0.616,0.622,1,-6.493,1,0.0333,0.112,0.000812,0.112,0.187,84.978,4
+810,"4WnY4W5KrqglCdIus8X9Bo","Brantley Gilbert","You Don't Know Her Like I Do",286520,"Halfway To Heaven (Deluxe Edition)",14,"2010",15,0.49,0.716,4,-6.681,1,0.0441,0.022,0.00048,0.0526,0.288,74.988,4
+811,"5g0XcG0apQTlO3X8r38vGf","Jake Owen","Down To The Honkytonk",186866,"Greetings From...Jake",1,"2019-03-29",14,0.634,0.808,3,-4.12,1,0.0517,0.192,0,0.0898,0.937,82.016,4
+812,"2AEebJOZYwJOt4IZ9BGZR6","Tyler Childers","Bottles and Bibles",330466,"Bottles and Bibles",10,"2011-10-11",13,0.376,0.185,3,-13.929,1,0.0315,0.921,2.54e-05,0.128,0.461,138.103,3
+813,"325Mnwy5oaT0y4pguvYv4u","Cody Johnson","I Always Wanted To",301093,"Human The Double Album",9,"2021-10-08",18,0.559,0.449,7,-7.929,1,0.0323,0.339,1.16e-05,0.161,0.353,126.029,4
+814,"0VwTeYNjcl30DyQlt3GPe0","Glen Campbell","Rhinestone Cowboy",194453,"Rhinestone Cowboy (Expanded Edition)",6,"1975",15,0.644,0.633,0,-8.006,1,0.0261,0.102,6.82e-05,0.227,0.647,115.193,4
+815,"4PJstaQfo7gsWmS9z90v8z","Tim McGraw","7500 OBO",221400,"7500 OBO (Live)",2,"2021-10-29",2,0.528,0.718,7,-6.954,1,0.0337,0.1,0,0.304,0.51,155.759,4
+816,"13ubW5ljgzRJMZphGBL3hH","Ginger Billy","Redneck Girls",181076,"Redneck Girls",1,"2022-01-03",1,0.65,0.595,0,-5.07,0,0.0446,0.569,0,0.12,0.266,150.071,4
+817,"32jHB7W9b08OTorAqR0cJo","Toby Keith","I Love This Bar",335333,"Shock 'N Y'all",1,"2003-11-04",12,0.608,0.825,2,-6.303,1,0.0419,0.024,0.00656,0.346,0.454,115.049,4
+818,"0QULNNd9z5s35entfiiXoa","Elle King","Drunk (And I Don't Wanna Go Home)",245625,"Drunk (And I Don't Wanna Go Home)",1,"2021-02-26",1,0.612,0.884,5,-4.4,1,0.0459,0.00516,0,0.0997,0.626,119.991,4
+819,"3KUi90R0ivgB0OSsOklFV4","You Betcha Guy","Drunk I Am",180637,"Drunk I Am",1,"2022-04-19",1,0.584,0.706,8,-3.804,1,0.0687,0.0758,0,0.718,0.672,131.015,4
+820,"7CX9JYwpiObnYl2NzFqj4c","Ronnie Milsap","Smoky Mountain Rain",223293,"The Best Of Ronnie Milsap",1,"2019-06-28",25,0.554,0.577,7,-8.62,1,0.0282,0.0165,2.91e-05,0.0719,0.479,140.277,4
+821,"2oE31EAbcn80uUH8k917sY","Cooper Alan","Came After You",168655,"Came After You",1,"2021-06-02",1,0.523,0.845,9,-6.467,1,0.0413,0.0709,0,0.0725,0.732,173.908,4
+822,"0jeTqNR72VhOfWzeZlexFT","Cooper Alan","Can't Dance",162044,"Can't Dance",1,"2021-11-19",1,0.599,0.871,5,-4.99,1,0.165,0.0848,0,0.276,0.84,181.81,4
+823,"6Xb3wtPsUcUUFoVikf3J1U","Cooper Alan","New Normal",166933,"New Normal",1,"2020-08-26",1,0.718,0.575,8,-7.859,0,0.0443,0.436,3.26e-06,0.136,0.581,75.022,4
+824,"1bf7WmUCdaAE2hjWkfQRwc","Cooper Alan","Tough Ones",193440,"Tough Ones",1,"2021-02-11",1,0.528,0.663,3,-5.543,1,0.036,0.648,7.28e-06,0.167,0.251,143.918,4
+825,"0WYbR2GSfl4ehvmLmcpAqi","Jason Aldean","Hicktown",306026,"Jason Aldean",1,"2005-07-26",11,0.697,0.877,6,-3.885,1,0.0348,0.00913,6.93e-06,0.0726,0.768,121.534,4
+826,"44xWtabQzBHKXxD0UVLSNQ","Carrie Underwood","Last Name",241053,"Carnival Ride",8,"2007-10-23",13,0.395,0.869,3,-3.154,1,0.109,0.194,0,0.0874,0.688,159.833,4
+827,"2xYQTU2bbg6WVAmpY1eae4","Willie Nelson","Always on My Mind",212666,"Always On My Mind",2,"1982-02-01",10,0.524,0.261,2,-13.868,1,0.0272,0.755,0.00105,0.144,0.201,73.36,4
+828,"5IQkgdk6xQJQ5CYEtcFvxi","Warren Zeiders","Wild Horse",195199,"717 Tapes, Vol. 2",1,"2022-04-22",6,0.58,0.518,8,-7.258,1,0.0285,0.449,0,0.118,0.258,140.1,4
+829,"02DHUU7YHWczjQpDHivpxD","Morgan Wallen","Thought You Should Know",215571,"Thought You Should Know",1,"2022-05-06",1,0.537,0.682,6,-6.169,1,0.0265,0.489,7.91e-06,0.138,0.519,139.942,4
+830,"1l0d6figJdZJ2pJofLRMrF","Brooks Jefferson","Two Pina Coladas",215295,"Strummin' On Garth",20,"2015-03-13",21,0.759,0.788,5,-5.11,1,0.0351,0.525,0,0.223,0.703,117.201,4
+831,"5uU1uuyaUIBOiiUSQG7Wl3","Morgan Wallen","You Proof",157477,"You Proof",1,"2022-05-13",1,0.731,0.85,9,-4.913,1,0.0336,0.252,0,0.605,0.644,119.706,4
+832,"6Tm4Io4ct4w14nB1EUzsY3","Nate Smith","Whiskey On You",183789,"Whiskey On You",1,"2022-05-06",1,0.479,0.768,8,-5.204,1,0.0312,7.02e-05,0.00549,0.121,0.576,110.024,4
+833,"2T0PqoWNzHqKKId8TZDibv","Julia Cole","Wine Country",143157,"Wine Country",1,"2021-09-10",2,0.553,0.799,8,-3.295,0,0.105,0.307,0,0.248,0.676,160.041,4
+834,"0PsBdKWnOQGMo9smobflvy","Mark Chesnutt","Bubba Shot The Jukebox",185840,"Longnecks & Short Stories",6,"1992-01-01",10,0.544,0.648,7,-8.454,1,0.0549,0.307,0,0.0843,0.866,165.484,4

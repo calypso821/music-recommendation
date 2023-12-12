@@ -1,0 +1,601 @@
+"n","id","artist_name","name","duration_ms","album_name","track_number","release_date","total_tracks","danceability","energy","key","loudness","mode","speechiness","acousticness","instrumentalness","liveness","valence","tempo","time_signature"
+0,"7yq4Qj7cqayVTp3FF9CWbm","Vance Joy","Riptide",204280,"Dream Your Life Away",4,"2014-09-08",13,0.484,0.731,1,-6.694,1,0.0379,0.431,0,0.151,0.51,101.654,4
+1,"1QdpGjYp035BXJB7qPAzl9","Jason Derulo","Trumpets",217306,"Tattoos (Deluxe Edition)",5,"2013-09-10",15,0.627,0.703,0,-4.884,1,0.236,0.563,0,0.0962,0.64,81.897,4
+2,"0CcQNd8CINkwQfe1RDtGV6","Imagine Dragons","Believer",204346,"Evolve",3,"2017-06-23",11,0.779,0.787,10,-4.305,0,0.108,0.0524,0,0.14,0.708,124.982,4
+3,"2Oehrcv4Kov0SuIgWyQY9e","Imagine Dragons","Demons",175200,"Night Visions (Deluxe)",4,"2012-09-04",20,0.327,0.71,3,-2.928,1,0.0547,0.202,9e-05,0.28,0.416,179.561,4
+4,"1fidCEsYlaVE3pHwKCvpFZ","Nico & Vinz","Am I Wrong",245866,"Black Star Elephant",2,"2014",21,0.729,0.675,8,-6.003,1,0.0312,0.175,1.58e-06,0.55,0.779,119.968,4
+5,"6zBdVVksaTQeAzwfszbovz","Mikolas Josef","Lie to Me",171080,"Lie to Me",1,"2018-04-06",2,0.835,0.698,6,-6.52,1,0.111,0.00512,1.88e-06,0.382,0.664,105.997,4
+6,"25zlnOAzbVoOzIeXSvQFf1","Pop Smoke","Got It On Me",164579,"Shoot For The Stars Aim For The Moon",17,"2020-07-03",19,0.688,0.647,2,-7.258,1,0.19,0.00815,1.65e-05,0.095,0.195,88.834,4
+7,"5nWVyZaCwtfAkBnwDuXjBh","Ty Dolla $ign","Spicy (feat. Post Malone)",144027,"Spicy (feat. Post Malone)",1,"2020-10-21",1,0.784,0.496,7,-5.746,1,0.0435,0.14,0,0.113,0.132,100.002,4
+8,"5AE9iVHWiJLY5CUKmvXkKd","Robin Schulz","OK",189306,"The Afterlove",14,"2017-03-24",14,0.653,0.81,7,-6.032,0,0.0558,0.118,0,0.126,0.583,121.951,4
+9,"7BVwi9cIzSc6tpyxsp47vJ","Vance Joy","Mess Is Mine",223640,"Dream Your Life Away",2,"2014-09-08",13,0.595,0.723,7,-8.256,1,0.0349,0.047,0.0286,0.0995,0.272,108.043,1
+10,"5pmL3RzOy3IvGFaSDi4hZL","Taio Cruz","Hangover",244906,"TY.O (International Version)",1,"2011-01-01",11,0.606,0.883,3,-3.243,1,0.0423,0.00872,0,0.0698,0.608,128.053,4
+11,"2f0pn9DkEJwAzXApnFh5cr","BANNERS","Someone To You",219801,"Where The Shadow Ends",3,"2019-10-04",12,0.52,0.903,2,-5.497,1,0.042,0.00517,0,0.254,0.652,74.988,4
+12,"6w8pFOKn42O418qwcQElZ3","Dean Lewis","Waves",240013,"A Place We Knew",5,"2019-03-22",12,0.518,0.729,11,-7.193,0,0.0452,0.183,0,0.0643,0.343,156.879,4
+13,"5Hroj5K7vLpIG4FNCRIjbP","American Authors","Best Day Of My Life",194240,"Oh, What A Life",3,"2014-01-01",11,0.673,0.902,2,-2.392,1,0.0346,0.0591,0.000262,0.0558,0.538,100.012,4
+14,"1mwt9hzaH7idmC5UCoOUkz","Rihanna","Diamonds",225200,"Diamonds",1,"2012-09-27",1,0.553,0.674,11,-6.057,0,0.045,0.00117,0,0.16,0.369,91.958,4
+15,"2RiBogNRfulkNf7fVbPOrJ","Vance Joy","Saturday Sun",214720,"Nation of Two",4,"2018-02-23",13,0.637,0.864,8,-4.381,1,0.0468,0.484,0,0.222,0.706,99.995,4
+16,"4lhqb6JvbHId48OUJGwymk","Avicii","Hey Brother",255093,"True",3,"2013-01-01",10,0.545,0.78,7,-4.867,0,0.0436,0.0309,4.64e-05,0.0828,0.458,125.014,4
+17,"6Tt1P5CLUrl59oSOTVxON0","Bastille","Joy",192681,"Doom Days",11,"2019-06-14",11,0.555,0.923,6,-4.748,0,0.161,0.197,0,0.0778,0.363,118.007,4
+18,"43CHdbHYdcbUWP10UFKyZ7","Dermot Kennedy","Giants",177173,"Without Fear",1,"2019-10-04",14,0.572,0.833,8,-5.291,0,0.0754,0.014,5.77e-05,0.129,0.588,158.104,4
+19,"2KrN3MCNztKcSleZgHEj83","Mumford & Sons","Little Lion Man",245173,"Sigh No More",7,"2009-01-01",12,0.517,0.492,5,-8.05,1,0.0272,0.0275,3.19e-05,0.0873,0.455,138.585,4
+20,"3dYD57lRAUcMHufyqn9GcI","Hozier","Take Me To Church",241688,"Hozier",1,"2014-07-20",13,0.566,0.664,4,-5.303,0,0.0464,0.634,0,0.116,0.437,128.945,4
+21,"6Knv6wdA0luoMUuuoYi2i1","Flo Rida","My House",192190,"My House",2,"2015-04-07",7,0.688,0.702,7,-4.792,0,0.0499,0.0215,0,0.128,0.74,94.006,4
+22,"4kbj5MwxO1bq9wjT5g9HaA","WALK THE MOON","Shut Up and Dance",199080,"TALKING IS HARD",3,"2014-12-02",12,0.578,0.866,1,-3.804,1,0.0619,0.00701,0,0.257,0.619,128.038,4
+23,"0fYVliAYKHuPmECRs1pbRf","X Ambassadors","Renegades",195200,"VHS",2,"2015-06-30",20,0.526,0.862,2,-6.003,1,0.0905,0.0144,0.0597,0.229,0.528,90.052,4
+24,"0KAiuUOrLTIkzkpfpn9jb9","Train","Drive By",195973,"California 37",2,"2012-04-17",11,0.765,0.837,1,-3.113,0,0.032,0.00107,1.06e-05,0.0801,0.721,122.028,4
+25,"1oew3nFNY3vMacJAsvry0S","Rixton","Me And My Broken Heart",193733,"Let The Road",5,"2014-01-01",10,0.545,0.783,5,-4.261,0,0.0345,0.00489,0,0.132,0.551,174.084,4
+26,"1K3LRUEcUz5FMtPYyg0F45","The Lumineers","Ho Hey",163133,"The Lumineers (Deluxe Edition)",5,"2012",16,0.682,0.471,0,-9.182,1,0.0301,0.765,0,0.0908,0.421,79.907,4
+27,"2GiJYvgVaD2HtM8GqD9EgQ","BØRNS","Electric Love",218106,"Dopamine",3,"2015-10-16",11,0.611,0.797,6,-7.627,0,0.0533,0.00543,0.00137,0.26,0.518,120.041,4
+28,"2ihCaVdNZmnHZWt0fvAM7B","Of Monsters and Men","Little Talks",266600,"My Head Is An Animal",6,"2012-01-01",12,0.457,0.757,1,-5.177,1,0.032,0.0206,0,0.146,0.417,102.961,4
+29,"4tViDtaHuSLnh7HVJTrKhs","Dermot Kennedy","Power Over Me",206960,"Without Fear",3,"2019-10-04",13,0.319,0.841,9,-4.232,0,0.147,0.0518,0,0.106,0.483,173.868,3
+30,"3nnG7AM9QopHVPEuLX3Khk","James Bay","Let It Go",260533,"Chaos And The Calm",3,"2015-03-20",12,0.536,0.311,1,-10.396,1,0.0288,0.82,1.65e-05,0.107,0.246,147.486,4
+31,"2qHiyBpxyOXnRGG3t2iE96","Phillip Phillips","Gone, Gone, Gone",209693,"The World From The Side Of The Moon",3,"2012-01-01",12,0.664,0.642,6,-5.961,1,0.038,0.129,0,0.114,0.501,118.002,4
+32,"66TRwr5uJwPt15mfFkzhbi","Soulja Boy","Crank That (Soulja Boy)",221933,"souljaboytellem.com",2,"2007-01-01",14,0.736,0.74,0,-2.18,1,0.0786,0.515,0,0.0468,0.803,140.141,4
+33,"5SY5BWTxbDqFouuAdelFV9","Victor Leksell","Svag",191103,"Svag",1,"2020-01-17",1,0.628,0.525,8,-8.941,1,0.0672,0.749,0,0.113,0.446,76.972,4
+34,"5LtNBCM2ve0SxP0dlRVvMu","Bebe Rexha","I'm Gonna Show You Crazy",207775,"I'm Gonna Show You Crazy",1,"2014-12-19",1,0.474,0.537,2,-6.77,1,0.0649,0.0758,0,0.316,0.335,90.103,4
+35,"0QjQC8sGqxUkaJFBsJjtGm","John Legend","Conversations in the Dark",235653,"Bigger Love",11,"2020-06-19",16,0.361,0.357,8,-8.423,0,0.0312,0.704,0,0.219,0.153,122.962,4
+36,"62AuGbAkt8Ox2IrFFb8GKV","Neil Diamond","Sweet Caroline",203573,"Sweet Caroline",13,"1969-06-06",13,0.529,0.127,11,-16.066,1,0.0274,0.611,0.000109,0.237,0.578,63.05,4
+37,"0SDZIfwGmTWP5emacUo6zG","Ruben","Dear God",179877,"Dear God",1,"2020-10-23",1,0.486,0.491,1,-7.598,0,0.0442,0.00605,0,0.0636,0.414,177.082,3
+38,"3TRFq09DUgYj1mug6RRqJW","Luke Christopher","Lot to Learn",248337,"TMRW",6,"2015-09-11",6,0.405,0.846,6,-3.57,1,0.195,0.0948,0,0.0666,0.602,82.232,4
+39,"54j7EaJPDmSZYcNYvLSJ78","Why Don't We","Trust Fund Baby",184460,"Trust Fund Baby",1,"2018-02-01",1,0.624,0.785,8,-3.337,1,0.0498,0.0629,0,0.135,0.593,163.929,4
+40,"0nJW01T7XtvILxQgC5J7Wh","Bruno Mars","When I Was Your Man",213826,"Unorthodox Jukebox",6,"2012-12-07",10,0.612,0.28,0,-8.648,1,0.0434,0.932,0,0.088,0.387,72.795,4
+41,"7C1trmcQQ5n5RNy4l6ziCv","Nea","Some Say - Felix Jaehn Remix",186878,"Some Say (Felix Jaehn Remix)",1,"2020-01-10",1,0.682,0.7,6,-5.591,1,0.0397,0.406,0,0.174,0.637,120.03,4
+42,"32OlwWuMpZ6b0aN2RZOeMS","Mark Ronson","Uptown Funk (feat. Bruno Mars)",269666,"Uptown Special",4,"2015-01-12",11,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,4
+43,"7FIWs0pqAYbP91WWM0vlTQ","Eminem","Godzilla (feat. Juice WRLD)",210800,"Music To Be Murdered By",7,"2020-01-17",20,0.808,0.745,10,-5.26,0,0.342,0.145,0,0.292,0.829,165.995,4
+44,"49FYlytm3dAAraYgpoJZux","Rihanna","Umbrella",275986,"Good Girl Gone Bad: Reloaded",1,"2008-06-02",15,0.583,0.829,1,-4.603,1,0.134,0.00864,0,0.0426,0.575,174.028,4
+45,"6sy3LkhNFjJWlaeSMNwQ62","OneRepublic","Counting Stars",257839,"Native",1,"2014-01-01",15,0.664,0.705,1,-4.972,0,0.0382,0.0654,0,0.115,0.477,122.017,4
+46,"7IOuCLt770D8v0u3SVaDeI","Little Mix","Wasabi",154786,"LM5 (Deluxe)",10,"2018-11-16",18,0.847,0.656,2,-4.976,1,0.115,0.00451,0.000854,0.143,0.234,114.001,4
+47,"3U4isOIWM3VvDubwSI3y7a","John Legend","All of Me",269560,"Love In The Future (Expanded Edition)",6,"2013-08-30",20,0.422,0.264,8,-7.064,1,0.0322,0.922,0,0.132,0.331,119.93,4
+48,"2K0r5GD5zYlEMx2M7ZMcqG","OneRepublic","Better Days",144530,"Better Days",1,"2020-03-25",1,0.626,0.726,5,-5.015,1,0.0376,0.235,0,0.304,0.257,89.132,4
+49,"5yVIlYEHZxQVLyInCdldoS","James Arthur","Impossible",209440,"James Arthur (Deluxe)",4,"2013-11-04",18,0.376,0.695,0,-4.782,0,0.0933,0.135,0,0.11,0.302,169.533,4
+50,"47EWMOElkkbMp5m9SBkx7d","Alexander 23","IDK You Yet",184638,"IDK You Yet",1,"2020-04-09",1,0.629,0.306,1,-11.735,1,0.0424,0.884,0.0776,0.124,0.191,76.994,1
+51,"7FjKU2mfpEpvKIbx8naZRk","AJ Mitchell","Used to Be",174793,"Used to Be",1,"2018-05-25",1,0.471,0.474,5,-6.355,1,0.0382,0.723,0,0.0964,0.262,120.656,4
+52,"60DwQiwwglVkTkTwDTTEId","JP Cooper","Sing It With Me",201198,"Sing It With Me",1,"2019-05-03",1,0.54,0.793,5,-4.379,1,0.0493,0.0744,0,0.354,0.399,112.219,4
+53,"0jllH0usRFD4LJkJnGK9Lf","Olivia O'Brien","Complicated",189000,"Complicated",1,"2015-08-09",1,0.657,0.355,7,-12.044,1,0.0714,0.694,0.000427,0.123,0.0808,74.99,4
+54,"4Of7rzpRpV1mWRbhp5rAqG","Lewis Capaldi","Bruises",220492,"Divinely Uninspired To A Hellish Extent",2,"2019-05-17",12,0.736,0.308,4,-7.83,1,0.0677,0.946,0,0.186,0.361,111.202,4
+55,"3rMsX63C0IZVnOT5LGYoTH","Rihanna","Russian Roulette",227533,"Rated R",6,"2009-11-20",13,0.48,0.486,6,-5.754,0,0.0447,0.046,0,0.107,0.265,80.051,4
+56,"7IWkJwX9C0J7tHurTD7ViL","Adele","When We Were Young",290906,"25",4,"2016-06-24",11,0.381,0.594,3,-5.97,1,0.0486,0.348,0,0.0925,0.273,143.86,4
+57,"5Q0Nhxo0l2bP3pNjpGJwV1","Miley Cyrus","Party In The U.S.A.",202066,"The Time Of Our Lives",2,"2009-01-01",7,0.652,0.698,10,-4.667,0,0.042,0.00112,0.000115,0.0886,0.47,96.021,4
+58,"3FNy4yzOhHhFBeA5p4ofoq","Snoop Dogg","Young, Wild & Free (feat. Bruno Mars)",207346,"Young, Wild & Free (feat. Bruno Mars)",1,"2011-10-21",1,0.553,0.652,0,-6.685,1,0.206,0.0897,0,0.111,0.551,94.505,4
+59,"0AH6WMe3OlAlUb5miXt2FQ","Rihanna","Only Girl (In The World)",235493,"Loud",5,"2010-11-16",12,0.789,0.716,11,-4.241,0,0.0432,0.129,1.07e-05,0.069,0.611,125.906,4
+60,"1iQDltZqI7BXnHrFy4Qo1k","SHAED","Trampoline (with ZAYN)",184280,"Trampoline (with ZAYN)",1,"2019-09-26",1,0.619,0.459,7,-5.782,0,0.0334,0.56,0,0.137,0.498,126.803,4
+61,"0o9bHFc8Lt5tZFvTjNZTNf","John De Sohn","Forever Young",167911,"Forever Young",1,"2018-07-27",1,0.651,0.617,8,-6.077,1,0.0309,0.179,0,0.113,0.591,121.977,4
+62,"5heMraZsTO2tPCsdeoKCXE","Jimmy Levy","Shadow",283112,"Shadow",1,"2018-12-07",1,0.509,0.158,11,-16.141,0,0.0356,0.606,0,0.101,0.327,67.604,4
+63,"2OKo7g3KfmCt3kyLvUAL0g","NF","The Search",248040,"The Search",1,"2019-05-30",1,0.789,0.786,2,-4.788,1,0.297,0.596,0,0.0997,0.39,119.957,4
+64,"0eOK06PrPsSJ9rswCHaC50","Madden","Love You Right",215265,"Love You Right",1,"2019-05-24",1,0.618,0.752,0,-5.854,1,0.0417,0.00806,0.00027,0.0704,0.305,126.017,4
+65,"1rqqCSm0Qe4I9rUvWncaom","Panic! At The Disco","High Hopes",190946,"Pray for the Wicked",4,"2018-06-22",11,0.579,0.904,5,-2.729,1,0.0618,0.193,0,0.064,0.681,82.014,4
+66,"5r67bGhYXZNqk2m2Wupfmu","Rihanna","Pour It Up",161200,"Unapologetic (Deluxe)",4,"2012-12-11",17,0.785,0.478,2,-8.735,1,0.0419,0.0254,0,0.0901,0.39,134.002,4
+67,"6moU77g9RQyMzHNuKEaQKq","Ali Gatie","It's You",212606,"It's You",1,"2019-06-14",1,0.732,0.463,11,-6.972,0,0.0287,0.374,0,0.194,0.397,95.971,4
+68,"4kcWxePS9FI0wRVd1fqo4O","Kristian Kristensen","Du ga mæ viljestyrke",226662,"Du ga mæ viljestyrke",1,"2019-02-01",1,0.566,0.588,2,-7.719,1,0.0361,0.071,0,0.136,0.133,117.948,3
+69,"6WU74yOM3Evu2hoyy2g5g5","Dean Lewis","Half A Man",179120,"A Place We Knew",12,"2019-03-22",12,0.507,0.204,0,-11.575,1,0.0504,0.855,0,0.143,0.343,77.765,4
+70,"74cVJfmK18rhWnscIpGXjt","Cardi B","Thru Your Phone",188523,"Invasion of Privacy",12,"2018-04-06",13,0.837,0.549,0,-5.722,1,0.167,0.17,0,0.057,0.209,121.954,4
+71,"5IaHrVsrferBYDm0bDyABy","Tyga","Taste (feat. Offset)",232959,"Taste (feat. Offset)",1,"2018-05-16",1,0.884,0.559,0,-7.442,1,0.12,0.0236,0,0.101,0.342,97.994,4
+72,"2fXpPy5gtGLj9Wx0qGDeKy","Sick Individuals","Writing On The Wall",209023,"Writing On The Wall",1,"2018-07-13",1,0.659,0.903,9,-3.138,0,0.0387,0.0489,0.00252,0.0742,0.384,127.948,4
+73,"0pqnGHJpmpxLKifKRmU6WP","Imagine Dragons","Believer",204346,"Evolve",4,"2017-06-23",12,0.776,0.78,10,-4.374,0,0.128,0.0622,0,0.081,0.666,124.949,4
+74,"4tZDUt8vHpvjfOXcHwOvtq","NF","The Search - Edit",197694,"The Search (Edit)",1,"2019-06-07",1,0.831,0.851,2,-3.397,1,0.207,0.552,0,0.106,0.496,119.958,4
+75,"6BsbXBQZ7cFTuej6MfM92O","ItaloBrothers","My Life Is A Party - R.I.O. Edit",209800,"My Life Is A Party",1,"2012-08-20",8,0.719,0.751,0,-4.726,1,0.0302,0.0531,0.00192,0.157,0.843,127.982,4
+76,"5st5644IlBmKiiRE73UsoZ","Lily Allen","Fuck You",219893,"It's Not Me, It's You",8,"2009-01-26",12,0.775,0.904,1,-4.08,0,0.0437,0.0271,0.000303,0.06,0.84,130.009,4
+77,"6MWtB6iiXyIwun0YzU6DFP","Post Malone","Wow.",149520,"Wow.",1,"2018-12-24",1,0.833,0.539,11,-7.399,0,0.178,0.163,2.1e-06,0.101,0.385,99.947,4
+78,"4Tjg4jsELqr8cSgwDZ4twe","Eminem","Mockingbird",250760,"Encore",16,"2004-11-12",23,0.637,0.678,0,-3.798,1,0.266,0.209,0,0.156,0.254,84.039,4
+79,"0STK94RxUulYqWzwFlyAb5","Demi Lovato","Sober",197893,"Sober",1,"2018-06-21",1,0.397,0.303,1,-10.413,1,0.11,0.798,4.16e-06,0.0824,0.17,170.22,3
+80,"0ZmkjefPVLvloVSgtmRu5M","Calvin Harris","Faith",219200,"Motion",1,"2014-10-31",15,0.623,0.957,5,-2.675,1,0.0427,0.235,3.25e-05,0.398,0.535,127.968,4
+81,"4J7CKHCF3mdL4diUsmW8lq","Calvin Harris","Under Control (feat. Hurts)",184280,"Motion",2,"2014-10-31",15,0.544,0.915,8,-3.405,1,0.0841,0.129,0.000914,0.115,0.51,126.094,4
+82,"07nH4ifBxUB4lZcsf44Brn","Calvin Harris","Blame (feat. John Newman)",212960,"Motion",3,"2014-10-31",15,0.414,0.857,0,-4.078,0,0.0808,0.0287,0.00574,0.343,0.348,128.024,4
+83,"6YUTL4dYpB9xZO5qExPf05","Calvin Harris","Summer",222533,"Motion",8,"2014-10-31",15,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,4
+84,"7qUJQSNX9QNf46CC6FgH66","Lil Wayne","Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",243490,"Suicide Squad: The Album",2,"2016-08-05",14,0.502,0.786,9,-4.378,0,0.317,0.255,0,0.65,0.739,169.021,4
+85,"2FY7b99s15jUprqC0M5NCT","Imagine Dragons","Natural",189466,"Origins (Deluxe)",1,"2018-11-09",15,0.704,0.611,2,-6.112,1,0.0409,0.217,0,0.0812,0.22,100.0,4
+86,"39q7xibBdRboeMKUbZEB6g","John Denver","Take Me Home, Country Roads",197813,"The John Denver Collection, Vol 1: Take Me Home Country Roads",1,"1997-06-17",11,0.255,0.43,9,-12.564,1,0.0322,0.546,1.87e-05,0.188,0.546,164.267,4
+87,"2VxeLyX666F8uXCJ0dZF8B","Lady Gaga","Shallow",215733,"A Star Is Born Soundtrack",12,"2018-10-05",34,0.572,0.385,7,-6.362,1,0.0308,0.371,0,0.231,0.323,95.799,4
+88,"74iZuPGwyL33VlTr6jTnab","Lady Gaga","Always Remember Us This Way",210200,"A Star Is Born Soundtrack",17,"2018-10-05",34,0.553,0.502,0,-5.972,1,0.0409,0.299,0,0.764,0.296,129.976,4
+89,"1dEy9Pl81QopSxNsPxXQxv","Rihanna","Stay",240706,"Unapologetic (Deluxe)",9,"2012-12-11",17,0.621,0.31,9,-10.164,0,0.0283,0.945,6.12e-05,0.117,0.125,111.893,4
+90,"56twMOlq9DJc3EgpVUVIrW","Demi Lovato","Stone Cold",191307,"Confident (Deluxe Edition)",5,"2015-10-16",15,0.419,0.453,8,-7.685,1,0.0437,0.539,0,0.0971,0.356,140.327,3
+91,"472vIK1ldetTxRxG3ovaiY","Dan + Shay","Glad You Exist",144533,"Glad You Exist",1,"2021-02-05",1,0.748,0.551,11,-6.12,1,0.0349,0.235,0,0.119,0.66,103.953,4
+92,"38TgLPNHsPzgqri5G4SPun","Nicki Minaj","Majesty (with Labrinth & feat. Eminem)",295653,"Queen",2,"2018-08-10",19,0.81,0.73,11,-5.209,0,0.223,0.314,0,0.105,0.568,157.004,4
+93,"0KpfYajJVVGgQ32Dby7e9i","Train","Hey, Soul Sister",216666,"Hey, Soul Sister",1,"2009-08-06",1,0.675,0.885,1,-4.432,0,0.0436,0.217,0,0.086,0.768,97.03,4
+94,"4hQ6UGyWQIGJmHSo0J88JW","Selena Gomez","Back To You - From 13 Reasons Why – Season 2 Soundtrack",207904,"Back To You (From 13 Reasons Why – Season 2 Soundtrack)",1,"2018-05-10",1,0.601,0.724,6,-4.856,1,0.0486,0.0945,1.68e-06,0.12,0.508,102.061,4
+95,"5vjLSffimiIP26QG5WcN2K","Chord Overstreet","Hold On",198853,"Hold On",1,"2017-02-03",1,0.618,0.443,2,-9.681,1,0.0526,0.469,0,0.0829,0.167,119.949,4
+96,"7qEHsqek33rTcFNT9PFqLf","Lewis Capaldi","Someone You Loved",182160,"Divinely Uninspired To A Hellish Extent",4,"2019-05-17",12,0.501,0.405,1,-5.679,1,0.0319,0.751,0,0.105,0.446,109.891,4
+97,"2kJwzbxV2ppxnQoYw4GLBZ","JP Saxe","If the World Was Ending (feat. Julia Michaels)",208687,"If the World Was Ending (feat. Julia Michaels)",1,"2019-10-17",1,0.464,0.473,1,-10.086,1,0.129,0.866,0,0.109,0.604,75.801,4
+98,"5qrSlOut2rNAWv3ubArkNy","Dean Lewis","Be Alright",196493,"A Place We Knew",6,"2019-03-22",12,0.551,0.537,11,-7.595,1,0.034,0.705,0,0.0802,0.493,126.421,4
+99,"38nKfxyRrjYfx0ODX1W5yB","AJ Mitchell","I Don't Want You Back",224144,"Hopeful",4,"2018-07-20",6,0.613,0.347,5,-6.486,1,0.034,0.591,0,0.0959,0.25,109.764,4
+100,"2TmLZLv57mW4OA3Il1ULsf","Calum Scott","Dancing On My Own",260004,"Dancing On My Own",1,"2016-03-11",1,0.682,0.175,1,-8.688,1,0.0313,0.847,3.21e-05,0.101,0.223,112.661,4
+101,"50Td3qilgs8BLtv8mHyT1t","Zoe Wees","Control",230880,"Control",1,"2020-03-13",1,0.599,0.465,4,-4.95,1,0.0314,0.643,1.57e-06,0.149,0.0678,113.82,4
+102,"1l5qnNSizIyHHmiXySsJ1R","Ruben","Burn Down This Room",211669,"Burn Down This Room",1,"2020-05-08",1,0.394,0.552,3,-6.357,1,0.0398,0.00895,0,0.322,0.224,139.374,4
+103,"60bUT3XY15CTg8ZRNrSbqO","Ruben","So High",219854,"So High",1,"2019-10-11",1,0.571,0.496,11,-7.36,1,0.0694,0.356,1.21e-06,0.0924,0.238,119.779,4
+104,"3tjFYV6RSFtuktYl3ZtYcq","24kGoldn","Mood (feat. iann dior)",140525,"Mood (feat. iann dior)",1,"2020-07-24",1,0.7,0.722,7,-3.558,0,0.0369,0.221,0,0.272,0.756,90.989,4
+105,"4Oun2ylbjFKMPTiaSbbCih","Cardi B","WAP (feat. Megan Thee Stallion)",187541,"WAP (feat. Megan Thee Stallion)",1,"2020-08-07",1,0.935,0.454,1,-7.509,1,0.375,0.0194,0,0.0824,0.357,133.073,4
+106,"6cx06DFPPHchuUAcTxznu9","Joel Corry","Head & Heart (feat. MNEK)",166028,"Head & Heart (feat. MNEK)",1,"2020-07-03",1,0.734,0.874,8,-3.158,1,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4
+107,"0v1x6rN6JHRapa03JElljE","BTS","Dynamite",199053,"Dynamite",1,"2020-08-21",2,0.746,0.765,6,-4.41,0,0.0993,0.0112,0,0.0936,0.737,114.044,4
+108,"34pRqzRiFcIuyRMuuEayzY","Sam Smith","How Do You Sleep?",202204,"Love Goes",2,"2020-10-30",17,0.561,0.685,1,-4.891,0,0.0835,0.154,0,0.077,0.363,165.944,4
+109,"1tkg4EHVoqnhR6iFEXb60y","Pop Smoke","What You Know Bout Love",160000,"Shoot For The Stars Aim For The Moon",15,"2020-07-03",19,0.709,0.548,10,-8.493,1,0.353,0.65,1.59e-06,0.133,0.543,83.995,4
+110,"0fIffclhgJC5h8AdMMVvkp","Pop Smoke","Welcome To The Party",214960,"Meet The Woo",2,"2019-07-26",9,0.637,0.723,2,-5.547,1,0.091,0.0134,7.87e-05,0.196,0.228,143.013,4
+111,"76nqCfJOcFFWBJN32PAksn","Ava Max","Kings & Queens",162398,"Kings & Queens",1,"2020-03-12",2,0.638,0.688,1,-4.056,0,0.0407,0.00775,0,0.126,0.434,129.856,4
+112,"7EQGXaVSyEDsCWKmUcfpLk","Kesha","Die Young",211920,"Warrior (Expanded Edition)",2,"2012-11-30",24,0.711,0.7,1,-4.805,0,0.046,0.00498,0.000125,0.215,0.801,128.001,4
+113,"6TfeXwJihJRuBW3mFpib6J","CLMD","DANCE",174448,"DANCE",1,"2019-10-18",1,0.766,0.548,7,-7.834,1,0.0373,0.0263,1.81e-06,0.21,0.552,122.012,4
+114,"5ow0sNF1zSqp71Ix5jEXWU","Jubël","Dancing in the Moonlight (feat. NEIMY)",164009,"Dancing in the Moonlight (feat. NEIMY)",1,"2018-06-22",1,0.659,0.617,11,-5.862,0,0.0649,0.27,0,0.187,0.187,119.858,4
+115,"0VjIjW4GlUZAMYd2vXMi3b","The Weeknd","Blinding Lights",200040,"After Hours",9,"2020-03-20",14,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,4
+116,"6g1NlCpW7fgqDnWbCCDrHl","Avicii","Wake Me Up - Radio Edit",247426,"True",1,"2013-01-01",12,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,4
+117,"5PKWUDfQFtc5qqo8cs1gQp","Adele","Set Fire to the Rain",242973,"21",5,"2011-01-19",11,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.66e-06,0.112,0.445,107.995,4
+118,"2jiPHbFX5XM8TjaTfYJ0eo","Milky Chance","Stolen Dance",313684,"Sadnecessary",11,"2013-05-31",14,0.885,0.581,11,-8.813,1,0.0378,0.427,0.000204,0.0759,0.728,114.016,4
+119,"6ikDZX0oc8EKGj2vdMAEDv","OneRepublic","Didn't I",207616,"Didn't I",1,"2020-03-13",1,0.606,0.613,4,-6.758,1,0.0306,0.0182,0,0.125,0.258,123.943,4
+120,"1hWYT0w2R0J19rlVkiez7X","Lupe Fiasco","Battle Scars (with Guy Sebastian)",250320,"Food & Liquor II: The Great American Rap Album, Pt. 1",11,"2012-09-25",16,0.517,0.811,5,-4.526,0,0.286,0.186,0,0.105,0.494,168.269,4
+121,"6Gg1gjgKi2AK4e0qzsR7sd","Juice WRLD","Bandit (with YoungBoy Never Broke Again)",189322,"Bandit (with YoungBoy Never Broke Again)",1,"2019-10-04",1,0.474,0.631,5,-5.884,0,0.343,0.0687,0,0.132,0.425,180.051,4
+122,"6Hj9jySrnFppAI0sEMCZpJ","Juice WRLD","Robbery",240050,"Death Race For Love",8,"2019-03-08",22,0.685,0.692,2,-5.122,1,0.0457,0.328,0,0.153,0.578,159.966,5
+123,"1vvNmPOiUuyCbgWmtc6yfm","Calvin Harris","My Way",219159,"My Way",1,"2016-09-16",1,0.818,0.913,4,-3.06,0,0.0426,0.093,3.69e-05,0.161,0.536,119.986,4
+124,"3cHyrEgdyYRjgJKSOiOtcS","Pitbull","Timber (feat. Ke$ha)",204160,"Global Warming: Meltdown (Deluxe Version)",13,"2012",17,0.581,0.963,11,-4.087,1,0.0981,0.0295,0,0.139,0.788,129.992,4
+125,"3dv9Bvpp9HikNsEvDCKHhC","The Strumbellas","Spirits",203653,"Hope",1,"2016-04-22",11,0.553,0.729,0,-3.696,1,0.0266,0.181,0,0.109,0.776,80.503,4
+126,"0Iu5gAorcdocbx2Nz5Vos5","Bankrol Hayden","Brothers",134380,"Brothers",1,"2019-07-12",1,0.883,0.478,8,-10.306,1,0.236,0.401,0,0.0694,0.768,121.035,4
+127,"7of35ktwTbL906Z1i3mT4K","Pitbull","Everybody Fucks (feat. Akon & David Rush)",257613,"Global Warming",14,"2012-11-16",18,0.749,0.916,8,-4.749,0,0.101,0.0601,0,0.54,0.93,128.056,4
+128,"1DhRbox3xkceP64k3JeYfW","Ed Sheeran","Antisocial (with Travis Scott)",161746,"No.6 Collaborations Project",7,"2019-07-12",15,0.716,0.823,5,-5.313,0,0.0495,0.132,0,0.361,0.91,151.957,4
+129,"0AtP8EkGPn6SwxKDaUuXec","Ed Sheeran","Remember The Name (feat. Eminem & 50 Cent)",207760,"No.6 Collaborations Project",8,"2019-07-12",15,0.852,0.666,11,-6.923,0,0.184,0.135,0,0.798,0.726,91.046,4
+130,"4wNIkl5XGiAACjFBlDWuSd","Jonas Brothers","What A Man Gotta Do",180644,"What A Man Gotta Do",1,"2020-01-17",1,0.852,0.698,9,-7.206,1,0.0629,0.00839,1.03e-06,0.0773,0.324,113.039,4
+131,"5NORWMFC27ywGSZxi8uquP","The Lumineers","Ophelia",160097,"Cleopatra",2,"2016-04-08",11,0.664,0.573,5,-6.519,1,0.0277,0.613,0.000363,0.0857,0.566,76.023,4
+132,"1gihuPhrLraKYrJMAEONyc","Calvin Harris","Feel So Close - Radio Edit",206413,"18 Months",3,"2012-10-29",15,0.707,0.924,7,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,4
+133,"0OwX5aROoW1Iip8FV51Efg","Anne-Marie","Alarm",205593,"Alarm",1,"2016-05-20",1,0.756,0.589,0,-5.093,1,0.232,0.0812,0,0.176,0.811,146.928,4
+134,"23T0OX7QOiIUFShSzbJ5Uo","Gabby Barrett","I Hope",210772,"Goldmine",1,"2020-06-19",13,0.466,0.536,6,-6.227,1,0.0429,0.0951,0,0.114,0.377,75.998,4
+135,"5LBikzSkad9yQ6RH87Gdrm","Aitch","Rain",183065,"Rain",1,"2020-03-05",1,0.871,0.87,9,-4.797,1,0.202,0.0262,1.98e-06,0.109,0.83,150.147,4
+136,"6oJflQkp7lFXOQce4wPTAW","Tungevaag","Samsara (feat. Emila)",211884,"Samsara (feat. Emila)",1,"2015-01-21",1,0.489,0.641,11,-7.011,0,0.032,0.00598,0.0201,0.122,0.587,108.901,4
+137,"6Sf2YqGzNmVfSNpLFWuYbz","AronChupa","Rave in the Grave",162732,"Rave in the Grave",1,"2018-05-04",1,0.762,0.724,11,-6.309,0,0.0624,0.138,7.71e-05,0.187,0.775,132.051,4
+138,"1ITsmuChPVC05ogvorAyVu","Lizzo","Boys",172630,"Cuz I Love You (Deluxe)",12,"2019-05-03",14,0.891,0.587,6,-4.281,0,0.115,0.00317,0.000154,0.0487,0.753,120.029,4
+139,"127uq83uGFapbddqiMUKky","David Guetta","Sexy Bitch (feat. Akon)",195853,"One More Love",3,"2010-11-22",28,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,4
+140,"1RSzyxqtIO4yX3EyiV4zT5","CJ","Whoopty",123480,"Whoopty",1,"2020-08-20",1,0.714,0.609,3,-7.683,0,0.17,0.194,0,0.126,0.778,140.206,4
+141,"6uGN0OoIUvHf0jDrHU52OF","Ballinciaga","Step Ahead 2019",171000,"Step Ahead 2019",1,"2019-03-24",1,0.871,0.536,11,-8.126,1,0.145,0.0819,0,0.0698,0.417,119.964,4
+142,"2g62s0u0VcmdCdlhx63xNH","Roc Boyz","Night Rockerz",187500,"Night Rockerz",1,"2020-09-11",1,0.91,0.621,2,-5.361,1,0.175,0.0209,4.94e-05,0.0292,0.525,127.975,4
+143,"62vpWI1CHwFy7tMIcSStl8","J. Cole","No Role Modelz",292986,"2014 Forest Hills Drive",9,"2014-12-09",13,0.692,0.521,10,-8.465,0,0.33,0.301,0,0.0565,0.463,100.45,4
+144,"7hX7eKN0PglaprxYdmD6rn","Allen Mock","Phantom",145233,"Phantom",1,"2020-06-26",1,0.616,0.793,1,-3.706,1,0.3,0.0544,0.151,0.0747,0.164,150.02,4
+145,"7gZQfdEQpmwAoPHSbEHzms","Matoma","False Alarm",224271,"False Alarm",1,"2016-06-24",1,0.643,0.732,5,-6.762,0,0.0294,0.00681,4.57e-05,0.0606,0.181,102.979,4
+146,"6I2YxUXKKMKaTy83Lm8peq","BEK & Wallin","Fakkboi (Mytikas 2017)",148247,"Fakkboi (Mytikas 2017)",1,"2017-05-09",1,0.792,0.795,0,-5.12,0,0.0994,0.204,0,0.157,0.895,101.961,4
+147,"7MXVkk9YMctZqd1Srtv4MB","The Weeknd","Starboy",230453,"Starboy",1,"2016-11-25",18,0.679,0.587,7,-7.015,1,0.276,0.141,6.35e-06,0.137,0.486,186.003,4
+148,"6GqqGv8frU7kqzXkm2rewI","Five Finger Death Punch","A Little Bit Off",190718,"F8",5,"2020-02-28",16,0.664,0.828,0,-6.053,1,0.0404,0.00839,0,0.294,0.82,103.985,4
+149,"1Vv0MPcooEoQzVZYfKMgKW","G.R.L.","Ugly Heart",199580,"Ugly Heart",1,"2014-06-03",1,0.649,0.79,9,-5.529,1,0.0482,0.0167,0,0.255,0.458,124.993,4
+150,"51Of5p3lKZeOg6itfs4og4","twocolors","Lovefool",190487,"Lovefool",1,"2020-05-08",1,0.677,0.766,6,-6.896,1,0.0568,0.0219,6.81e-06,0.129,0.198,123.062,4
+151,"78qd8dvwea0Gosb6Fe6j3k","Doja Cat","Boss Bitch",134239,"Boss Bitch",1,"2020-01-23",1,0.707,0.955,10,-4.593,0,0.222,0.127,0,0.202,0.575,125.989,4
+152,"009ImBOrIUlWgla8U05RAC","Katy Perry","Unconditionally",228878,"PRISM",5,"2013-01-01",13,0.432,0.725,7,-4.862,1,0.0431,0.00273,0,0.208,0.353,128.902,4
+153,"5rkok5WSDPoQb9xKx5R61n","Zara Larsson","Uncover",212760,"Uncover",1,"2013-05-13",1,0.536,0.456,2,-6.217,1,0.0267,0.501,0,0.213,0.32,90.032,4
+154,"4S8d14HvHb70ImctNgVzQQ","Kanye West","I Love It (& Lil Pump)",127946,"I Love It",1,"2018-09-07",1,0.901,0.522,2,-8.304,1,0.33,0.0114,0,0.259,0.329,104.053,4
+155,"1icRHA6kFSipRbZREQPaA0","Ringnes-Ronny","Valhalla",184753,"Valhalla",1,"2020-01-07",1,0.661,0.648,11,-7.759,1,0.0365,0.0889,0,0.832,0.66,95.001,4
+156,"0U5vqhHhk046yOoZboEXPL","Jeano","Hålla om dig",162533,"Hålla om dig",1,"2018-12-21",1,0.597,0.586,6,-7.099,1,0.287,0.28,0,0.0801,0.68,102.248,4
+157,"1vxw6aYJls2oq3gW0DujAo","Gnarls Barkley","Crazy",177466,"St. Elsewhere",2,"2006-04-24",14,0.855,0.587,8,-4.589,1,0.0336,0.0505,0.00714,0.105,0.64,111.97,4
+158,"1wAXODAAL6hY64ZdhrnjBO","Train","Drive By",196626,"Drive By",1,"2012-01-10",1,0.759,0.849,1,-3.198,0,0.0317,0.000983,1.51e-05,0.0864,0.73,122.033,4
+159,"0TNouIVlNVAU1N2xDPVvbY","Ed Sheeran","Castle on the Hill - Throttle Remix",220879,"Castle on the Hill (Throttle Remix)",1,"2017-06-30",1,0.585,0.86,2,-4.023,1,0.0539,0.0412,0,0.372,0.204,137.993,4
+160,"0Tv9DumSM7K9v4EME1XdsC","Rat City","Kind Of Love",202423,"Kind Of Love",1,"2019-02-15",1,0.679,0.825,0,-3.759,0,0.044,0.0665,0,0.128,0.466,119.946,4
+161,"5masKPHeAOVNgxdLebIcK7","Kygo","Stole the Show",223186,"Cloud Nine",2,"2016-05-13",15,0.64,0.635,8,-7.565,0,0.226,0.271,0,0.319,0.475,100.034,4
+162,"4gbVRS8gloEluzf0GzDOFc","Maroon 5","Maps",189960,"V",1,"2014-09-02",12,0.742,0.713,1,-5.522,0,0.0303,0.0205,0,0.059,0.879,120.032,4
+163,"1QV6tiMFM6fSOKOGLMHYYg","Lady Gaga","Poker Face",237200,"The Fame",4,"2008-01-01",15,0.851,0.806,4,-4.62,1,0.0787,0.118,1.64e-06,0.121,0.787,118.999,4
+164,"2bJvI42r8EF3wxjOuDav4r","Pitbull","Time of Our Lives",229360,"Globalization",4,"2014-11-21",11,0.721,0.802,1,-5.797,1,0.0583,0.0921,0,0.694,0.724,124.022,4
+165,"5MAK1nd8R6PWnle1Q1WJvh","Everybody Loves an Outlaw","I See Red",230613,"I See Red",1,"2018-10-31",1,0.509,0.448,4,-7.552,0,0.0357,0.00713,0.0137,0.244,0.221,156.909,3
+166,"6lV2MSQmRIkycDScNtrBXO","B.o.B","Airplanes (feat. Hayley Williams of Paramore)",180480,"B.o.B Presents: The Adventures of Bobby Ray",4,"2010-04-27",12,0.66,0.867,6,-4.285,0,0.116,0.11,0,0.0368,0.377,93.033,4
+167,"00dCCRwdRaVlaIw0ABUKBY","Ringnes-Ronny","Goldenwings 2018",175087,"Goldenwings 2018",1,"2018-04-13",1,0.87,0.654,6,-8.405,1,0.318,0.174,0,0.081,0.644,121.987,4
+168,"5Evht83kIur1NX0crj1b3N","Dax","Dear God",203076,"I'll Say It For You",4,"2020-03-13",7,0.586,0.647,1,-9.909,1,0.36,0.332,0,0.142,0.411,117.111,4
+169,"1AcL5QlN95gkHCVxRXrEUT","Night Inn","Take a Hint",154435,"Make It Pop, Vol. 7",6,"2020-01-26",40,0.65,0.874,5,-5.962,0,0.16,0.00834,0.000491,0.0979,0.664,133.989,4
+170,"2igwFfvr1OAGX9SKDCPBwO","JAY-Z","Empire State Of Mind",276920,"The Blueprint 3",5,"2009-09-08",15,0.491,0.956,11,-1.538,1,0.392,0.0295,0,0.46,0.811,173.585,4
+171,"492gFt09h1jDDJiTJ0Nn3s","The Cigarillos","Granada Remix",216324,"Granada Remix",1,"2016-04-10",1,0.664,0.819,9,-4.625,1,0.0287,0.0383,1.08e-05,0.212,0.272,111.999,4
+172,"5r8la35temNIjKNrl2Uzpn","Meso","Hør På Sangen Da",140338,"Hør På Sangen Da",1,"2019-07-17",1,0.738,0.81,1,-6.43,1,0.0753,0.0123,0,0.78,0.923,117.981,4
+173,"1v6svH1Fyx9C1nIt1mA2DT","Olivia Rodrigo","All I Want",177322,"High School Musical: The Musical: The Series (Original Soundtrack)",12,"2020-01-10",41,0.376,0.43,0,-6.585,0,0.0328,0.0902,0,0.0912,0.129,77.599,3
+174,"5Usb3NRNH54iRm7MzqWhxt","K A R L","Visa",152347,"Visa",1,"2019-08-30",1,0.863,0.567,0,-8.263,0,0.0827,0.0495,0,0.112,0.326,114.995,4
+175,"5LxvwujISqiB8vpRYv887S","The Jackson 5","I Want You Back",176333,"Diana Ross Presents The Jackson 5",3,"1969-12-18",12,0.469,0.538,8,-13.559,1,0.0571,0.305,0.00012,0.37,0.886,196.605,4
+176,"0nk2SL00q1jH8yNCmrIv0O","Cir.Cuz","Din idiot",203505,"Din idiot",1,"2017-03-09",1,0.513,0.757,1,-4.789,1,0.107,0.137,0,0.26,0.728,184.02,4
+177,"2Gl0FzuLxflY6nPifJp5Dr","Kygo","First Time",193511,"First Time",1,"2017-04-28",1,0.633,0.592,0,-7.245,0,0.112,0.197,0,0.099,0.679,90.066,4
+178,"0bGH7ezs7WdDwpqnsvGf1z","Sofi Tukker","Purple Hat",178369,"Purple Hat",1,"2019-09-06",1,0.777,0.744,9,-7.42,1,0.204,0.331,0.0073,0.088,0.654,94.019,4
+179,"0L6UCE1Y0KX3MF2AtxlntI","Kygo","Fragile",230961,"Fragile",1,"2016-03-18",1,0.47,0.422,5,-7.474,1,0.0522,0.177,0.000216,0.0879,0.218,149.505,4
+180,"0LH5xRQz5D36FpIkYUFv2e","Nico & Vinz","In Your Arms",205800,"Black Star Elephant",14,"2014",21,0.431,0.81,7,-6.051,1,0.0958,0.299,0,0.249,0.674,110.118,4
+181,"3icbmPGKTsKAa0IinkizCM","Nico & Vinz","That's How You Know (feat. Kid Ink & Bebe Rexha)",186443,"That's How You Know (feat. Kid Ink & Bebe Rexha)",1,"2015-07-17",1,0.769,0.437,1,-6.406,1,0.0363,0.44,0,0.116,0.737,103.921,4
+182,"2GgxS8bUT5G25QJTsfSv0R","Ellie Goulding","Burn",231211,"Halcyon Days",15,"2014-01-01",22,0.559,0.777,1,-5.031,1,0.0432,0.31,0,0.105,0.329,87.016,4
+183,"37aZmOi9YoSQIcui9oX8bR","Perfect Two","Perfect Two",233628,"Perfect Two",1,"2011-04-29",1,0.52,0.355,7,-7.228,1,0.0503,0.828,0,0.0898,0.743,78.062,4
+184,"6lruHh1jF7ezgbLv72xYmf","Arizona Zervas","FML",223000,"Living Facts",2,"2018-06-03",3,0.822,0.575,5,-5.95,1,0.0934,0.113,0,0.106,0.616,100.087,4
+185,"0GFOW30WB6SsPoeOlZdDPl","Herman Flesvig","Haugenstua",149043,"Haugenstua",1,"2020-01-12",1,0.884,0.658,6,-10.398,0,0.195,0.0488,0,0.0827,0.6,141.972,5
+186,"502X3BGNst24d1LUKkLh35","Eiffel 65","Blue (Da Ba Dee) - Extended Remix",286666,"Europop",14,"1999-11-30",14,0.824,0.978,7,-9.244,0,0.0616,0.236,0.000718,0.393,0.78,127.997,4
+187,"4JehYebiI9JE8sR8MisGVb","Beyoncé","Halo",261640,"I AM...SASHA FIERCE",2,"2008-11-17",11,0.508,0.72,11,-5.908,0,0.0628,0.272,0,0.0563,0.472,79.983,4
+188,"13P5rwmk2EsoFRIz9UCeh9","Echosmith","Cool Kids",237626,"Talking Dreams (Deluxe Edition)",3,"2013-10-04",14,0.719,0.671,8,-6.279,1,0.0336,0.0372,8.21e-06,0.12,0.786,130.027,4
+189,"1CvhKmrutTAta5awpJcFDn","Silentó","Watch Me (Whip / Nae Nae)",185131,"Watch Me (Whip / Nae Nae)",1,"2015-05-04",1,0.819,0.768,8,-8.522,1,0.134,0.234,0,0.334,0.964,139.982,4
+190,"2dLLR6qlu5UJ5gk0dKz0h3","Lorde","Royals",190185,"Pure Heroine",3,"2013-09-27",10,0.674,0.428,7,-9.504,1,0.122,0.121,0,0.132,0.337,84.878,4
+191,"7g35s50bVXtkp6zhihmvcu","Herman Flesvig","Det er fredag",144000,"Det er fredag",1,"2019-04-12",1,0.692,0.783,5,-6.095,1,0.0871,0.00102,2.31e-05,0.141,0.529,133.053,4
+192,"0tn15AIyBUAi9WLzzhKQsk","Lucy Spraggan","Last Night (Beer Fear)",133213,"Join the Club",10,"2013-10-07",17,0.456,0.786,1,-3.877,1,0.237,0.198,0,0.13,0.918,92.287,4
+193,"6FE2iI43OZnszFLuLtvvmg","MKTO","Classic",175426,"MKTO",2,"2012",11,0.72,0.791,1,-4.689,1,0.124,0.0384,0,0.157,0.756,102.071,4
+194,"2N3U8uTYhjX2KwGT0pf5x0","A$AP Rocky","Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",260986,"AT.LONG.LAST.A$AP",17,"2015-05-26",18,0.394,0.661,4,-8.684,1,0.192,0.00996,0,0.343,0.335,149.818,4
+195,"0IiWe6NRNBB7QbrCcgUCZX","Ringnes-Ronny","Jag Vil Ha Dig",192750,"Jag Vil Ha Dig",1,"2019-06-07",1,0.817,0.622,7,-8.078,1,0.0479,0.0724,1.08e-06,0.282,0.573,91.0,4
+196,"4B4zDmbHdkXZ1wUJv1yKFy","Jason Derulo","Wiggle (feat. Snoop Dogg)",193295,"Tattoos (Deluxe Edition)",12,"2013-09-10",15,0.697,0.621,9,-6.886,0,0.25,0.0802,0,0.162,0.721,81.946,4
+197,"2gTdDMpNxIRFSiu7HutMCg","Machine Gun Kelly","I Think I'm OKAY (with YUNGBLUD & Travis Barker)",169397,"Hotel Diablo",14,"2019-07-05",14,0.628,0.744,7,-4.718,1,0.0379,0.0257,0,0.313,0.277,119.921,4
+198,"4jp4Z02kzzg8gK0NmDGgml","K-391","Play",167976,"Play",1,"2019-08-30",1,0.52,0.798,6,-5.498,0,0.0391,0.101,0,0.0932,0.168,101.944,4
+199,"00NVYE5PrMpR1gVlC8zPZV","Morgan Sulele","Helt Ærlig",168510,"Helt Ærlig",1,"2019-05-31",1,0.64,0.864,10,-4.075,0,0.051,0.11,0,0.33,0.616,93.835,4
+200,"1dNIEtp7AY3oDAKCGg2XkH","The Chainsmokers","Something Just Like This",247626,"Something Just Like This",1,"2017-02-22",1,0.607,0.649,11,-6.695,0,0.0362,0.0306,2.46e-05,0.174,0.505,102.996,4
+201,"6X5OFBbrsHRsyO1zP7udgr","Big Shaq","Man's Not Hot",186026,"Man's Not Hot",1,"2017-09-22",1,0.905,0.884,0,-4.076,1,0.236,0.111,8.31e-05,0.107,0.588,135.048,4
+202,"3GpbwCm3YxiWDvy29Uo3vP","Flo Rida","Right Round",204640,"R.O.O.T.S. (Route of Overcoming the Struggle)",5,"2009-03-30",13,0.72,0.672,7,-6.852,1,0.0551,0.009,0,0.232,0.705,124.986,4
+203,"6RwUhWOoRECbpM9FBh13Z2","Alfons","Ganjaman",178106,"Ganjaman",1,"2015-02-11",1,0.923,0.814,8,-4.013,1,0.158,0.00172,0.000365,0.686,0.598,127.996,4
+204,"0uUNN1nSoUx1A4fkDCWDQ7","Ava Max","So Am I",183026,"So Am I",1,"2019-03-07",2,0.682,0.656,6,-4.67,1,0.0435,0.0737,0,0.353,0.607,130.089,4
+205,"3bWAqKDWg6u1davspr5IkS","Robin Schulz","OK",189306,"OK",1,"2017-05-19",1,0.653,0.81,7,-6.032,0,0.0558,0.118,0,0.126,0.583,121.951,4
+206,"0GhdVB8RzGutxI15GTtqs9","Julie Bergan","I'll Be Fine Somehow (feat. Julie Bergan) - Recorded at Spotify Studios Stockholm",226449,"Spotify Singles",2,"2019-03-15",2,0.377,0.262,6,-10.461,1,0.0382,0.246,0,0.146,0.307,79.125,1
+207,"7KSvVqdp4mvOmIlkh5jzjS","Jesper Jenset","High",178960,"High",1,"2016-05-06",1,0.486,0.8,0,-3.946,0,0.156,0.263,0.00281,0.136,0.441,100.008,4
+208,"04rjxIPsEtpM8Yj9UPy6Tt","J-Dawg","Disco Demolition 2018 (Stabekk Anthem)",198448,"Disco Demolition 2018 (Stabekk Anthem)",1,"2017-10-30",1,0.841,0.657,11,-6.656,0,0.22,0.351,0,0.148,0.562,118.102,4
+209,"5xvUgoVED1F4mBu8FL0HaW","Bridgit Mendler","Ready or Not",200946,"Hello My Name Is...",1,"2012-01-01",12,0.715,0.872,2,-3.835,1,0.0509,0.00351,3.84e-05,0.107,0.748,93.043,4
+210,"4QNpBfC0zvjKqPJcyqBy9W","Pitbull","Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",252306,"Planet Pit (Deluxe Version)",2,"2011-06-17",16,0.671,0.939,8,-3.206,1,0.161,0.191,0,0.298,0.53,129.024,4
+211,"7ks6AZmFcm3Y6PGGxGSmlB","David Guetta","Where Them Girls At (feat. Nicki Minaj & Flo Rida)",194840,"Nothing but the Beat (Ultimate Edition)",10,"2012-12-07",29,0.666,0.876,3,-3.078,1,0.0414,0.055,0,0.259,0.552,129.884,4
+212,"2iJuuzV8P9Yz0VSurttIV5","will.i.am","Scream & Shout",283400,"#willpower",4,"2013-01-01",15,0.772,0.685,5,-6.849,1,0.0696,0.019,8.96e-05,0.131,0.501,130.033,4
+213,"6k4eveAE2YX2xjz95BWcHl","MARS","jeg bruker ikke kondom",183253,"MARS",1,"2018-01-12",4,0.567,0.697,1,-8.952,0,0.436,0.358,0,0.0456,0.384,120.374,4
+214,"4lCv7b86sLynZbXhfScfm2","Katy Perry","Firework",227880,"Teenage Dream: The Complete Confection",4,"2012-03-12",19,0.638,0.826,8,-4.968,1,0.0479,0.139,0,0.0803,0.649,124.072,4
+215,"3ZFTkvIE7kyPt6Nu3PEa7V","Shakira","Hips Don't Lie (feat. Wyclef Jean)",218093,"Oral Fixation, Vol. 2 (Expanded Edition)",3,"2005-11-28",13,0.778,0.824,10,-5.892,0,0.0707,0.284,0,0.405,0.758,100.024,4
+216,"1TfqLAPs4K3s2rJMoCokcS","Eurythmics","Sweet Dreams (Are Made of This) - Remastered",216933,"Sweet Dreams (Are Made Of This)",6,"1983-01-04",16,0.692,0.711,0,-7.498,0,0.0317,0.225,0,0.12,0.875,125.135,4
+217,"0qOnSQQF0yzuPWsXrQ9paz","Gym Class Heroes","Stereo Hearts (feat. Adam Levine)",210960,"The Papercut Chronicles II",4,"2011-11-11",11,0.646,0.795,9,-3.293,1,0.0976,0.0319,0,0.267,0.796,89.99,4
+218,"6yf3MxEOScNBTYCHOAIiNQ","Jax Jones","Instruction (feat. Demi Lovato & Stefflon Don)",165466,"Instruction (feat. Demi Lovato & Stefflon Don)",1,"2017-06-16",1,0.767,0.929,9,-3.08,0,0.185,0.102,0,0.0921,0.923,121.087,4
+219,"6iC7vapdKp0XlKhxOkp8QJ","Tiësto","BOOM",179512,"BOOM",1,"2018-01-26",1,0.886,0.84,2,-3.386,1,0.0502,0.0164,0.00622,0.329,0.203,123.035,4
+220,"48RrDBpOSSl1aLVCalGl5C","Eminem","The Monster",250188,"The Marshall Mathers LP2",12,"2013-11-05",16,0.781,0.853,1,-3.68,0,0.0715,0.0525,0,0.12,0.624,110.049,4
+221,"0uL88Lp7C6i2WGHub1zrJ9","The Prince Karma","Later Bitches",247976,"Later Bitches",1,"2018-05-25",1,0.769,0.518,8,-6.563,1,0.102,0.000573,0.108,0.342,0.504,121.116,4
+222,"1WjLQsbfei4kk9OaVxtfIB","Isah","HALLO",156509,"HALLO",1,"2019-03-29",1,0.891,0.511,0,-6.33,0,0.0586,0.132,0,0.076,0.747,106.077,4
+223,"0rmGAIH9LNJewFw7nKzZnc","Bon Jovi","You Give Love A Bad Name",222706,"Slippery When Wet",2,"1986-08-16",10,0.541,0.96,0,-2.947,0,0.0505,0.0663,2.25e-06,0.344,0.812,122.803,4
+224,"4FSQWxUTwzihjpghT0WQMj","Dårlig Vane","Gikk I Bakken",235889,"Gikk I Bakken",1,"2016-03-15",1,0.79,0.711,1,-5.853,0,0.244,0.0414,0,0.0875,0.671,119.971,4
+225,"5XqdIg1aIvW0WQ6Jkgy3IX","Will Sparks","Ah Yeah So What - Radio Edit",195026,"Ah Yeah So What",1,"2015-03-27",3,0.678,0.947,0,-3.891,1,0.152,0.0596,0.782,0.207,0.709,127.97,4
+226,"5MGNXZUqLX8HCsAplTjzxw","Rae Sremmurd","Come Get Her",212946,"SremmLife",6,"2015-01-06",11,0.692,0.567,2,-6.205,1,0.161,0.189,0,0.0725,0.106,185.08,4
+227,"7wMq5n8mYSKlQIGECKUgTX","The Script","Hall of Fame (feat. will.i.am)",202533,"#3 Deluxe Version",3,"2012-09-10",17,0.421,0.873,10,-4.343,1,0.0564,0.0654,0,0.123,0.629,84.786,4
+228,"0yIywEquxORnu1dR0WYsdN","Justin Bieber","Love Me",191573,"My World",7,"2009-01-01",7,0.729,0.868,3,-3.319,1,0.0609,0.00939,0,0.283,0.632,124.957,4
+229,"1Je1IMUlBXcx1Fz0WE7oPT","Spice Girls","Wannabe",173026,"Spice",1,"1996-01-01",10,0.768,0.864,11,-6.145,1,0.0324,0.101,0,0.162,0.891,110.008,4
+230,"4l6boTiX3Erh3HYpKOa0D6","Ruben","Lay By Me",170830,"Lay By Me",1,"2018-12-28",1,0.461,0.195,10,-7.301,1,0.0352,0.873,0,0.11,0.381,110.193,4
+231,"5RL63ttvv7JNhmDuiyjFLw","Ruben","Walls",196166,"Walls",1,"2017-10-20",1,0.53,0.652,8,-5.121,1,0.0582,0.0513,0,0.105,0.493,179.987,4
+232,"33KJ2xFYONOlIYDBg6wPx8","HRVY","Personal",198040,"Talk To Ya - EP",2,"2017-11-30",5,0.755,0.536,8,-5.605,1,0.12,0.114,0,0.0282,0.882,138.969,4
+233,"7yxNIKwbgYlqWgBYeEtFXN","Jason Derulo","Marry Me",225026,"Tattoos (Deluxe Edition)",3,"2013-09-10",15,0.568,0.631,7,-5.623,1,0.0273,0.033,0,0.144,0.23,105.096,4
+234,"6riOc7Xe5GQb8ZBDCXH2hn","Jason Derulo","It Girl",192200,"Future History",4,"2011-09-26",28,0.668,0.718,1,-4.736,0,0.0605,0.0165,0,0.104,0.345,91.993,4
+235,"6g6A7qNhTfUgOSH7ROOxTD","Jason Derulo","Talk Dirty (feat. 2 Chainz)",177685,"Talk Dirty",1,"2013-09-10",11,0.76,0.652,6,-7.321,1,0.232,0.0348,0,0.307,0.759,100.315,4
+236,"1hGy2eLcmC8eKx7qr1tOqx","Sean Kingston","Beautiful Girls",225373,"Beautiful Girls",1,"2007-07-23",1,0.762,0.661,1,-6.075,0,0.0687,0.15,0,0.256,0.769,130.009,4
+237,"2meEiZKWkiN28gITzFwQo5","Ariana Grande","Into You",244453,"Dangerous Woman",4,"2016-05-20",15,0.623,0.734,9,-5.948,1,0.107,0.0162,1.75e-06,0.145,0.37,107.853,4
+238,"7l94dyN2hX9c6wWcZQuOGJ","Ariana Grande","Dangerous Woman",235946,"Dangerous Woman",2,"2016-05-20",15,0.664,0.602,4,-5.369,0,0.0412,0.0529,0,0.356,0.289,134.049,3
+239,"3bC1ahPIYt1btJzSSEyyrF","Flo Rida","Whistle",224653,"Wild Ones",1,"2012-06-22",10,0.747,0.937,0,-5.746,1,0.0453,0.0208,0,0.29,0.739,103.976,4
+240,"4pLwZjInHj3SimIyN9SnOz","Ariana Grande","Side To Side",226160,"Dangerous Woman",5,"2016-05-20",15,0.648,0.738,6,-5.883,0,0.247,0.0408,0,0.292,0.603,159.145,4
+241,"5wzuewBsK1GdViQK4uBraa","Nicki Minaj","Grand Piano",259106,"The Pinkprint (Deluxe)",16,"2014-12-15",19,0.33,0.21,4,-10.808,1,0.0307,0.889,1.1e-05,0.0784,0.135,128.154,4
+242,"5eqiMMbaeUZ32Q7sS00H35","Nicki Minaj","Anaconda",260240,"The Pinkprint (International Deluxe Explicit)",12,"2014-12-15",21,0.964,0.605,9,-6.223,1,0.179,0.0668,7.78e-06,0.214,0.646,129.994,4
+243,"6dpKQiQzZE2r9rZVWeLGom","Far East Movement","Live My Life",237106,"Dirty Bass (Deluxe)",2,"2012",22,0.683,0.804,9,-6.592,0,0.0849,0.00289,0,0.0949,0.522,128.006,4
+244,"2EBCVPNAG46nbgs6jXPGvv","Nicki Minaj","Starships",210626,"Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",10,"2012-01-01",27,0.747,0.716,11,-2.457,0,0.075,0.135,0,0.251,0.751,125.008,4
+245,"0iYebKFUSfF72fUu2OW6ZT","Nicki Minaj","Super Bass",200013,"Pink Friday (Deluxe)",14,"2010-01-01",16,0.72,0.861,11,-4.339,1,0.209,0.269,5.11e-06,0.601,0.669,126.991,4
+246,"0puf9yIluy9W0vpMEUoAnN","Jessie J","Bang Bang",199386,"Sweet Talker (Deluxe Version)",4,"2014-10-14",15,0.706,0.786,0,-3.417,0,0.091,0.26,0,0.38,0.751,150.028,4
+247,"2GGMabyHXnJmjY6CXhhB2e","Cardi B","Money",183527,"Money",1,"2018-10-23",1,0.95,0.59,8,-6.508,0,0.29,0.00534,0,0.11,0.219,130.003,4
+248,"0CAfXk7DXMnon4gLudAp7J","Flo Rida","Low (feat. T-Pain)",231400,"Mail on Sunday",5,"2008-03-17",14,0.918,0.609,10,-5.64,0,0.0791,0.0928,0,0.139,0.304,128.008,4
+249,"2afCBiru10AFckfOa49wIa","One Direction","You & I",237933,"Midnight Memories (Deluxe)",5,"2013-11-25",18,0.574,0.329,1,-6.829,1,0.0274,0.22,0,0.0986,0.356,130.993,4
+250,"36tghkPg1AO4HsAzo6YpPp","Twenty One Pilots","House of Gold",163880,"Vessel",4,"2013-01-08",12,0.68,0.693,0,-7.234,1,0.0435,0.445,0,0.208,0.851,114.948,4
+251,"4nVBt6MZDDP6tRVdQTgxJg","One Direction","Story of My Life",245493,"Midnight Memories (Deluxe)",2,"2013-11-25",18,0.6,0.663,3,-5.802,1,0.0477,0.225,0,0.119,0.286,121.07,4
+252,"5jrdCoLpJSvHHorevXBATy","Katy Perry","Dark Horse",215672,"PRISM (Deluxe)",6,"2013-10-18",16,0.645,0.585,6,-6.122,1,0.0513,0.00314,0,0.165,0.353,131.931,4
+253,"6RUKPb4LETWmmr3iAEQktW","The Chainsmokers","Something Just Like This",247160,"Memories...Do Not Open",5,"2017-04-07",12,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,4
+254,"285HeuLxsngjFn4GGegGNm","David Guetta","Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",192560,"Listen",10,"2014-11-21",18,0.596,0.73,9,-4.091,1,0.151,0.24,0,0.325,0.525,85.979,4
+255,"428lSKYV9R5f5d4XGOeniY","OneRepublic","Apologize",208106,"Dreaming Out Loud (Deluxe)",4,"2007-11-20",19,0.593,0.74,8,-6.12,1,0.0339,0.363,2.22e-05,0.102,0.502,118.008,4
+256,"2tpWsVSb9UEmDRxAl1zhX1","OneRepublic","Counting Stars",257266,"Native",1,"2013-01-01",12,0.664,0.705,1,-4.972,0,0.0382,0.0654,0,0.118,0.477,122.016,4
+257,"580t2NTEMOuCHV1sN3uhyD","Taylor Swift","Blank Space",231826,"1989",2,"2014-10-27",13,0.752,0.678,5,-5.421,1,0.0646,0.085,1.64e-06,0.13,0.583,96.009,4
+258,"0mjAU3yKR1QnXnHtjGJqTM","OneRepublic","Rescue Me",158899,"Rescue Me",1,"2019-05-17",1,0.759,0.605,7,-7.737,1,0.0433,0.156,0,0.694,0.64,121.049,4
+259,"1li2UA33w6LQcVXt4Di5UA","Cartoons","Witch Doctor - Radio Mix",187533,"Toonage",1,"1998-09-24",10,0.873,0.928,0,-6.445,1,0.0476,0.0846,8.57e-05,0.129,0.968,136.046,4
+260,"2NlmmAjGYrrjAp0MED5rGx","Taylor Swift","Bad Blood",211933,"1989 (Deluxe)",8,"2014-01-01",19,0.646,0.794,7,-6.104,1,0.19,0.0885,6.16e-06,0.201,0.287,170.216,4
+261,"00f9VGHfQhAHMCQ2bSjg3D","James TW","Soldier",224720,"Chapters",3,"2019-04-26",12,0.496,0.639,6,-6.157,1,0.055,0.28,0,0.0975,0.305,147.764,4
+262,"52okn5MNA47tk87PeZJLEL","NF","Let You Down",212120,"Perception",6,"2017-10-06",16,0.662,0.714,5,-5.68,0,0.121,0.312,0,0.179,0.464,147.997,4
+263,"4aYfAxfAt3YVZrWt6ipVr4","Robin og Bugge","Best når jeg er full",193197,"Best Når Jeg Er Full",1,"2015-04-10",1,0.675,0.892,1,-4.149,1,0.0934,0.0284,0,0.536,0.644,129.988,4
+264,"0Gf6mZ2kMJCDVHm2afcpfl","Gabrielle","Ring meg",191786,"Mildt sagt",9,"2012-01-01",10,0.803,0.694,9,-5.349,1,0.0442,0.0551,1.81e-05,0.0874,0.411,98.016,4
+265,"7dS5EaCoMnN7DzlpT6aRn2","Hozier","Take Me To Church",241688,"Hozier (Deluxe)",1,"2014-05-20",17,0.566,0.664,4,-5.303,0,0.0464,0.634,0,0.116,0.437,128.945,4
+266,"5rFj8OzffT0iggSjcBaeND","Sam Smith","Fire On Fire - From ""Watership Down""",246735,"Fire On Fire (From ""Watership Down"")",1,"2018-12-21",1,0.584,0.407,1,-7.356,0,0.046,0.476,0,0.18,0.341,115.124,4
+267,"4Ub8UsjWuewQrPhuepfVpd","Bastille","Pompeii",214147,"All This Bad Blood",1,"2013-01-01",25,0.679,0.715,9,-6.383,1,0.0407,0.0755,0,0.271,0.571,127.435,4
+268,"4vp2J1l5RD4gMZwGFLfRAu","Black Eyed Peas","I Gotta Feeling",289133,"THE E.N.D. (THE ENERGY NEVER DIES)",5,"2009-01-01",15,0.743,0.766,0,-6.375,1,0.0265,0.0873,0,0.509,0.61,127.96,4
+269,"0ct6r3EGTcMLPtrXHDvVjc","Avicii","The Nights",176658,"The Days / Nights",2,"2014-01-01",4,0.527,0.835,6,-5.298,1,0.0433,0.0166,0,0.249,0.654,125.983,4
+270,"3XLuehOxBsDJoN3RBO2wfX","TIX","Shotgun",157053,"Shotgun",1,"2018-06-08",1,0.707,0.791,6,-5.451,1,0.0504,0.0538,0,0.345,0.855,139.929,4
+271,"5cwb8N35x7epZPo6GihJEe","Innertier","Du er ung (feat. Thomas Gregersen)",183026,"Du er ung (feat. Thomas Gregersen)",1,"2015-05-22",1,0.623,0.932,6,-3.714,1,0.0334,0.00864,0,0.304,0.807,126.076,4
+272,"7e0TicU5rwK8c7L3CMDBA2","Hkeem","Fy Faen",201906,"Fy Faen",1,"2017-03-31",1,0.735,0.688,7,-5.803,0,0.176,0.227,0,0.077,0.406,103.021,4
+273,"5Ly0PpawVwfW8XN2VRaNPN","Vidar Villa","Hitparade",192655,"Hitparade",1,"2019-03-01",1,0.635,0.729,1,-5.429,0,0.0329,0.00399,5.51e-06,0.135,0.609,87.968,4
+274,"1xN7BpTAWnZkuSLOtRP6Qc","Loreen","Euphoria - Single Version",181786,"Euphoria",1,"2012-02-26",3,0.562,0.783,11,-4.727,0,0.0428,0.135,1.44e-05,0.282,0.391,132.06,4
+275,"6iA3KyiC4RxcwjlUnRrhjU","Cir.Cuz","Supernova (feat. Julie Bergan)",234713,"Vi Er Cir.Cuz",5,"2013-11-08",10,0.684,0.858,10,-3.419,1,0.034,0.0676,6.75e-06,0.0524,0.757,108.048,4
+276,"66S14BkJDxgkYxLl5DCqOz","The Proclaimers","I'm Gonna Be (500 Miles)",219466,"Finest",1,"2003-09-01",14,0.851,0.551,4,-5.177,1,0.0396,0.151,0,0.0827,0.807,131.922,4
+277,"6I9VzXrHxO9rA9A5euc8Ak","Britney Spears","Toxic",198800,"In The Zone",6,"2003-11-13",13,0.774,0.838,5,-3.914,0,0.114,0.0249,0.025,0.242,0.924,143.04,4
+278,"2374M0fQpWi3dLnB54qaLX","TOTO","Africa",295893,"Toto IV",10,"1982-04-08",10,0.671,0.373,9,-18.064,1,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,4
+279,"25sgk305KZfyuqVBQIahim","Ava Max","Sweet but Psycho",187436,"Sweet but Psycho",1,"2018-08-17",1,0.719,0.704,1,-4.724,1,0.0476,0.0691,0,0.166,0.628,133.002,4
+280,"5DHQKZCOZhGNTbYBCekWx0","NF","Paralyzed",270453,"Mansion",10,"2015-03-31",12,0.51,0.643,0,-6.602,1,0.0485,0.214,3.22e-06,0.101,0.0397,130.081,4
+281,"1jF7IL57ayN4Ity3jQqGu0","P!nk","Try",247906,"The Truth About Love",3,"2012-09-18",17,0.674,0.628,2,-7.079,1,0.03,0.00144,0,0.0944,0.552,103.998,4
+282,"2TIlqbIneP0ZY1O0EzYLlc","Lewis Capaldi","Someone You Loved",182160,"Breach",3,"2018-11-08",4,0.501,0.405,1,-5.679,1,0.0319,0.751,0,0.105,0.446,109.891,4
+283,"37sINbJZcFdHFAsVNsPq1i","The Script","Superheroes",245466,"No Sound Without Silence",2,"2014-09-15",11,0.49,0.885,3,-4.121,1,0.0396,0.00218,0,0.0741,0.64,166.996,4
+284,"7ElF5zxOwYP4qVSWVvse3W","Taio Cruz","Break Your Heart",201546,"The Rokstarr Hits Collection",2,"2010-01-01",15,0.607,0.934,3,-4.217,1,0.0314,0.0327,0,0.0909,0.568,122.01,4
+285,"5sYzy3L4JCFrAZbTLVTFFr","Jeremih","Birthday Sex",228160,"Birthday Sex",1,"2009-01-01",1,0.659,0.472,2,-7.003,0,0.0559,0.32,0,0.128,0.413,60.068,4
+286,"4j87e6euMOfqjz6Ge2eBnh","SoMo","You Can Buy Everything",180640,"My Life II",8,"2015-09-11",9,0.697,0.618,3,-5.355,0,0.0317,0.249,0,0.147,0.38,114.065,4
+287,"1fyysXwSGNtMeqMBLwW3SI","The Script","Breakeven",261426,"The Script",5,"2008-07-14",11,0.63,0.694,10,-4.501,1,0.0242,0.144,0,0.0835,0.49,94.034,4
+288,"7KPr0YxECy4Q1k2F17Sa0Q","David Guetta","Memories (feat. Kid Cudi)",210840,"Memories (feat. Kid Cudi)",1,"2010-02-12",3,0.546,0.898,8,-3.938,1,0.232,0.00158,6.43e-06,0.229,0.466,130.002,4
+289,"4tERsdVCLtLtrGdFBf9DGC","Daya","New",230879,"New",1,"2017-10-11",1,0.715,0.742,0,-4.331,1,0.0347,0.052,2.47e-05,0.364,0.322,106.971,4
+290,"7LcfRTgAVTs5pQGEQgUEzN","Maroon 5","Moves Like Jagger - Studio Recording From ""The Voice"" Performance",201160,"Hands All Over",13,"2010",13,0.722,0.758,11,-4.477,0,0.0471,0.0111,0,0.308,0.62,128.047,4
+291,"4i2qxFEVVUi8yOYoxB8TCX","Miley Cyrus","Midnight Sky",223280,"Plastic Hearts",7,"2020-11-27",15,0.699,0.805,4,-5.535,0,0.0345,0.00161,0.00177,0.249,0.232,109.976,4
+292,"2LEF1A8DOZ9wRYikWgVlZ8","Flo Rida","Good Feeling",248133,"Wild Ones",4,"2012-06-22",10,0.706,0.89,1,-4.444,0,0.0688,0.0588,0.00286,0.306,0.684,128.011,4
+293,"6HFbq7cewJ7rPiffV0ciil","Coldplay","A Sky Full of Stars",267866,"A Sky Full of Stars",1,"2014-05-02",1,0.545,0.675,6,-6.474,1,0.0279,0.00617,0.00197,0.209,0.162,124.97,4
+294,"0QdePZJfBpRIBautuT4FSx","Miley Cyrus","Angels Like You",196453,"Plastic Hearts",3,"2020-11-27",15,0.672,0.642,5,-4.035,1,0.0313,0.0981,0,0.1,0.494,121.981,4
+295,"0wdKiSBUT7aZkXUIdJWcwC","Kevin Gates","2 Phones",240000,"Islah (Deluxe)",3,"2016-01-29",17,0.895,0.681,7,-5.267,0,0.358,0.157,0,0.189,0.554,121.918,4
+296,"3uqinR4FCjLv28bkrTdNX5","Lil Wayne","A Milli",221840,"Tha Carter III",3,"2008-01-01",23,0.674,0.695,6,-8.636,0,0.278,0.0387,0.00202,0.194,0.773,151.486,4
+297,"6kBp8w67thoYqTUOQVSGFg","Selena Gomez","Good For You",221560,"Good For You",1,"2015-08-07",1,0.6,0.676,5,-6.447,0,0.0652,0.154,0,0.0741,0.217,88.928,4
+298,"5J4WHWFvEWRd2FBVhcTcmi","Rihanna","Dancing In The Dark - From The ""Home"" Soundtrack",223040,"Home (Original Motion Picture Soundtrack)",6,"2015-03-23",8,0.795,0.749,1,-3.604,1,0.0525,0.179,0,0.0875,0.761,115.003,4
+299,"2CXF3c5KrBsXZygtyQJtq9","iamjakehill","Wake Up",158316,"Wake Up",1,"2018-02-07",1,0.775,0.658,2,-5.119,1,0.175,0.0988,0,0.111,0.325,139.978,4
+300,"2CHuu85IjdomB4wPkDwoZp","Josh A","Endless Nightmare",151308,"Chaos",11,"2018-02-18",11,0.728,0.573,6,-8.388,1,0.0347,0.00716,0,0.164,0.315,139.947,4
+301,"56TOfxnRzSRbFRw8J6C4IT","Josh A","Suicidal Thoughts",181727,"Better off Dead",6,"2017-10-19",11,0.372,0.656,1,-6.086,1,0.0776,0.217,0,0.418,0.15,140.171,4
+302,"4ZD0AEXiF152JlPZRj4mzL","Confetti","Dear God",202257,"Dear God",1,"2018-09-28",1,0.639,0.796,11,-4.26,0,0.172,0.0638,0,0.0902,0.457,94.189,4
+303,"5fnA9mkIfScSqHIpeDyvck","Lilly Wood and The Prick","Prayer in C - Robin Schulz Radio Edit",189413,"Prayer in C",1,"2014-05-16",2,0.763,0.875,9,-5.797,0,0.0262,0.024,5.41e-06,0.599,0.8,123.013,4
+304,"408CUuhfAc2pDq11JkAMXL","Kreppaa","Scene",191067,"Scene",1,"2020-01-01",1,0.88,0.456,2,-8.265,1,0.123,0.121,4.32e-05,0.102,0.329,103.04,4
+305,"561jH07mF1jHuk7KlaeF0s","Eminem","Mockingbird",250760,"Encore (Deluxe Version)",16,"2004-11-12",23,0.637,0.678,0,-3.798,1,0.266,0.209,0,0.156,0.254,84.039,4
+306,"2bL2gyO6kBdLkNSkxXNh6x","Maroon 5","Animals",231013,"V",2,"2014-09-02",12,0.279,0.742,4,-6.46,0,0.0898,0.000185,0,0.593,0.328,189.868,4
+307,"3c8Faihf7EvX1MdqCFPzYR","MiyaGi","Captain",214282,"Captain",1,"2018-07-05",1,0.413,0.612,5,-9.391,0,0.121,0.831,0,0.0654,0.638,158.195,5
+308,"4tERsdVCLtLtrGdFBf9DGC","Daya","New",230879,"New",1,"2017-10-11",1,0.715,0.742,0,-4.331,1,0.0347,0.052,2.47e-05,0.364,0.322,106.971,4
+309,"3rchFjeKZ0bJxO7EEdM3S5","Kim Dracula","Paparazzi",192358,"Paparazzi",1,"2020-12-11",1,0.677,0.685,4,-5.643,0,0.0505,0.0739,0,0.107,0.177,91.008,4
+310,"6KigD0mlF4VGDYiSEzAyYw","NEFFEX","Fight Back",200571,"Fight Back: The Collection",1,"2018-11-30",12,0.716,0.946,1,-3.412,1,0.261,0.094,6.63e-05,0.0825,0.587,139.943,4
+311,"5psEZhQu6lukjhavJo4AbC","The Kid LAROI","SO DONE",126521,"SO DONE",1,"2020-10-23",1,0.719,0.598,9,-6.254,1,0.077,0.232,0,0.115,0.303,142.592,4
+312,"1pKeFVVUOPjFsOABub0OaV","Ariana Grande","Side To Side",226160,"Dangerous Woman",5,"2016-05-20",15,0.65,0.736,6,-5.84,0,0.229,0.0528,0,0.235,0.613,159.173,4
+313,"6i7zAdNhzUN2k1HcrBxPHG","Ofenbach","Head Shoulders Knees & Toes (feat. Norma Jean Martine)",156960,"Head Shoulders Knees & Toes (feat. Norma Jean Martine)",1,"2020-05-08",1,0.798,0.828,2,-5.36,1,0.193,0.0247,2.55e-06,0.121,0.6,124.962,4
+314,"5eCgNATwXgRc4mZx9NymGJ","Avicii","Waiting For Love",228750,"Waiting For Love",1,"2015-05-22",1,0.567,0.746,6,-3.748,0,0.0511,0.335,0,0.392,0.578,128.03,4
+315,"5vGLcdRuSbUhD8ScwsGSdA","CJ","Whoopty",123262,"Whoopty",1,"2020-08-20",1,0.719,0.648,3,-7.6,0,0.125,0.2,0,0.127,0.66,140.201,4
+316,"3qgPpwtuRu5oP8EtFSj8HE","The Kid LAROI","SO DONE",126521,"F*CK LOVE (SAVAGE)",2,"2020-11-06",22,0.719,0.598,9,-6.254,1,0.077,0.232,0,0.115,0.303,142.592,4
+317,"0twxxmLUAbRv9cwZWz9dWY","FELIX SANDMAN","RELATIONS",164245,"RELATIONS",1,"2020-12-18",1,0.837,0.435,0,-7.17,0,0.0427,0.696,1.43e-05,0.11,0.415,124.949,4
+318,"4y4spB9m0Q6026KfkAvy9Q","Justin Bieber","Lonely (with benny blanco)",149297,"Lonely (with benny blanco)",1,"2020-10-16",1,0.631,0.239,11,-7.071,0,0.0398,0.864,0,0.116,0.0927,79.859,4
+319,"4SS4YfDAEQG0fZAe1xfgn3","Victor Leksell","Svag",191103,"Fånga mig när jag faller",9,"2020-06-17",11,0.595,0.528,5,-8.922,0,0.0621,0.748,0,0.112,0.419,153.74,4
+320,"7lPN2DXiMsVn7XUKtOW1CS","Olivia Rodrigo","drivers license",242013,"drivers license",1,"2021-01-08",1,0.585,0.436,10,-8.761,1,0.0601,0.721,1.31e-05,0.105,0.132,143.874,4
+321,"4Tf94tAHtlQxjbeeyU3y7C","Sean Kingston","Beautiful Girls - Radio Edit",225373,"Beautiful Girls",1,"2007-08-31",2,0.764,0.65,1,-6.114,0,0.0673,0.169,0,0.298,0.766,130.021,4
+322,"4lsFgnxuSyeOF7mMNDTEkI","SJÖGURK","Dippy Days 2021",133500,"Dippy Days 2021",1,"2020-09-14",1,0.776,0.744,11,-5.067,0,0.0608,0.0109,9.59e-06,0.059,0.34,75.003,4
+323,"0pGksYnvpx9o8MR2IfiRZT","8lanco","FREE YOUR MIND",175962,"FREE YOUR MIND",1,"2021-01-29",1,0.513,0.516,9,-7.813,1,0.231,0.591,0,0.11,0.544,105.009,4
+324,"2etHQJxIbV0soyPhelVs9Y","Saweetie","Best Friend (feat. Doja Cat)",155883,"Best Friend (feat. Doja Cat)",1,"2021-01-07",1,0.84,0.766,4,-4.12,1,0.136,0.00302,3.61e-06,0.0684,0.402,94.018,4
+325,"49O5AqdaIGmnfz2d8TXL7Z","Bankrol Hayden","Brothers (feat. Luh Kel)",131853,"Pain is Temporary",3,"2020-06-26",11,0.889,0.483,8,-10.332,1,0.227,0.376,0,0.088,0.761,120.995,4
+326,"3U1TuSqHIubBA10cVP7Sk6","Kat Dahlia","I Think I'm In Love",202666,"My Garden",5,"2015-01-09",11,0.632,0.638,7,-6.731,1,0.0505,0.137,0,0.125,0.574,121.868,3
+327,"18ssFhD04lWo1RzpcohnrG","Demi Lovato","Anyone",227813,"Anyone",1,"2020-01-27",1,0.557,0.387,11,-6.338,1,0.0374,0.876,0,0.111,0.317,129.98,4
+328,"1oKXshzJtz3zDA6dJY8VlZ","Emma Steinbakken","Jeg glemmer deg aldri - fra Rådebank",212459,"Jeg glemmer deg aldri (fra Rådebank)",1,"2021-02-12",1,0.515,0.0862,7,-14.335,1,0.0367,0.806,0.00363,0.0626,0.0907,121.799,4
+329,"1LCxdVpqmelSadTYTMCo41","Den BB","Et Guttehjem",179200,"Et Guttehjem",1,"2020-04-17",1,0.635,0.822,6,-4.392,0,0.0846,0.0115,2.82e-06,0.0789,0.271,150.078,4
+330,"6KYDEP132TspYEaEvobbuQ","Hagle","Ærmen i kærmen",136243,"Ærmen i kærmen",1,"2021-02-05",1,0.641,0.514,7,-10.173,0,0.181,0.163,0,0.0983,0.693,75.157,4
+331,"45GmUDEid9EZ6YA4nFjY0f","Hagle","Født til å ragge",147449,"Født til å ragge",1,"2020-11-13",1,0.766,0.463,1,-11.361,0,0.103,0.00893,0,0.369,0.674,143.981,4
+332,"2wIwcIFXAGsKnm6fMBxbUQ","Hagle","Traktor",128571,"Traktor",1,"2020-09-25",2,0.857,0.544,0,-13.066,1,0.222,0.155,3.13e-05,0.122,0.732,144.026,4
+333,"4fINc8dnfcz7AdhFYVA4i7","Jason Derulo","It Girl",192200,"Future History (Deluxe Edition)",2,"2011-09-16",14,0.668,0.718,1,-4.736,0,0.0605,0.0165,0,0.104,0.345,91.993,4
+334,"3bBknFVxhFjBIFX91HcneQ","Shawn Mendes","There's Nothing Holdin' Me Back",199440,"Illuminate",1,"2017-04-20",13,0.866,0.813,11,-4.063,0,0.0554,0.38,0,0.0779,0.969,121.998,4
+335,"7aUuoq4oMfLxaLa5GVUDHi","KALEO","Way down We Go",219560,"Way down We Go",1,"2015-08-07",1,0.59,0.578,10,-5.798,0,0.0528,0.612,0.000162,0.0837,0.264,81.663,4
+336,"3tjFYV6RSFtuktYl3ZtYcq","24kGoldn","Mood (feat. iann dior)",140525,"Mood (feat. iann dior)",1,"2020-07-24",1,0.7,0.722,7,-3.558,0,0.0369,0.221,0,0.272,0.756,90.989,4
+337,"2CEgGE6aESpnmtfiZwYlbV","Taio Cruz","Dynamite",202613,"The Rokstarr Hits Collection",1,"2010-01-01",15,0.751,0.783,4,-3.724,1,0.0859,0.00379,0,0.036,0.816,119.975,4
+338,"3ZFTkvIE7kyPt6Nu3PEa7V","Shakira","Hips Don't Lie (feat. Wyclef Jean)",218093,"Oral Fixation, Vol. 2 (Expanded Edition)",3,"2005-11-28",13,0.778,0.824,10,-5.892,0,0.0707,0.284,0,0.405,0.758,100.024,4
+339,"2n3CaPGPLYnYAvTEwKCX8t","Austin Mahone","Mmm Yeah (feat. Pitbull)",231624,"The Secret",3,"2014",9,0.712,0.922,6,-3.902,0,0.0411,0.00266,1.9e-06,0.268,0.976,125.984,4
+340,"2ClyWrksDZG5RFK9LJBlon","Sabina Ddumba","Not Too Young",243600,"Homeward Bound",7,"2016-10-28",11,0.47,0.662,0,-5.33,0,0.0791,0.01,0,0.345,0.483,183.579,4
+341,"0OPyDgTRuIdCJ9B4bYSths","Pitbull","Hotel Room Service",237600,"Pitbull Starring In Rebelution",8,"2009-08-27",14,0.85,0.631,1,-8.401,1,0.227,0.00684,0.000406,0.0679,0.738,126.002,4
+342,"3cHyrEgdyYRjgJKSOiOtcS","Pitbull","Timber (feat. Ke$ha)",204160,"Global Warming: Meltdown (Deluxe Version)",13,"2012",17,0.581,0.963,11,-4.087,1,0.0981,0.0295,0,0.139,0.788,129.992,4
+343,"6ocbgoVGwYJhOv1GgI9NsF","Ariana Grande","7 rings",178626,"thank u, next",10,"2019-02-08",12,0.778,0.317,1,-10.732,0,0.334,0.592,0,0.0881,0.327,140.048,4
+344,"0ct6r3EGTcMLPtrXHDvVjc","Avicii","The Nights",176658,"The Days / Nights",2,"2014-01-01",4,0.527,0.835,6,-5.298,1,0.0433,0.0166,0,0.249,0.654,125.983,4
+345,"4Of7rzpRpV1mWRbhp5rAqG","Lewis Capaldi","Bruises",220492,"Divinely Uninspired To A Hellish Extent",2,"2019-05-17",12,0.736,0.308,4,-7.83,1,0.0677,0.946,0,0.186,0.361,111.202,4
+346,"3oUuRNgyIuiqVTWLCChp3s","The Longest Johns","Wellerman",138506,"Between Wind and Water",3,"2018-06-07",15,0.821,0.44,3,-7.378,1,0.271,0.696,0,0.225,0.822,96.563,4
+347,"20McUFi8KCIVdNDLrkTDuZ","HVME","Goosebumps",163208,"Goosebumps",1,"2020-06-12",1,0.767,0.659,1,-7.429,1,0.0444,0.325,0,0.13,0.439,124.946,4
+348,"0Mq0reDcNpgmQkjHfzpJrp","Ella Henderson","Yours",168586,"Chapter One (Deluxe Version)",4,"2014-10-13",18,0.581,0.263,0,-10.411,1,0.032,0.819,0,0.0808,0.229,125.004,4
+349,"43zdsphuZLzwA9k4DJhU0I","Billie Eilish","when the party's over",196077,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",7,"2019-03-29",14,0.367,0.111,4,-14.084,1,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,4
+350,"08boNC19ELI4p6QJhNDFX7","NF","Mansion",323266,"Mansion",2,"2015-03-31",12,0.428,0.839,10,-4.53,0,0.303,0.575,0,0.101,0.397,150.575,4
+351,"57mKcbEq7nMqtJ4gqJvWcp","Rihanna","Talk That Talk",209600,"Talk That Talk",4,"2011-11-19",11,0.694,0.671,2,-4.088,1,0.0444,0.0371,3.14e-05,0.236,0.466,83.999,4
+352,"2WEAKylXBPr9PJNANBSTDG","Molly Kate Kestner","Prom Queen",226143,"Prom Queen",1,"2017-02-03",1,0.601,0.706,6,-4.537,0,0.0458,0.0495,0,0.0982,0.249,91.996,4
+353,"3gNNXc7GUgKRPR15W77eDR","Asaf Avidan & the Mojos","One Day / Reckoning Song (Wankelmut Remix) [Radio Edit]",213186,"One Day / Reckoning Song (Wankelmut Remix) [Radio Edit]",1,"2012-06-04",1,0.821,0.676,3,-6.366,0,0.0547,0.187,0.0001,0.0904,0.559,119.012,4
+354,"7Ewz6bJ97vUqk5HdkvguFQ","Bryan Adams","Heaven",243360,"Reckless (30th Anniversary / Deluxe Edition)",4,"1984-11-05",32,0.382,0.589,9,-7.315,0,0.0267,0.0465,0,0.122,0.335,140.059,4
+355,"3wNNbf63xkxw9rIVWtFy7a","Cynthia Erivo","Stand Up (From Harriet)",303477,"Stand Up (From Harriet)",1,"2019-10-25",1,0.616,0.32,0,-10.194,1,0.0311,0.268,0,0.11,0.177,80.02,4
+356,"1MpCvOlkM8VbH50AL7mAUm","Hagle","Bøgda",164127,"Bøgda",1,"2021-03-19",1,0.689,0.721,0,-7.639,0,0.0787,0.0221,0,0.142,0.906,140.055,4
+357,"4kLLWz7srcuLKA7Et40PQR","Black Eyed Peas","I Gotta Feeling",289133,"THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",5,"2009-01-01",25,0.743,0.766,0,-6.375,1,0.0265,0.0873,0,0.509,0.61,127.96,4
+358,"0UQvSOE0CgQ1gIHSfo73RS","Soppgirobygget","Afterski",150864,"Afterski",1,"2021-03-05",1,0.609,0.731,1,-8.514,1,0.409,0.265,0,0.335,0.478,127.993,4
+359,"1QnvpPFP4Q3FHbDchqWiWy","B.o.B","Airplanes (feat. Hayley Williams of Paramore)",180480,"B.o.B Presents: The Adventures of Bobby Ray",4,"2010-04-27",15,0.66,0.867,6,-4.285,0,0.116,0.11,0,0.0368,0.377,93.033,4
+360,"2lXDbdbBw7lJVCWHkYxdep","Taylor Swift","Wildest Dreams",220440,"1989",9,"2014-10-27",13,0.553,0.664,8,-7.417,1,0.0741,0.0709,0.0056,0.106,0.467,140.06,4
+361,"08ty5lPyAfzcRjJcCoY5JS","Klaas","When We Were Still Young - Averro Remix",173000,"When We Were Still Young (Averro Remix)",1,"2019-09-20",1,0.508,0.761,9,-5.102,1,0.0443,0.0301,0,0.302,0.29,149.95,4
+362,"3slbaNTgLukV60iYBuUmBU","Nationen","Falska Människor",195480,"Kontraster",4,"2013-07-15",12,0.698,0.897,11,-5.309,1,0.0876,0.213,0,0.094,0.89,155.072,4
+363,"3QeEf7TMugwZkmn0hPmXio","D-Block & S-te-Fan","Harder State Of Mind",236800,"Harder State Of Mind",1,"2020-06-09",1,0.515,0.94,9,-2.452,0,0.0478,0.0044,1.06e-05,0.23,0.284,150.051,4
+364,"3CV4lFELdziNM1OnHU8nwz","Ruelle","I Get to Love You",239362,"I Get to Love You",1,"2016-02-12",1,0.335,0.251,2,-6.225,1,0.0317,0.924,0,0.111,0.0863,153.298,3
+365,"4S6fv0puLCsfYjyBTPDb9k","Sia","Helium",252320,"Fifty Shades Darker (Original Motion Picture Soundtrack)",9,"2017-02-10",19,0.42,0.396,4,-6.678,1,0.0296,0.551,0,0.0708,0.132,136.849,4
+366,"1jBkxLskXspBSLmH1VoM9k","Evinze","Suicide",205119,"Suicide",1,"2019-03-08",1,0.644,0.477,11,-8.145,0,0.122,0.0676,0.00786,0.0502,0.26,110.139,4
+367,"04ZKyYEjRN2PTyqDXGvNfF","Kamelen","Vil Ba Vekk",209408,"KINGPIN SLIM",7,"2019-11-29",11,0.662,0.664,6,-6.808,0,0.291,0.0927,0,0.101,0.505,79.861,4
+368,"05CrK6Q5VGtfPDtyQFJ4Kf","We The Kings","Sad Song (feat. Elena Coats)",226330,"Somewhere Somehow",12,"2013-01-01",13,0.512,0.526,1,-5.44,1,0.0251,0.0724,0,0.0675,0.249,85.024,4
+369,"0u7b8p0mxUUNT7xeuYUtlP","Sam Ryder","Tiny Riot",204979,"Tiny Riot",1,"2021-03-26",1,0.531,0.79,0,-4.188,0,0.0574,0.0977,0.00421,0.0876,0.51,177.44,4
+370,"6HdfSznwCYMh4F8sZMEOPg","AURORA","Runaway",248826,"All My Demons Greeting Me as a Friend",1,"2015-12-11",12,0.327,0.285,11,-10.13,1,0.045,0.618,7.75e-05,0.104,0.133,172.527,3
+371,"3IQF4xCQUPicbA4hWfTxPo","OneRepublic","I Lived",234546,"Native",5,"2013-01-01",12,0.593,0.851,9,-5.456,1,0.0446,0.0683,0,0.271,0.344,119.987,4
+372,"3DmW6y7wTEYHJZlLo1r6XJ","Becky G","Shower",206166,"Shower",1,"2014-04-23",1,0.699,0.529,2,-7.548,1,0.0487,0.0317,3.59e-05,0.285,0.121,119.987,4
+373,"0C4ejWmOTMv8vuYj85mf8m","Rihanna","S&M",243533,"Loud",1,"2010-11-16",12,0.767,0.682,1,-5.02,1,0.042,0.0113,0.00016,0.104,0.833,127.975,4
+374,"6epn3r7S14KUqlReYr77hA","Justin Bieber","Baby",214240,"My World 2.0",1,"2010-01-01",10,0.728,0.859,5,-5.237,0,0.137,0.0401,0,0.111,0.535,65.043,4
+375,"190jyVPHYjAqEaOGmMzdyk","Justin Bieber","Beauty And A Beat",227986,"Believe (Deluxe Edition)",10,"2012-06-15",17,0.602,0.843,0,-4.831,1,0.0593,0.000688,5.27e-05,0.0682,0.526,128.003,4
+376,"6KOEK6SeCEZOQkLj5M1PxH","Katy Perry","California Gurls",234653,"Teenage Dream",3,"2010-01-01",12,0.788,0.753,0,-3.71,1,0.0536,0.0038,0,0.18,0.403,125.005,4
+377,"3y6e01poVQDru5OLUu8nhE","Snoop Lion","No Guns Allowed (feat. Drake & Cori B.)",211826,"Reincarnated (Deluxe Version)",6,"2013-04-19",16,0.683,0.606,1,-7.057,1,0.0476,0.158,0,0.11,0.369,131.926,4
+378,"6eYxmK9fdL4hwLnXG2zY3s","XXXTENTACION","Look At Me!",126345,"Revenge",1,"2017-05-16",7,0.763,0.726,1,-6.405,1,0.282,0.259,0,0.0976,0.349,139.059,4
+379,"1NDxZ7cFAo481dtYWdrUnR","Maggie Lindemann","Pretty Girl - Cheat Codes X CADE Remix",193613,"Pretty Girl (Cheat Codes X CADE Remix)",1,"2017-03-02",1,0.703,0.868,7,-4.661,0,0.0291,0.15,0.132,0.104,0.733,121.03,4
+380,"55S2PQgSMYAhgoTCcGCDfw","5 Seconds of Summer","Youngblood",203417,"Youngblood",1,"2018-04-12",1,0.596,0.854,7,-5.114,0,0.463,0.0169,0,0.124,0.152,120.274,4
+381,"2vwlzO0Qp8kfEtzTsCXfyE","Miley Cyrus","Wrecking Ball",221360,"Bangerz (Deluxe Version)",6,"2013-10-04",16,0.53,0.422,5,-6.262,1,0.0342,0.407,0,0.107,0.349,119.964,4
+382,"5vlEg2fT4cFWAqU5QptIpQ","Iyaz","Replay",182306,"Replay",1,"2009-08-11",1,0.706,0.751,9,-6.323,1,0.0708,0.173,0,0.168,0.195,91.031,4
+383,"0iyEaciAmtiv8xMkBg97Fy","Maroon 5","Payphone",231466,"Payphone",1,"2012-01-01",1,0.745,0.756,4,-4.749,1,0.0429,0.021,0,0.356,0.495,109.999,4
+384,"6ol4ZSifr7r3Lb2a9L5ZAB","Carly Rae Jepsen","Call Me Maybe",193466,"Call Me Maybe",1,"2012-01-01",1,0.783,0.584,7,-6.572,1,0.0409,0.0109,2.91e-06,0.108,0.632,120.031,4
+385,"22mek4IiqubGD9ctzxc69s","Calvin Harris","How Deep Is Your Love",212640,"How Deep Is Your Love",1,"2015-07-17",1,0.738,0.868,11,-4.373,0,0.0731,0.0392,0.00169,0.388,0.336,122.003,4
+386,"0BF6mdNROWgYo3O3mNGrBc","Major Lazer","Lean On (feat. MØ & DJ Snake)",176561,"Lean On (feat. MØ & DJ Snake)",1,"2015-03-02",1,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,4
+387,"3cNjgVBKTJ1SvKhunrCdVy","Joel Adams","Please Don't Go",210580,"Please Don't Go",1,"2015-11-06",1,0.513,0.768,4,-4.868,0,0.0587,0.0118,1.94e-05,0.294,0.235,84.264,4
+388,"7vfWgVGiLgnGbInU5lvSQg","Mike Posner","I Took A Pill In Ibiza - Seeb Remix",199226,"I Took A Pill In Ibiza (Seeb Remix)",1,"2015-07-24",1,0.673,0.79,7,-4.663,0,0.0893,0.037,9.95e-06,0.0875,0.705,102.013,4
+389,"4wCmqSrbyCgxEXROQE6vtV","Gotye","Somebody That I Used To Know",244973,"Making Mirrors",3,"2011-01-01",12,0.864,0.495,0,-7.036,1,0.037,0.591,0.000133,0.0992,0.72,129.062,4
+390,"1CmUZGtH29Kx36C1Hleqlz","Macklemore & Ryan Lewis","Thrift Shop (feat. Wanz)",235613,"Thrift Shop (feat. Wanz)",1,"2012-08-01",1,0.781,0.526,6,-6.985,0,0.293,0.0619,0,0.0457,0.662,94.992,4
+391,"0sooJd5WbNnnz5k6yO7FIQ","Bastille","Pompeii",214147,"All This Bad Blood",1,"2013-01-01",25,0.682,0.714,9,-6.306,1,0.0399,0.074,0,0.278,0.581,127.443,4
+392,"5Z7ygHQo02SUrFmcgpwsKW","Flo Rida","Wild Ones (feat. Sia)",233688,"Wild Ones (feat. Sia)",1,"2011-12-19",1,0.624,0.889,5,-3.772,0,0.0504,0.101,0,0.227,0.45,127.019,4
+393,"2fweESxSLj6H8Z9HzN6LKX","MKTO","Classic",175426,"MKTO",2,"2012",11,0.72,0.791,1,-4.689,1,0.124,0.0384,0,0.157,0.756,102.071,4
+394,"6cpk00i5TxCqSeqNi2HuIe","Maroon 5","One More Night",219546,"Overexposed Track By Track",2,"2012-01-01",33,0.716,0.821,5,-3.435,0,0.0314,0.0558,0,0.0844,0.618,92.997,4
+395,"5tXyNhNcsnn7HbcABntOSf","Usher","DJ Got Us Fallin' In Love",222160,"DJ Got Us Fallin' In Love",1,"2010-07-13",1,0.666,0.878,7,-2.85,0,0.0973,0.03,0,0.0828,0.669,119.932,4
+396,"7rlCeTnjn0plPZkVAcctPZ","LunchMoney Lewis","Bills",204600,"Bills",1,"2015-02-05",1,0.699,0.747,5,-3.453,1,0.0964,0.274,0,0.486,0.683,126.001,4
+397,"6nek1Nin9q48AVZcWs9e9D","Coldplay","Paradise",278719,"Mylo Xyloto",3,"2011-10-24",14,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,4
+398,"21K6jcmZPktm7MftqfLfLg","Taylor Swift","I Knew You Were Trouble",219720,"I Knew You Were Trouble.",1,"2012-01-01",1,0.602,0.465,6,-6.762,1,0.0367,0.00572,5.34e-06,0.033,0.664,154.076,4
+399,"1KqlVt63Q4bl1VdSlymr5C","Vance Joy","Riptide",204280,"Riptide",1,"2013-05-21",2,0.484,0.731,1,-6.694,1,0.0379,0.431,0,0.151,0.51,101.654,4
+400,"5rb9QrpfcKFHM1EUbSIurX","Usher","Yeah! (feat. Lil Jon & Ludacris)",250373,"Confessions (Expanded Edition)",2,"2004-03-23",21,0.894,0.791,2,-4.699,1,0.112,0.0183,0,0.0388,0.583,105.018,4
+401,"3bDGwl0X3EjQmIyFD1uif5","Katy Perry","Roar",223546,"PRISM (Deluxe)",1,"2013-01-01",16,0.56,0.756,7,-4.817,0,0.0415,0.00635,1.29e-05,0.55,0.404,179.771,4
+402,"386RUes7n1uM1yfzgeUuwp","Bruno Mars","The Lazy Song",189109,"Doo-Wops & Hooligans",5,"2010-10-05",12,0.794,0.711,8,-5.124,0,0.0699,0.3,0,0.0955,0.955,174.915,4
+403,"5yDL13y5giogKs2fSNf7sj","The Wanted","Glad You Came",197935,"Battleground (Deluxe Edition)",1,"2011-01-01",15,0.722,0.851,7,-3.873,0,0.0639,0.0319,0,0.108,0.452,126.885,4
+404,"6ebkx7Q5tTxrCxKq4GYj0Y","Flo Rida","Club Can't Handle Me (feat. David Guetta)",234560,"Only One Flo (Part 1)",7,"2010-11-24",8,0.616,0.869,0,-3.911,1,0.0327,0.0283,0,0.064,0.473,127.966,4
+405,"2OBKvpCTPo0q4qQELJ1n7h","LMFAO","Sexy And I Know It",199480,"Sorry For Party Rocking",4,"2010-12-01",16,0.707,0.861,7,-4.225,1,0.316,0.1,0,0.191,0.795,130.021,4
+406,"4ycLiPVzE5KamivXrAzGFG","CeeLo Green","Fuck You",222933,"The Lady Killer",3,"2010-11-09",14,0.69,0.834,0,-5.79,1,0.0566,0.129,0,0.136,0.738,127.43,4
+407,"6RtPijgfPKROxEzTHNRiDp","MAGIC!","Rude",224840,"Don't Kill the Magic",1,"2014-06-25",11,0.773,0.758,1,-4.993,1,0.0381,0.0422,0,0.305,0.925,144.033,4
+408,"2S5LNtRVRPbXk01yRQ14sZ","Flo Rida","I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",224258,"My House",3,"2015-04-07",7,0.854,0.766,9,-4.697,0,0.141,0.0242,0,0.0793,0.784,118.004,4
+409,"4bZd0nRuX8HyjeXAUBczvm","Flo Rida","I Cry",223800,"Wild Ones",8,"2012-06-22",10,0.693,0.822,4,-5.441,0,0.0439,0.00616,1.79e-06,0.315,0.763,126.035,4
+410,"3s4U7OHV7gnj42VV72eSZ6","Clean Bandit","Rather Be (feat. Jess Glynne)",227833,"Rather Be (feat. Jess Glynne)",1,"2014-01-17",1,0.799,0.586,11,-6.735,1,0.0377,0.162,2.03e-06,0.193,0.549,120.97,4
+411,"4eLSCSELtKxZwXnFbNLXT5","Imagine Dragons","On Top Of The World",189840,"Night Visions (Deluxe)",5,"2012-09-04",20,0.507,0.923,0,-5.581,1,0.173,0.0818,4.63e-06,0.0951,0.768,99.252,4
+412,"4qABfS1RaGVXdBhj2BQyhO","Galantis","Runaway (U & I)",227073,"Runaway (U & I)",1,"2014-10-05",1,0.506,0.805,1,-4.119,1,0.0469,0.00711,0.00193,0.0856,0.383,126.008,4
+413,"6YwLgicpvVuMt1eE2OldwQ","Deorro","Five More Hours",211975,"Five More Hours",1,"2015-03-03",1,0.699,0.883,5,-3.226,0,0.219,0.0288,0,0.817,0.499,127.961,4
+414,"67WTwafOMgegV6ABnBQxcE","fun.","Some Nights",277040,"Some Nights",2,"2012-02-14",11,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,4
+415,"01BvT9GPtThEzcMxkptkgN","Rihanna","Disturbia",238626,"Good Girl Gone Bad: Reloaded",13,"2008-06-02",15,0.707,0.813,11,-4.515,0,0.0571,0.0863,0,0.168,0.722,124.921,4
+416,"4rHZZAmHpZrA3iH5zx8frV","Justin Timberlake","Mirrors",484146,"The 20/20 Experience (Deluxe Version)",9,"2013-03-15",12,0.574,0.512,5,-6.664,0,0.0503,0.234,0,0.0946,0.512,76.899,4
+417,"3UN6cIn3VIyg0z1LCuFSum","David Guetta","Without You (feat. Usher)",208133,"Nothing but the Beat (Ultimate Edition)",4,"2012-12-07",29,0.608,0.614,2,-3.727,1,0.0285,0.227,4.06e-06,0.157,0.402,127.884,4
+418,"0Hf4aIJpsN4Os2f0y0VqWl","Pitbull","Feel This Moment (feat. Christina Aguilera)",229506,"Global Warming: Meltdown (Deluxe Version)",3,"2012",17,0.673,0.758,7,-3.632,1,0.158,0.039,0,0.341,0.542,135.956,4
+419,"6s8nHXTJVqFjXE4yVZPDHR","Olly Murs","Troublemaker (feat. Flo Rida)",185586,"Right Place Right Time (Expanded Edition)",2,"2012-11-26",24,0.762,0.863,0,-3.689,0,0.0561,0.015,0,0.125,0.965,106.012,4
+420,"1PCvKFPWnTXAe2oaReVUcr","Pitbull","We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song] (feat. Jennifer Lopez & Claudia Leitte)",222520,"Globalization",11,"2014-11-21",11,0.592,0.935,6,-4.317,0,0.0581,0.00879,0.0154,0.132,0.567,125.013,4
+421,"3oIhthYPSKwAwJLA8JClkV","Astrid S","Such A Boy",210680,"Party's Over",2,"2017-06-30",6,0.668,0.776,6,-5.167,0,0.111,0.0481,2.2e-06,0.0798,0.461,95.003,4
+422,"2ZTCl6wQMDSMfY4s8GHZdj","Miley Cyrus","Butterfly Fly Away",189240,"Hannah Montana The Movie",9,"2009-01-01",18,0.607,0.281,11,-12.632,1,0.0258,0.733,0.000123,0.29,0.468,134.977,4
+423,"65bcYKY0QzlXILxVuWspdT","Anthem Lights","Best of 2011: Just the Way You Are / For the First Time / Someone Like You / Superbass / Grenade / Without You",183813,"Best of the Year Medleys: 2007 - 2012",5,"2015-10-16",6,0.418,0.343,4,-7.492,1,0.0339,0.741,0,0.113,0.327,121.805,4
+424,"4fXGWiVhlOLdhwRDP6pIFG","Fools Garden","Lemon Tree",191026,"Dish Of The Day",3,"1995-01-01",11,0.663,0.475,1,-8.834,1,0.0417,0.643,0,0.122,0.644,143.175,4
+425,"5ZJD4Raa0ZZnxlWQ4hhvUu","Chris Abolade","SEX OG BLOMSTER",130144,"EGO",3,"2020-05-08",3,0.776,0.669,2,-8.302,1,0.0648,0.054,2.07e-05,0.0714,0.497,102.902,4
+426,"6EJSIote7EJm4FnrysmYzt","CLMD","DANCE",174448,"The Importance of Dancing Like an Idiot (Part 1)",1,"2020-10-30",8,0.766,0.548,7,-7.834,1,0.0373,0.0262,1.81e-06,0.21,0.551,122.009,4
+427,"2x0RZdkZcD8QRI53XT4GI5","Avicii","SOS (feat. Aloe Blacc)",157202,"TIM",3,"2019-06-06",12,0.802,0.645,5,-6.181,0,0.0715,0.272,0,0.119,0.376,100.001,4
+428,"7vHshinTU8161w69EPbabY","Seinabo Sey","Younger - Kygo Remix",351578,"Pretend",15,"2015-10-23",16,0.69,0.489,5,-7.938,1,0.0788,0.13,0.00022,0.0815,0.645,114.008,4
+429,"7wdLZdLzaYCkUvxkPhFP4Q","Westlife","You Raise Me Up",241066,"Face To Face",1,"2005",11,0.129,0.358,10,-6.596,1,0.0314,0.631,0,0.0886,0.172,75.048,5
+430,"5n0oc0Hu2R6gwbbWE3rlkl","Mozby","Raggartjej",188235,"Raggartjej",1,"2021-03-04",1,0.671,0.736,10,-10.653,1,0.229,0.0907,0,0.288,0.57,102.161,4
+431,"0UKgRHKpG9ObOZFbTZ1sjK","Drew Baldridge","She's Somebody's Daughter (The Wedding Version)",210475,"She's Somebody's Daughter (The Wedding Version)",1,"2021-05-14",1,0.499,0.375,6,-7.29,1,0.0364,0.803,0,0.108,0.4,171.987,4
+432,"4g04QtmUABZN3iobIrHYsJ","R. Kelly","Cookie",225320,"Black Panties (Deluxe Version)",2,"2013-12-07",17,0.652,0.758,8,-4.737,0,0.0315,0.128,0,0.273,0.486,130.927,4
+433,"3p5Qm3hxPwsBs4JjEifIu8","Jeremih","Planez",240320,"Late Nights: The Album",1,"2015-12-04",15,0.658,0.544,6,-7.748,1,0.344,0.686,0,0.112,0.401,129.09,4
+434,"3KSX8fnFOSq6W3CS4h6qys","Christel Alsos","Make Me Happy",229625,"Make Me Happy",1,"2018-03-02",1,0.674,0.528,5,-9.468,0,0.0394,0.61,0.000285,0.117,0.291,105.911,4
+435,"49eplIHvgCLY8HAgcaWrUb","Pitbull","Fireball (feat. John Ryan)",235012,"Fireball (feat. John Ryan)",1,"2014-07-23",1,0.69,0.937,10,-5.393,1,0.0642,0.0894,0.000104,0.0532,0.794,122.951,4
+436,"2M9ULmQwTaTGmAdXaXpfz5","Travie McCoy","Billionaire (feat. Bruno Mars)",211160,"Billionaire (feat. Bruno Mars)",1,"2010-03-09",1,0.633,0.673,6,-6.403,0,0.258,0.297,0,0.206,0.659,86.776,4
+437,"0SGojwNP2zUrgDyeoBQxYO","Rock Mafia","The Big Bang",160200,"The Big Bang",1,"2010-10-29",1,0.902,0.816,0,-3.077,0,0.0312,0.124,8.94e-06,0.18,0.894,96.01,4
+438,"4ofwffwvvnbSkrMSCKQDaC","George Ezra","Shotgun",201287,"Staying at Tamara's",4,"2018-03-23",11,0.673,0.735,5,-4.733,1,0.0457,0.286,0,0.242,0.754,115.744,4
+439,"2nIgV90BbhZqq3RXazLV1w","Kris Winther","Barock 2021 (Nesbrurussen)",185625,"Barock 2021 (Nesbrurussen)",1,"2020-10-15",1,0.883,0.74,9,-6.005,1,0.216,0.0116,0.000517,0.331,0.809,128.005,4
+440,"4dbHMUMM1Xh33GPwXXd4OA","Oberg","Take My Hand",161104,"Take My Hand",1,"2020-06-12",1,0.675,0.874,1,-8.532,1,0.249,0.00486,0.0875,0.0824,0.687,149.871,4
+441,"0q2gvD5W0dCBTGPWPxOqFi","SJUR","Me In The Middle",189556,"Me In The Middle",1,"2021-02-05",1,0.679,0.697,5,-5.56,0,0.106,0.0787,0.000283,0.138,0.536,158.054,4
+442,"2Ms8MDDtYBw7M3K5F3EqPX","Mimi Webb","Dumb Love",207068,"Dumb Love",1,"2021-06-11",1,0.569,0.422,0,-5.856,1,0.0302,0.0296,0,0.0613,0.175,76.96,4
+443,"2bSVFkcYAQwkGlGK7v1Ihl","Chris Holsten","Smilet i ditt eget speil",172833,"Smilet i ditt eget speil",1,"2021-03-12",1,0.618,0.471,6,-9.746,1,0.048,0.4,4.45e-06,0.0826,0.326,81.0,4
+444,"4uDhts78RdwIDjEqPrYVKp","Alan Walker","Sweet Dreams",138819,"Sweet Dreams",1,"2021-06-11",1,0.766,0.817,7,-4.253,1,0.035,0.0239,2.49e-06,0.159,0.43,125.033,4
+445,"6e40mgJiCid5HRAGrbpGA6","Backstreet Boys","I Want It That Way",213600,"The Hits--Chapter One",1,"2001-10-23",13,0.689,0.702,6,-5.642,0,0.0261,0.216,0,0.159,0.484,99.031,4
+446,"4HwzzfghdCXj2dVCpHsrup","Ashley Kutcher","If I Could",187233,"If I Could",1,"2021-04-15",1,0.449,0.416,1,-9.571,1,0.0287,0.446,0,0.187,0.367,89.842,4
+447,"34KP8yiKQQHn5E2iVHuTzG","Hogland","Just a Little",152983,"Just a Little",1,"2020-05-01",1,0.661,0.731,7,-6.445,0,0.0691,0.0403,0,0.236,0.68,123.913,4
+448,"7987dGUfAQaCQWV90JvM3C","Dotan","Mercy",188172,"Mercy",1,"2021-04-16",1,0.531,0.579,0,-7.368,1,0.037,0.313,0.308,0.0965,0.321,155.789,4
+449,"2h9TDNEXRhcDIV3fsoEVq9","Sam Fischer","What Other People Say",194890,"What Other People Say",1,"2021-02-04",1,0.652,0.472,7,-8.084,1,0.0399,0.158,0,0.121,0.24,126.904,4
+450,"4olrSI30e4RN11Cz2SQgEv","Kygo","Gone Are The Days (feat. James Gillespie)",196677,"Gone Are The Days (feat. James Gillespie)",2,"2021-04-16",2,0.528,0.453,4,-9.398,1,0.0396,0.355,1.06e-06,0.104,0.281,119.761,4
+451,"4aosx8uOGPG9aJjm0Dj4dN","Noah Kahan","Part of Me",237230,"Part of Me",1,"2021-05-14",1,0.689,0.687,7,-7.832,1,0.0361,0.0674,0,0.0933,0.247,109.98,4
+452,"4vWeIrIQQrbThS11ogLTmu","Ruelle","War of Hearts",226426,"Up in Flames",5,"2015-01-20",6,0.494,0.713,9,-7.487,0,0.0776,0.0316,0.374,0.0602,0.257,147.959,3
+453,"6W4LdNDT6UOmZGz86Rtnbt","Cassidi","What's My Name",217000,"What's My Name",1,"2021-05-03",1,0.4,0.534,9,-3.419,1,0.0313,0.848,0,0.117,0.434,180.117,4
+454,"40xnNb4VYbAB0CJUVth89G","Smith & Thell","Hotel Walls",206493,"Pixie's Parasol",7,"2021-02-05",10,0.524,0.705,11,-8.248,1,0.048,0.00955,1.49e-06,0.0921,0.287,141.902,4
+455,"5K6Ssv4Z3zRvxt0P6EKUAP","Galantis","Heartbreak Anthem (with David Guetta & Little Mix)",183725,"Heartbreak Anthem (with David Guetta & Little Mix)",1,"2021-05-20",1,0.595,0.784,1,-4.878,1,0.102,0.216,0,0.0608,0.479,124.111,4
+456,"4dPjk0ZHgfeEzDyh2YT6jO","Alan Walker","Sorry",165000,"Sorry (feat. ISÁK)",1,"2021-02-12",3,0.545,0.556,5,-7.047,0,0.0481,0.437,0.0657,0.123,0.172,175.9,4
+457,"4M7cn0WcYCBITtPzjaO3xr","Paperboys","Lonesome Traveller",235480,"The Oslo Agreement",6,"2009-08-31",12,0.635,0.903,7,-4.075,0,0.115,0.181,0,0.339,0.724,127.003,4
+458,"3Iba59sFmGhQ4kbCY5L8AX","Tom Grennan","Little Bit of Love",226268,"Evering Road (Deluxe)",3,"2021-03-12",16,0.689,0.706,1,-4.48,0,0.0312,0.0833,0,0.105,0.623,106.52,4
+459,"1keIwLlHg0VZhoQQiTb0Xi","Shakka","Man Down (feat. AlunaGeorge)",211211,"Man Down (feat. AlunaGeorge)",1,"2018-02-16",1,0.726,0.665,5,-5.611,0,0.0722,0.299,0,0.179,0.807,104.239,4
+460,"6Tio0ZoDeSQnI7EBAqWer2","P!nk","Cover Me In Sunshine",141050,"Cover Me In Sunshine",1,"2021-02-12",1,0.476,0.594,5,-6.879,1,0.135,0.0599,0,0.0785,0.314,159.702,4
+461,"18YdkV1F1N9fiQ8svGg4Hg","Marcus & Martinus","Belinda (with Alex Rose)",186640,"Belinda (with Alex Rose)",1,"2021-06-04",1,0.641,0.666,9,-7.196,1,0.0659,0.129,0,0.0938,0.819,180.096,4
+462,"4lzjmT9jbhGSZwfMMOQDzL","Adriian","Driver Forever - Remix",225999,"Driver Forever (Remix)",1,"2021-07-07",1,0.761,0.408,11,-13.295,0,0.0606,0.284,0.751,0.102,0.263,109.948,4
+463,"2B0JmuzzJ4qh9xmBcc8bKa","Nic D","Mood",128000,"Mood",1,"2019-07-19",1,0.917,0.478,1,-7.285,1,0.0979,0.255,0.000102,0.111,0.458,119.99,4
+464,"0pb6jcU6ncdHhpigpPnm7Y","Adrian Sellevoll","JEG HATER DEG",148142,"JEG HATER DEG",1,"2021-04-23",1,0.892,0.482,0,-7.289,1,0.0613,0.159,0,0.382,0.513,105.022,4
+465,"46W9QGI2bVjitikXmpHFgv","David Guetta","Get Together",162051,"Get Together",1,"2021-05-07",1,0.849,0.669,7,-4.872,1,0.0966,0.0433,3.72e-06,0.0727,0.607,117.024,4
+466,"4TAttqXwjj56xZQVKvlX0K","Elena Tsagrinou","El Diablo",181546,"El Diablo",1,"2021-02-28",1,0.66,0.664,9,-7.78,0,0.134,0.00395,0,0.832,0.621,113.994,4
+467,"3wuvVwA5RaifHz1uqKac8P","Efendi","Mata Hari",160980,"Mata Hari",1,"2021-03-15",1,0.706,0.675,4,-5.756,0,0.0386,0.0128,0.000355,0.263,0.463,99.942,4
+468,"4bMLBGnjAGVFpjAfIkD0UY","Alan Walker","Believers",159077,"Believers",1,"2021-05-14",1,0.649,0.69,8,-5.384,0,0.0296,0.0247,0,0.161,0.593,104.04,4
+469,"0v2boHmWtxMTD2REGN8MbK","Dua Lipa","Levitating (feat. DaBaby)",203064,"Future Nostalgia (The Moonlight Edition)",18,"2021-02-11",19,0.702,0.825,6,-3.787,0,0.0601,0.00883,0,0.0674,0.915,102.977,4
+470,"78q4ESvMkPVJzHAV11LAGE","Tom Grennan","Little Bit of Love",226268,"Little Bit of Love (Acoustic)",2,"2021-01-29",2,0.689,0.706,1,-4.48,0,0.0312,0.0833,0,0.105,0.623,106.52,4
+471,"2UbVnbE5FH6008mAm6Mmgw","OneRepublic","Run",169010,"Run",1,"2021-05-05",1,0.682,0.72,11,-8.173,0,0.0381,0.326,0,0.148,0.673,117.003,4
+472,"0RE4crnT3jRms1xxVlEZx2","Marwa Loud","Bad boy",187844,"Loud",3,"2018-03-09",16,0.796,0.496,9,-8.165,0,0.0388,0.431,5.51e-06,0.0781,0.716,97.988,4
+473,"6KI1ZpZWYAJLvmVhCJz65G","SAYGRACE","You Don't Own Me (feat. G-Eazy)",201493,"FMA",5,"2016-07-01",14,0.332,0.635,7,-5.653,1,0.0898,0.159,2.79e-06,0.0599,0.261,186.249,3
+474,"7tMEUrMaMzE0YptCGfsXzt","SAYGRACE","Boys Ain't Shit (feat. Tate McRae & Audrey Mika)",186409,"Boys Ain't Shit (feat. Tate McRae & Audrey Mika)",1,"2020-04-03",1,0.801,0.637,1,-5.209,0,0.173,0.161,8.27e-05,0.414,0.708,103.022,4
+475,"2YyvWje3cEYyqgYhNUIaBJ","Lennon Stella","La Di Da",209773,"Love, me",4,"2018-11-17",5,0.689,0.679,7,-5.893,1,0.0517,0.195,0.00111,0.224,0.475,149.972,4
+476,"3avYqdwHKEq8beXbeWCKqJ","Katy Perry","Last Friday Night (T.G.I.F.)",230733,"Teenage Dream",2,"2010-01-01",12,0.652,0.812,3,-3.797,0,0.0409,0.00125,3.01e-05,0.667,0.72,126.023,4
+477,"19cL3SOKpwnwoKkII7U3Wh","Sheppard","Geronimo",218227,"Bombs Away",1,"2015-03-10",12,0.705,0.78,7,-6.267,1,0.0805,0.456,0.00152,0.115,0.457,142.028,4
+478,"2x7MyWybabEz6Y6wvHuwGE","Lady Gaga","Just Dance",241933,"The Fame",1,"2008-01-01",15,0.822,0.739,1,-4.541,0,0.0311,0.0264,4.26e-05,0.181,0.745,118.992,4
+479,"45hOioMDJktr86iKDHC8gr","Avril Lavigne","Girlfriend",216600,"The Best Damn Thing (Expanded Edition)",1,"2007-04-17",17,0.56,0.959,7,-2.433,1,0.102,0.000722,0.000221,0.209,0.669,163.983,4
+480,"3CRDbSIZ4r5MsZ0YwxuEkn","Twenty One Pilots","Stressed Out",202333,"Blurryface",2,"2015-05-15",14,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,4
+481,"1LmN9SSHISbtp9LoaR5ZVJ","Maroon 5","Payphone",231386,"Overexposed",2,"2021-06-20",12,0.739,0.756,4,-4.828,1,0.0394,0.0136,0,0.37,0.523,110.028,4
+482,"7gvd8xj4QgPqbQSsn5pV7d","Demi Lovato","Sorry Not Sorry",203760,"Tell Me You Love Me (Deluxe)",1,"2017-09-29",15,0.705,0.64,11,-6.928,0,0.225,0.0237,0,0.262,0.887,144.077,4
+483,"26rdOwwjC2UnweK3xeS58u","Flo Rida","GDFR (feat. Sage the Gemini & Lookas)",190185,"My House",6,"2015-04-07",7,0.657,0.827,5,-4.036,1,0.0734,0.000704,0.00534,0.065,0.69,145.889,4
+484,"3vv9phIu6Y1vX3jcqaGz5Z","The Chainsmokers","Roses",226738,"Roses",1,"2015-06-16",1,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,4
+485,"5WHTFyqSii0lmT9R21abT8","Mabel","Don't Call Me Up",178480,"Ivy To Roses (Mixtape)",1,"2019-01-18",15,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,4
+486,"49lGGqlyEnlRQfc69I8ajk","Gabrielle","5 fine frøkner",216346,"5 fine frøkner",1,"2014-05-23",1,0.778,0.752,5,-5.665,0,0.0449,0.143,1.21e-05,0.0917,0.388,120.015,4
+487,"7jAMsxpMUi7bHtjoQwyogR","Gabrielle","Regn fra blå himmel",262813,"Nattergal - Kap 1",1,"2013-01-01",7,0.574,0.651,0,-5.735,1,0.0325,0.000645,0.00161,0.0728,0.531,153.042,4
+488,"7w87IxuO7BDcJ3YUqCyMTT","Foster The People","Pumped Up Kicks",239600,"Torches",2,"2011-05-23",10,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,4
+489,"5gSN9Lc68IFM54OzhIHzCZ","Braaten & Chrit Leaf","What About Us",188406,"What About Us",1,"2021-01-29",1,0.635,0.816,0,-6.178,1,0.0396,0.146,1.62e-06,0.127,0.185,118.053,4
+490,"04s2aHUJwk9DVfAM3XVhFN","LANDR","Don't Stop the Music",161705,"Don't Stop the Music",1,"2021-01-29",1,0.645,0.609,3,-8.954,0,0.0512,0.0629,0,0.774,0.328,118.017,4
+491,"6zeeWid2sgw4lap2jV61PZ","Khalid","Better",229320,"Suncity",6,"2018-10-18",7,0.596,0.552,0,-10.278,0,0.097,0.0765,0.334,0.104,0.112,97.949,4
+492,"7jXQUrVhEpXdymfFWNDnQW","Joel Corry","BED",178088,"BED",1,"2021-02-26",1,0.663,0.783,6,-4.585,1,0.0393,0.0134,0.00179,0.325,0.622,123.986,4
+493,"27u7t9d7ZQoyjsCROHuZJ3","Clean Bandit","Tick Tock (feat. 24kGoldn)",178373,"Tick Tock (feat. 24kGoldn)",1,"2020-08-21",1,0.779,0.705,0,-3.895,1,0.0344,0.369,7.91e-06,0.124,0.946,101.022,4
+494,"1KbC4sLsSLcLCy8S3zUDhP","Braaten & Chrit Leaf","Seaside",188424,"Seaside",1,"2021-06-11",1,0.669,0.803,3,-5.746,0,0.032,0.253,0.000109,0.158,0.63,120.981,4
+495,"5tf1VVWniHgryyumXyJM7w","Robin Schulz","Sugar (feat. Francesco Yates)",219043,"Sugar",2,"2015-09-25",15,0.636,0.815,5,-5.098,0,0.0581,0.0185,0,0.163,0.636,123.063,4
+496,"0zxp4B7LQvLiPyZShvFJWx","Swizznife","Replace You",167240,"Replace You",1,"2021-02-12",1,0.784,0.73,9,-6.362,1,0.149,0.1,3.03e-06,0.114,0.615,115.976,4
+497,"1SNiXDwSilLujcYdvfqVpT","The Chainsmokers","Call You Mine",217653,"World War Joy...Takeaway",2,"2019-07-24",5,0.591,0.702,7,-5.59,1,0.0289,0.225,0,0.414,0.501,104.003,4
+498,"6oJ6le65B3SEqPwMRNXWjY","Kygo","Higher Love",228267,"Higher Love",1,"2019-06-28",1,0.693,0.678,8,-7.159,1,0.0324,0.0151,5.71e-06,0.101,0.404,103.952,4
+499,"691df0fYjhhszUgQH3FGvP","SAINt JHN","94 Bentley",169405,"Ghetto Lenny's Love Songs",6,"2019-08-23",14,0.706,0.558,7,-5.253,1,0.0525,0.0792,0,0.162,0.212,112.975,4
+500,"4GBSbuHcHr0bd7QrFvFfL1","Aiba","Langsom",159725,"Langsom",1,"2020-10-30",2,0.845,0.544,11,-4.849,0,0.0407,0.496,1.12e-06,0.218,0.513,110.048,4
+501,"2mt1IqcFyY1zmYZT8Q3xw9","blackbear","hot girl bummer",188343,"everything means nothing",1,"2020-08-21",12,0.782,0.559,6,-7.106,0,0.0767,0.125,0,0.385,0.685,129.992,1
+502,"4aaEROAXVunrYjS556YxAn","2smokeyy","Corn",201398,"Corn",1,"2021-01-24",1,0.818,0.43,5,-8.516,0,0.386,0.163,0,0.572,0.862,143.064,4
+503,"7cgu4JBW3hq1GwTM1ilkKQ","Tove Lo","Talking Body",238426,"Queen Of The Clouds",4,"2014-09-24",18,0.736,0.761,4,-5.449,0,0.0338,0.0966,0,0.0823,0.114,119.999,4
+504,"0jdny0dhgjUwoIp5GkqEaA","Kesha","Praying",230266,"Rainbow",5,"2017-08-11",14,0.543,0.39,10,-7.202,1,0.0322,0.489,0,0.111,0.303,73.415,4
+505,"3Wrjm47oTz2sjIgck11l5e","Måneskin","Beggin'",211560,"Chosen",4,"2017-12-08",7,0.714,0.8,11,-4.808,0,0.0504,0.127,0,0.359,0.589,134.002,4
+506,"4JQSMg83F8qYwSBt5xOXsQ","Rihanna","Diamonds",225146,"Unapologetic (Deluxe)",2,"2012-12-10",17,0.564,0.71,11,-4.92,0,0.0461,0.00125,0,0.109,0.393,91.972,4
+507,"4jPy3l0RUwlUI9T5XHBW2m","24kGoldn","Mood (feat. iann dior)",140533,"El Dorado",13,"2021-03-26",13,0.701,0.716,7,-3.671,0,0.0361,0.174,0,0.324,0.732,91.007,4
+508,"1m0UFnuTktOkksvjbF9z0m","Vegedream","Ramenez la coupe à la maison",235555,"Marchand de sable",15,"2018-07-20",15,0.808,0.661,0,-6.237,0,0.0395,0.0358,0,0.138,0.804,107.992,4
+509,"6MreoQf8oixWI2xRcw3Fv1","Lil Wayne","Mirror",228093,"Tha Carter IV (Deluxe)",17,"2011-01-01",18,0.328,0.622,5,-7.291,0,0.0866,0.858,0,0.104,0.401,74.267,4
+510,"4Mn7drEA6tGUvWsdcpBIlY","Rasheeda","We Ready",248267,"A Ghetto Dream",3,"2002",17,0.782,0.577,6,-6.054,0,0.14,0.0566,0,0.0546,0.82,150.046,4
+511,"70ATm56tH7OrQ1zurYssz0","Dr. Dre","I Need A Doctor",283733,"I Need A Doctor",1,"2011-02-01",1,0.594,0.946,3,-4.521,1,0.452,0.0869,0,0.306,0.397,155.826,4
+512,"1Ompa5IZ50OseA9MNblugl","Ylva","Urettferdig",239852,"Urettferdig",1,"2017-09-08",1,0.552,0.271,7,-8.903,0,0.0869,0.923,0,0.211,0.339,104.987,4
+513,"5L79aNYCTKiZq7vaOElXYj","Phillip Phillips","Gone, Gone, Gone",209693,"The World From The Side Of The Moon (Deluxe)",3,"2013-01-01",18,0.664,0.642,6,-5.961,1,0.038,0.129,0,0.114,0.501,118.002,4
+514,"052vSBPxqdmYRDlkSPiavc","Melanie Martinez","Cry Baby",239080,"Cry Baby (Deluxe Edition)",1,"2015-08-14",16,0.686,0.691,5,-4.616,0,0.0371,0.257,0,0.145,0.477,95.046,4
+515,"4laAKIq9ZxBCwf99rauPYb","Becky Hill","Remember",160766,"Remember",1,"2021-06-18",1,0.612,0.862,8,-2.903,1,0.037,0.041,0,0.0907,0.354,123.849,4
+516,"0awuNCj9gwJEM0seER22DW","Clinton Kane","CHICKEN TENDIES",196844,"CHICKEN TENDIES",1,"2021-02-19",3,0.57,0.689,7,-6.242,1,0.147,0.358,0,0.0819,0.568,100.087,4
+517,"27NV2KxoQ8WuLMqlTDI61F","The Weeknd","Often - Kygo Remix",234400,"Often (Kygo Remix)",1,"2015-04-07",1,0.523,0.491,7,-9.876,0,0.0491,0.123,0,0.331,0.408,80.156,4
+518,"5TdbSCRdrZDC8yK19l7fou","Justus Bennetts","Insomniac",130979,"Insomniac",1,"2021-08-03",1,0.713,0.871,1,-4.022,1,0.174,0.112,0,0.151,0.895,76.492,4
+519,"42qyIv3pi1QzNj8zUB8oyT","Justus Bennetts","Replace You",138053,"Replace You",1,"2021-03-02",1,0.718,0.769,8,-4.019,0,0.0758,0.334,0,0.218,0.864,113.035,4
+520,"5InWRmnfgjVwQWoXHNBATu","Cher Lloyd","Want U Back",214013,"Sticks & Stones",2,"2011-11-07",10,0.696,0.893,9,-2.963,1,0.076,0.0662,0,0.473,0.573,97.954,4
+521,"04k0QThdHEp7kg3FpXVh0Q","El Papi","Sju Fjell",178171,"Sju Fjell",1,"2021-02-12",1,0.782,0.647,1,-4.05,1,0.0729,0.358,0,0.252,0.378,124.013,4
+522,"7iDa6hUg2VgEL1o1HjmfBn","Bebe Rexha","Meant to Be (feat. Florida Georgia Line)",163870,"All Your Fault: Pt. 2",6,"2017-08-11",6,0.643,0.783,10,-6.458,1,0.0856,0.047,0,0.083,0.579,154.084,4
+523,"5JCi3pyggvk4B0yd0BK3ow","Tove Lo","Stay High - Habits Remix",258386,"Queen Of The Clouds",17,"2014-09-24",18,0.736,0.677,4,-7.036,0,0.0352,0.00114,0.844,0.0949,0.0747,121.01,4
+524,"6zDs6zI94L761vd0cVScTT","American Authors","I'm Born To Run",206920,"What We Live For",2,"2016-07-01",12,0.62,0.93,8,-5.615,1,0.0486,0.0662,0,0.0788,0.675,126.041,4
+525,"19uho7noXqrSJk5d0MxPHy","LZ7","Two Left Feet",175666,"Home",10,"2016-05-27",13,0.574,0.797,7,-5.792,0,0.0766,0.00116,0,0.644,0.599,127.988,4
+526,"6cREm4bV7V79Yxdilx9HDo","Timeflies","Once In a While",215160,"Once In a While",1,"2016-03-18",1,0.786,0.687,0,-5.914,1,0.141,0.00758,0,0.619,0.345,105.021,4
+527,"1eq1wUnLVLg4pdEfx9kajC","Adele","Rolling in the Deep",228093,"21",1,"2011-01-19",11,0.73,0.77,8,-5.114,1,0.0298,0.138,0,0.0473,0.507,104.948,4
+528,"3GCL1PydwsLodcpv0Ll1ch","Taylor Swift","You Belong With Me",231133,"Fearless",6,"2008-11-11",13,0.687,0.783,6,-4.44,1,0.0386,0.162,1.35e-05,0.114,0.443,129.964,4
+529,"60c0p6GGnuwdKcQnmuM2zC","Hannah Montana","I'll Always Remember You",233333,"Hannah Montana Forever",5,"2010-01-01",11,0.418,0.721,8,-2.736,1,0.0383,0.0486,0,0.0984,0.233,144.063,4
+530,"27jdUE1EYDSXZqhjuNxLem","Coldplay","Magic",285014,"Magic",1,"2014-03-03",1,0.738,0.482,6,-8.917,0,0.0402,0.0266,0.621,0.106,0.352,93.457,4
+531,"2BszaBoypJVW9PodUnsqih","Elias","Revolution",260813,"Warcry",6,"2015-11-06",6,0.299,0.495,4,-7.486,0,0.04,0.00546,1.06e-05,0.354,0.172,65.357,4
+532,"6CDzDgIUqeDY5g8ujExx2f","Glass Animals","Heat Waves",238805,"Heat Waves",1,"2020-06-29",1,0.761,0.525,11,-6.9,1,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4
+533,"5hUYsaOyMY32yjRXeuQwGj","Lil Wayne","Mirror",228093,"Tha Carter IV (Complete Edition)",17,"2011-08-29",21,0.328,0.622,5,-7.291,0,0.0866,0.858,0,0.104,0.401,74.267,4
+534,"4b4c0oH7PtrPsI86drzgFs","The Wanted","Chasing The Sun",198800,"The Wanted (Special Edition)",2,"2012-01-01",10,0.637,0.732,7,-6.209,0,0.0965,0.244,0,0.498,0.68,128.108,4
+535,"7xkQdy0cy5ymoWT7nedvLz","Jason Derulo","Whatcha Say",221253,"Jason Derulo (International)",1,"2010-02-26",10,0.615,0.711,11,-5.507,1,0.0779,0.0444,0,0.145,0.711,144.036,4
+536,"4HlFJV71xXKIGcU3kRyttv","Train","Hey, Soul Sister",216773,"Save Me, San Francisco (Golden Gate Edition)",2,"2010-12-01",19,0.673,0.886,1,-4.44,0,0.0431,0.185,0,0.0826,0.795,97.012,4
+537,"1MFD6gdVDjFFMM8ItH9ZhI","Macklemore & Ryan Lewis","White Walls (feat. ScHoolboy Q & Hollis)",220319,"The Heist (Deluxe Edition)",9,"2012-10-09",18,0.768,0.782,7,-5.545,1,0.141,0.0545,0,0.338,0.842,116.492,4
+538,"2V4bv1fNWfTcyRJKmej6Sj","Mike Posner","Cooler Than Me - Single Mix",213293,"31 Minutes to Takeoff",4,"2010-08-09",12,0.768,0.82,7,-4.63,0,0.0474,0.179,0,0.689,0.625,129.965,4
+539,"28GUjBGqZVcAV4PHSYzkj2","B.o.B","So Good",213253,"Strange Clouds",6,"2012-04-27",15,0.66,0.9,7,-5.02,1,0.14,0.0403,0,0.219,0.591,85.51,4
+540,"0HPD5WQqrq7wPWR7P7Dw1i","Kesha","TiK ToK",199693,"Animal (Expanded Edition)",2,"2010-01-01",18,0.755,0.837,2,-2.718,0,0.142,0.0991,0,0.289,0.714,120.028,4
+541,"0Dc7J9VPV4eOInoxUiZrsL","Jeremih","Don't Tell 'Em",266840,"Late Nights: The Album",12,"2015-12-04",15,0.856,0.527,2,-5.225,1,0.0997,0.392,0,0.11,0.386,98.052,4
+542,"0hP4gyXuCEA0253P8LnXfw","Timeflies","Monsters",225293,"After Hours (Deluxe)",8,"2014-01-01",14,0.612,0.765,1,-3.909,1,0.0984,0.0195,0,0.039,0.534,88.262,4
+543,"6j7hih15xG2cdYwIJnQXsq","Gavin DeGraw","Not Over You",218520,"Sweeter",2,"2011-09-16",10,0.63,0.894,10,-4.592,1,0.0544,0.255,0,0.181,0.364,142.051,4
+544,"0yQw3d0iQDjMrxaVHFv77J","B.o.B","Strange Clouds (feat. Lil Wayne)",226293,"Strange Clouds",5,"2012-04-27",15,0.531,0.665,8,-6.672,0,0.286,0.0607,0,0.131,0.8,73.726,4
+545,"7a86XRg84qjasly9f6bPSD","fun.","We Are Young (feat. Janelle Monáe)",250626,"Some Nights",3,"2012-02-21",12,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086,4
+546,"0CokSRCu5hZgPxcZBaEzVE","Macklemore","Glorious (feat. Skylar Grey)",220454,"GEMINI",2,"2017-09-22",16,0.731,0.794,0,-5.126,0,0.0522,0.0323,2.59e-05,0.112,0.356,139.994,4
+547,"3jlbL2OTD5YmIunYzgQTAN","T.I.","Live Your Life",338853,"Paper Trail",5,"2008-09-07",16,0.375,0.862,11,-3.363,0,0.255,0.071,0,0.211,0.478,159.841,4
+548,"77ZdAoTHYoF6Umo76HFD4m","Gym Class Heroes","The Fighter (feat. Ryan Tedder)",228533,"The Papercut Chronicles II",10,"2011-11-11",11,0.592,0.926,7,-3.469,1,0.126,0.0775,0,0.187,0.432,99.018,4
+549,"16Ewo7JVhuAUdEKozIQEgT","Jason Derulo","The Other Side",226986,"Tattoos (Deluxe Edition)",1,"2013-09-10",15,0.561,0.836,9,-3.939,1,0.1,0.0525,0,0.136,0.517,127.923,4
+550,"2qPUnoasNe4Ep43emVXEig","Travie McCoy","Billionaire (feat. Bruno Mars)",211160,"Lazarus",3,"2010-06-07",10,0.633,0.673,6,-6.403,0,0.258,0.297,0,0.206,0.659,86.776,4
+551,"1PSBzsahR2AKwLJgx8ehBj","Machine Gun Kelly","Bad Things (with Camila Cabello)",239293,"bloom",10,"2017-05-12",13,0.697,0.691,2,-4.757,1,0.146,0.214,0,0.185,0.305,137.853,4
+552,"5sNESr6pQfIhL3krM8CtZn","JAY-Z","Numb / Encore",205733,"Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",1,"2004-11-30",6,0.687,0.793,2,-4.254,1,0.166,0.0603,0,0.582,0.751,107.045,4
+553,"3ZdJffjzJWFimSQyxgGIxN","Nelly","Just A Dream",237800,"5.0",4,"2010-11-12",12,0.531,0.752,1,-6.161,1,0.0305,0.0421,0,0.12,0.103,89.917,4
+554,"5XY2LEP0uEeUuDMVNdNTI8","MKTO","Goodbye Song",231933,"MKTO",11,"2012",11,0.717,0.857,0,-5.222,1,0.0808,0.0526,0,0.0582,0.739,99.019,4
+555,"0WCiI0ddWiu5F2kSHgfw5S","Kesha","Take It Off",215200,"Animal (Expanded Edition)",3,"2010-01-01",18,0.729,0.675,5,-5.292,0,0.0286,4.14e-05,0.00126,0.0867,0.74,125.036,4
+556,"2HzfRSfCogBSsgW2CckVA2","Luke Christopher","Lot to Learn",248386,"TMRWFRVR",15,"2017-07-28",15,0.422,0.852,6,-3.546,1,0.208,0.0845,0,0.0687,0.666,82.914,4
+557,"4vVTI94F9uJ8lHNDWKv0i2","Sean Kingston","Eenie Meenie",201946,"Eenie Meenie",1,"2010-03-23",1,0.72,0.607,1,-4.168,1,0.0322,0.0543,0,0.113,0.828,121.223,4
+558,"4RCWB3V8V0dignt99LZ8vH","Plain White T's","Hey There Delilah",232533,"All That We Needed",13,"2005-01-01",13,0.656,0.291,2,-10.572,1,0.0293,0.872,0,0.114,0.298,103.971,4
+559,"6XS8t28Zl7a9LiZacsRdNK","The Wanted","We Own The Night",206161,"Word Of Mouth (Deluxe)",1,"2013-01-01",19,0.547,0.939,11,-4.052,1,0.131,0.00591,0,0.227,0.557,103.933,4
+560,"4650WGL6InVqP7YN5POqIz","LMFAO","Party Rock Anthem",262146,"Sorry For Party Rocking",3,"2010-12-01",16,0.751,0.736,5,-4.168,0,0.156,0.0206,0,0.265,0.352,130.014,4
+561,"5FeuH4LtGxDWkSkhRG47QT","Cobra Starship","You Make Me Feel... (feat. Sabi)",215693,"You Make Me Feel... (feat. Sabi)",1,"2011-05-10",1,0.668,0.857,7,-2.944,0,0.0535,0.0191,6.71e-06,0.0385,0.748,131.959,4
+562,"4356Typ82hUiFAynbLYbPn","Usher","DJ Got Us Fallin' In Love (feat. Pitbull)",220800,"Raymond v Raymond (Expanded Edition)",16,"2010-03-30",22,0.663,0.861,7,-3.398,0,0.109,0.0338,0,0.082,0.654,119.963,4
+563,"04aAxqtGp5pv12UXAg4pkq","Fall Out Boy","Centuries",228360,"American Beauty/American Psycho",3,"2015-01-20",11,0.393,0.858,4,-2.868,0,0.0729,0.00359,0,0.102,0.56,176.042,4
+564,"4vIKzWqtn44umal5jXq4wE","Ed Sheeran","1000 Nights (feat. Meek Mill & A Boogie Wit da Hoodie)",212306,"No.6 Collaborations Project",13,"2019-07-12",15,0.778,0.589,8,-5.548,1,0.269,0.467,0,0.0902,0.513,98.001,4
+565,"7hdw5gAGMyyn9z0XgfTv1j","NF","NO NAME",183826,"NO NAME",1,"2018-01-19",1,0.718,0.795,0,-3.978,0,0.142,0.223,0,0.12,0.292,130.77,4
+566,"7fa9MBXhVfQ8P8Df9OEbD8","Maroon 5","Girls Like You (feat. Cardi B) - Cardi B Version",235545,"Red Pill Blues (Deluxe)",22,"2018-06-15",22,0.851,0.541,0,-6.825,1,0.0505,0.568,0,0.13,0.448,124.959,4
+567,"6r3baE6njwU4aoJq6zPukG","Lukas Graham","Love Someone",205463,"Love Someone",1,"2018-09-07",1,0.661,0.412,0,-6.585,1,0.0409,0.173,0,0.113,0.299,85.932,4
+568,"0P2HAFu7RnkfPnkimNi7I5","Nico & Vinz","When the Day Comes",227318,"Black Star Elephant",19,"2014",21,0.706,0.653,5,-6.39,1,0.055,0.287,0,0.0843,0.32,120.018,4
+569,"5YmmqeU1a7KsNzvbj4aCGS","Bugzy Malone","Ordinary People (feat. JP Cooper)",270266,"B. Inspired",3,"2018-08-17",14,0.474,0.8,11,-6.641,0,0.268,0.239,0,0.0906,0.409,143.25,4
+570,"1ts8KebAIm5xCiGInoWiqp","Nic D","Fine Apple",153296,"Fine Apple",1,"2021-05-28",1,0.925,0.558,2,-5.362,1,0.0513,0.178,0,0.125,0.467,119.992,4
+571,"45eY7Qi2PDUs8WJEhjGWdN","Vegedream","Ramenez la coupe à la maison",235555,"Ramenez la coupe à la maison",1,"2018-07-19",1,0.808,0.661,0,-6.237,0,0.0395,0.0358,0,0.138,0.804,107.992,4
+572,"53sTK6KBrvsuqKT9qNpS5d","Mooski","Track Star (Remix 2.0)(feat. Chris Brown, A Boogie wit da Hoodie & Yung Bleu)",221054,"Track Star (Remix 2.0)(feat. Chris Brown, A Boogie wit da Hoodie & Yung Bleu)",1,"2021-05-18",1,0.551,0.438,7,-10.297,0,0.187,0.243,0,0.0972,0.248,130.814,5
+573,"1V6gIisPpYqgFeWbMLI0bA","Demi Lovato","Heart Attack",210840,"Demi",1,"2013-01-01",13,0.504,0.785,8,-4.802,1,0.104,0.0738,0,0.239,0.502,173.968,4
+574,"0BgRaFy7qnwT1PuUmSTFkf","Gym Class Heroes","Stereo Hearts (feat. Adam Levine)",210960,"Stereo Hearts (feat. Adam Levine)",1,"2011-06-14",1,0.646,0.795,9,-3.293,1,0.0976,0.0319,0,0.267,0.796,89.99,4
+575,"6Iocm6VMu6bVNYwiDoyQFW","Diddy - Dirty Money","Coming Home",238693,"Last Train To Paris",15,"2010-01-01",16,0.392,0.839,7,-1.921,1,0.193,0.158,0,0.3,0.232,168.001,4
+576,"2JzZzZUQj3Qff7wapcbKjc","Wiz Khalifa","See You Again (feat. Charlie Puth)",229525,"See You Again (feat. Charlie Puth)",1,"2015",1,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,4
+577,"3bidbhpOYeV4knp8AIu8Xn","Macklemore & Ryan Lewis","Can't Hold Us (feat. Ray Dalton)",258342,"The Heist",2,"2012-10-09",15,0.641,0.922,2,-4.457,1,0.0786,0.0291,0,0.0862,0.847,146.078,4
+578,"0prNGof3XqfTvNDxHonvdK","Alessia Cara","Scars To Your Beautiful",230226,"Know-It-All (Deluxe)",10,"2015-11-13",13,0.573,0.739,0,-5.74,1,0.129,0.0285,0,0.111,0.451,97.085,4
+579,"4z7gh3aIZV9arbL9jJSc5J","Ella Henderson","Ghost",213213,"Chapter One",1,"2015-01-13",11,0.68,0.84,9,-3.823,1,0.0414,0.0457,8.66e-06,0.143,0.468,104.975,4
+580,"1ymsN94JMOSZncP5WETfSh","TELYKast","Unbreakable (with Sam Gray)",183090,"Unbreakable (with Sam Gray)",1,"2021-09-10",1,0.717,0.796,9,-5.474,0,0.0599,0.345,0,0.0737,0.379,123.996,4
+581,"1A6gT680oQr98VtDkNzys7","Mimi Webb","24/5",158220,"24/5",1,"2021-09-10",1,0.559,0.763,0,-4.16,1,0.105,0.403,0,0.127,0.349,91.069,4
+582,"3Vi5XqYrmQgOYBajMWSvCi","Doja Cat","Need to Know",210560,"Planet Her",5,"2021-06-25",14,0.664,0.609,1,-6.509,1,0.0707,0.304,0,0.0926,0.194,130.041,4
+583,"6tQ4Q6FmUxHLiNArarknFi","Asme","Färger",140480,"Tusen Flows (Deluxe)",17,"2021-05-28",25,0.843,0.538,10,-7.247,0,0.0534,0.483,0,0.127,0.921,119.109,4
+584,"3OaunNUlXXs5e2PXtNAzzG","RL Grime","UCLA",192000,"NOVA",13,"2018-07-27",15,0.536,0.879,1,-3.019,1,0.0621,0.0742,0,0.0847,0.334,140.137,4
+585,"4Li2WHPkuyCdtmokzW2007","JAY-Z","Ni**as In Paris",219333,"Watch The Throne (Deluxe)",3,"2011-08-08",16,0.789,0.858,1,-5.542,1,0.311,0.127,0,0.349,0.775,140.022,4
+586,"2MZrOmrVxRmmOoFW6dhenG","NF","LOST",234852,"LOST",1,"2021-03-11",1,0.637,0.912,5,-3.123,1,0.308,0.352,0,0.0657,0.451,116.919,4
+587,"0mHGftgYtmpH4y17T3VZ2E","blackbear","@ my worst",191364,"@ my worst",1,"2021-08-06",1,0.615,0.774,4,-5.152,0,0.0551,0.0173,0,0.15,0.336,136.887,4
+588,"1SOClUWhOi8vHZYMz3GluK","Jaymes Young","Infinity",237720,"Feel Something",12,"2017-06-23",12,0.671,0.673,11,-6.941,0,0.0444,0.148,5.29e-05,0.304,0.494,121.963,4
+589,"4mnjwMLCk3JZkhkok3u5g1","Dream","Change My Clothes",186358,"Change My Clothes",1,"2021-08-20",1,0.597,0.595,9,-7.328,1,0.226,0.563,2.06e-06,0.291,0.592,169.81,4
+590,"6KVFBsfbnaFFa43i4k0cce","Zach Hood","13 Missed Calls",209538,"13 Missed Calls",1,"2021-04-23",1,0.639,0.724,7,-6.346,1,0.0664,0.452,0,0.159,0.522,129.712,3
+591,"4Kh6cq3XgOGUK9yXQu7RTq","Royal & the Serpent","overwhelmed - Chri$tian Gate$ remix",134482,"overwhelmed (the remixes)",1,"2021-02-05",3,0.619,0.502,0,-8.097,0,0.249,0.178,0,0.155,0.38,174.196,4
+592,"3SErMoIKdRELto2OspGs5L","blackbear","idfc",207026,"dead",2,"2015-06-02",5,0.718,0.422,4,-9.115,0,0.0621,0.0764,0,0.17,0.455,144.678,4
+593,"2jQiSYrwJehQAcuaaQrXnS","Chase Atlantic","Friends",230010,"Nostalgia",5,"2015-02-21",5,0.422,0.609,11,-6.361,0,0.0335,0.0114,4.76e-06,0.108,0.0911,107.34,3
+594,"2Wc2tcQl7cPetPKeXH3GD3","Zella Day","East of Eden",186213,"Kicker",5,"2015-01-01",12,0.598,0.803,1,-3.203,0,0.0349,0.0355,9.66e-05,0.107,0.567,122.889,4
+595,"0xUvi7wldroBzaZCengPa5","Money Man","24 (feat. Lil Baby)",182857,"Epidemic (Deluxe)",13,"2020-08-21",20,0.868,0.638,2,-7.746,1,0.0736,0.146,0.0565,0.0931,0.459,126.03,4
+596,"6fhG2KJgwO7CrNflRaRmvp","Ruth B.","Dandelions - slowed + reverb",268717,"Dandelions (slowed + reverb)",1,"2021-08-27",2,0.573,0.715,8,-3.293,0,0.0256,0.0444,0,0.0898,0.258,101.699,3
+597,"23wfXwnsPZYe5A1xXRHb3J","Eminem","The Way I Am",290426,"The Marshall Mathers LP",7,"2000-05-23",18,0.785,0.871,4,-2.692,0,0.265,0.144,0,0.309,0.315,87.248,4
+598,"2uCMaUojwuqr8CRGsLoPa6","Sam Smith","Make It To Me",162732,"In The Lonely Hour (Drowning Shadows Edition)",14,"2015-11-06",23,0.456,0.379,1,-8.573,1,0.0685,0.63,3.1e-06,0.0983,0.225,149.967,4
+599,"0BUFqsMsqAmKQPhLBXnmv7","Eminem","She Loves Me",204521,"Music To Be Murdered By - Side B (Deluxe Edition)",12,"2020-12-18",36,0.617,0.874,4,-3.276,1,0.32,0.0109,0,0.083,0.566,81.026,4
