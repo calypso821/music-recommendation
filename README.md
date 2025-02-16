@@ -41,17 +41,17 @@ Used Spotify's API through the Spotipy library to collect:
 
 <img src="resources/genre/num_tracks.png" width="400"/>
 
-<img src="resources/genre/duration_outliers.png" width="800"/>
+<img src="resources/genre/duration_outliers.png" width="600"/>
 <img src="resources/genre/outliers_minMax.png" width="500"/>
 <img src="resources/genre/outliersRemoved_minMax.png" width="500"/>
 
 #### Feature Analysis
 
-<img src="resources/genre/audioF_14.png" width="900"/>
-<img src="resources/genre/audioF_58.png" width="900"/>
-<img src="resources/genre/audioF_912.png" width="900"/>
+<img src="resources/genre/audioF_14.png" width="850"/>
+<img src="resources/genre/audioF_58.png" width="850"/>
+<img src="resources/genre/audioF_912.png" width="850"/>
 
-<img src="resources/genre/audioF_boxplot_16.png" width="900"/>
+<img src="resources/genre/audioF_boxplot_16.png" width="850"/>
 
 Key findings from audio feature analysis:
 - Rap shows significantly higher speechiness
@@ -60,14 +60,14 @@ Key findings from audio feature analysis:
 - Instrumentalness and acousticness are dominant in Classical
 - Rock shows higher liveness scores
 
-<img src="resources/genre/audioF_boxplot_712.png" width="900"/>
+<img src="resources/genre/audioF_boxplot_712.png" width="850"/>
 
 - Classical tends toward more somber valence, while Latin shows higher positive valence
 - Classical has lower loudness and more varied duration
 - EDM shows the most consistent tempo patterns
 - Key and mode showed no significant patterns for genre classification
 
-<img src="resources/genre/audio_features_correlation.png" width="900"/>
+<img src="resources/genre/audio_features_correlation.png" width="600"/>
 
 Notable correlation: Energy and loudness show strong positive correlation
 
@@ -81,7 +81,7 @@ Notable correlation: Energy and loudness show strong positive correlation
 
 Baseline accuracy threshold: 17% (random chance with 6 genres)
 
-<img src="resources/genre/matrix_4.png" width="900"/>
+<img src="resources/genre/matrix_4.png" width="850"/>
 <img src="resources/genre/classifiersAccuracy.png" width="500"/>
 
 #### Results
@@ -145,7 +145,7 @@ Final implementation:
 Results by genre:
 
 Classical:
-<img src="resources/knn/reccomended_songs_klasika.png" width="900"/>
+<img src="resources/knn/reccomended_songs_klasika.png" width="850"/>
 
 Rap:
 <img src="resources/knn/reccomended_songs_rap.png" width="700"/>
