@@ -67,7 +67,7 @@ Key findings from audio feature analysis:
 - EDM shows the most consistent tempo patterns
 - Key and mode showed no significant patterns for genre classification
 
-<img src="resources/genre/audio_features_correlation.png" width="600"/>
+<img src="resources/genre/audio_features_correlation.png" width="720"/>
 
 Notable correlation: Energy and loudness show strong positive correlation
 
