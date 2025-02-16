@@ -39,19 +39,19 @@ Used Spotify's API through the Spotipy library to collect:
 - 10 songs per album (120,000 total)
 - After removing duplicates: 83,698 unique tracks
 
-<img src="resources/Genre/num_tracks.png" width="400"/>
+<img src="resources/genre/num_tracks.png" width="400"/>
 
-<img src="resources/Genre/duration_outliers.png" width="800"/>
-<img src="resources/Genre/outliers_minMax.png" width="500"/>
-<img src="resources/Genre/outliersRemoved_minMax.png" width="500"/>
+<img src="resources/genre/duration_outliers.png" width="800"/>
+<img src="resources/genre/outliers_minMax.png" width="500"/>
+<img src="resources/genre/outliersRemoved_minMax.png" width="500"/>
 
 #### Feature Analysis
 
-<img src="resources/Genre/audioF_14.png" width="900"/>
-<img src="resources/Genre/audioF_58.png" width="900"/>
-<img src="resources/Genre/audioF_912.png" width="900"/>
+<img src="resources/genre/audioF_14.png" width="900"/>
+<img src="resources/genre/audioF_58.png" width="900"/>
+<img src="resources/genre/audioF_912.png" width="900"/>
 
-<img src="resources/Genre/audioF_boxplot_16.png" width="900"/>
+<img src="resources/genre/audioF_boxplot_16.png" width="900"/>
 
 Key findings from audio feature analysis:
 - Rap shows significantly higher speechiness
@@ -60,14 +60,14 @@ Key findings from audio feature analysis:
 - Instrumentalness and acousticness are dominant in Classical
 - Rock shows higher liveness scores
 
-<img src="resources/Genre/audioF_boxplot_712.png" width="900"/>
+<img src="resources/genre/audioF_boxplot_712.png" width="900"/>
 
 - Classical tends toward more somber valence, while Latin shows higher positive valence
 - Classical has lower loudness and more varied duration
 - EDM shows the most consistent tempo patterns
 - Key and mode showed no significant patterns for genre classification
 
-<img src="resources/Genre/audio_features_correlation.png" width="900"/>
+<img src="resources/genre/audio_features_correlation.png" width="900"/>
 
 Notable correlation: Energy and loudness show strong positive correlation
 
@@ -81,8 +81,8 @@ Notable correlation: Energy and loudness show strong positive correlation
 
 Baseline accuracy threshold: 17% (random chance with 6 genres)
 
-<img src="resources/Genre/matrix_4.png" width="900"/>
-<img src="resources/Genre/classifiersAccuracy.png" width="500"/>
+<img src="resources/genre/matrix_4.png" width="900"/>
+<img src="resources/genre/classifiersAccuracy.png" width="500"/>
 
 #### Results
 Classification accuracy by genre:
@@ -112,15 +112,15 @@ Analyzed 24 playlists across genres:
 - Latin (4 playlists)
 - Pop (4 playlists)
 
-<img src="resources/Vector/playlist_vector.png" width="700"/>
+<img src="resources/vector/playlist_vector.png" width="700"/>
 
 Methodology:
 1. Created feature vectors using mean/sum of track attributes
 2. Added genre distribution vectors
 3. Calculated similarity using cosine similarity
 
-<img src="resources/Vector/delez_zanrov.png" width="700"/>
-<img src="resources/Vector/podobnost_playlistov_vector.png" width="300"/>
+<img src="resources/vector/delez_zanrov.png" width="700"/>
+<img src="resources/vector/podobnost_playlistov_vector.png" width="300"/>
 
 ### 2.2 KNN-Based Song Recommendations
 
@@ -129,11 +129,11 @@ Process:
 2. Find 100 nearest neighbors for each song
 3. Calculate playlist distribution of neighbors
 
-<img src="resources/KNN/knn_10pesmi.png" width="700"/>
+<img src="resources/knn/knn_10pesmi.png" width="700"/>
 
 Results showed strong genre clustering, particularly for Classical and Rap genres.
 
-<img src="resources/KNN/delez_sosedov1.png" width="400"/>
+<img src="resources/knn/delez_sosedov1.png" width="400"/>
 
 ### 2.3 Playlist Recommendation System
 
@@ -145,13 +145,13 @@ Final implementation:
 Results by genre:
 
 Classical:
-<img src="resources/KNN/reccomended_songs_klasika.png" width="900"/>
+<img src="resources/knn/reccomended_songs_klasika.png" width="900"/>
 
 Rap:
-<img src="resources/KNN/reccomended_songs_rap.png" width="700"/>
+<img src="resources/knn/reccomended_songs_rap.png" width="700"/>
 
 Latin:
-<img src="resources/KNN/reccomended_songs_latino.png" width="600"/>
+<img src="resources/knn/reccomended_songs_latino.png" width="600"/>
 
 Key Findings:
 - System shows strong performance in maintaining genre consistency
